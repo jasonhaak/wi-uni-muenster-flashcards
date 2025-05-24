@@ -9,9 +9,9 @@ Note: All flashcards are written in German. Specific terms may appear in English
 3. [How to Use](#how-to-use)
 4. [Important Notice on Maintenance](#important-notice-on-maintenance)
 5. [Contact & Support](#contact--support)
-6. [Flashcards for the Master in Information Systems](#flashcards-for-the-master-in-information-systems)
+6. [Master in Information Systems](#flashcards-for-the-master-in-information-systems)
 7. [Donations](#donations)
-8. [How to Contribute Corrections or Improvements](#how-to-contribute)
+8. [How to Contribute](#how-to-contribute)
 
 ## Purpose of This Repository
 This repository provides a comprehensive set of Anki flashcards that include:
@@ -43,7 +43,7 @@ If you spot errors or have improvements, please feel free to submit corrections 
 ## Contact & Support
 For questions, suggestions, or corrections: Open an [issue](https://github.com/jasonhaak/wi-uni-muenster-flashcards/issues) or submit a Pull Request.
 
-## Flashcards for the Master in Information Systems
+## Master in Information Systems
 A separate Anki deck collection for the **Master in Information Systems** at the University of Münster is also available: [IS-Flashcards](https://github.com/jasonhaak/is-uni-muenster-flashcards)
 
 ## Donations
