@@ -9,9 +9,10 @@ Note: All flashcards are written in German. Specific terms may appear in English
 3. [How to Use](#how-to-use)
 4. [Important Notice on Maintenance](#important-notice-on-maintenance)
 5. [Contact & Support](#contact--support)
-6. [Master in Information Systems](#flashcards-for-the-master-in-information-systems)
+6. [Master in Information Systems](#master-in-information-systems)
 7. [Donations](#donations)
 8. [How to Contribute](#how-to-contribute)
+9. [Author & Licence](#author--licence)
 
 ## Purpose of This Repository
 This repository provides a comprehensive set of Anki flashcards that include:
@@ -81,5 +82,5 @@ If you want to contribute flashcards, corrections or improvements, please follow
 - Use CrowdAnki JSON export as the primary source tracked in Git
 - Track only text-based or JSON files and media assets for clear version history and easy review
 
----
-**Good luck with your studies! 🎓**
+## Author & Licence
+This flashcards were written by Jason Haak and are licensed under the Creative Commons Attribution-NonCommercial 4.0 International.
