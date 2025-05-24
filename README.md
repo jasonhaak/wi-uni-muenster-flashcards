@@ -1,14 +1,17 @@
 # Anki Flashcards – Wirtschaftsinformatik Bachelor @ University of Münster
 Welcome to this repository containing Anki flashcards for the Bachelor in Wirtschaftsinformatik at the University of Münster.
 
+Note: All flashcards are written in German. Specific terms may appear in English, but explanations, definitions and context are provided in German.
+
 ## Table of Contents
 1. [Purpose of This Repository](#purpose-of-this-repository)
 2. [Included Modules](#included-modules)
 3. [How to Use](#how-to-use)
 4. [Important Notice on Maintenance](#important-notice-on-maintenance)
 5. [Contact & Support](#contact--support)
-6. [Support This Project](#support-this-project)
-7. [How to Contribute Corrections or Improvements](#how-to-contribute)
+6. [Flashcards for the Master in Information Systems](#flashcards-for-the-master-in-information-systems)
+7. [Donations](#donations)
+8. [How to Contribute Corrections or Improvements](#how-to-contribute)
 
 ## Purpose of This Repository
 This repository provides a comprehensive set of Anki flashcards that include:
@@ -34,11 +37,14 @@ This repository provides a comprehensive set of Anki flashcards that include:
 3. Import the deck into Anki via *File → Import* or drag and drop
 
 ## Important Notice on Maintenance
-This repository is not actively maintained. While contributions are welcome, this repository will remain partially maintained by me only.
+While contributions are welcome, this repository is not actively maintained.
 If you spot errors or have improvements, please feel free to submit corrections via pull requests. I will review and merge fixes, but do not guarantee active development or ongoing support.
 
 ## Contact & Support
 For questions, suggestions, or corrections: Open an [issue](https://github.com/jasonhaak/wi-uni-muenster-flashcards/issues) or submit a Pull Request.
+
+## Flashcards for the Master in Information Systems
+A separate Anki deck collection for the **Master in Information Systems** at the University of Münster is also available: [IS-Flashcards](https://github.com/jasonhaak/is-uni-muenster-flashcards)
 
 ## Donations
 If you find these flashcards helpful and want to buy me a coffee, you can donate me via PayPal:
