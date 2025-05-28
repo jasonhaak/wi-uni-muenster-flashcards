@@ -27,8 +27,7 @@ This repository provides a comprehensive set of Anki flashcards that include:
 - **BWL3:** Operations Management (WS 23/24) – Hellingrath
 - **BWL4:** Marketing Fundamentals (WS 22/23) – Wiesel
 - **INFO2:** Data Structures & Algorithms (SS 23) – Linsen
-- **QM4-1:** Data Analysis (SS 24) – Terveer
-- **QM4-2:** Simulation (SS 23) – Schönberger
+- **QM4:** Data Analysis (SS 24) and Simulation (SS 23) – Terveer (SS 24), Schönberger (SS 23)
 - **VWL:** Introduction to Economics (WS 22/23) – Sieg
 - **WI6:** Digital Business (WS 22/23) – Stockinger
 
