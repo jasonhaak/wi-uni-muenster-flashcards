@@ -43,14 +43,14 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 Bei Fragen, Anregungen oder Korrekturen: Eröffne ein [Issue](https://github.com/jasonhaak/wi-uni-muenster-flashcards/issues) oder stelle einen Pull Request.
 
 ## Spenden
-Wenn dir diese Karteikarten bei deinem Studium helfen und du dieses Projekts unterstützen möchtest, kannst du über PayPal spenden:
+Wenn dir diese Karteikarten bei deinem Studium helfen und du mich mit einem Kaffee unterstützen möchtest, kannst du über PayPal spenden:
 
 <a href="https://www.paypal.com/paypalme/jasonhaak01">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="120"/>
 </a>
 
 ## Contribution
-Obwohl Beiträge willkommen sind, wird dieses Repository nicht aktiv gepflegt. Ich überprüfe und merge Korrekturen nach Möglichkeit, kann jedoch keinen dauerhaften Support oder regelmäßige Aktualisierungen 
+Obwohl Beiträge willkommen sind, wird dieses Repository nicht aktiv gepflegt. Ich überprüfe und merge Korrekturen nach Möglichkeit, kann jedoch keinen dauerhaften Support oder regelmäßige Aktualisierungen gewährleisten.
 
 ### Schritt-für-Schritt-Anleitung für Contributions
 1. Forke dieses Repository
