@@ -1,7 +1,9 @@
 # Anki Flashcards – Wirtschaftsinformatik Bachelor @ University of Münster
 Welcome to this repository containing Anki flashcards for the Bachelor in Wirtschaftsinformatik at the University of Münster.
 
-Note: All flashcards are written in German. Specific terms may appear in English, but explanations, definitions and context are provided in German.
+> Note: All flashcards are written in German. Specific terms may appear in English, but explanations, definitions and context are provided in German.
+
+> Note: Some flashcards may appear in multiple decks, as the organization is based on categories rather than individual courses. As a result, a card might be included in both Course 1 and Course 2. This structure may also lead to the inclusion of supplementary material from other courses within a given deck.
 
 ## Table of Contents
 1. [Purpose of This Repository](#purpose-of-this-repository)
@@ -49,30 +51,25 @@ If you find these flashcards helpful and want to buy me a coffee, you can donate
 While contributions are welcome, this repository is not actively maintained. I will review and merge fixes, but do not guarantee ongoing support.
 If you want to contribute flashcards, corrections or improvements, please follow this workflow to ensure consistency.
 
-### Prerequisites
-- Use [CrowdAnki](https://github.com/Stvad/CrowdAnki) to export/import decks as JSON for version control
-- Enables export/import of decks as JSON, making them suitable for version control
-- Install via Anki Add-On menu using the plugin code from the CrowdAnki GitHub page
-- Export: Use *CrowdAnki → Export deck*
-- Import: Use *CrowdAnki → Import JSON deck*
-
 ### Step-by-Step Contribution Guide
 1. Fork this repository
 2. Clone your fork locally
-3. Install CrowdAnki in your Anki desktop app
-4. Create or update flashcards in Anki as needed
-5. Export your updated deck as JSON using CrowdAnki
-6. Export your updated deck as APKG using Anki without scheduling informations but with media
-7. Create a new folder named as `MODULE-SEMESTER` (e.g., `BWL3-WS-23-24`)
-8. Place your exported CrowdAnki files and the APKG file in this folder
-9. Edit this README.md and add your lecture
-10. Commit your changes with a clear message
-11. Push to your fork and open a Pull Request against this repository
+3. Create or update flashcards in Anki as needed
+4. Export your deck twice:
+   - As `.apkg` (anki card package, without scheduling information, but including media)
+   - As `.txt` using the notes export option:
+     - Export format: Notes with unformatted text (.txt)
+     - Settings: Include HTML and media file references
+5. Create a new folder named as `MODULE-SEMESTER` (e.g., `BWL3-WS-23-24`)
+6. Place your exported CrowdAnki files and the APKG file in this folder
+7. Edit this README.md and add your lecture
+8. Commit your changes with a clear message
+9. Push to your fork and open a Pull Request against this repository
 
 ### Version Control and File Format
-- Do not commit `.apkg` files (binary, not diff-friendly) without using CrowdAnki for version control
-- Use CrowdAnki JSON export as the primary source tracked in Git
-- Track only text-based or JSON files and media assets for clear version history and easy review
+- Do not commit a `.apkg` files (binary, not diff-friendly) without using the `.txt` for version control
+- Use the exported `.txt` as the primary source tracked in Git
+- Track only the `.txt` for clear version history
 
 ## Author & Licence
 This flashcards were written by Jason Haak and are licensed under the Creative Commons Attribution-NonCommercial 4.0 International.
