@@ -1,0 +1,321 @@
+#separator:tab
+#html:true
+{{c1::Ein Artefakt in der Kultur}} ist {{c2::eine manifestierbare Ausprägung einer Kultur}}.	
+{{c1::Ein Product Service System}} ist {{c2::eine Form der Collaborative Consumption von materiellen Gütern}}.	
+{{c1::Sharing (Teilen)}} ist {{c2::der soziale Austausch von Gütern ohne Gewinn durch Menschen, die sich kennen}}.	
+{{c1::Ein Collaborative Livestyle}} ist {{c2::eine Form der Collaborative Consumption von immateriellen Gütern}}.	
+{{c1::Ein Redistribution Market}} ist {{c2::eine Form der Collaborative Consumption und eine Kreislaufwirtschaft mit Umverteilung und Wiedernutzung von bestehenden Gütern}}.	
+{{c1::SoLoMo (Social-Local-Mobile)}} ist die Kombination von {{c2::sozialen Technologien}}, {{c2::lokalen Technologien}} und {{c2::mobilen Technologien}} zur {{c3::Erschließung von Wertschöpfung}}.	
+{{c1::Die Sharing Evolution}} ist {{c2::ein Modell der Sharing Economy}}, welche {{c3::die Entwicklung der Collaborative Consumption in vier Phasen unterteilt}}.	
+"<p>{{c1::Sharing Evolution}} besteht aus:</p>
+<ol>
+<li>{{c2::Connect to share information}}</li>
+<li>{{c2::Connect people to each other}}</li>
+<li>{{c2::Connect to share daily thoughts and media}}</li>
+<li>{{c2::Connect to access and share assets}}</li>
+</ol>"	
+{{c1::Collaborative Consumption (kollaborativer Konsum)}} ist {{c2::das Mieten, Schenken, Tauschen und Teilen innerhalb einer Sharing Economy durch Peer Communities und Technologie}}.	
+{{c1::Eine Sharing Economy (Access Economy, Peer Economy)}} ist {{c2::ein sozioökonomisches Ecosystem}}, welches auf {{c3::dem Teilen von Gütern}}, insbesondere von {{c3::Humankapital}}, {{c3::immateriellen Gütern}} und {{c3::Technologien}} basiert.	
+{{c1::Die Contextual Ambidexterity (kontextuelle Ambidextrie)}} ist {{c2::die Zusammenführung von Exploration und Exploitation in die Prozesse und Systeme einer Organisation}}.	
+{{c1::Die Structural Ambidexterity (strukturelle Ambidextrie)}} ist {{c2::die Trennung von Exploration und Exploitation in einzelne Organisationen}}.	
+{{c1::Eine Annahme}} ist {{c2::eine grundsätzlich unterbewusste und selbstverständliche Aussage}} über {{c2::eine Umwelt}}.	
+{{c1::Eine Annahme}} unterstellt {{c2::einem Wirkungszusammenhang}} innerhalb eines Systems.	
+{{c1::Die Organizational Ambidexterity (Ambidexterität, organisationale Ambidextrie)}} ist {{c2::die Fähigkeit einer Organisation, die Dynamik zwischen Exploration und Exploitation zu nutzen}}.	
+Exploration und Exploitation erzeugen {{c1::eine sich ausschließende Dynamik}}, da {{c1::sie grundsätzlich entgegengesetzt arbeiten}}.	
+{{c1::Eine Exploitation}} ist {{c2::die Ausnutzung von bestehenden Lösungen}} zur Schaffung von {{c2::Effizienz und Wachstum}}. Die Planung von {{c1::Exploitation}} ist {{c3::sequenziell}}.	
+{{c1::Exploitation}} besitzt eine {{c2::geringe Ungewissheit}} und ist grundsätzlich {{c2::stabiler}} als {{c3::Exploration}}.	
+{{c1::Ein Digital Entrepreneur}} ist {{c2::ein Führungsstil des Chief Digital Officer}}, durch dem {{c3::eine Transformation eines bestehenden Business Model durchgeführt oder ein neues digitales Business Model entwickelt wird}}.	
+{{c1::Eine Exploration}} ist {{c2::die Schaffung von Erfindungen und Innovationen}}. Die Planung von {{c1::Exploration}} ist {{c3::iterativ}}.	
+{{c1::Exploration}} besitzt eine {{c2::hohe Ungewissheit}} und ist grundsätzlich {{c2::instabiler}} als {{c3::Exploitation}}.	
+"{{c1::Eine Reintegrated Bimodal IT}} ist eine Bimodal IT, welche {{c2::ihre Projekte in der Digital IT durchführt und die Traditional IT als Backend nutzt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}"	
+"{{c1::Eine Subdivisional Bimodal IT}} ist eine Bimodal IT, welche {{c2::die Traditional IT und Digital IT in einer Abteilung zusammenführt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}"	
+"{{c1::Eine Divisionally Separated Bimodal IT}} ist eine Bimodal IT, welche {{c2::die Traditional IT und Digital IT in eigene Abteilungen aufteilt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}"	
+"{{c1::Eine Project-By-Project Bimodal IT}} ist eine Bimodal IT, welche {{c2::die Traditional IT und Digital IT in Projekte aufgeteilt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}"	
+"{{c1::Eine Bimodal IT (bimodale IT)}} ist {{c2::der Aufbau von einer digitalen IT, parallel zu einer bestehenden traditionellen IT}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}"	
+"{{c1::Eine Digital IT (Agile IT, digitale IT, Mode 2 IT)}} ist eine IT, die auf {{c2::Agilität}}, {{c2::Geschwindigkeit}} und {{c2::Innovation}} fokussiert ist.<br />
+{{c1::Eine Digital IT}} wird für {{c3::kundenzentrierte Services}} eingesetzt."	
+"{{c1::Eine Traditional IT (Core IT, Industrial IT, Mode 1 IT, traditionelle IT)}} ist eine IT, die auf {{c2::Leistung}}, {{c2::Sicherheit}} und {{c2::Stabilität}} fokussiert ist.<br />
+{{c1::Eine Traditional IT}} wird für {{c3::IT-zentrierte Services}} eingesetzt."	
+{{c1::Ein Digital Accelerator}} ist {{c2::ein Führungsstil des Chief Digital Officers}}, bei dem {{c3::eine Implementierung einer bimodalen IT angestrebt wird}}.	
+{{c1::Eine digitale Kultur}} ist {{c2::eine agile Unternehmenskultur}}, welche {{c3::das Unternehmen in seiner digitalen Transformation unterstützt}}.	
+{{c1::Ein Digital Evangelist}} ist {{c2::ein Führungsstil des Chief Digital Officers}}, bei dem {{c3::eine Änderung der Unternehmenskultur zur digitalen Kultur}} angestrebt wird.	
+{{c1::Ein Digital Evangelist}} klärt die Mitarbeiter eines Unternehmens über {{c2::die Möglichkeiten und Gefahren von Digitalisierung}} auf und fördert {{c2::die digitale Fähigkeiten der Mitarbeiter}}.	
+{{c1::Der Chief Data Officer (CDO)}} ist {{c2::eine Stelle in der Führungsebene eines Unternehmens}}, welche für {{c3::die Datensammlung und Datenauswertung}} zuständig ist.	
+{{c1::Der Chief Innovation Officer (CINO)}} ist {{c2::eine Stelle in der Führungsebene eines Unternehmens}}, welche für {{c3::die strategische Innovation}} zuständig ist.	
+{{c1::Der Chief Information Officer (CIO)}} ist {{c2::eine Stelle in der Führungsebene eines Unternehmens}}, welche für {{c3::die strategische Entwicklung der IT}} zuständig ist. {{c1::Der CIO}} stellt {{c2::die Effizienz und Effektivität}} der IT sicher.	
+{{c1::Der Chief Strategy Officer (CSO)}} ist {{c2::eine Stelle in der Führungsebene eines Unternehmens}}, welche für {{c3::die allgemeine Unternehmensstrategie}} zuständig ist.	
+{{c1::Der Chief Digital Officer (CDO)}} ist {{c2::eine Stelle in der Führungsebene eines Unternehmens}}, welche für {{c3::die Unternehmensstrategie zur digitalen Transformation}} zuständig ist.	
+{{c1::Ein Digital Leadership}} ist {{c2::ein kundenzentrierter digitaler Führungsstil}}.	
+{{c1::Eine Certification Chain (Certification Hierarchy, Zertifizierungskette)}} ist {{c2::die Verschachtelung von Zertifikaten, welche zum Ende der Verschachtelung von einem Root Certificate zertifiziert wird}}.	
+{{c1::Eine Certification Authority (CA)}} ist {{c2::eine Organisation, welche Zertifikate ausstellt und der Besitzer des Root Certificates ist}}.	
+{{c1::Ein digitales Zertifikat (Certificate)}} ist {{c2::eine elektronisch-signierte Bestätigung über die Verifizierung einer digitalen Identität}}.	
+{{c1::Die Kryptografie mit einer Public-Key-Infrastruktur und einem Fingerprint}} ist {{c2::ein asymmetrisches Kryptografieverfahren zur Versendung einer verschlüsselten Nachricht}}.	
+{{c1::Ein Fingerprint}} ist {{c2::ein Hash zur Abstraktion einer Kommunikation}}.	
+Die Dynamik zwischen {{c1::Bundling und Unbundling}} ist {{c2::ein Zyklus}}, welcher {{c3::Angebote von Produkten und Dienstleistungen spezifiziert}}, um sie darauf wieder zu {{c4::generalisieren}}.	
+"<p>{{c1::Information Goods}} besitzen folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::erfahrungsbasiert}}: {{c2::Information Goods müssen konsumiert werden, bevor sie bewertet werden können}}</li>
+<li>{{c3::nicht-rivalisierend}}: {{c3::Der Konsum von Information Goods beeinträchtigt nicht andere Konsumenten}}</li>
+<li>{{c4::skalierbar}}: {{c4::Information Goods besitzen sehr hohe Skalenerträge}}</li>
+</ul>"	
+{{c1::Bundling}} ist {{c2::die spezifische Wertproposition, die aus einer Kombination aus mehreren individuellen und unabhängigen Angeboten und einem potentiellen Preisvorteil für den Konsumenten und den Produzenten besteht}}.	
+{{c1::Kommunikationsprobleme}} sind {{c2::Probleme in der Kommunikation durch fehlende Übermittlung, den unbefugten Zugriff, die Veränderung oder die Nachahmung der digitalen Identität}}.	
+{{c1::Die asymmetrische Kryptografie (Public Key System)}} ist{{c2:: die Verschlüsselung und Entschlüsselung mit zwei unterschiedlichen Schlüsseln, welche zueinander zugehörig sind}}.	
+Die Anzahl der Schlüssel in der asymmetrischen Kryptografie erhöht sich {{c1::linear}} mit der Anzahl der Kommunikationsakteure.	
+Dadurch, dass in einer asymmetrischen Kryptografie ein Schlüssel {{c1::öffentlich}} zugänglich gemacht werden kann, kann die Verschlüsselung {{c2::durch eine dritte Organisation}} geprüft werden.	
+{{c1::Die symmetrische Kryptografie}} ist {{c2::die Verschlüsselung und Entschlüsselung mit einem Schlüssel}}.	
+Die Anzahl der Schlüssel in der symmetrischen Kryptografie erhöht sich {{c1::quadratisch}} mit {{c2::der Anzahl der Kommunikationsakteure}}.	
+Eine symmetrische Verschlüsselung kann {{c1::nicht durch eine dritte Organisation}} geprüft werden, da {{c1::andernfalls der Schlüssel freigegeben werden müsste}}.	
+{{c1::Eine digitale Signatur}} ist {{c2::der Beweis der digitalen Identität eines Senders und die Originalität einer Nachricht für jeden}}.	
+{{c1::Das Bell-LaPadula Model (BLP)}} ist {{c2::ein hybrides System aus einem MAC und DAC zur Steuerung von Berechtigungen und Informationsflüssen über Dominanzen von einzelnen Zugriffsklassen}}.	
+{{c1::Das Principle of Attenuation of Privilege (Prinzip der Berechtigungsdämpfung)}} ist {{c2::ein Prinzip in der IT-Security, welches besagt, dass ein Subjekt \(s_{i}\) keine Berechtigung \(r\) an ein anders Subjekt \(s_{j}\) vergeben darf, wenn es die Berechtigung \(r\) nicht besitzt}}.	
+{{c1::Eine Access Control List (ACL)}} ist {{c2::eine Liste an Berechtigungen für jedes Objekt innerhalb dieser Liste}}.	
+{{c1::Eine Static Access Control Matrix (Static ACM)}} ist {{c2::eine Access Control Matrix, in welcher die Berechtigungen a priori bestimmt sind und keine Veränderungen in der Laufzeit möglich ist}}.	
+{{c1::Eine Dynamic Access Control Matrix (Dynamic ACM)}} ist {{c2::eine Access Control Matrix, in welcher die Subjekte, Objekte und deren Berechtigungen in der Laufzeit verändert werden können}}.	
+{{c1::Eine Access Control Matrix (ACM)}} ist {{c2::eine zweidimensionale Matrix, welche die Berechtigungen von Subjekten, meist Prozessen, zu Objekten, meist Dateien, bestimmt}}.	
+{{c1::Die Role-Based Access Control (RBAC)}} ist {{c2::eine Art der Security Policy, welche die Berechtigungen zu einem System durch Rollen bestimmt}}.	
+{{c1::Die Mandatory Access Control (MAC)}} ist {{c2::eine Art der Security Policy, welche die Berechtigungen zu einem System durch eine zentrale Instanz bestimmt}}.	
+{{c1::Die Discretionary Access Control (DAC)}} ist {{c2::eine Art der Security Policy, welche die Berechtigungen zu einem System anhand der digitalen Identität bestimmt}}.	
+{{c1::Eine&nbsp;Security Policy (Sicherheitsrichtlinie)}}&nbsp;ist {{c2::die Definition eines&nbsp;Systems&nbsp;und aller möglichen Szenarien bezüglich eines&nbsp;Cyberangriffs}}.	
+{{c1::Ein klassifikations-basiertes Intrusion Detection System (classification-based IDS, classification-based Intrusion Detection System, klassifikations-basiertes IDS)}} ist {{c2::ein IDS zur Identifikation von Cyberangriffen durch die Kombination von der Erkennung von Angriffsmustern und Erkennung einer Abweichung vom Normalzustand}}.	
+{{c1::Ein anomalie-basiertes IDS (anomalie-basiertes IDS, anomaly-based IDS, anomaly-based Intrusion Detection System)}} ist {{c2::ein IDS zur Identifikation von Cyberangriffen durch die Erkennung einer Abweichung vom Normalzustand}}.	
+Ein anomalie-basiertes IDS erkennt Abweichungen vom Normalzustand eines Systems unter der Annahme, dass {{c1::ein Cyberangriff eine Abweichung von einem definierten Zustand aus verschiedenen Attributen auslöst}}.	
+{{c1::Ein Intrusion Detection System (IDS)}} ist {{c2::ein System zum Monitoring eines Systems zur Erkennung von Cyberangriffen}}.	
+Aufgaben eines IDS sind {{c2::die Analyse, Erkennung, Reaktion und das Monitoring auf und von möglichen Cyberangriffen}}.	
+{{c1::Ein signatur-basiertes Intrusion Detection System (signatur-basiertes IDS, signature-based IDS, signature-based Intrusion Detection System)}} ist {{c2::ein IDS zur Identifikation von Cyberangriffen durch die Erkennung von Angriffsmustern}}.	
+Ein signatur-basiertes IDS muss durch den Scan von Systemen {{c1::verschiedene Muster und Signaturen von möglichen Cyberangriffen}} erkennen und benötigt daher {{c2::regelmäßige Updates}}.	
+{{c1::Eine Filter Bubble (Filterblase)}} ist {{c2::ein persönliches Informationsuniversum, das speziell für den Nutzer durch eine Vielzahl von personalisierenden Filtern erstellt wird}}. {{c1::Die Filter Bubble}} ist dabei ein {{c3::selbst-erhaltendes und selbst-energetisches Ecosystem}}.	
+{{c1::Nutzerdaten}} sind {{c2::Daten über einen Nutzer}}, spezifisch Verhaltensweisen, Interessen, Vorlieben, Launen und Gewohnheiten, welche aktiv oder passiv getrackt werden.	
+{{c1::Smart Targeting}} ist {{c2::die gezielte Werbung durch Nutzerdaten}}.	
+{{c1::Eine Dark Ad}} ist {{c2::eine Werbung, welche nur für eine bestimmte Gruppe, meist innerhalb einer Filter Bubble, zugänglich und sichtbar ist}}.	
+Dark Ads werden häufig genutzt, um {{c1::politische Propaganda}} umzusetzen.	
+{{c1::Das Deep Web}} ist {{c2::ein Netzwerk im Internet, welches nicht öffentlich durch Suchmaschinen auffindbar ist}}.	
+{{c1::Das Dark Web}} ist {{c2::ein Netzwerk im Internet, welches nicht öffentlich und nur für eine bestimmte Gruppe zugänglich ist}}.	
+{{c1::Formjacking}} ist {{c2::ein Cyberangriff durch die Extraktion von Informationen über Formulare auf Webseiten, die bereits durch einen Hacker infiltriert wurden}}.	
+{{c1::Shadow IT (Schatten-IT)}} ist {{c2::der Zugriff auf Services außerhalb eines Unternehmens durch Nutzer über das Unternehmensnetzwerk}}.	
+{{c1::Heartbleed}} ist {{c2::ein Bug als Sicherheitsrisiko in der OpenSSL Bibliothek}}, welches verschiedene Gerätearten und Betriebssysteme betrifft.	
+Ein Bug als Sicherheitsrisiko entsteht durch {{c1::die falsche Implementation von Software}}.	
+{{c1::Ransomware}} ist {{c2::ein Cyberangriff durch die Verschlüsselung eines Systems durch Malware und die Erpressung der Nutzer zur Entschlüsselung des Systems}}.	
+{{c1::Eine Coin-Mining-Attack}} ist {{c2::ein Cyberangriff zur unautorisierten Generierung von Kryptowährung durch Cryptomining auf einem fremden Gerät}}.	
+{{c1::Spam}} ist {{c2::ungebetene Werbung in Form von Massen-E-Mails}}.	
+{{c1::Ein zielübergreifender Angriff (multi-targeted attack)}} ist {{c2::ein Cyberangriff auf viele verschiedene Angriffsziele}}.	
+{{c1::Ein gezielter Angriff (targeted attack)}} ist {{c2::ein Cyberangriffe auf ein spezifische Angriffsziele in der Cybersecurity}}.	
+{{c1::IT-Sicherheit}} ist {{c2::der Schutz von Nutzern und Systemen vor den Auswirkung von unautorisierten Zugriffen}}.	
+{{c1::IT-Security (IT-Sicherung)}} ist {{c2::die Vorbeugung, Erkennung und Reaktion von und auf unautorisierten Aktivitäten von einem Nutzer in einem Computersystem}}.	
+{{c1::Brute Force}} ist {{c2::ein Designkonzept und eine Lösungsmethode durch das Ausprobieren aller möglichen Fälle}}.	
+Bei Passwörtern ist {{c1::Brute Force}} {{c2::das Erraten von Passwörtern durch Testen aller möglichen Kombination}}.	
+{{c1::Eine Dictionary Attack (Wörterbuchangriff)}} ist {{c2::das Erraten von Passwörtern durch Testen aller bekannten Worterkombinationen}}.	
+"{{c1::Ein Objekt}} ist {{c2::ein passives Element, denen moralische Agenten eine moralische Verantwortung haben können}}. {{c3::Ein Objekt}} besitzt {{c4::Substanz}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2023-Bild-Schoenberger-Instanz_der_Klasse_Vehicle.png"" alt=""""><br />
+Instanz der Klasse ""Vehicle""}}}}}}}}"	
+"{{c1::Ein Subjekt}} ist {{c2::ein aktives Element}}. {{c1::Ein Subjekt}} wird durch {{c3::Gruppierung von Klassen}} realisiert.<br />
+{{c1::{{c2::{{c3::<img src=""2024-Bild-Schoenberger-Vier_Subjekte.png"" alt=""""><br />
+Eine Struktur mit vier Subjekten}}}}}}"	
+{{c1::Die Werte einer Gesellschaft}} sind {{c2::grundsätzliche Einstellungen einer Kultur}}.	
+{{c1::Kultur}} ist {{c2::die Menge an Verhaltensweisen, Artefakten, Werten, Normen und Annahmen einer Gesellschaft}}.	
+{{c1::Ein Passwortmanager}} ist {{c2::ein Dienst oder ein Programm, bei dem zufällige Passwörter für jede digital Identität generiert werden und alle Passwörter mit einem sehr starken Passwort verschlüsselt werden}}.	
+{{c1::Authentifikationsfaktoren}} sind {{c2::Faktoren für die Authentisierung einer digitalen Identität}}.	
+"<p>{{c1::Authentifizierungsfaktoren}} sind:</p>
+<ul>
+<li>{{c2::Benutzer und deren Biometrie}}, z. B. {{c2::ein Fingerabdruck oder das Gesicht}}</li>
+<li>{{c3::Besitz}}, z. B. {{c3::ein Security Token}}</li>
+<li>{{c4::Wissen}}, z. B. {{c4::ein Passwort}}</li>
+</ul>"	
+{{c1::Das Eavesdropping}} ist {{c2::das Sniffing zum Sammeln von Informationen, insbesondere Passwörtern, über einen ungesicherten Kanal}}.	
+{{c1::Malware (malicious software)}} ist {{c2::eine Bezeichnung für Software, welche erstellt wurde, um vorsätzlich Schaden anzurichten}}.	
+{{c1::Ein Denial-of-Service (DoS)}} ist {{c2::ein Cyberangriff mit dem Ziel, die Verfügbarkeit eines Dienstes im Internet zu stören}}.	
+"{{c1::Die Verfügbarkeit (availability)}} ist {{c2::die <a href=""obsidian://open?vault=Metadatei-WI_%26_IS_Flashcards.obsidian&file=Sicherung"">Sicherung</a>, dass Nutzer zu den vorgesehenen Zeiten über die vorgesehenen Wege auf bereitgestellte Daten und Dienste zugreifen können}}."	
+{{c1::Die Integrität (Integrity)}} ist {{c2::die Sicherung vor Manipulation, Veränderung der Verfälschung von Computersystemen, Daten und Informationen}}.	
+{{c1::Die Vertraulichkeit (confidentiality)}} ist {{c2::die Sicherung vor unautorisierten Zugriffen auf vertrauliche Informationen}}.	
+{{c1::Die Authentizität (authentication)}} ist {{c2::die Feststellung der digitalen Identität eines Benutzers und eines unverfälschten Absenders bei der Kommunikation, um entscheiden zu können, welche Berechtigungen der Benutzer besitzt}}.	
+{{c1::Ein Sicherheitsziel}} ist {{c2::eine gewünschte und erforderliche Sicherheitsanforderung an ein Zielsystem}}.	
+{{c1::Grundlegende Sicherheitsziele}} sind {{c2::die Vertraulichkeit, Integrität und Verfügbarkeit}}. {{c1::Weitere Sicherheitsziele}} sind {{c3::die Authentizität, Zugriffskontrolle, Anonymität, Unbeobachtbarkeit, Privatsphäre, Verbindlichkeit und der Kopierschutz}}.	
+{{c1::Brainstorming}} ist {{c2::die Bildung von vielen Ideen, welche aufeinander aufbauen, ohne dass diese Ideen kritisiert oder verworfen werden}}.	
+{{c1::Designing (Design)}} ist {{c2::ein iterativer Prozess und ein Produkt zur Erzeugung eines innovativen Artefakts}}.	
+{{c1::Testing}} ist {{c2::das Testen einer Idee, um mehr über eine mögliche Lösung und die damit verbundenen Konsumenten zu erfahren}}. Ziel {{c1::des Testing}} ist es, {{c3::Erkenntnisse über die Idee zu bekommen, ohne die Wirtschaftlichkeit zu berücksichtigen}}.	
+{{c1::Prototyping}} ist {{c2::das Erstellen von Prototypen aus Ideen, um zu erkennen, welche Ideen erfolgreich sind und welche Iden verworfen werden sollen}}.	
+{{c1::Ideating}} ist {{c2::die Bildung von vielen Ideen, welche die Anforderungen und Bedürfnisse eines Konsumenten in einer spezifischen Situation wecken sollen}}.	
+{{c1::Defining}} ist {{c2::die Definition und Einordnung eines Problems zur Bildung einer entsprechenden Lösung}}.	
+{{c1::Empathizing}} ist {{c2::das Erlangen von Erkenntnissen, welche Anforderungen und Bedürfnisse Konsumenten besitzen}}. {{c1::Empathizing}} kann durch {{c2::Observation, Ausprobieren oder Konversationen geschehen}}.	
+{{c1::Design Thinking}} ist {{c2::eine Herangehensweise zur menschen-zentrierten kreative Lösung von Problemen für menschliche Problemen}}.	
+{{c1::Ziel des Design Thinking}} ist es, {{c2::Produkte zu erfinden, die die Bedürfnisse des Kunden befriedigen und zu verstehen, was der job to be done ist}}.	
+"<p>Grundlegende Regeln des wissenschaftlichen Schreibens sind:</p>
+<ul>
+<li>{{c1::Transparenz der genutzten Methodik}}</li>
+<li>{{c1::sach- oder objektbezogen}}</li>
+<li>{{c1::Offenlegung aller genutzten Quellen}}</li>
+<li>{{c1::Nachvollziehbarkeit der Argumente}}</li>
+</ul>"	
+{{c1::Die kritische Rationalität (Critical Rationality)}} ist {{c2::die Reflektion durch Ethik und Moral in der praktische Anwendung von Wissen.}}	
+{{c1::Die praktische Rationalisierung (practical rationality)}} ist {{c2::die Reflektion durch die praktische Anwendung von Wissen unter Einfluss von verschiedenen Faktoren, welche eine mögliche Unsicherheit in dem Ausgang erzeugen}}.	
+{{c1::Die technische Rationalisierung (Technical Rationality)}} ist {{c2::die Reflektion durch Anwendung von Wissen zur Erzielung von einem bereits bekannten Ausgang}}.	
+{{c1::Die kritische Reflektion (Critical Reflection)}} ist {{c2::die Reflektion durch kritische kontextorientierte Betrachtung und Hinterfragung eines Sachverhaltes aus verschiedenen Sichten}}.	
+{{c1::Die dialogische Reflektion (Dialogic Reflection)}} ist {{c2::die Reflektion durch analytische Betrachtung und Bewertung eines Sachverhaltes}}.	
+{{c1::Die deskriptive Reflektion (Descriptive Reflection)}} ist {{c2::die Reflektion durch Beschreibung eines Sachverhaltes aus einer Sicht}}.	
+{{c1::Reflektion}} ist {{c2::die Strukturierung von Ideen, Konzepten und Wissen zur Erzeugung von neuen Wissen}}.	
+{{c1::Der Verbundeffekt}} ist {{c2::der Effekt die Senkung der Gemeinkosten pro produziertes Gut bei Erhöhung der Produktion}}.	
+{{c1::Der Verbundeffekt}} tritt auf, da {{c2::bestimmte Aktivitäten durch Synergieeffekte die Gesamtheit aller produzierten Güter betrifft und die dadurch die Kosten der Aktivität pro produziertes Gut sinken}}.	
+{{c1::Ein Learning Journal (Reflective Diary)}} ist {{c2::die personalisierte Dokumentation von Wissen zur Verbesserung der Qualität des gelernten Wissen}}.	
+{{c1::Ein Learning Journal}} ist ein Mittel zur {{c2::Reflektion des gelernten Wissens}}.	
+{{c1::Der Skaleneffekt}} ist {{c2::der Effekt die Senkung der Einzelkosten pro produziertes Gut bei Erhöhung der Produktion}}.	
+{{c1::Der Skaleneffekt}} tritt auf, da {{c2::der Anteil an fixen Kosten im Vergleich zu den variablen Kosten bei steigender Produktion sinkt}}.	
+Eine {{c1::wertgetriebene Unternehmung (Premiumstrategie, value-driven business)}} ist {{c2::eine Unternehmung, welche sich auf Wertschöpfung fokussieren}}.	
+{{c1::Wertgetriebene Unternehmungen}} verfolgen {{c2::eine Qualitätsführer}}-Strategie.	
+"wahr oder falsch:<br />
+Eine Discountstrategie hat ein relativ hohes Preisniveau und ein relativ niedriges Leistungsqualitäts-Niveau."	falsch
+Eine {{c1::kostengetriebene Unternehmungen (cost-driven business, Discountstrategie)}} ist {{c2::eine Unternehmung, welche sich auf die Minimierung der Kosten fokussieren}}.	
+{{c1::Kostengetriebene Unternehmungen}} verfolgen {{c2::eine Preisführer}}-Strategie.	
+{{c1::Die Kostenstruktur (cost structure)}} umfasst {{c2::alle Kosten, die anfallen, um eine Unternehmung durchzuführen}}.	
+{{c1::Schlüsselbeziehungen (key partnerships)}} sind {{c2::das Netzwerk der wichtigsten Stakeholder zur Durchführung einer Unternehmung}}.	
+{{c1::Schlüsselaktivitäten (key activities)}} sind {{c2::die wichtigsten Aktivitäten zur Durchführung einer Unternehmung}}.	
+{{c1::Die Schlüsselaktivitäten}} können {{c3::durch die Wertschöpfungskette}} identifiziert werden.	
+{{c1::Schlüsselressourcen (key resources)}} sind {{c2::die wichtigsten Ressourcen zur Durchführung einer Unternehmung}}.	
+{{c1::Schlüsselressourcen}} können {{c2::physisch Güter}}, {{c2::intellektuelles Wissen}}, {{c2::Humankapital}} oder {{c2::Realkapital}} sein.	
+{{c1::Freemium}} ist {{c2::ein Preismodel, bei welchem ein Produkt oder eine Dienstleistung kostenlos angeboten wird, während entsprechende Erweiterungen und Vollversionen kostenpflichtig sind}}.	
+{{c1::Das werbungsfinanzierte Preismodell (ad-supported model)}} ist {{c2::ein Preismodel, bei welchem ein Produkt oder eine Dienstleistung für den Konsumenten kostenlos angeboten wird und der Produzent seine Einnahmen durch eine dritte Partei erzielt}}.	
+{{c1::Das quersubventionierte Preismodell (cross-subsidy model)}} ist {{c2::ein Preismodell, bei welchem ein Produkt oder eine Dienstleistung als Subvention kostenlos angeboten wird, während ein weiteres oder anderes Produkt oder eine Dienstleistung kostenpflichtig ist}}.	
+{{c1::Die dynamische Preispositionierung (dynamic price positioning)}} ist {{c2::die Preispositionierung, welche sich vom Markt, dem Zeitpunkt und/oder den vorhandenen Lagerbeständen abhängig ändert}}.	
+{{c1::Der Einnahmekanal (revenue stream)}} ist {{c2::der Cashflow, den ein Unternehmen mit jedem Kundensegment erzielt}}.	
+{{c1::Co-Creation}} ist {{c2::die gemeinsame Wertschöpfung und das Prosuming mit einer oder mehreren Personen, üblicherweise den Konsumenten}}.	
+{{c1::Self-Service}} ist {{c2::eine Form der Customer-Relationship, welche darauf basiert, dass Kunden sich selber helfen}}.	
+{{c1::Personal Assistance}} ist {{c2::eine Form der Customer-Relationship, welche auf menschlicher Interaktion basiert}}.	
+{{c1::Customer-Relationship-Management (CRM)}} ist {{c2::die Beziehung, die ein Unternehmen zu seinen Kundensegment besitzt}}.	
+{{c1::Omnichannel-Management}} ist {{c2::die Betrachtung von Kommunikationskanälen als Gesamtheit aller Interaktionen mit einem Kunden als Kundenerlebnis und umfasst die Kombination von analogen, digitalen, sozialen und mobilen Kommunikationskanälen}}.	
+{{c1::Multi-Channel-Management}} ist {{c2::das Marketing durch eine Kombination von verschiedenen analogen und/oder digitalen Kommunikationskanälen}}.	
+"{{c1::Ein Kommunikationskanal (Channel)}} ist {{c2::die Kommunikation des Unternehmens mit einem Kundensegment, um Wertproposition anzubieten}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Sack-Kommunikationsablauf.png"" alt=""""><br />
+Kommunikationsablauf}}}}"	
+"wahr oder falsch:<br />
+Die Existenz eines USP ist eine notwendige Bedingung für einen KKV."	wahr
+"wahr oder falsch:<br />
+Ein USP ist effizient für den Anbieter, auch wenn dieser unter Umständen hohe Kosten aufbringen muss, um ein USP für sein Produkt zu erlangen."	falsch
+"wahr oder falsch:<br />
+Während das Konstrukt des KKV sowohl die Effektivitäts- als auch die Effizienzdimension betrachtet, wird beim USP nur die Effektivitätsdimension betrachtet."	wahr
+"{{c1::Eine Wertproposition (Unique Selling Proposition, USP, Value Proposition)}} ist {{c2::der Vorteil durch eine Menge an Produkten und Dienstleistungen}}, welchen im Vergleich {{c3::zur Konkurrenz einen besonderen Wert für ein bestimmtes Kundensegment}} schafft, um {{c4::Ansprüche zu befriedigen und/oder ein Problem zu lösen}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2022-Bild-Wiesel-Unique_Selling_Proposition.png"" alt=""""><br />
+Unique Selling Proposition}}}}}}}}"	
+{{c1::\(USP\)}} \(=\) {{c2::\(\text{Wert durch Angebot} - \text{Wert durch Angebot der Konkurrenz}\)}}	
+{{c1::Ein vielschichtiger Markt (multi-sided market)}} ist {{c2::ein Markt mit zwei oder mehreren voneinander abhängigen Kundensegmenten}}.	
+{{c1::Ein diversifizierter Markt (diversified market)}} ist {{c2::ein Markt mit nicht miteinander verbundenen und voneinander unabhängigen Kundensegmenten}}.	
+{{c1::Der segmentierte Markt (segmented market)}} ist {{c2::ein Markt mit Kundensegmenten, welche ähnliche aber sich voneinander variierende Anforderungen besitzen}}.	
+{{c1::Ein Nischenmarkt (niche market)}} ist {{c2::ein Markt mit einer speziellen und spezialisierten Kundensegmentierung}}.	
+{{c1::Ein Massenmarkt (mass market)}} ist {{c2::ein Markt, welcher nicht zwischen verschiedenen Kundensegmenten unterscheidet und sich daher auf eine große Gruppe an Konsumenten mit ähnlichen Anforderungen fokussiert}}.	
+{{c1::Die Kundensegmentierung (Customer Segments)}} ist {{c2::die Marktreaktionserfassung der unterschiedlichen Konsumentengruppe, Kundengruppen und Marktgruppen, welche unterschiedliche Anforderungen und Zahlungsbereitschaften besitzen}}.	
+{{c1::Das Business Model Innovation Framework}} ist {{c2::ein Framework mit Fokus auf Innovationspfade}}.	
+"<p>{{c1::Das STOF Model}} ist {{c2::die Beschreibung eines Businessmodell aus vier verschiedenen Sichten}}:</p>
+<ul>
+<li>{{c3::Service Domain: Wertschöpfung und Marktdifferenzierung}}</li>
+<li>{{c4::Financial Domain: Kostenstruktur und Umsatzpotential}}</li>
+<li>{{c5::Organizational Domain: Struktur der Unternehmung}}</li>
+<li>{{c6::Technology Domain: Bereitstellung der Funktionalität}}</li>
+</ul>"	
+{{c1::Das e³ Value Model (value network model)}} ist {{c2::die grafische Visualisierung von Wertschöpfungsprozessen mit Fokus auf die Stakeholder und deren Verbindungen untereinander}}.	
+{{c1::Ein Businessmodell (business model)}} ist {{c2::ein Instrument der strategischen Planung und Kommunikation zwischen den einzelnen Stakeholdern zur Schaffung von Wertschöpfung}}.	
+"<p>{{c1::Ein Businessmodell}} repräsentiert ein Unternehmen in Bezug auf folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::beteiligte Stakeholder in der Schaffung der Wertschöpfung}}</li>
+<li>{{c2::wie dem Konsumenten der Wert angeboten wird}}</li>
+<li>{{c2::Quelle des Umsatzes}}</li>
+</ul>"	
+{{c1::Die marktbasierte Sicht (Market-Based View)}} ist {{c2::eine Sicht der kompetitiven Strategie, welche davon ausgeht, dass ein kompetitiver Vorteil durch die Anpassungsfähigkeit und Marktpositionierung erzeugt wird}}.	
+Ein {{c1::kompetitiver Vorteil}} in {{c2::der marktbasierten Sicht}} kann durch die Preispositionierung erzeugt werden.	
+{{c1::Die ressourcenbasierte Sicht (Resource-Based View)}} ist {{c2::eine Sicht der Strategie, welche davon ausgeht, dass ein kompetitiver Vorteil durch einzigartige Ressourcen erzeugt wird}}.	
+{{c1::Die funktionsbezogene Strategie (functional strategy)}} ist {{c2::eine Strategieebene, welche die Strategie und Grundsatzentscheidungen von einzelnen Abteilungen und Stellen umfasst}}.	
+{{c1::Ein kompetitiver Vorteile (Competitive Advantage)}} ist {{c2::ein Vorteile, der durch verbundene und komplementäre Produkte und Dienstleistungen und Netzwerkexternalitäten entsteht}}.	
+"wahr oder falsch:<br />
+Geschäftsfeldstrategien sollen eine wettbewerbsdominante Position des jeweiligen Geschäftsfelds erzeugen und im Einklang mit der allgemeinen Unternehmensstrategie stehen."	wahr
+{{c1::Die Geschäftsfeldstrategie (business unit strategie)}} ist {{c2::eine Strategieebene, welche die Strategie von einzelnen Geschäftsbereichsorganisationen umfasst}}.	
+{{c1::Die Geschäftsfeldstrategie}} ist so zu formulieren, dass sie im Einklang mit {{c2::den Unternehmensstrategien}} stehen.	
+{{c1::Eine Unternehmensstrategie (Corporate Strategy)}} ist {{c2::eine Strategieebene, welche grundsätzlich Entscheidungen der Strategie einer gesamten Unternehmung umfasst}}.	
+Bei {{c1::Unternehmensstrategien}} handelt es sich um {{c2::strategische Entscheidungen}}, die {{c3::nicht dezentralisiert}} werden können, ohne dass {{c3::erhebliche Synergieeffekte verloren gehen}}.	
+"wahr oder falsch:<br />
+Eine Strategie bietet einen kurzfristigen Orientierungsrahmen für zukünftiges Handeln."	falsch
+"wahr oder falsch:<br />
+Strategien liefern ein starres Gerüst und können bei sich ändernden Bedingungen der Umwelt nicht angepasst werden."	falsch
+"wahr oder falsch:<br />
+Strategien sind das Bindeglied zwischen Zielen und operativen Entscheidungen."	wahr
+"wahr oder falsch:<br />
+Ziele sind fester Bestandteil einer Strategie."	falsch
+"{{c1::Eine Strategie}} ist {{c2::ist ein langfristiger flexibler Orientierungsrahmen für zukünftige Handlungen und die Planung zur Erreichung von Zielen durch operative Maßnahmen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ziele_Strategien_Massnahmen.png"" alt=""""><br />
+Ziele, Strategien und Maßnahmen im Zusammenhang}}}}"	
+"<p>{{c1::Eine Strategie}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::beeinflusst durch externe Einflüsse und Wettbewerb einer Organisation}}</li>
+<li>{{c2::Menge an Aktivitäten}}</li>
+<li>{{c2::umfasst große Entscheidungen für weite Bereiche einer Unternehmung}}</li>
+<li>{{c2::zukunftsorientiert}}</li>
+</ul>"	
+{{c1::Prosuming}} ist {{c2::ein Zustand der Co-Creation, in welchem der Konsument zugleich Produzent ist, indem er an dem Wertschöpfung teilnimmt}}.	
+{{c1::Die Wertschöpfungskette (value chain)}} ist {{c2::die Summe aller technologischen und ökonomischen Aktivität einer Unternehmung um Geschäfte durchzuführen}}.	
+"<p>Kritikpunkte an Bitcoin sind:</p>
+<ul>
+<li>{{c1::hoher Energieverbrauch}}</li>
+<li>{{c1::geringe Transaktionsrate pro Sekunde (bei ca. 7 Transaktionen pro Sekunde) führt zu einer Erhöhung der Transaktionskosten, welche bei jeder Transaktion anfallen}}</li>
+<li>{{c1::spekulatives Investment und Volatilität}}</li>
+</ul>"	
+{{c1::Bitcoin}} ist {{c2::eine Kryptowährung und Technologie für finanzielle Transaktionen innerhalb eines dezentralen Währungssystems}} durch {{c3::eine Blockchain}}.	
+{{c1::Eine Blockchain}} ist {{c2::eine verschlüsselte Datenbank aus Blöcken}}, in welchen {{c3::Informationen und ein Verweis auf vorherige Blöcke}} gespeichert werden und {{c4::neue Blöcke über ein Konsensverfahren}} hinzugefügt werden.	
+"Beispiel:<br />
+Erfahrungskurve"	"<ul>
+<li>Automatisierung</li>
+<li>Einarbeitung von Mitarbeitern</li>
+<li>Routine</li>
+</ul>"
+"Frage:<br />
+Wie schnell kann der Erfahrungskurveneffekt umgesetzt werden?"	Der Erfahrungskurveneffekt benötigt eine gewisse Vorlaufzeit und kann nicht direkt umgesetzt werden.
+"wahr oder falsch:<br />
+Der Erfahrungskurveneffekt besagt, dass mit jeder Verdoppelung der Absatzmenge eines Produktes die im Zeitablauf kumulierten Stückkosten um einen bestimmten Prozentsatz sinken."	"falsch<br />
+Mit jeder Verdoppelung der kumulierten Absatzmenge eines Produktes sinken die Stückkosten."
+"{{c1::Die Erfahrungskurve (Experience Curve)}} ist {{c2::das dynamische Kostenmanagement durch die Verringerung des benötigten Input bei steigender Erfahrung}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Stockhinger-Erfahrungskurve.png"" alt=""""><br />
+Erfahrungskurve}}}}"	
+{{c1::Disruptive Innovation (disruptive innovation)}} ist {{c2::eine Innovation, bei dem Konsumenten ein Gut, ein Produkt oder eine Dienstleistung konsumieren können, welche davor nur für bestimmte Konsumenten zugänglich war}}. Bei {{c1::disruptiver Innovation}} handelt es sich um {{c3::einen evolutionären Prozess}}.	
+"<p>Charakteristische Eigenschaften von {{c1::disruptiven Innovationen}} sind:</p>
+<ul>
+<li>{{c2::geringerer Gewinn}}</li>
+<li>{{c2::zu Beginn ein kleinerer Markt, bis die Qualität den marktüblichen Standard erreicht hat}}</li>
+<li>{{c2::einfacheres Gut, Produkt oder Dienstleistung in einem Markt mit komplexen Gütern, Produkten oder Dienstleistungen}}</li>
+</ul>"	
+{{c1::Die Geschäftsmodellinnovation (Business Model Innovation)}} ist {{c2::die Innovation des Geschäftsmodell, die Schaffung, das Marketing und die Vermittlung}} von {{c3::Wertschöpfung und Kundenbindung}}, welches eine Unternehmung {{c4::einem oder mehreren Kundensegmenten}} bietet, um {{c5::Gewinn}} über {{c5::Einnahmekanäle}} zu erwirtschaften.	
+{{c1::Open Innovation}} ist {{c2::der Austausch von Wissen durch Organisationen zur Beschleunigung und Verbesserung von Innovation}}.	
+Während {{c1::etablierte Unternehmen}} insbesondere in der Festigung des {{c2::Dominant Designs}} einen strategischen Vorteil besitzen, besitzen {{c1::sich neu etablierende Unternehmen}} die große Opportunität in bei einem nicht etablierten oder absterbendem {{c2::Dominant Design}}.	
+{{c1::Der Abschwung der Produktinnovation}} führt {{c2::zum Aufschwung der Prozessinnovation}}.	
+{{c1::Die Prozessinnovation (Process Innovation)}} ist {{c2::die Innovation der Produktion und Bereitstellung von Produkten und Dienstleistungen}}.	
+{{c1::Die Produktinnovation}} versucht ein Produkt oder eine Dienstleistung {{c2::kostengünstiger, qualitativ hochwertiger oder schneller}} bereitzustellen.	
+{{c1::Bereits bestehende Industrien}} präferieren {{c2::Prozessinnovation}}.	
+{{c1::Die Produktinnovation (Product Innovation)}} ist {{c2::die Innovation der Bestandteile eines Produktes oder einer Dienstleistung}}. {{c1::Die Hochphase der Produktinnovation}} führt zu {{c3::der Etablierung des dominanten Designs}}.	
+{{c1::Sich neu entwickelnde Industrien}} präferieren {{c2::Produktinnovationen}}.	
+{{c1::Eine Lead Innovation}} ist {{c2::eine komplexe und angepasste Innovation für Lead User}}.	
+{{c1::Eine Frugal Innovation}} ist {{c2::eine einfache, wartungsarme und kostengünstige Innovation für den durchschnittlichen Konsumenten}}.	
+{{c1::Der Market Pull}} ist {{c2::die kundengetriebenen Innovation zur Anwendung auf einem Markt}}. Der Fokus liegt dabei auf {{c3::der Frugal Innovation}} oder {{c3::der Lead Innovation}}.	
+{{c1::Technology Push (technologieinduzierte Innovation, Technologieinnovation)}} ist {{c2::die Schaffung von neuem Wissen durch Technologie oder die wissenschaftsgetriebene Innovation}}.	
+{{c1::Innovation Dilemma}} ist {{c2::ein Dilemma, bei welchem sich Innovation durch limitierte Ressourcen in seiner Strategie einschränken muss}}.	
+"<p>{{c1::Das Innovation Dilemma}} umfasst insbesondere folgende Dimensionen:</p>
+<ul>
+<li>{{c2::Technology Push}} oder {{c2::Market Pull}}</li>
+<li>{{c3::Produktinnovation}} oder {{c3::Prozessinnovation}}</li>
+<li>{{c4::Open Innovation}} oder {{c4::Closed Innovation}}</li>
+<li>{{c5::Technologische Innovation}} oder {{c5::Geschäftsmodellinnovation}}</li>
+</ul>"	
+{{c1::Digital Innovation}} ist {{c2::ein Gut, Prozess oder Geschäftsmodell}}, welches {{c3::als neu wahrgenommen wird}}, {{c3::fundamentale Änderungen beinhaltetet}} und {{c3::in oder durch IT verkörpert wird}}. Digital Innovation erzeugen durch Digitalisierung neue Form vom Wert.	
+"<p>{{c1::Digital Innovation}} ist getrieben durch {{c2::Generativität}}, welche folgende Eigenschaften benötigt:</p>
+<ul>
+<li>{{c3::Homogenität der Daten}}</li>
+<li>{{c3::Programmierbarkeit und Änderbarkeit}}</li>
+<li>{{c3::aus sich selbst verweisend und aufbauend, meist in Ebenen}}</li>
+</ul>"	
+{{c1::Generativität (Generativity)}} ist {{c2::die unaufgeforderte Schaffung oder Veränderung von neuer Technologie durch eine große, diverse und nicht-koordinierte Menge an Menschen, meist die Gesellschaft}}.	
+{{c1::Erfindung (Invention)}} ist {{c2::die Umwandlung von Wissen in ein neues Gut}}. {{c1::Erfindungen}} sind {{c3::die treibende Kraft des Fortschrittes einer Gesellschaft}}.	
+{{c1::Erfindungen}} können zu {{c2::Innovationen}} werden, wenn {{c3::sie in einer Gesellschaft angewendet werden}}, müssen aber nicht zwingend zu einer werden.	
+{{c1::Ein Lock-In-Effekt (Vendor Lock-In)}} ist {{c2::der erschwerte Systemwechsel durch produktpolitische oder marketingbasierte Maßnahmen}} durch {{c3::die Erhöhung der Kosten eines Systemwechsels}}.	

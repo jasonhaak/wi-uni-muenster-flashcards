@@ -1,0 +1,1089 @@
+#separator:tab
+#html:true
+"<p>{{c1::Ein Kleinstunternehmen}} ist ein Unternehmen, in welchem zwei der drei folgenden Kriterien über zwei aufeinander folgende Geschäftsjahre über- bzw. unterschritten werden müssen:</p>
+<ul>
+<li>Arbeitnehmer im Jahresdurchschnitt {{c2::\(\leq\) 10}}</li>
+<li>Bilanzsumme {{c3::\(\leq\) 350.000 EUR}}</li>
+<li>Umsatzerlös {{c4::\(\leq\) 700.000 EUR}}</li>
+</ul>"	
+"<p>{{c1::Ein Kleinunternehmen}} ist ein Unternehmen, in welchem zwei der drei folgenden Kriterien über zwei aufeinander folgende Geschäftsjahre über- bzw. unterschritten werden müssen:</p>
+<ul>
+<li>Arbeitnehmer im Jahresdurchschnitt {{c2::\(\leq\) 50}}</li>
+<li>Bilanzsumme {{c3::\(\leq\) 6.000.000 EUR}}</li>
+<li>Umsatzerlös {{c4::\(\leq\) 12.000.000 EUR}}</li>
+</ul>"	
+{{c1::Die goldene Bilanzregel}} ist {{c2::eine Regel über die Bilanzstruktur, dass langfristig gebundenes Vermögen langfristig zu finanzieren ist}}.	
+{{c1::\(\text{Deckungsgrad B}\)}} \(=\) {{c2::\(\frac{EK + lFK}{AV}\)}} mit {{c2::\(EK\) als Eigenkapital, \(lFK\) als langfristiges Fremdkapital, \(AV\) als Anlagevermöge}}	
+{{c1::\(\text{Deckungsgrad A}\)}} \(=\) {{c2::\(\frac{EK}{AV}\)}} mit {{c2::\(EK\) als Eigenkapital, \(AV\) als Anlagevermögen}}	
+"wahr oder falsch:<br />
+Die Pauschalwertberichtigung, bemisst sich nach der Höhe, in der sich als einwandfrei klassifizierte Forderungen in den vergangenen Jahren als uneinbringlich erwiesen haben."	"wahr:<br />
+Da zukünftige Ausfallwahrscheinlichkeiten unbekannt sind, stellt der Rückgriff auf vergangene Ausfallwahrscheinlichkeiten meist die beste Schätzung zukünftiger Ausfälle dar."
+"wahr oder falsch:<br />
+Sind für einzelne Forderungen keine Risiken identifizierbar, so können diese dennoch pauschalwertberichtigt werden."	"wahr:<br />
+Die Pauschalwertberichtigung erlaubt es, Ausfallrisiken auch für als einwandfrei klassifizierte Forderungen zu berücksichtigen."
+"wahr oder falsch:<br />
+Beim permanenten LIFO-Verfahren wird auch unterjährig bei Abgängen ein arithmetisches Mittel zur Bewertung des Bestandes berechnet."	"wahr:<br />
+Beim permanenten LIFO-Verfahren wird im Gegensatz zur periodenweisen Abrechnung auch unterjährig bei Abgängen ein arithmetisches Mittel zur Bewertung des Bestandes berechnet."
+"wahr oder falsch:<br />
+Bei der gleitenden Durchschnittsbewertung wird nach jedem neuen Abgang ein neuer Durchschnittspreis errechnet. Dieser wird dann für die Bewertung der nächsten Abgänge angewandt."	"falsch:<br />
+Bei der gleitenden Durchschnittsbewertung wird nach jedem neuen&nbsp;Zugang&nbsp;ein neuer Durchschnittspreis errechnet. Dieser wird dann für die Bewertung der nächsten Abgänge angewandt."
+"wahr oder falsch:<br />
+Beim Umlaufvermögen ist das in den GoB kodifizierte strenge Niederstwertprinzip aufgehoben, da die zu bilanzierenden Vermögensgegenstände nicht dauerhaft dem Geschäftsbetrieb dienen und demzufolge nicht lange in der Bilanz berücksichtigt werden."	"falsch:<br />
+Für das Umlaufvermögen gilt gemäß § 253 Abs. 4 HGB das strenge Niederstwertprinzip."
+"wahr oder falsch:<br />
+Das Umlaufvermögen ist höchstens mit den Anschaffungskosten zu bewerten."	"falsch<br />
+Gemäß § 253 Abs. 1 Satz 1 HGB sind Vermögensgegenstände des Umlaufvermögens höchstens mit den Anschaffungs- oder Herstellungskosten zu bewerten."
+"wahr oder falsch:<br />
+Für die Bewertung des Umlaufvermögens können in Anlehnung an das Vorsichtsprinzip Bewertungsvereinfachungsverfahren verwendet werden."	"falsch:<br />
+Es dürfen Bewertungsvereinfachungsverfahren für die Bewertung des Umlaufvermögens eingesetzt werden. Dies ist jedoch auf den Grundsatz der Wirtschaftlichkeit und nicht auf das Vorsichtsprinzip zurückzuführen."
+"wahr oder falsch:<br />
+Der Anlagespiegel informiert über die Wertentwicklung der verschiedenen Positionen des Anlagevermögens während des Geschäftsjahres."	"wahr:<br />
+Die Aufgabe des Anlagespiegels ist es, die einzelnen Positionen des Anlagevermögens in ihrer Entwicklung darzustellen."
+"wahr oder falsch:<br />
+Die kumulierten Abschreibungen im Anlagespiegel umfassen lediglich die außerplanmäßigen Abschreibungen auf die am Jahresende noch vorhandenen Vermögensgegenstände des Anlagevermögens."	"falsch:<br />
+Die kumulierten Abschreibungen umfassen sämtliche bisher vorgenommene planmäßige und außerplanmäßige Abschreibungen auf die am Jahresende noch vorhandenen Vermögensgegenstände des Anlagevermögens."
+"wahr oder falsch:<br />
+Voll- und Teilkostenrechnung führen nur dann zu demselben Betriebsergebnis, wenn keine Veränderungen des Lagerbestands vorliegen."	"falsch:<br />
+Unterschiede zwischen dem Betriebsergebnis der Vollkostenrechnung und demjenigen der Teilkostenrechnung entstehen durch die Verrechnung der Fixkosten bei Änderungen im Lagerbestand. Daher führen beide Rechnungen zum selben Ergebnis, wenn keine Lagerbestandsänderung vorliegt. Sie führen aber nicht nur in diesem Fall zu demselben Ergebnis, sondern auch dann, wenn keine Fixkosten vorliegen."
+Das Gesamtkostenverfahren und Umsatzkostenverfahren führen immer zu {{c1::demselben Ergebnis}}.	
+{{c1::Das Umsatzkostenverfahren}} ist für das Controlling aussagekräftiger, da {{c2::eine Unterteilung nach einzelnen Funktionsbereichen geschieht}}.	
+"<p>{{c1::Funktionen des Eigenkapitals}} sind:</p>
+<ul>
+<li>{{c2::Begrenzungsfunktion}}</li>
+<li>{{c2::Errichtungsfunktion}}</li>
+<li>{{c2::Finanzierungsfunktion}}</li>
+<li>{{c2::Gewinnverteilungsbasis}}</li>
+<li>{{c2::Haftungsfunktion}}</li>
+<li>{{c2::Reputationsfunktion}}</li>
+<li>{{c2::Risikodeckung}}</li>
+<li>{{c2::Verfügungsrecht in Form des Informationsrecht}}</li>
+</ul>"	
+{{c1::Das bilanzielle Reinvermögen}} ist {{c2::die Differenz zwischen dem Vermögen und Verbindlichkeiten}}.	
+{{c1::\(\text{bilanzielle Reinvermögen}\)}} \(=\) {{c2::\(A - FK\)}} mit {{c2::\(A\) als Aktiva, \(FK\) als Fremdkapital}}	
+"{{c1::Das buchmäßige Eigenkapital}} ist {{c2::das bilanzielle Eigenkapital als Differenz zwischen Aktivposten und den passiven Rechnungsabgrenzungsposten, Rückstellungen und Verbindlichkeiten}}.<br />
+{{c1::Das buchmäßige Eigenkapital}} ist von {{c3::der Bewertung von Aktivposten und Passivposten}} abhängig."	
+{{c1::Das Haftungskapital}} ist {{c2::Eigenkapital, welches im Verlustfall zur Deckung von Forderungen genutzt wird}}. Die Bildung von {{c1::Haftungskapital}} ist Voraussetzung zur {{c3::Aufnahme von Fremdkapital}}.	
+"<p>{{c1::Maßnahmen zum Kostenmanagement}} sind:</p>
+<ul>
+<li>{{c2::der Personalabbau}}</li>
+<li>{{c3::die Optimierung und Strategieänderungen}}</li>
+</ul>"	
+"<p>{{c1::Gründe für die innerbetriebliche Leistungsverrechnung}} sind:</p>
+<ul>
+<li>{{c2::Erhöhung der Kosten- und Leistungstransparenz}}</li>
+<li>{{c2::präzise Abbildung der Wertschöpfungsprozesse}}</li>
+<li>{{c2::Stärkung des Kostenbewusstsein der Leistungsempfänger}}</li>
+</ul>"	
+{{c1::Die Kostenträgerstückrechnung}} ist {{c2::die Ermittlung der Stückkosten von einem Kostenträger}}.	
+"<p>{{c1::Ein mittelgroßes Unternehmen}} ist ein Unternehmen, in welchem zwei der drei folgenden Kriterien über zwei aufeinander folgende Geschäftsjahre über- bzw. unterschritten werden müssen:</p>
+<ul>
+<li>Arbeitnehmer im Jahresdurchschnitt zwischen {{c2::\(\geq\) 50 und \(\leq\) 250}}</li>
+<li>Bilanzsumme zwischen {{c3::\(\geq\) 6.000.000 und \(\leq\) 20.000.000 EUR}}</li>
+<li>Umsatzerlös zwischen {{c4::\(\geq\) 12.000.000 und \(\leq\) 40.000.000 EUR}}</li>
+</ul>"	
+{{c1::Das Vorsichtsprinzip}} ist {{c2::ein Prinzip zur Bewertung von Bilanzpositionen nach dem wahrscheinlichsten Werten}}.	
+"wahr oder falsch:<br />
+In der Bilanz werden die laufenden Pensionsverpflichtungen, für die eine Gegenleistung nicht mehr zu erwarten ist, in Höhe ihres Barwerts passiviert."	"wahr:<br />
+Eine Pensionsrückstellung ist ratierlich so anzusammeln, dass bei Rentenbeginn, bei dem keine weiteren Gegenleistungen mehr zu erwarten, eine Rückstellung in Höhe des Barwertes der erwarteten Rentenzahlungen besteht."
+"wahr oder falsch:<br />
+Pensionsrückstellungen stellen eine Form der Fremdfinanzierung dar, weil die Pensionsansprüche vollständig zu erfüllen sind, bevor die Unternehmenseigner ihren Teil am Liquidationserlös erhalten."	wahr
+"<p>Die {{c1::Bewertung von Pensionsrückstellungen}} kann durch folgende Verfahren erfolgen:</p>
+<ul>
+<li>{{c2::Bewertungsannahmen: Annahmen werden im Anhang angegeben}}</li>
+<li>{{c2::Diskontierungszins: Abzinsung mit dem durchschnittlichen Marktzinssatz der vergangenen zehn Geschäftsjahre}}</li>
+<li>{{c2::Erfüllungsbetrag: Lohn- und Gehaltstrends sind zu berücksichtigen}}</li>
+</ul>"	
+Während {{c1::der Pensionsanwartschaft}} sind Pensionsverpflichtungen nach {{c2::vernünftiger kaufmännischer Beurteilung}} zu bewerten. Insbesondere muss {{c3::der Barwert}} {{c4::der Pensionsrückstellungen}} der erwarteten Pensionszahlung bei Rentenbeginn entsprechen.	
+{{c1::Das Imparitätsprinzip}} ist {{c2::ein Prinzip zur Bewertung von vorhersehbaren Risiken und Verlusten, die bis zu dem Abschlussstichtag entstanden sind}}. Nach {{c1::dem Imparitätsprinzip}} werden {{c3::Gewinne}} nur berücksichtigt, wenn {{c4::sie realisiert wurden}}.	
+{{c1::Das Realisationsprinzip}} ist {{c2::ein Prinzip über Gewinne, die nur berücksichtigt werden, wenn sie am Abschlussstichtag realisiert sind}}.	
+"<p>{{c1::Ein Großunternehmen}} ist ein Unternehmen, in welchem zwei der drei folgenden Kriterien über zwei aufeinander folgende Geschäftsjahre über- bzw. unterschritten werden müssen:</p>
+<ul>
+<li>Arbeitnehmer im Jahresdurchschnitt \(\geq\) {{c2::250}}</li>
+<li>Bilanzsumme \(\geq\) {{c3::20.000.000 EUR}}</li>
+<li>Umsatzerlös \(\geq\) {{c4::40.000.000 EUR}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Zur klaren Abgrenzung von Verantwortlichkeiten ist es sinnvoll, pro Kostenstelle nur einen Kostenstellenleiter einzusetzen. Ein Kostenstellenleiter kann gleichwohl mehrere Kostenstellen verantworten."	wahr
+{{c1::Eine Kostenstellenleitung}} kann nur für {{c2::die Beschäftigungsabweichung}} verantwortlich gemacht werden.	
+"wahr oder falsch:<br />
+Pensionsrückstellungen sind Leistungszusagen gegenüber den eigenen Arbeitnehmern und stellen daher Rückstellungen für Innenverpflichtungen dar."	"falsch:<br />
+Pensionsrückstellungen gehören zu den Verbindlichkeitsrückstellungen und stellen eine Außenverpflichtung dar."
+"wahr oder falsch:<br />
+Pensionsverpflichtungen sind während der Dienstzeit in Höhe ihres Barwerts anzusetzen. Die Höhe der Pensionsverpflichtung verändert sich folglich nur durch den Zinseffekt."	"falsch:<br />
+Die Höhe der Pensionsrückstellung ändert sich durch den Zuführungsbetrag, der sowohl einen Zins- als auch einen Lohnanteil beinhaltet."
+{{c1::Eine Pensionsrückstellung}} ist {{c2::eine Rückstellung für die Erbringung von Leistungen im Pensionsfall}}.	
+{{c1::\(\text{Materialintensität}\)}} \(=\) {{c2::\(\frac{MA}{U}\)}} mit {{c2::\(MA\) als Materialaufwand, \(U\) als Umsatz}}	
+{{c1::\(\text{Personalintensität}\)}} \(=\) {{c2::\(\frac{PA}{U}\)}} mit {{c2::\(PA\) als Personalaufwand, \(U\) als Umsatz}}	
+{{c1::Eine Aufwandsstrukturkennzahl}} ist {{c2::eine Kennzahl, welche eine Aufwandsart ins Verhältnis zum Umsatz setzt}}.	
+{{c1::Die erfolgswirtschaftliche Analyse}} ist {{c2::die Analyse der Ertragskraft}}. Ziel {{c1::der erfolgswirtschaftlichen Analyse}} ist {{c3::die Abschätzung der aktuellen und zukünftigen Ertragskraft zur Ermittlung des nachhaltigen Unternehmenserfolgs}}.	
+{{c1::\(\text{Liqudität 1. Grades}\)}} \(=\) {{c2::\(\frac{\text{Liquide Mittel} }{\text{Kurzfristiges Fremdkapital} }\)}}	
+{{c1::\(\text{Liqudität 2. Grades}\)}} \(=\) {{c2::\(\frac{\text{Liquide Mittel} + \text{Kurzfristige Forderungen} }{\text{Kurzfristiges Fremdkapital} }\)}}	
+"{{c1::\(\text{Liqudität 3. Grades}\)}} \(=\)<br />
+{{c2::\(\frac{\text{Umlaufvermögen} }{\text{Kurzfristiges Fremdkapital} }\)}}"	
+{{c1::\(\text{Anlageintensität}\)}} \(=\) {{c2::\(\frac{AV}{GV}\)}} mit {{c2::\(AV\) als Anlagevermögen, \(GV\) als Gesamtvermögen}}	
+{{c1::Die finanzwirtschaftliche Analyse}} ist {{c2::die Analyse der finanziellen Stabilität}}.	
+{{c1::Ziel der finanzwirtschaftlichen Analyse}} ist {{c2::die Beschaffung von Informationen über die aktuelle und zukünftige finanzielle Stabilität eines Unternehmens zur Beurteilung der Liquidität und von möglichen Gefahren in der Finanzierungsstruktur}}.	
+"wahr oder falsch:<br />
+Bilanzpolitik kann durch Maßnahmen vor und nach dem Bilanzstichtag erfolgen."	"wahr:<br />
+Vor dem Bilanzstichtag kann Bilanzpolitik durch Sachverhaltsgestaltung erfolgen, nach dem Bilanzstichtag durch die Nutzung von Wahlrechten und Ermessensspielräumen."
+"{{c1::Die Bilanzpolitik}} ist {{c2::die bewusste, zweckorientierte Beeinflussung von Abschluss und Lagebericht zur Verhaltenssteuerung von Informationsempfängern}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kajueter-Bilanzpolitik.png"" alt=""""><br />
+Bilanzpolitik}}}}"	
+{{c1::Ein Soll-Ist-Vergleich}} ist {{c2::ein Vergleich mit Soll-Normen}}.	
+{{c1::Ein Unternehmensvergleich}} ist {{c2::ein Vergleich mit Kennzahlen eines anderen Unternehmens}}.	
+{{c1::Ein Zeitvergleich}} ist {{c2::ein Vergleich mit Kennzahlen des Unternehmens zu einem anderen Zeitpunkt}}.	
+"wahr oder falsch:<br />
+Zu den relativen Kennzahlen zählen Summen, Gliederungszahlen und Indexzahlen."	"falsch:<br />
+Zu den relativen Kennzahlen zählen Gliederungszahlen, Beziehungszahlen und Indexzahlen. Summen sind absolute Kennzahlen."
+{{c1::Die Jahresabschlussanalyse}} ist {{c2::die Beurteilung, inwieweit ein Unternehmen die Ziele der Ertragskraft und finanziellen Stabilität erreicht hat}}. {{c1::Die Jahresabschlussanalyse}} besteht somit aus {{c3::der erfolgswirtschaftlichen Analyse und der finanzwirtschaftlichen Analyse}}.	
+"{{c1::Die Jahresabschlussanalyse}} besteht aus mehreren Schritten:<br />
+{{c2::Sammlung notwendiger Informationen}} -&gt; {{c3::Aufbereitung der Daten}} -&gt; {{c4::Ermittlung der Kennzahlen}} -&gt; {{c5::Interpretation der Kennzahlen}} -&gt; {{c6::Zusammenfassung zu einem Gesamturteil}}"	
+{{c1::Eine mittelbare Pensionsverpflichtung}} ist {{c2::eine Pensionsleistung für einen Arbeitnehmer, die von einem Versicherungsunternehmen erbracht wird, wobei das Versicherungsunternehmen mit dem Unternehmen des Arbeitnehmers in einem Vertragsverhältnis steht}}.	
+{{c1::Eine unmittelbare Pensionsverpflichtung}} ist {{c2::eine Pensionsleistung für einen Arbeitnehmer, die von einem Unternehmen erbracht wird}}.	
+{{c1::Der Erfüllungsbetrag}} ist {{c2::der Betrag, welcher bei normaler Abwicklung des Geschäfts notwendig ist, um eine Verpflichtung zu erfüllen}}.	
+"wahr oder falsch:<br />
+Die DEFS Coatings hat einen Vertrag über die Lieferung von 5 Tonnen Verdünnungsmittel im Geschäftsjahr 2020 abgeschlossen. Zum Ende des Jahres 2019 stellt sich jedoch heraus, dass die Rohstoffpreise stark gestiegen sind und eine Herstellung der Verdünnungsmittel teurer sein wird als der vertraglich vereinbarte Verkaufspreis. Der Geschäftsvorfall ist passivierungspflichtig."	"wahr:<br />
+Gemäß § 249 Abs. 1 HGB ist eine Rückstellung für drohende Verluste aus schwebenden Geschäften zu bilden. Da die DEFS Coatings bereits jetzt absehen kann, dass ihr künftig ein Verlust entstehen wird, ist sie verpflichtet, diesen bereits in dem aktuellen Geschäftsjahr zu antizipieren."
+"wahr oder falsch:<br />
+Die DEFS Coatings hat Rohstoffe für ihre Lackherstellung auf Ziel gekauft. Der Geschäftsvorfall ist passivierungspflichtig."	"wahr:<br />
+Es handelt sich um eine Schuld, da eine rechtliche Verpflichtung vorliegt, die eine wirtschaftliche Belastung in Höhe des Kaufpreises darstellt und genau quantifizierbar ist."
+"wahr oder falsch:<br />
+Die DEFS Coatings verschiebt Instandhaltungsmaßnahmen einiger Mischmaschinen in den Mai des folgenden Geschäftsjahres, da in dem aktuellen Geschäftsjahr zum 31.12. keine Leerlaufzeiten mehr eingerichtet werden können, die für die Wartung der Maschine notwendig sind. Der Geschäftsvorfall ist passivierungspflichtig."	"falsch:<br />
+Es dürfen nach § 249 Abs. 2 HGB keine Rückstellungen für Instandhaltungsmaßnahmen gebildet werden, die nicht in den ersten drei Monaten des folgenden Geschäftsjahres durchgeführt werden."
+{{c1::Der Passivierungsgrundsatz}} ist {{c2::ein Grundsatz nach § 246 Abs. 1 HGB, welcher besagt, dass alle Schulden im Abschluss anzusetzen sind}}.	
+"wahr oder falsch:<br />
+Bei Schulden muss es sich um eine rechtliche Verpflichtung handeln, damit diese abstrakt passivierbar sind."	"falsch:<br />
+Es kann sich auch um eine wirtschaftliche Verpflichtung handeln, z. B. Kulanzleistungen für fehlerhafte Produkte."
+"wahr oder falsch:<br />
+Der Eintritt der wirtschaftlichen Belastung durch eine Schuld muss hinreichend wahrscheinlich sein, damit diese abstrakt passivierbar sind."	"wahr:<br />
+Es müssen mehr Gründe dafür als dagegen sprechen, dass eine wirtschaftliche Belastung entsteht."
+"wahr oder falsch:<br />
+Schulden müssen genau quantifizierbar sein, damit diese abstrakt passivierbar sind."	"falsch:<br />
+Auch wenn die Schuld vorhersehbar, aber nur in einer Bandbreite bestimmbar ist, liegt eine Schuld im Sinne der abstrakten Passivierungsfähigkeit vor."
+{{c1::Schulden}} sind {{c2::quantifizierbare wirtschaftliche Belastungen aus rechtlichen oder wirtschaftlichen Verpflichtungen}}.	
+Schulden werden in {{c1::der Erstbewertung}} nach {{c2::dem Erfüllungsbetrag}} bewertet. {{c1::Eine Folgebewertung}} muss {{c3::zu jedem Bilanzstichtag nach dem Höchstwertprinzip}} erfolgt.	
+"wahr oder falsch:<br />
+Bei der Bewertung von Verbindlichkeiten, bei denen die künftige rechtliche oder wirtschaftliche Verpflichtung unsicher ist, muss ein Unsicherheitsabschlag berücksichtigt werden."	"falsch:<br />
+Ist die künftige rechtliche oder wirtschaftliche Verpflichtung unsicher, so handelt es sich bei dem Sachverhalt nicht um eine Verbindlichkeit."
+"wahr oder falsch:<br />
+Verbindlichkeiten sind Verpflichtungen, deren Existenz, Höhe und Fälligkeit genau determiniert sind. Der Ansatz ist gemäß dem Passivierungsgrundsatz verpflichtend und die Bewertung erfolgt zum Rückzahlungsbetrag."	"falsch:<br />
+Verbindlichkeiten sind gemäß § 253 Abs. 1 Satz 2 HGB mit dem Erfüllungsbetrag zu bewerten."
+Eine Verbindlichkeit in der Wirtschaft ist {{c2::eine Rücklage für Verbindlichkeiten, die in ihrem Grund, ihrer Höhe und des Anfallszeitpunkts bekannt sind}}. Angaben über die einzelnen Posten, Restlaufzeiten und Sicherheiten von Verbindlichkeiten werden im {{c3::Jahresabschlussanhang}} angegeben.	
+{{c1::Eine Verbindlichkeit}} wird mit {{c2::dem Erfüllungsbetrag}} bewertet, wobei {{c3::Werterhöhungen}} zu berücksichtigen sind.	
+{{c1::Ein Bilanzverlust}} ist {{c2::ein Fehlbetrag, der sich aus dem Verlustvortrag und dem Jahresergebnis ergibt und auf der Passivseite vom Eigenkapital abzuziehen ist}}.	
+{{c1::Ein nicht durch Eigenkapital gedeckter Fehlbetrag}} ist {{c2::ein Bilanzverlust, der nicht durch das Eigenkapital gedeckt werden kann}}. {{c1::Ein nicht durch Eigenkapital gedeckter Fehlbetrag}} wird {{c3::am Ende der Aktivseite}} ausgewiesen.	
+Ein nicht durch Eigenkapital gedeckter Fehlbetrag führt zu {{c1::einer buchmäßigen Überschuldung}}.	
+{{c1::Eine andere Gewinnrücklage}} ist {{c2::eine Rücklage, die zu maximal 50 % des Jahresüberschuss genutzt werden darf}}.	
+{{c1::Die gesetzliche Gewinnrücklage}} ist {{c2::eine Gewinnrücklage, welche für Kapitalgesellschaften gesetzlich festgelegt ist und mit mindestens 5 % des Jahresüberschuss zu dotieren sind, bis die Kapitalrücklagen und gesetzlichen Rücklagen 10 % des gezeichneten Kapitals betragen}}.	
+{{c1::Eine Ergebnisglättung (Income Smoothing)}} ist {{c2::die Bildung und Auflösung von stillen Reserven}}.	
+{{c1::Eine Ermessensrücklage}} ist {{c2::eine Rücklage, welche aufgrund der Notwendigkeit zur Schätzung entsteht}}.	
+{{c1::Eine Dispositionsrücklage}} ist {{c2::eine Rücklage, welche durch die Ausübung von Wahlrechten entsteht}}.	
+{{c1::Eine Zwangsrücklage}} ist {{c2::eine Rücklage, welche durch das Realisationsprinzip entsteht}}.	
+{{c1::Eine Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen}} ist {{c2::eine Rücklage, die auf der Aktivseite in den Anschaffungskosten bilanziert werden, wenn das beherrschte Unternehmen wirtschaftlicher Eigentümer ist}}.	
+"{{c1::Eine ausstehende Einlage}} ist {{c2::ein Bestandteil des gezeichnetes Kapitals, welcher noch nicht eingezahlt ist}}.<br />
+{{c1::Die ausstehende Einlage}} ist {{c3::eine Forderung gegenüber den Gesellschaftern und ein Korrekturbetrag zum Nominalkapital}}."	
+"wahr oder falsch:<br />
+Gewinnrücklagen sind variables Eigenkapital."	"wahr:<br />
+Gewinnrücklagen werden aus dem Jahresüberschuss eines Unternehmens gebildet. Somit schwankt der Betrag auf diesem Eigenkapitalkonto in Abhängigkeit vom erzielten Jahresüberschuss."
+"wahr oder falsch:<br />
+Gezeichnetes Kapital ist variables Eigenkapital."	"falsch:<br />
+Das gezeichnete Kapital ist oft über Jahre konstant und wird bei Kapitalbedarf mittels Kapitalerhöhungen aufgestockt oder (selten) durch Kapitalherabsetzungen reduziert. Im Gegensatz zum variablen Eigenkapital wird das fixe Eigenkapital in der Bilanz nur aufgrund eines Gesellschafterbeschlusses in Form einer Kapitalerhöhung oder Kapitalherabsetzung verändert."
+"wahr oder falsch:<br />
+Der Jahresüberschuss ist variables Eigenkapital."	"wahr:<br />
+Der Jahresüberschuss ist im Rechnungswesen die sich aus der Gewinn- und Verlustrechnung ergebende positive Differenz aus Erträgen und Aufwendungen einer Rechnungsperiode. In Abhängigkeit von der wirtschaftlichen Lage des Unternehmens schwank der Betrag auf diesem Konto."
+"wahr oder falsch:<br />
+Kapitalrücklagen sind variables Eigenkapital."	"falsch:<br />
+Die Kapitalrücklage enthält von den Gesellschaftern geleistete Beträge, die über den jeweiligen Nennwert der Anteile hinausgehen. Im Gegensatz zum variablen Eigenkapital wird das fixe Eigenkapital nur aufgrund eines Gesellschafterbeschlusses in Form einer Kapitalerhöhung oder Kapitalherabsetzung verändert."
+"wahr oder falsch:<br />
+Rücklagen für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen sind variables Eigenkapital."	"wahr:<br />
+Eine solche Rücklage ist zwingend in dem Fall zu bilden, in dem die bilanzierende Gesellschaft Anteile von einem Unternehmen hält, von dem es beherrscht wird oder das mehrheitlich am bilanzierenden Unternehmen beteiligt ist. In Abhängigkeit der in einem Geschäftsjahr erworbenen Anteile schwankt der Betrag auf diesem Konto."
+{{c1::Das variable Eigenkapital}} ist {{c2::ein Bestandteil des Eigenkapital, welcher von Periode zu Periode schwankt}}.	
+{{c1::Das variable Eigenkapital}} besteht aus {{c2::den Gewinnrücklagen und dem Periodenergebnis}}.	
+{{c1::Das fixe Eigenkapital}} ist {{c2::ein Bestandteil des Eigenkapitals, welches sich nur durch eine Kapitalerhöhung oder eine Kapitalherabsetzung verändert}}.	
+{{c1::Das fixe Eigenkapital}} besteht aus {{c2::dem gezeichneten Kapital und den Kapitalrücklagen}}.	
+{{c1::Eine uneinbringliche Forderung}} ist {{c2::eine ausgefallene Forderung}}. {{c1::Eine uneinbringliche Forderung}} wird {{c3::in voller Höhe}} abgeschrieben.	
+"wahr oder falsch:<br />
+Liegen bei einer zweifelhaften Forderung mehrere mögliche Werte vor, so ist aufgrund des strengen Niederstwertprinzips die niedrigste Wertminderung bei der Bewertung zu berücksichtigen."	"falsch:<br />
+Gemäß des Vorsichtsprinzips ist der Wert am unteren, ungünstigeren Ende der Bandbreite möglicher Werte zu berücksichtigen."
+{{c1::Eine zweifelhafte Forderung}} ist {{c2::eine Forderung mit einer hohen Ausfallwahrscheinlichkeit}}.	
+Eine zweifelhafte Forderung wird bei Ausfall {{c2::abgeschrieben}} oder bei Nicht-Kapitalgesellschaften {{c2::berichtigt}}.	
+{{c1::Eine einwandfreie Forderung}} ist {{c2::eine Forderung mit einer niedrigen Ausfallwahrscheinlichkeit}}.	
+{{c1::Eine einwandfreie Forderung}} wird bei Ausfall in Höhe {{c2::des voraussichtlichen Forderungsausfalls}} berichtigt, wobei die Anpassung {{c3::am Bilanzstichtag}} geschieht.	
+"wahr oder falsch:<br />
+Das Festbewertungsverfahren kann besonders gut bei Roh-, Hilfs- und Betriebsstoffen angewendet werden, deren Wert hohe Schwankungen um einen Mittelwert aufweist, da so ständige erfolgswirksame Wertkorrekturen vermieden werden können."	"falsch:<br />
+Das Festwertverfahren darf gemäß § 240 Abs. 3 HGB nur dann angewendet werden, wenn die zusammengefassten Vermögensgegenstände geringe Veränderungen hinsichtlich Wert, Größe und Zusammensetzung aufweisen und regelmäßig ersetzt werden."
+{{c1::Das Festwertverfahren}} ist {{c2::ein Bewertungsvereinfachungsverfahren, bei dem nicht nur der Wert, sondern auch die Menge vereinfacht festgestellt wird}}.	
+{{c1::Das Festwertverfahren}} kann nur für Gegenstände des {{c2::Sachanlagevermögens}} und für {{c2::Rohstoffe, Hilfsstoffe und Betriebsstoffe}} angewendet werden, die {{c3::regelmäßig ersetzt werden}}, {{c3::einer geringen Veränderung in der Größe, dem Wert und der Zusammensetzung unterliegen}} und {{c3::dessen Gesamtwert von nachrangiger Bedeutung ist}}.	
+"wahr oder falsch:<br />
+Für die Bewertung gleichartiger Vermögensgegenstände des Vorratsvermögens kann das LIFO-Verfahren eingesetzt werden."	"wahr:<br />
+Gemäß § 256 HGB stellt das LIFO-Verfahren ein zulässiges Bewertungsvereinfachungsverfahren für Vermögensgegenstände des Vorratsvermögens dar."
+{{c1::Das Verbrauchsfolgeverfahren}} ist {{c2::ein Bewertungsvereinfachungsverfahren von gleichartigen Vermögensgegenständen nach dem FIFO-Prinzip, bei dem älteste Vorräte zuerst verbraucht werden oder LIFO-Prinzip, bei dem neueste Vorräte zuerst verbraucht werden}}.	
+"wahr oder falsch:<br />
+Für die Bewertung gleichartiger Vermögensgegenstände des Vorratsvermögens kann das Gruppenbewertungsverfahren eingesetzt werden."	"wahr:<br />
+Um die Wirtschaftlichkeit der Bilanzierung sicherzustellen, kann bei der Bewertung gleichartiger Vermögensgegenstände des Vorratsvermögens das Gruppenbewertungsverfahren nach § 240 Abs. 4 HGB verwendet werden."
+{{c1::Die Gruppenbewertung}} ist {{c2::ein Bewertungsvereinfachungsverfahren von Vermögensgegenständen, die Gleichartig zueinander sind und annähernde Preisgleichheit, gleiche Warengattung und gleiche Funktion besitzen}}.	
+{{c1::Ein Bewertungsvereinfachungsverfahren}} ist {{c2::ein Bewertungsverfahren zur Bewertungsvereinfachung aus Wirtschaftlichkeitsgründen unter bestimmten Voraussetzung}}.	
+{{c1::Das Wertaufholungsgebot}} ist {{c2::die Folgebewertung bei Wegfall der Gründen für die außerplanmäßige Abschreibung}}.	
+Vorräte werden in {{c1::der Erstbewertung}} zu {{c2::den Anschaffungskosten oder Herstellungskosten}} bewertet. Eine Bewertung {{c3::mit Bewertungsvereinfachungsverfahren}} ist unter bestimmten Voraussetzungen möglich. {{c1::Eine Folgebewertung}} erfolgt nach {{c4::dem strengen Niederstwertprinzip oder Wertaufholungsgebot}}.	
+"<p>{{c1::Der Vorrat}} besteht aus:</p>
+<ul>
+<li>{{c2::fertigen Erzeugnissen und Waren}}</li>
+<li>{{c3::geleisteten Anzahlungen}}</li>
+<li>{{c4::Rohstoffe, Hilfsstoffe und Betriebsstoffe}}</li>
+<li>{{c5::unfertige Erzeugnissen und unfertige Leistungen}}</li>
+</ul>"	
+"wahr oder falsch<br />
+Bei Anteilen an einem anderen Unternehmen wird eine Beteiligung vermutet, wenn die Anteile 15 % an diesem Unternehmen überschreiten."	"falsch:<br />
+Gemäß § 271 Abs. 1 S. 3 HGB wird eine Beteiligung vermutet ab einem Anteil von 20 %."
+{{c1::Eine Beteiligung}} ist {{c2::ein Anteil an einem anderen Unternehmen, welcher dazu bestimmt ist, den eigenen Unternehmen durch Herstellung einer dauernden Verbindung zu jenen Unternehmen zu dienen}}. {{c1::Die Beteiligungsvermutung}} gilt ab einen Anteil von {{c3::20 %}}.	
+{{c1::Ein Anteile an einem verbundenen Unternehmen}} ist {{c2::ein Anteil an einer Kapitalgesellschaft oder Personengesellschaft, die als Mutterunternehmen oder Tochterunternehmen in dem Konzernabschluss des Mutterunternehmens nach den Regeln der Vollkonsolidierung einzubeziehen ist}}.	
+{{c1::Eine Finanzanlage}} ist {{c2::ein Vermögensgegenstand, welcher einen Eigenkapitalanspruch oder Fremdkapitalanspruch an einem anderen Unternehmen verkörpert und dauernd dem Geschäftsbetrieb dient}}.	
+"<p>{{c1::Finanzanlagen}} bestehen aus:</p>
+<ul>
+<li>{{c2::Anteile an verbundenen Unternehmen}}</li>
+<li>{{c3::Ausleihungen}}</li>
+<li>{{c4::Beteiligungen}}</li>
+<li>{{c5::Wertpapiere des Anlagevermögens, welches als langfristige Kapitalanlage gehalten wird}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Um Adressaten ein realistisches Bild der Vermögens- und Ertragslage zu vermitteln, können Unternehmen Sachanlagen mit dem beizulegenden Zeitwert bewerten, falls sich dieser verlässlich ermitteln lässt."	"falsch:<br />
+Nach § 255 Abs. 1 HGB gilt das AK/HK-Prinzip, nach welchem Sachanlagen höchstens mit ihren fortgeführten Anschaffungs- bzw. Herstellungskosten zu bewerten sind. Ein allgemeines Wahlrecht zur Folgebewertung mit dem beizulegenden Zeitwert besteht nicht. Liegt der beizulegende Zeitwert jedoch unter den fortgeführten AK/HK, ist eine außerplanmäßige Abschreibung nach § 253 Abs. 3 HGB vorzunehmen."
+{{c1::Eine Sachanlage}} ist {{c2::ein Vermögensgegenstand, welcher eine körperliche Substanz besitzt, beweglich oder unbeweglich ist und dauernd dem Geschäftsbetrieb dient}}.	
+"<p>{{c1::Sachanlagen}} bestehen aus:</p>
+<ul>
+<li>{{c2::andere Anlagen, Betriebsausstattung und Geschäftsausstattungen}}</li>
+<li>{{c3::gelistete Anzahlungen und Anlagen im Bau}}</li>
+<li>{{c4::Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich Bauten auf fremden Grundstücken}}</li>
+<li>{{c5::technische Anlagen und Maschinen}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Kann die Entwicklung von der Forschung nicht verlässlich voneinander unterschieden werden, muss das betroffene Unternehmen schätzen, welche Aufwendungen der Forschung und welche Aufwendungen der Entwicklung zuzurechnen sind."	"falsch:<br />
+Können Forschung und Entwicklung nicht verlässlich voneinander unterschieden werden, ist eine Aktivierung der Entwicklungsausgaben nach § 255 Abs. 2a HGB nicht zulässig. Die Entwicklungsausgaben sind dann wie die Forschungsausgaben Aufwand der Periode. Daher ist keine Schätzung zur Trennung der beiden Aufwandsarten erforderlich."
+{{c1::Entwicklungskosten}} sind {{c2::Kosten, die im Rahmen einer Entwicklung anfallen}}.	
+Entwicklungskosten können als {{c1::Herstellungskosten}} aktiviert werden.	
+"Beispiel:<br />
+Forschung"	"<ul>
+<li>Suche nach Alternativen für Materialien</li>
+<li>Suche nach Alternativen für Produkte</li>
+<li>Suche nach Alternativen für Verfahren</li>
+</ul>"
+{{c1::Forschung}} ist {{c2::die Erweiterung des Verständnis über Phänomene und die Suche nach neuen wissenschaftlichen oder technischen Erkenntnissen ohne klare Verwertbarkeit}}.	
+{{c1::Forschungskosten}} sind {{c2::Kosten, die im Rahmen einer Forschung anfallen}}.	
+Forschungskosten sind nicht {{c1::Bestandteil der Herstellungskosten}}, sondern {{c1::Aufwand der Periode}}.	
+"wahr oder falsch:<br />
+Entgeltlich erworbene immaterielle Vermögensgegenstände sind zu Anschaffungskosten zu bewerten."	wahr
+"wahr oder falsch:<br />
+Immaterielle Vermögensgegenstände gehören nicht zum finanziellen Vermögen."	"wahr:<br />
+Immaterielle Vermögensgegenstände sind nicht Bestandteil der Finanzanlagen, da sie nicht finanzieller Natur sind."
+Die Bewertung von immateriellen Vermögensgegenständen erfolgt bei {{c2::entgeltlichem Erwerb}} zu {{c3::den Anschaffungskosten}} und bei {{c2::Selbsterstellung}} zu {{c3::den Herstellungskosten}}.	
+"wahr oder falsch:<br />
+Alle Mitarbeiter erhalten eine intensive Schulung zur Bekämpfung von Korruption und Bestechung. Dadurch können Aufwendungen für künftige Rechtsstreitigkeiten vermieden werden. Die Schulungskosten können als immaterieller Vermögensgegenstand aktiviert werden."	"falsch:<br />
+Schulungskosten können nicht aktiviert werden, sondern sind Aufwand der Periode."
+"wahr oder falsch:<br />
+Am 05.03.2019 erwirbt die GreenBicycles AG von einem Wettbewerber eine wertvolle Kundenliste für einen Preis von 15.000 €. Es besteht für die erworbenen Kundenlisten ein Aktivierungswahlrecht."	"falsch:<br />
+Da die entgeltlich erworbenen Kundenlisten einen Vermögensgegenstand darstellen, besteht gemäß dem Vollständigkeitsgebot nach § 246 Abs. 1 HGB eine Aktivierungspflicht und kein Aktivierungswahlrecht. Das Aktivierungsverbot des § 248 Abs. 2 Satz 2 HGB gilt nur für selbst erstellte immaterielle Vermögensgegenstände des Anlagevermögens und greift daher hier nicht."
+"wahr oder falsch:<br />
+Am 05.03.2019 erwirbt die GreenBicycles AG von einem Wettbewerber eine wertvolle Kundenliste für einen Preis von 15.000 €. Gemäß des Vollständigkeitsgebots muss die GreenBicycles AG die Kundenliste in ihrer Bilanz zu Anschaffungskosten aktivieren."	"wahr:<br />
+Das Aktivierungsverbot des § 248 Abs. 2 Satz 2 HGB gilt nur für selbst erstellte immaterielle Vermögensgegenstände des Anlagevermögens. Da die Kundenliste entgeltlich erworben wurde, ist ihr Wert objektiv feststellbar. Die Kundenliste ist daher zu aktivieren."
+"wahr oder falsch:<br />
+Das Unternehmen hat ein Patent für ein neuartiges Produkt entwickelt. Das Produkt befindet sich kurz vor der Serienreife und wird in Kürze auf den Markt kommen. Das Patent kann als immaterieller Vermögensgegenstand aktiviert werden."	"wahr:<br />
+Patente sind immaterielle Vermögensgegenstände. Da es sich um ein selbst erstelltes Patent handelt, besteht ein Aktivierungswahlrecht nach § 248 Abs. 2 Satz 1 HGB."
+"wahr oder falsch:<br />
+Der Goodwill kann als immaterieller Vermögensgegenstand aktiviert werden."	"falsch:<br />
+Der Goodwill erfüllt mangels selbständiger Verwertbarkeit nicht die abstrakte Aktivierungsfähigkeit und ist daher kein Vermögensgegenstand im Sinne des HGB."
+"wahr oder falsch:<br />
+Eine wertvolle Marke wird von einem Konkurrenzunternehmen erworben. Diese muss als immaterieller Vermögensgegenstand aktiviert werden."	wahr
+"wahr oder falsch:<br />
+Für die Markteinführung eines Produktes wird eine umfangreiche Werbekampagne durchgeführt, die im ganzen Land im Fernsehen ausgestrahlt wird. Die Kampagne wird zukünftige Umsätze deutlich steigern. Der Aufwand muss als immaterieller Vermögensgegenstand aktiviert werden."	"falsch:<br />
+Vertriebsaufwendungen sind Aufwand der Periode und können nicht aktiviert werden."
+"wahr oder falsch:<br />
+Immaterielles Vermögen ist nicht abstrakt aktivierungsfähig. Das HGB sieht jedoch ein Aktivierungswahlrecht für selbst erstellte immaterielle Vermögensgegenstände vor."	"falsch:<br />
+Immaterielles Vermögen kann abstrakt aktivierungsfähig und damit ein Vermögensgegenstand im Sinne des HGB sein. Dies ist bei einem Patent oder einer Softwarelizenz der Fall."
+"wahr oder falsch:<br />
+Selbsterstellte immaterielle Vermögensgegenstände des Anlagevermögens müssen aktiviert werden, falls sie nicht unter das Aktivierungsverbot für selbst geschaffene Marken, Drucktitel, Verlagsrechte, Kundenlisten oder vergleichbare immaterielle Vermögensgegenstände fallen."	"falsch:<br />
+Gemäß § 248 Abs. 2 Satz 1 HGB besteht in diesem Fall ein Aktivierungswahlrecht."
+{{c1::Die Aktivierung von immateriellen Vermögensgegenständen}} ist {{c2::verpflichtend}} beim {{c3::Kauf, Tausch, durch Werkverträge, gesellschaftsrechtliche Einlagen, bei Schenkungen oder bei einer direkten Gegenleistung mit objektiv feststellbarem Wert}}.	
+Ein Aktivierungswahlrecht liegt für {{c1::selbst geschaffene immaterielle Vermögensgegenständen}} vor.	
+"<p>Ein Aktivierungsverbot liegt für {{c1::bestimmte selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens}} vor. Dazu gehören:</p>
+<ul>
+<li>{{c2::Drucktitel}}</li>
+<li>{{c2::Kundenlisten}}</li>
+<li>{{c2::Marken}}</li>
+<li>{{c2::Verlagsrechte}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Da immaterielle Vermögensgegenstände häufig nur einen kleinen Anteil der Bilanzsumme ausmachen, spielen sie für die Unternehmensbewertung eine untergeordnete Rolle."	"falsch:<br />
+Immaterielle Vermögensgegenstände werden zwar nur eingeschränkt bilanziell erfasst. Gleichwohl sind immaterielle Vermögensgegenstände i. d. R. ein wichtiger Wertreiber, der für den Unterschied zwischen Marktwert und Buchwert des Eigenkapitals verantwortlich ist."
+"wahr oder falsch:<br />
+Immaterielle Vermögensgegenstände sind stets gut voneinander abgrenzbar."	"falsch:<br />
+Gerade bei immateriellen Vermögensgegenständen fällt die Abgrenzung aufgrund der fehlenden physischen Substanz oft schwer."
+{{c1::Ein immaterieller Vermögensgegenstand}} ist {{c2::ein Vermögensgegenstand, welcher keine körperliche Substanz besitzt, welcher nicht zu den Finanzanlagen gehört und dauernd dem Geschäftsbetrieb dient}}.	
+{{c1::Immaterielle Vermögensgegenstände}} haben eine hohe Bedeutung für den Unternehmenswert, werden aber bilanziell nur sehr eingeschränkt erfasst.	
+{{c1::Ein Wirtschaftsbericht}} ist {{c2::ein Bericht von einem Unternehmen über die Unternehmung, den Geschäftsverlauf und über finanzielle und nicht-finanzielle Leistungsindikatoren}}.	
+{{c1::Ein Prognosebericht}} ist {{c2::ein Bericht über die voraussichtliche Entwicklung einer Kapitalgesellschaft}}.	
+"wahr oder falsch:<br />
+Kapitalgesellschaften müssen ihren Jahresabschluss um einen Lagebericht nach § 264 Abs. 1 S. 1 HGB erweitern."	"falsch:<br />
+Kapitalgesellschaften müssen ihren Jahresabschluss um einen Anhang nach § 264 Abs. 1 S. 1 HGB erweitern. Der von mittelgroßen und großen Kapitalgesellschaften zu erstellende Lagebericht ist kein Bestandteil des Jahresabschlusses. Er ergänzt diesen."
+"wahr oder falsch:<br />
+Kleine börsennotierte Aktiengesellschaften müssen einen Lagebericht aufstellen."	"wahr:<br />
+Kleine Aktiengesellschaften gelten aufgrund ihrer Börsennotierung als groß nach § 267 Abs. 3 Satz 2 HGB. Sie sind daher wie große Kapitalgesellschaften zur Aufstellung eines Lageberichts verpflichtet."
+"wahr oder falsch:<br />
+Mittelgroße Kapitalgesellschaften im Sinne des § 267 Abs. 2 HGB sind von der Pflicht, einen Lagebericht zu erstellen nach § 264 Abs. 1 S. 4 HGB befreit."	"falsch:<br />
+Lediglich kleine und kleinste Kapitalgesellschaften im Sinne des §§ 267 Abs. 1 und 267a HGB sind von der Pflicht, einen Lagebericht zu erstellen nach § 264 Abs. 1 S. 4 HGB, befreit."
+{{c1::Ein Lagebericht}} ist {{c2::ein eigenständiges Berichtsinstrument zur Ergänzung, Erläuterung und Verdichtung des Jahresabschlusses}}, welcher für {{c3::mittelgroße Kapitalgesellschaften und große Kapitalgesellschaften}} verpflichtend ist.	
+{{c1::Ein Jahresabschlussanhang}} ist {{c2::ein Anhang zu der Bilanz und der GuV, welche eine Kapitalgesellschaft beizulegen hat}}.	
+"<p>{{c1::Der Jahresabschlussanhang}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::Entlastungsfunktion}}</li>
+<li>{{c2::Ergänzungsfunktion}}</li>
+<li>{{c2::Erläuterungsfunktion}}</li>
+<li>{{c2::Korrekturfunktion}}</li>
+</ul>"	
+{{c1::Das Niederstwertprinzip}} ist {{c2::die Abschreibung zur Folgebewertung auf den niedrigeren Börsenkurs oder Marktpreis}}.	
+"wahr oder falsch:<br />
+Bei Anlagen im Bau handelt es sich um Umlaufvermögen."	"falsch:<br />
+Anlagen im Bau gehören zu den Sachanlagen und damit zum Anlagevermögen."
+"wahr oder falsch:<br />
+Bei Forderungen aus Lieferungen und Leistungen handelt es sich um Umlaufvermögen."	wahr
+{{c1::Das Umlaufvermögen}} ist {{c2::ein gesetzlich nicht definierter Begriff, welcher aus allen Aktivposten besteht, die nicht dem Anlagevermögen, den Rechnungsabgrenzungsposten, aktive latente Steuern oder aktiven Unterschiedsbeträgen aus der Vermögensrechnung zuzuordnen sind}}.	
+"<p>{{c1::Das Umlaufvermögen}} besteht aus:</p>
+<ul>
+<li>{{c2::Forderungen}}</li>
+<li>{{c2::Kassenbestand}}</li>
+<li>{{c2::Vorräten}}</li>
+<li>{{c2::Wertpapieren}}</li>
+</ul>"	
+"Frage:<br />
+Warum ist die periodenbasierte Erfolgsermittlung besser als die zahlungsbasierte Erfolgsermittlung?"	Weil die periodenbasierte Erfolgsermittlung aussagekräftige Informationen für jährige Zahlungen liefert, die zahlungsbasierte Erfolgsermittlung dies aber nicht tut.
+"wahr oder falsch:<br />
+Eine zahlungsbasierte Erfolgsermittlung führt immer zum gleichen Periodenerfolg wie eine aufwandsbasierte Erfolgsermittlung."	"falsch:<br />
+Beide Methoden können unterschiedliche Periodenerfolge ausweisen, da die Summe aus Ein- und Auszahlungen in einer Periode nicht immer der Differenz aus Ertrag und Auswand entspricht. In der Totalperiode entspricht der kumulierte Zahlungsüberschuss jedoch dem kumulierten Gewinn."
+"wahr oder falsch:<br />
+Die periodenbasierte Erfolgsermittlung beinhaltet geringere Ermessensspielräume als die zahlungsbasierte Erfolgsermittlung."	"falsch:<br />
+Eine zahlungsbasierte Erfolgsermittlung basiert auf beobachtbaren Größen. Die Periodisierung im Rahmen einer aufwandsbasierten Erfolgsrechnung ist jedoch ermessensbehaftet, da subjektive Schätzungen (z.B. im Hinblick auf Nutzungs- bzw. Abschreibungsdauern) den Periodenerfolg maßgeblich beeinflussen."
+"wahr oder falsch:<br />
+Die zahlungsbasierte Erfolgsermittlung beinhaltet geringere Ermessensspielräume als die periodenbasierte Erfolgsermittlung."	"wahr:<br />
+Eine zahlungsbasierte Erfolgsermittlung basiert auf beobachtbaren Größen. Die Periodisierung im Rahmen einer aufwandsbasierten Erfolgsrechnung ist jedoch ermessensbehaftet, da subjektive Schätzungen (z.B. im Hinblick auf Nutzungs- bzw. Abschreibungsdauern) den Periodenerfolg maßgeblich beeinflussen."
+{{c1::Die periodenbasierte Erfolgsermittlung}} ist besser als {{c2::die zahlungsbasierte Erfolgsermittlung}}, da {{c3::durch die periodenbasierte Erfolgsermittlung aussagekräftige Informationen für jährige Zahlungen geliefert werden}}	
+"wahr oder falsch:<br />
+Zusatzkosten stellen den betriebsbedingten Werteverzehr dar, der in der Kostenrechnung zusätzlich verrechnet wird."	wahr
+"wahr oder falsch:<br />
+Zusatzkosten werden auch als wertverschieden Kosten bezeichnet."	falsch
+"wahr oder falsch:<br />
+Zusatzkosten werden auch als wesensverschieden Kosten bezeichnet."	wahr
+"wahr oder falsch:<br />
+Zusatzkosten werden in anderer Höhe in die Kosten- und Erlösrechnung übernommen, da die Aufwendungen der Finanzbuchhaltung den Werteverzehr nicht sachgerechet widerspiegeln."	falsch
+{{c1::Zusatzkosten}} sind {{c2::Kosten, die in der Finanzbuchhaltung nicht enthalten sind}}.	
+"wahr oder falsch:<br />
+Anderskosten stellen den betriebsbedingten Werteverzehr dar, der in der Kostenrechnung zusätzlich verrechnet wird."	falsch
+"wahr oder falsch:<br />
+Anderskosten werden auch als wertverschieden Kosten bezeichnet."	wahr
+"wahr oder falsch:<br />
+Anderskosten werden auch als wesensverschieden Kosten bezeichnet."	falsch
+"wahr oder falsch:<br />
+Anderskosten werden in anderer Höhe in die Kosten- und Erlösrechnung übernommen, da die Aufwendungen der Finanzbuchhaltung den Werteverzehr nicht sachgerechet widerspiegeln."	wahr
+{{c1::Anderskosten}} sind {{c2::Kosten, die in der Finanzbuchhaltung in anderer Höhe enthalten sind}}.	
+{{c1::Eigenkapital}} ist immer teurer als {{c2::Fremdkapital}}, da {{c2::Fremdkapital festverzinst, vertraglich gesichert und nicht an den Gewinn verknüpft ist}}.	
+"wahr oder falsch:<br />
+Kostenarten können im Hinblick auf die Zurechenbarkeit auf ein Bezugsobjekt in Einzelkosten und Gemeinkosten differenziert werden."	"wahr:<br />
+Kostenarten können im Hinblick auf die Zurechenbarkeit auf ein Bezugsobjekt in Einzel- und Gemeinkosten differenziert werden. Die Differenzierung von Kostenarten in variable und fixe Kosten erfolgt im Hinblick auf die Abhängigkeit von Beschäftigungsschwankungen."
+"wahr oder falsch:<br />
+Kostenarten können im Hinblick auf die Zurechenbarkeit auf ein Bezugsobjekt in variable und fixe Kosten differenziert werden."	"falsch:<br />
+Kostenarten können im Hinblick auf die Zurechenbarkeit auf ein Bezugsobjekt in Einzel- und Gemeinkosten differenziert werden. Die Differenzierung von Kostenarten in variable und fixe Kosten erfolgt im Hinblick auf die Abhängigkeit von Beschäftigungsschwankungen."
+{{c1::Eine Kostenart}} ist {{c2::ein betrieblich bedingte Werteverzehr in einer Periode, welcher hinsichtlich eines Kriteriums gleichen Merkmalsausprägungen aufweist}}.	
+"Beispiel:<br />
+Entwicklung"	"<ul>
+<li>Entwurf von gewählten Systemen</li>
+<li>Konstruktionen von gewählten Systemen</li>
+<li>Test von Systemen</li>
+</ul>"
+{{c1::Entwicklung}} ist {{c2::die Anwendung von Forschungsergebnissen}} zur {{c3::Entwicklung oder Verbesserung von Gütern oder Verfahren}}.	
+{{c1::Die Betriebsergebnisrechnung (Kostenträgerzeitrechnung)}} ist {{c2::ein Rechenwerk im internen Rechnungswesen zur Ermittlung des Periodenerfolgs für die interne Kontrolle}}.	
+{{c1::Die Passiva}} werden gegliedert in {{c2::Eigenkapital}} und {{c2::Fremdkapital}}.	
+"Beispiel:<br />
+Anlagevermögen"	"<ul>
+<li>Finanzanlagen</li>
+<li>immaterielle Vermögensgegenstände</li>
+<li>Sachanlagen</li>
+</ul>"
+{{c1::Das Anlagevermögen}} sind {{c2::alle Vermögensgegenstände, die dazu bestimmt sind, dem dauernden Geschäftsbetrieb zu dienen}}.	
+"Frage:<br />
+Welche Rücklagen werden offen im Eigenkapital ausgewiesen?"	"<ul>
+<li>gesetzliche Rücklagen</li>
+<li>Kapitalrücklagen</li>
+<li>satzungsmäßige Rücklagen</li>
+</ul>"
+{{c1::Die antizipative Rechnungsabgrenzung}} ist {{c2::die Rechnungsabgrenzung, wenn die Aufwandspositionen oder die Forderungen nach dem Bilanzstichtag beglichen werden, obwohl sie wirtschaftlich das aktuelle Geschäftsjahr betreffen}}.	
+{{c1::Die transitorische Rechnungsabgrenzung}} ist {{c2::die Rechnungsabgrenzung, wenn die Aufwandspositionen oder die Forderungen noch vor dem Bilanzstichtag beglichen werden, obwohl sie wirtschaftlich das folgende Geschäftsjahr betreffen}}.	
+"Frage:<br />
+Wann ist ein passiver Rechnungsabgrenzungsposten zu bilden?"	Eine passiver Rechnungsabgrenzung entsteht, wenn ein Unternehmen eine Zahlung in der aktuellen Periode erhält, die Gegenleistung aber erst in der nächsten Periode erbringt.
+{{c1::Die passive Rechnungsabgrenzung}} ist {{c2::die transitorische Rechnungsabgrenzung, wenn die Forderungspositionen noch vor dem Bilanzstichtag erhalten werden, obwohl sie wirtschaftlich das folgende Geschäftsjahr betreffen}}.	
+"Frage:<br />
+Wann ist ein aktiver Rechnungsabgrenzungsposten zu bilden?"	Eine aktive Rechnungsabgrenzung entsteht, wenn ein Unternehmen eine Zahlung in der aktuellen Periode tätigt, die Gegenleistung aber erst in der nächsten Periode erbracht wird.
+{{c1::Die aktive Rechnungsabgrenzung}} ist {{c2::die transitorische Rechnungsabgrenzung, wenn die Aufwandspositionen noch vor dem Bilanzstichtag bezahlt werden, obwohl sie wirtschaftlich das folgende Geschäftsjahr betreffen}}.	
+"Frage:<br />
+Wann ist ein Rechnungsabgrenzungsposten nötig und welches Ziel wird damit verfolgt?"	"Rechnungsabgrenzungsposten sind erforderlich, wenn die Zahlungen und Leistungsvorgänge in unterschiedlichen Perioden stattfinden.<br />
+Die Rechnungsabgrenzung verfolgt das Ziel, ein periodengerechtes Ergebnis zu ermitteln."
+{{c1::Eine Rechnungsabgrenzung}} ist {{c2::die Abgrenzung von Leistungsvorgängen in einer anderen Periode für eine periodenbasierte Erfolgsermittlung}}.	
+{{c1::Eine Entnahme}} ist {{c2::die Abführung von Eigenkapital in das Privatvermögen}}. {{c1::Entnahmen}} können nur durch {{c3::Einzelkaufleute}} getätigt werden.	
+{{c1::Eine Einlage}} ist {{c2::die Zuführung von Eigenkapital aus dem Privatvermögen}}. {{c1::Einlagen}} können nur durch {{c3::Einzelkaufleute}} getätigt werden.	
+{{c1::Ein Kontenrahmen}} ist {{c2::ein hierarchisches Gliederungsschema, welche zwischen Kontenarten, Kontengruppen und Kontenklassen differenziert}}.	
+{{c1::Die doppelte Buchführung}} ist {{c2::die Verbuchung eines Geschäftsvorfalls in mindestens zwei Konten über das Soll und Haben}}.	
+{{c1::Ein Konto}} besteht aus {{c2::dem Soll und dem Haben}}.	
+{{c1::Das Hauptbuch}} ist {{c2::die Dokumentation der Geschäftsvorfälle nach sachlichen Kriterien in Konten}}.	
+{{c1::Die Bilanz}} ist {{c2::eine Zusammenfassung verschiedener Arten von Vermögensgegenstände mit Gegenüberstellung der Schulden zu einem Stichtag}}.	
+Die Bilanz ist in {{c1::Aktiva}} und {{c1::Passiva}} aufgeteilt, wobei {{c1::das Vermögen der Aktiva dem Vermögen der Passiva}} entsprechen muss.	
+{{c1::Das Inventar (Bestandsverzeichnis)}} ist {{c2::das Ergebnis einer Inventur}}.	
+{{c1::Die Inventur}} ist {{c2::die artmäßige, mengenmäßige und wertmäßige Aufnahme aller Vermögensgegenstände und Schulden zu einem bestimmten Zeitpunkt}}.	
+{{c1::Die Bestandsaufnahme}} ist {{c2::die Aufnahme aller Vermögensgegenstände und Schulden, die bei Unternehmensgründung in das Unternehmen eingebracht werden}}.	
+{{c1::Die Buchführungspflicht}} ist {{c2::die Pflicht zur Buchführung}}. Handelsrechtlich ist {{c3::jeder Vollkaufmann}} zur Buchführung verpflichtet.	
+Die Buchführungspflicht beginnt mit {{c1::der Gründung des Unternehmens}}.	
+"<p>Die {{c1::Ordnungsmäßigkeit der Buchführung}} sind Anforderungen an die Buchführung:</p>
+<ul>
+<li>{{c2::Aufbewahrung der Buchführungsunterlagen für 10 Jahre}}</li>
+<li>{{c2::keine Buchung ohne Beleg}}</li>
+<li>{{c2::Nummerierung der Belege}}</li>
+<li>{{c2::vollständige und richtige Aufzeichnung der Geschäftsvorfälle}}</li>
+</ul>"	
+{{c1::Ein Vollkaufmann}} ist {{c2::ein Unternehmen, welches im Handelsregister eingetragen ist}}.	
+{{c1::Ein Geschäftsvorfall}} ist {{c2::ein Vorgang, welcher die wirtschaftliche Lage eines Unternehmens beeinflusst}}.	
+{{c1::Die Buchführung}} ist {{c3::die systematische Erfassung aller Geschäftsvorfälle, welche die wirtschaftliche Lage des Unternehmens beeinflussen}}. {{c1::Die Buchführung}} basiert auf {{c2::den Grundsätzen ordnungsmäßiger Buchführung}}.	
+externes Rechnungswesen: Adressat	Kapitalgeber, Kunden, Lieferanten und Mitarbeiter und Staat
+internes Rechnungswesen: Adressat	Management
+externes Rechnungswesen: Zweck	Informationsversorgung
+internes Rechnungswesen: Zweck	Entscheidungsfundierung und Verhaltenssteuerung
+externes Rechnungswesen: Instrument	Jahresabschluss
+internes Rechnungswesen: Instrumente	Kostenrechnung, Investitionsrechnung, Finanzrechnung und Kontrollrechnung
+externes Rechnungswesen: Rechengrößen	Aufwand und Ertrag
+internes Rechnungswesen: Rechengrößen	grundsätzlich alle Stromgrößen
+externes Rechnungswesen: Objekte	gesamte Unternehmung
+internes Rechnungswesen: Objekte	einzelne Teilbereiche
+externes Rechnungswesen: Vorschriften	Gesetze
+internes Rechnungswesen: Vorschriften	interne Richtlinien
+{{c1::Der Lagerabbau}} führt {{c2::in der Vollkostenrechnung}} zu {{c3::einem schlechteren Ergebnis}}, da {{c4::die Fixkosten vom Lageraufbau aus der Vergangenheit angerechnet werden}}.	
+{{c1::Der Lageraufbau und Lagerabbau}} beeinflusst {{c2::die Teilkostenrechnung}} nicht, da {{c3::die Fixkosten direkt angerechnet werden}}.	
+{{c1::Der Lageraufbau}} führt in {{c2::der Vollkostenrechnung}} zu {{c3::einem besseren Ergebnis}}, da {{c4::die Fixkosten in die Zukunft verlagert werden}}.	
+"Frage:<br />
+Die IUR AG ist ein international tätiges Dienstleistungsunternehmen im Bereich des Wissenstransfers, deren Schuldtitel an einem regulierten Markt gehandelt werden. Die Börse ist im EU/EWR-Raum angesiedelt.<br />
+Ist das Unternehmen börsennotiert und/oder kapitalmarktorientiert oder keines von beiden?"	kapitalmarktorientiert
+"Frage:<br />
+Die WWU AG hat einen großen Kapitalbedarf und hat die Zulassung zum Handel ihrer Aktien an einem organisierten Markt beantragt. Die Zulassung steht noch aus.<br />
+Ist das Unternehmen börsennotiert und/oder kapitalmarktorientiert oder keines von beiden?"	kapitalmarktorientiert
+{{c1::Eine kapitalmarktorientierte Kapitalgesellschaft}} ist nach § 264d HGH {{c2::eine Kapitalgesellschaft, die in einem organisierten Kapitalmarkt, meist eine Börse, durch von ihr ausgegebene Wertpapiere in Anspruch nimmt oder die Zulassung der Wertpapiere zum Handel beantragt hat}}.	
+Eine kapitalmarktorientierte Kapitalgesellschaft gilt immer als {{c1::eine große Kapitalgesellschaft}} und muss {{c2::spezielle Rechnungslegungsnormen erfüllen}}.	
+"Frage:<br />
+Die Aktien der DRZ AG werden an stattlich überwachten Börse außerhalb des EU/EWR-Raums gehandelt.<br />
+Ist das Unternehmen börsennotiert und/oder kapitalmarktorientiert oder keines von beiden?"	nicht kapitalmarktorientiert, aber börsennotiert
+{{c1::Eine börsennotierte Aktiengesellschaft}} ist {{c2::eine Aktiengesellschaft, welche ihre Aktien einem Markt regelmäßig und mittelbar oder unmittelbar zugänglich macht}}.	
+"wahr oder falsch:<br />
+Marktforschung kann die Unsicherheit über die Akzeptanz des Neuproduktes im Markt, sowie die Kosten der Entwicklung eines Neuproduktes reduzieren."	wahr
+{{c1::Die Marktforschung}} ist {{c2::die Ermittlung von Marktinformationen}} zur {{c2::Kaufpreisermittlung und Absatzmengenermittlung über den Produktlebenszyklus}}.	
+"wahr oder falsch:<br />
+Die Kosten der Geldbeschaffung, also Fremdkapitalzinsen, dürfen als Herstellungskosten grundsätzlich aktiviert werden."	"falsch:<br />
+Fremdkapitalzinsen dürfen grundsätzlich nicht als Herstellungskosten aktiviert werden nach §255 Abs. 3 Satz 1 HGB. Zinsen für Fremdkapital, welches einem Vermögensgegenstand direkt zuzurechnen ist, dürfen jedoch insoweit angesetzt werden, wie sie auf den Zeitraum der Herstellung entfallen."
+{{c1::Fremdkapitalzinsen}} dürfen nur in {{c2::die Herstellungskosten}} einbezogen werden, wenn {{c3::das Fremdkapital der Finanzierung der Herstellung dient und auf den Zeitraum der Herstellung entfällt}}.	
+{{c1::Ein Mutterunternehmen}} ist {{c2::ein Unternehmen, welches ein oder mehrere Tochterunternehmen beherrscht}}.	
+{{c1::Definitionsgrundsätze für den Jahreserfolg der ordnungsmäßigen Buchführung}} sind {{c2::Grundsätze der ordnungsmäßigen Buchführung und Regeln für die Gewinnermittlung einer Periode}}.	
+"<p>{{c1::Die Definitionsgrundsätze für den Jahreserfolg der ordnungsmäßigen Buchführung}} sind:</p>
+<ul>
+<li>{{c2::Grundsatz der Abgrenzung der Sache nach für Aufwendungen}}</li>
+<li>{{c2::Realisationsprinzip für Erträge}}</li>
+</ul>"	
+{{c1::Kapitalerhaltungsgrundsätze der ordnungsmäßigen Buchführung}} sind {{c2::Grundsätze der ordnungsmäßigen Buchführung und Regeln für die Gewinnermittlung im Hinblick auf die Gewinnverteilung}}.	
+"<p>{{c1::Die Kapitalerhaltungsgrundsätze der ordnungsmäßigen Buchführung}} sind:</p>
+<ul>
+<li>{{c2::Imparitätsprinzip}}</li>
+<li>{{c2::Vorsichtsprinzip}}</li>
+</ul>"	
+{{c1::Die Wertaufholungspflicht bei außerplanmäßigen Abschreibung}} ist {{c2::die Pflicht zur Zuschreibung, wenn der Grund einer außerplanmäßigen Abschreibungen wegfällt}}.	
+Bei {{c1::Firmenwerten}} darf keine {{c2::Zuschreibung}} erfolgen.	
+{{c1::Der Goodwill}} sind {{c2::alle Firmenwerte, welche beim Aufkauf von anderen Unternehmen der Betrag sind, welcher den Unternehmenswert übersteigen}}. {{c1::Der Goodwill}} ist {{c3::ein Konglomerat an immateriellen Werten}}.	
+"wahr oder falsch:<br />
+Ein Grundstück mit Anschaffungskosten von 150.000 € verliert durch die Entdeckung eines Erdgasfeldes und der damit verbundenen Erdgasbohrungen in unmittelbarer Nähe 20% an Wert. Die Dauer der Bohrungen ist nicht absehbar. Es erfolgt eine außerplanmäßige Abschreibung in Höhe von 30.000 €. Das Grundstück wird danach mit 120.000 € in der Bilanz bewertet."	"wahr:<br />
+Außerplanmäßige Abschreibungen auf abnutzbare und nicht abnutzbare Vermögensgegenstände des Anlagevermögens sind nach § 253 Abs. 5 Satz 5 HGB &nbsp;zwingend, wenn eine voraussichtlich dauernde Wertminderung vorliegt."
+"wahr oder falsch:<br />
+Eine außerplanmäßige Abschreibung ist bei Grundstücken nicht durchzuführen."	"falsch:<br />
+Außerplanmäßige Abschreibungen sind auch auf Grundstücke erforderlich, wenn eine voraussichtlich dauernde Wertminderung vorliegt."
+Die außerplanmäßige Abschreibung von Umlaufvermögen erfolgt nach {{c1::dem milden Niederstwertprinzip, die nur bei einer voraussichtlich dauernden Wertminderung verpflichtend ist}}.	
+Die außerplanmäßige Abschreibung von Umlaufvermögen erfolgt nach {{c1::den strengen Niederstwertprinzip, bei welcher eine Abschreibung bei Wertminderung verpflichtend ist}}.	
+{{c1::Die außerplanmäßige Abschreibung}} ist {{c2::die Abschreibung von nicht abnutzbaren Anlagevermögen und Umlaufvermögen}}.	
+{{c1::Eine außerplanmäßige Abschreibung}} findet statt, wenn {{c2::der Buchwert eines Aktiva größer als der Vergleichswert ist}}.	
+{{c1::Die Nutzungsdauer}} ist {{c2::der Zeitraum vom Beginn der Betriebsbereitschaft bis zum Ende durch rechtliche, technische oder wirtschaftliche Ursachen}}.	
+"<p>{{c1::Der Abschreibungsausgangswert}} besteht aus:</p>
+<ul>
+<li>{{c2::Anschaffungskosten}}</li>
+<li>{{c2::nachträgliche Anschaffungskosten}}</li>
+<li>{{c2::Restwert}}</li>
+</ul>"	
+{{c1::Die planmäßige Abschreibung}} ist {{c2::die Abschreibung von abnutzbaren Anlagevermögen}}.	
+{{c1::Die planmäßige Abschreibung}} ist abhängig von {{c2::dem Abschreibungsausgangswert, der Abschreibungsmethode und der Nutzungsdauer}}.	
+"<p>Nicht abnutzbares Anlagevermögen sind:</p>
+<ul>
+<li>{{c1::Finanzanlagen}}</li>
+<li>{{c2::Grundstücke}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Die Wertobergrenze ist die Summe aus den Pflicht- und Wahlbestandteilen der Herstellungskosten nach § 255 Abs. 2 HGB."	"wahr:<br />
+Die Summe aus Pflicht- und Wahlbestandteilen der Herstellungskosten bildet die Wertobergrenze nach § 255 Abs. 2 HGB."
+"wahr oder falsch:<br />
+Für alle variablen und fixen Kosten des Material- und Fertigungsbereiches besteht eine Aktivierungspflicht. Diese stellen somit die Wertobergrenze der Herstellungskosten dar."	"falsch:<br />
+Für alle variablen und fixen Kosten des Material- und Fertigungsbereiches besteht eine Aktivierungspflicht nach § 255 Abs. 2 HGB. Diese stellen nicht die Wertobergrenze, sondern die Wertuntergrenze der Herstellungskosten dar."
+"wahr oder falsch:<br />
+In den frühen Phasen der Produktentwicklung wird ein großer Teil der Herstellkosten festgelegt, sodass diese in späteren Lebenszyklusphasen nur noch geringfügig beeinflusst werden können."	"wahr:<br />
+Auch wenn die prozentuale Höhe der Kostenfestlegung im Einzelfall variiert, zeigen Studien, dass durchschnittlich ca. 70 - 80% der Herstellkosten in den frühen Phasen der Produktentwicklung festgelegt werden."
+"wahr oder falsch:<br />
+Unternehmen können bei der Ermittlung der Herstellungskosten jeweils zum Bilanzstichtag festlegen, ob sie die Wertobergrenze oder die Wertuntergrenze wählen."	"falsch:<br />
+Das HGB gewährt dem Bilanzierenden bei der Berechnung der Herstellungskosten ein Wahlrecht zur Einbeziehung der allgemeinen Verwaltungskosten sowie bestimmter Aufwendungen für soziale Leistungen. Mit der Ausübung dieses Wahlrechts geht ein gewisser bilanzpolitischer Spielraum einher, da mit der Wahl der Wertunter- oder der Wertobergrenze der Vermögens- und Erfolgsausweis beeinflusst wird. Dieser bilanzpolitische Spielraum erfährt jedoch eine Einschränkung durch das Stetigkeitsgebot nach § 252 Abs. 1 Nr. 6 HGB. Danach ist ein Abweichen von den angewandten Bewertungsmethoden nur in Ausnahmefällen zulässig. Die im Zeitablauf abweichende Ausübung von Aktivierungswahlrechten bei der Bestimmung der Herstellungskosten ist somit unter Berufung auf § 252 Abs. 2 HGB nur in sachlich begründeten Ausnahmefällen möglich."
+{{c1::Herstellungskosten}} sind {{c2::Aufwendungen, die durch den Verbrauch von Gütern oder die Inanspruchnahme von Dienstleistungen für die Herstellung eines Vermögensgegenstand entstehen}}. Dazu gehören {{c3::Materialkosten, Fertigungskosten, Sonderkosten, Materialgemeinkosten und Fertigungsgemeinkosten}}.	
+{{c1::\(\text{Herstellungskosten (Bewertungsuntergrenze)}\)}} \(=\) {{c2::\(\text{Materialeinzelkosten} + \text{Fertigungseinzelkosten} + \text{Sondereinzelkosten der Fertigung} + \text{Materialgemeinkosten} + \text{Fertigungsgemeinkosten}\)}}	
+{{c1::\(\text{Herstellungskosten (Bewertungsobergrenze)}\)}} \(=\) {{c2::\(\text{Herstellungskosten (Bewertungsuntergrenze)} + \text{allgemein Verwaltungskosten} + \text{Aufwendungen für soziale Einrichtungen, Leistungen und Altersversorgung} + \text{Fremdkapitalzinsen}\) }}	
+Forschungskosten und Vertriebskosten sind {{c1::keine Herstellungskosten}} und dürfen nicht einbezogen werden.	
+Für die Planung von Herstellkosten können in die Betriebsergebnisrechnung {{c1::Standard-Herstellkosten und entsprechende Preisabweichungen}} eingerechnet werden.	
+"wahr oder falsch:<br />
+Die nachträgliche Verbesserung einer Maschine, die ihre Leistungsfähigkeit dadurch wesentlich erhöht ist eine nachträgliche Anschaffung."	"wahr:<br />
+Die Aufwendungen für eine nachträgliche wesentliche Verbesserung der Leistungsfähigkeit der Maschine stellen nachträgliche Anschaffungskosten gem. § 255 Abs. 1 HGB dar."
+{{c1::Nachträglichen Anschaffungskosten}} sind {{c2::Ausgaben, die nach Abschluss eines Anschaffungsvorgangs anfallen}}.	
+"wahr oder falsch:<br />
+Der Bau eines Fundaments für eine Maschine ist eine Anschaffungsnebenkoste."	"wahr:<br />
+Die Kosten für den Bau eines Fundaments gehören zu den Anschaffungskosten gemäß § 255 Abs. 1 HGB, da das Fundament nötig ist, um die Maschine in Betrieb zu nehmen."
+"wahr oder falsch:<br />
+Die Grunderwerbssteuer beim Kauf eines Grundstückes gehört zu den Anschaffungsnebenkosten."	"wahr:<br />
+Die Grunderwerbssteuer gehört zu den Nebenkosten der Anschaffung und damit zu den Anschaffungskosten gemäß § 255 Abs. 1 HGB."
+{{c1::Anschaffungsnebenkosten}} sind {{c2::Ausgaben bei der Beschaffung und Herstellung der Verwendungsfähigkeit für die Anschaffung eines Vermögensgegenstand}}.	
+{{c1::Eine Anschaffungspreisminderung}} ist {{c2::ein Nachlass und alle Zuwendungen für die Anschaffung eines Vermögensgegenstandes}}.	
+{{c1::Der Anschaffungspreis}} ist {{c2::der Preis für ein Vermögensgegenstand ohne Mehrwertsteuer}}.	
+"wahr oder falsch:<br />
+Das interne Rechnungswesen unterscheidet sich vom externen Rechnungswesen, dass in diesem eine Abschreibung nach historischen Anschaffungs- und Herstellungskosten stattfinden darf."	"falsch:<br />
+Abschreibungen auf Basis der historischen Anschaffungs- und Herstellungskosten sind sowohl im externen als auch im internen Rechnungswesen möglich."
+"wahr oder falsch:<br />
+Die Anschaffungskosten stellen den originären Wertmaßstab für alle vom Unternehmen entgeltlich erworbenen Vermögensgegenstände dar."	"wahr:<br />
+Anschaffungskosten sind das Maß für die Erstbewertung von erworbenen Vermögensgegenständen. Sie werden in § 255 Abs. 1 HGB definiert. Danach umfassen Anschaffungskosten die Aufwendungen, die geleistet werden, um einen Vermögensgegenstand zu erwerben und ihn in einen betriebsbereiten Zustand zu versetzen, soweit sie dem Vermögensgegenstand einzeln zugeordnet werden können. Kalkulatorische Kosten sind nicht Teil der Anschaffungskosten."
+"wahr oder falsch:<br />
+In die Anschaffungskosten gehen Bruttopreise ein, sofern ein Unternehmer zum Vorsteuerabzug berechtigt ist."	"falsch:<br />
+In die Anschaffungskosten gehen Nettopreise ein, sofern ein Unternehmer zum Vorsteuerabzug berechtigt ist. Die Umsatzsteuer stellt für den Unternehmer einen durchlaufenden Posten dar, da er gegenüber dem Finanzamt einen Rechtsanspruch auf Erstattung der Umsatzsteuer hat."
+{{c1::Anschaffungskosten}} sind {{c2::Aufwendungen, die geleistet werden, um einen Vermögensgegenstände zu erwerben und ihn in einen betriebsbereiten Zustand zu versetzen, soweit sie dem Vermögensgegenstand einzeln zugeordnet werden können}}.	
+{{c1::\(\text{Anschaffungskosten}\)}} \(=\) {{c2::\(\text{Anschaffungspreis} - \text{Anschaffungspreisminderung} + \text{Anschaffungsnebenkosten} + \text{nachträgliche Anschaffungskosten}\)}}	
+{{c1::Die Anschaffungskosten}} bestehen aus {{c2::dem Anschaffungspreis, der Anschaffungspreisminderung, den Anschaffungsnebenkosten und den nachträglichen Anschaffungskosten}}.	
+{{c1::Die Erstbewertung}} ist {{c2::die Bewertung von Vermögensgegenständen zu Anschaffungskosten oder Herstellungskosten}}.	
+{{c1::Ein Aktivierungsverbot}} existiert nach § 248 Abs. 1 HGB für {{c2::selbst erstellte immaterielle Vermögensgegenstände}}	
+{{c1::Eine konkrete Aktivierungsfähigkeit}} ist {{c2::die Bilanzierung von Vermögensgegenstände, welche sich nicht aus dem Aktivierungsgrundsatz ergibt, aber spezifisch durch das HGB definiert ist}}.	
+{{c1::Eine abstrakte Aktivierungsfähigkeit}} ist {{c2::die Bilanzierung von Vermögensgegenstände, welche sich aus dem Aktivierungsgrundsatz ergibt}}.	
+{{c1::Der Aktivierungsgrundsatz}} ist {{c2::ein Ansatzgrundsatz der ordnungsmäßigen Buchführung, wodurch Vermögensgegenstände, welche dem wirtschaftlichen Eigentümer gehören, selbstständig verwertbar sind und zur Schuldendeckung beitragen können}}.	
+{{c1::Ansatzgrundsätze der ordnungsmäßigen Buchführung}} sind {{c2::Grundsätze der ordnungsmäßigen Buchführung und Regeln für den Ansatz von Vermögen und Schulden in der Bilanz}}.	
+"<p>{{c1::Die Ansatzgrundsätze der ordnungsmäßigen Buchführung}} sind:</p>
+<ul>
+<li>{{c2::Aktivierungsgrundsatz}}</li>
+<li>{{c2::Passivierungsgrundsatz}}</li>
+</ul>"	
+{{c1::Systemgrundsätze der ordnungsmäßigen Buchführung}} sind {{c2::Grundsätze der ordnungsmäßigen Buchführung und einheitliche Grundsätze für das GoB-System}}.	
+"<p>{{c1::Die Systemgrundsätze der ordnungsmäßigen Buchführung}} sind:</p>
+<ul>
+<li>{{c2::Grundsatz der Einzelbewertung}}</li>
+<li>{{c3::Grundsatz der Pagatorik}}</li>
+<li>{{c4::Grundsatz der Unternehmensfortführung}}</li>
+</ul>"	
+{{c1::Rahmengrundsätze der ordnungsmäßigen Buchführung}}&nbsp;sind {{c2::Grundsätze der ordnungsmäßigen Buchführung und Anforderungen an die Informationsvermittlung}}.	
+"<p>{{c1::Die Rahmengrundsätze der ordnungsmäßigen Buchführung}} sind:</p>
+<ul>
+<li>{{c2::Grundsatz der Klarheit und Übersichtlichkeit}}</li>
+<li>{{c3::Grundsatz der Richtigkeit: Objektiv, intersubjektiv und nachprüfbar}}</li>
+<li>{{c4::Grundsatz der Vergleichbarkeit: Formelle Stetigkeit und materielle Stetigkeit}}</li>
+<li>{{c5::Grundsatz der Vollständigkeit}}</li>
+<li>{{c6::Grundsatz der Wirtschaftlichkeit}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Die GoB sind ein System gesetzlich kodifizierter Grundsätze, welche die Buchführung und die Erstellung des Abschlusses regeln."	"falsch:<br />
+Die GoB sind ein unbestimmter Rechtsbegriff. Sie umfassen allgemein anerkannte Regeln über die Führung der Handelsbücher sowie die Erstellung des Jahresabschlusses von Unternehmen. Nicht alle GoB sind gesetzlich kodifiziert."
+{{c1::Die Grundsätze ordnungsmäßiger Buchführung (GoB)}} sind {{c2::ein unbestimmter Rechtsbegriff der allgemein anerkannten Regeln über die Führung der Handelsbücher sowie die Erstellung der Jahresabschlüssen von Unternehmen}}.	
+Die Grundsätze ordnungsmäßiger Buchführung gelten unabhängig von der Rechtsform für {{c1::alle Kaufleute}}.	
+{{c1::Eine Rechnungslegungsnorm}} ist {{c2::eine Norm von Vorschriften zur Aufstellung, Prüfung, Feststellung und Offenlegung von Bilanzen}}.	
+"wahr oder falsch:<br />
+Das Maßgeblichkeitsprinzip besagt, dass der HGB-Abschluss maßgeblich für die Steuerbilanz ist. Dabei gehen explizite steuerliche Vorschriften jedoch vor."	wahr
+"wahr oder falsch:<br />
+Das Maßgeblichkeitsprinzip besagt, dass handelsrechtliche Wahlrechte stets so wie in der Steuerbilanz auszuüben sind."	"falsch:<br />
+Das Maßgeblichkeitsprinzip besagt, dass der HGB-Abschluss maßgeblich für die Steuerbilanz ist. Dabei gehen explizite steuerliche Vorschriften jedoch vor."
+{{c1::Der steuerliche Bewertungsvorbehalt (Maßgeblichkeitsprinzip)}} nach § 5 Abs. 6 EStG ist {{c2::die Zurückstellung von HGB-Vorschriften vor expliziten steuerlichen Regeln, so dass steuerliche Regeln immer vor den HGB-Vorschriften gelten}}.	
+{{c1::Die Gewinnbesteuerung}} ist {{c2::die Höhe der Steuerzahlung, welche auf das Gewinn anfällt}}.	
+{{c1::Die Gewinnverteilung}} ist {{c2::die Ausschüttung von Gewinnen an Gesellschaftern und Gläubigern}}.	
+"Frage:<br />
+Welche Funktion hat ein Konzernabschluss?"	Die Dokumentation, Information und Ausschüttungsbemessung.
+{{c1::Der Konzernabschluss}} ist {{c2::der Jahresabschluss für einen gesamten Konzern}}.	
+"Frage:<br />
+Was sind die Bestandteile des Jahresabschlusses von einem Einzelkaufmann?"	Die Bilanz und die GuV.
+"Frage:<br />
+Was sind die Bestandteile des Jahresabschlusses von einer nicht kapitalmarktorientierten Kapitalgesellschaft?"	Die Bilanz, die GuV und der Jahresabschlussanhang.
+"Frage:<br />
+Was sind die Bestandteile des Jahresabschlusses von einer kapitalmarktorientierten Kapitalgesellschaft?"	Die Bilanz, die GuV und der Jahresabschlussanhang.
+"wahr oder falsch:<br />
+Der Anhang gehört verpflichtend zum HGB-Abschluss einer kapitalmarktorientierten Aktiengesellschaft."	"wahr:<br />
+Der Anhang ist nach § 264 Abs. 1 Satz 1 HGB Bestandteil des Jahresabschlusses einer Kapitalgesellschaft."
+"wahr oder falsch:<br />
+Der Eigenkapitalspiegel gehört verpflichtend zum HGB-Abschluss einer kapitalmarktorientierten Aktiengesellschaft."	"wahr:<br />
+Kapitalmarktorientierte Kapitalgesellschaften müssen den Jahresabschluss um eine Kapitalflussrechnung sowie einen Eigenkapitalspiegel nach § 264 Abs. 1 Satz 2 HGB erweitern."
+"wahr oder falsch:<br />
+Der Jahresabschluss nach HGB dient unter anderem der Zahlungsbemessung, z. B. der Bemessung von Dividendenzahlungen oder Steuerzahlungen eines Unternehmens."	"falsch:<br />
+Der HGB-Abschluss dient zwar der Zahlungsbemessung, Steuerzahlungen richten sich jedoch nach dem in der Steuerbilanz ermittelten steuerlichen Gewinn."
+"wahr oder falsch:<br />
+Der Lagebericht gehört verpflichtend zum HGB-Abschluss einer kapitalmarktorientierten Aktiengesellschaft."	"falsch:<br />
+Der Lagebericht ist nicht Teil des Abschlusses."
+"wahr oder falsch:<br />
+Die Bilanz gehört verpflichtend zum HGB-Abschluss einer kapitalmarktorientierten Aktiengesellschaft."	"wahr:<br />
+Der Jahresabschluss für ein Geschäftsjahr umfasst bei jedem Kaufmann die Bilanz sowie die Gewinn- und Verlustrechnung nach § 242 Abs. 3 HGB."
+"wahr oder falsch:<br />
+Die Gewinn- und Verlustrechnung gehört verpflichtend zum HGB-Abschluss einer kapitalmarktorientierten Aktiengesellschaft."	"wahr:<br />
+Der Jahresabschluss für ein Geschäftsjahr umfasst bei jedem Kaufmann die Bilanz sowie die Gewinn- und Verlustrechnung nach § 242 Abs. 3 HGB."
+"wahr oder falsch:<br />
+Die Kapitalflussrechnung gehört verpflichtend zum HGB-Abschluss einer kapitalmarktorientierten Aktiengesellschaft."	"wahr:<br />
+Kapitalmarktorientierte Kapitalgesellschaften müssen den Jahresabschluss um eine Kapitalflussrechnung sowie einen Eigenkapitalspiegel nach § 264 Abs. 1 Satz 2 HGB erweitern."
+"wahr oder falsch:<br />
+Die Segmentberichterstattung gehört verpflichtend zum HGB-Abschluss einer kapitalmarktorientierten Aktiengesellschaft."	"falsch:<br />
+Die Segmentberichterstattung ist ein freiwilliger Bestandteil des Abschlusses."
+Der Jahresabschluss bezieht sich auf {{c1::einzelne Rechtseinheiten, spezifisch auf ein Unternehmen}}.	
+Der Jahresabschluss ist Maßgeblich auf {{c2::die Steuerbilanz und somit auch für die Gewinnbesteuerung}}.	
+"<p>{{c1::Ein Jahresabschluss}} erfüllt folgende Zwecke:</p>
+<ul>
+<li>{{c2::Dokumentation für Rechtsfolgen und die Beweissicherung}}</li>
+<li>{{c3::Informationen für Stakeholder, spezifisch die Rechenschaft und Entscheidungshilfe}}</li>
+<li>{{c4::Zahlungsbemessung für die Gewinnverteilung und Gewinnermittlung zur Gewinnbesteuerung}}</li>
+</ul>"	
+{{c1::Die International Financial Reporting Standards (IFRS)}} sind {{c2::ein internationales Regelwerk für den Konzernabschluss von kapitalmarktorientierten Unternehmen}}.	
+{{c1::Das Handelsgesetzbuch}} sind {{c2::eine Menge an deutschen Rechnungslegungsregeln, welches Vorschriften für die Aufstellung, Prüfung und Offenlegung von Jahresabschlüssen enthalten}}.	
+{{c1::Die Funktionsmethode}} ist {{c2::die Zielkostenspaltung bezogen auf die Produktkomponenten, spezifisch auf Eigenschaften und Merkmale}}.	
+{{c1::Die Komponentenmethode}} ist {{c2::die Zielkostenspaltung bezogen auf Produktkomponenten, spezifisch auf Baugruppen, Einzelteile und Prozesse}}.	
+{{c1::Die Zielkostenspaltung}} ist {{c2::die Zuordnung der Kosten zu Produktkomponenten durch die Ermittlung der stückbezogenen Zielkosten von einzelnen Produktelementen}}.	
+{{c1::Die Zielkostenermittlung}} ist {{c2::die Ermittlung der stückbezogenen Zielkosten für das Gesamtprodukt über den gesamten Produktlebenszyklus}}.	
+{{c1::Das produktorientierte Kostenmanagement}} ist {{c2::das Kostenmanagement in der Produktentstehung und der Produktion}}.	
+{{c1::Die verrechneten Plankosten}} sind {{c2::die Summe der Plankosten}}.	
+{{c1::Ein Beschäftigungsabweichung}} ist {{c2::eine Abweichung der Auslastung und damit eine fehlerhafte Verrechnung der verrechneten Plankosten}}. Ursachen für {{c1::eine Beschäftigungsabweichung}} sind {{c3::die Fixkostenproportionalisierung}} und können ein Hinweis auf {{c3::einer Unterlastung oder Überlastung der Produktionskapazität sein}}.	
+{{c1::\(\text{Beschäftigungsabweichung}\)}} \(=\) {{c2::\(SK - vPl\)}} mit {{c2::\(SK\) als Sollkosten, \(vPl\) als verrechnete Plankosten}}	
+{{c1::Ein Preisabweichung}} ist {{c2::eine Abweichung der Istkosten zu den Istpreisen von den Istkosten zu den Planpreisen}}. Ursachen für {{c1::eine Preisabweichung}} sind {{c3::unerwartete Preisschwankungen oder ein günstigerer Einkaufspreis als angenommen}}.	
+{{c1::\(\text{Preisabweichung}\)}} \(=\) {{c2::\(\text{Istkosten zu Istpreisen} - \text{Istkosten zu Planpreisen}\)}}	
+{{c1::Eine Kostenstellenleitung}} kann für {{c2::eine Preisabweichung}} nicht verantwortlich gemacht werden, da {{c3::es sich um eine Änderung von exogenen Faktoren handelt}}.	
+{{c1::Eine Verbrauchsabweichung}} ist {{c2::eine Abweichung der Istkosten zu den Planpreisen von den Sollkosten}}.	
+Ursachen für {{c1::eine Verbrauchsabweichung}} sind {{c2::Fehler im Herstellungsprozess oder eine schlechte Rohstoffqualität}}.	
+{{c1::\(\text{Verbrauchsabweichung}\)}} \(=\) {{c2::\(\text{Istkosten zu Planpreisen} - \text{Sollkosten}\) }}	
+{{c1::Eine Kostenstellenleitung}} kann für die Verbrauchsabweichung verantwortlich gemacht werden, da {{c2::es sich um eine Mengenabweichung handelt}}.	
+{{c1::Die Soll-Ist-Abweichung}} ist {{c2::die Differenz zwischen den Sollkosten und den Istkosten zur Wirtschaftlichkeitskontrolle}}.	
+"wahr oder falsch:<br />
+Die flexible Plankostenrechnung ist immer eine Vollkostenrechnung."	falsch
+"{{c1::Die flexible Plankostenrechnung}} ist {{c2::die Verrechnung der Planbeschäftigung, der Plankosten und der Sollkosten, wodurch eine Trennung der fixen und variablen Kosten erforderlich ist}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kajueter-Flexible_Plankostenrechnung.png"" alt=""""><br />
+Flexible Plankostenrechnung}}}}"	
+{{c1::\(\text{Planverrechnungssatz der flexiblen Plankostenrechnung}\)}} \(=\) {{c2::\(\frac{PK}{PB}\)}} mit {{c2::\(PK\) als Plankosten, \(PB\) als Planbeschäftigung}}	
+Eine Wirtschaftlichkeitskontrolle ist mit der flexiblen Plankostenrechnung durch {{c1::die Soll-Ist-Abweichung möglich}}.	
+{{c1::Die Planbeschäftigung (Planausbringungsmenge)}} ist {{c2::die geplante Ausbringungsmenge und der geplante Faktoreinsatz}}.	
+"wahr oder falsch:<br />
+Die starre Plankostenrechnung ist immer eine Vollkostenrechnung."	wahr
+"wahr oder falsch:<br />
+In der starren Plankostenrechnung werden Plankosten nur für die Planbeschäftigung geplant."	wahr
+{{c1::Die starre Plankostenrechnung}} ist {{c2::die Verrechnung der Plankosten und der Planbeschäftigung ohne eine Trennung der fixen Kosten und variablen Kosten}}.	
+{{c1::\(\text{Planverrechnungssatz der starren Plankostenrechnung}\)}} \(=\) {{c2::\(\frac{PK}{PB}\)}} mit {{c2::\(PK\) als Plankosten, \(PB\) als Planbeschäftigung}}	
+{{c1::Eine Wirtschaftlichkeitskontrolle}} ist mit {{c2::der starren Plankostenrechnung}} nicht möglich, da {{c3::keine aussagekräftige Abweichung ermittelt werden kann}}.	
+{{c1::Die Normalkostenrechnung}} ist {{c2::die durchschnittsorientierte Berechnung der Normalkosten}}.	
+{{c1::Die Istkostenrechnung}} ist {{c2::die vergangenheitsorientierte Berechnung der Istkosten zum Zeitvergleich von Kosten}}.	
+{{c1::Die Plankostenrechnung}} ist {{c2::die zukunftsorientierte Berechnung der Plankosten zur Kostenkontrolle durch Zielvorgaben}}.	
+{{c1::Die Wirtschaftlichkeitskontrolle}} ist {{c2::die Kontrolle der Wirtschaftlichkeit, welche häufig über Kostenstellen erfolgt}}.	
+{{c1::Die Kontrolle der Wirtschaftlichkeit}} erfordert {{c2::Zielvorgaben für Faktoreinsatzmengen und Faktorpreise}}, welche im Rahmen von {{c3::der Plankostenrechnung}} ermittelt werden.	
+"wahr oder falsch:<br />
+Sofern ein Engpass vorliegt, ist die Berechnung des relativen Deckungsbeitrags relevant."	"wahr:<br />
+Im Rahmen einer Engpasssituation ist der relative Deckungsbeitrag pro Engpasseinheit ein wichtiges Entscheidungskriterium, z. B. im Rahmen der Festlegung des optimalen Produktionsprogramms."
+{{c1::Der Deckungspreis pro Engpasseinheit}} ist {{c2::der Deckungspreis im Verhältnis zu einer Größenordnung, welche nur begrenzt verfügbar ist und wodurch ein Engpass vorhanden ist}}.	
+{{c1::Ein Engpass}} ist {{c2::eine begrenzte Verfügbarkeit von einem oder mehreren Produktionsfaktoren, die eine Entscheidung für eine oder mehrere Alternativen benötigt und Opportunitätskosten erzeugt}}.	
+Um eine Entscheidung für einen einzigen Engpass zu finden, muss {{c2::der relative Deckungspreis pro Engpasseinheit bestimmt und maximiert werden}}.	
+Um {{c1::eine Entscheidung für mehrere Engpässe}} zu finden, muss {{c2::eine lineare Optimierung erfolgen}}.	
+"wahr oder falsch:<br />
+Der Deckungsbeitrag stellt den Betrag dar, der über die variablen Kosten hinaus zur Deckung der fixen Kosten erwirtschaftet wird."	"wahr:<br />
+In dem Begriff Deckungsbeitrag spiegelt sich die Interpretation der Deckung von fixen Kosten bereits wider. Übersteigt der Deckungsbeitrag die Fixkosten, wird ein Betriebsgewinn erzielt."
+"wahr oder falsch:<br />
+Der Deckungsbeitrag wird immer auf ein einzelnes Produkt, aber nie auf die gesamte Absatzmenge bezogen."	"falsch:<br />
+Der Deckungsbeitrag kann entweder auf ein einzelnes Produkt oder auf die gesamte Absatzmenge bezogen werden. Ist der Deckungsbeitrag für ein einzelnes Produkt gemeint, wird dieser als Stück-Deckungsbeitrag bezeichnet. Wenn er auf die gesamte Absatzmenge bezogen wird, spricht man von dem Gesamt-Deckungsbeitrag."
+"wahr oder falsch:<br />
+Eine Deckungsbeitragsrechnung ist eine Vollkostenrechnung."	"falsch:<br />
+Die Deckungsbeitragsrechnung ist eine Teilkostenrechnung, da sie fixe und variable Kosten trennt und nur die variablen Kosten dem Kostenträger zurechnet."
+"wahr oder falsch:<br />
+Ist der Deckungsbeitrag für ein Entscheidungsobjekt positiv, so führt die Realisierung der betrachteten Handlungsalternative ceteris paribus zu einer Erhöhung des Betriebsergebnisses."	"wahr:<br />
+Im Gegensatz dazu mindern Produkte mit negativen Deckungsbeiträgen das Betriebsergebnis. In diesen Fällen sollte darüber nachgedacht werden, die betroffenen Produkte vom Markt zu nehmen."
+{{c1::\(\text{Deckungsbeitrag}\)}} \(=\) {{c2::\(\text{P} - \text{VK}\)}} mit {{c2::\(P\) als Preis, \(VK\) als variable Kosten}}	
+{{c1::Die kurzfristige Preisuntergrenze}} ist {{c2::die Preisuntergrenze, welche sich aus den variablen Selbstkosten der Teilkostenrechnung ergibt}}.	
+{{c1::Entscheidungsrelevante Kosten und Erlöse}} sind {{c2::die durch die betrachtete Alternative in der Zukunft zusätzlich ausgelösten Kosten und Erlöse}}.	
+Zu den entscheidungsrelevanten Kosten und Erlöse zählen auch {{c2::die Opportunitätskosten}}.	
+{{c1::Eine entscheidungsrelevante Information}} ist {{c2::eine Information über ein erwartetes Ergebnis von einer Entscheidungsalternative}}.	
+"wahr oder falsch:<br />
+Annahmen der entscheidungsorientierten Kostenrechnung sind sichere Umweltzustände, variable Kapazitäten und die Maximierung des Periodenerfolgs als einziges Ziel."	"falsch:<br />
+Die entscheidungsorientierte Kostenrechnung geht von einem einzigen Ziel (Maximierung des Periodenerfolgs), Sicherheit (nur ein Umweltzustand) und von gegebenen Kapazitäten aus. Letztere sind mithin kurzfristig nicht veränderbar."
+{{c1::Die entscheidungsorientierte Kostenrechnung}} ist {{c2::die Kostenrechnung zur Unterstützung von operativen Entscheidungen mit entscheidungsrelevanten Informationen}}.	
+"{{c1::Das Gleichungsverfahren}} ist {{c2::die Verrechnung der internen Leistungen der wechselseitigen Leistungsverflechtungen}}.<br />
+{{c1::Das Gleichungsverfahren}} erfolgt durch {{c3::die Aufstellung einer Gleichung für jede Hilfskostenstelle und eines Gleichungssystem mit dem Verrechnungspreis als unbekannte Variable}}."	
+{{c1::Das Stufenleiterverfahren}} ist {{c2::die sukzessive Verrechnung der internen Leistungen für einseitige Leistungsverflechtungen}}.	
+"wahr oder falsch:<br />
+Durch die innerbetriebliche Leistungsverrechnung werden Kosten von Hilfs- auf Hauptkostenstellen verrechnet. Dennoch passiert es oft, dass nicht alle Kosten einer Hilfskostenstelle auf Hauptkostenstellen verrechnet werden können. Diese Kosten werden dann direkt von einer Hilfskostenstelle auf die Kostenträger verrechnet."	falsch
+"wahr oder falsch:<br />
+Um die innerbetriebliche Leistungsverrechnung durchzuführen, muss für jede Hilfskostenstelle ein Verrechnungspreis ermittelt werden."	wahr
+{{c1::Die innerbetriebliche Leistungsverrechnung}} ist {{c2::die Verrechnung zwischen Kostenstellen}}. Durch {{c1::die innerbetriebliche Leistungsverrechnung}} werden {{c2::Hilfskostenstellen entlastet und Hauptkostenstellen belastet}}.	
+{{c1::Eine Hilfskostenstelle (Vorkostenstelle)}} ist {{c2::eine Kostenstelle, die interne Leistungen für andere Hauptkostenstellen oder Hilfskostenstellen}} erbringt und somit {{c3::sekundäre Gemeinkosten}} erzeugt. {{c3::Entstehende Hilfskosten}} werden für die innerbetriebliche Leistungsverrechnung auf {{c4::die Hauptkostenstellen}} ausgelegt.	
+Hilfskostenstellen können {{c1::einseitige Leistungsverflechtungen, von einer Hilfskostenstelle zur anderen Hilfskostenstelle}}, oder {{c2::wechselseitige Leistungsverflechtungen}} eingehen.	
+{{c1::Ein Investment Center}} ist {{c2::eine Kostenstelle mit Verantwortung über Investitionen}}.	
+{{c1::Ein Profit Center}} ist {{c2::eine Kostenstelle mit Verantwortung für Kosten, Umsätze und somit auch über das Betriebsergebnis}}.	
+{{c1::Eine Kostenstellengruppe}} ist {{c2::die Zusammenfassung von mehreren einzelnen Kostenstellen zum Aufbau einer Kostenstellenhierarchie}}.	
+{{c1::Ein Kostenstellenplan}} ist {{c2::eine Dokumentation über die in einem Unternehmen eingerichteten Kostenstellen}}.	
+"Frage:<br />
+Nach welchem Zurechnungsprinzip werden die Gemeinkosten des Vertriebs verrechnet?"	Nach der pauschalen Zurechnung, da weder eine Verursachung noch eine Inanspruchnahme betrieblicher Ressourcen feststellbar ist.
+{{c1::Die pauschale Zurechnung}} ist {{c2::die Zurechnung von Kosten, die weder dem Beanspruchungsprinzip, noch dem Verursachungsprinzip zugeordnet werden können}}.	
+{{c1::Das Beanspruchungsprinzip}} ist {{c2::ein Prinzip der Zurechnung von Kosten, welche dem Bezugsobjekt entsprechend der Inanspruchnahme von Ressourcen zugerechnet werden}}.	
+{{c1::Das Verursachungsprinzip}} ist {{c2::ein Prinzip in der Zurechnung von Kosten, die nicht mehr anfallen, wenn das Bezugsobjekt wegfällt}}.	
+{{c1::Sekundäre Gemeinkosten}} sind {{c2::Gemeinkosten, welche durch eine Hilfskostenstelle für Hauptkostenstellen entstehen}}.	
+{{c1::Primäre Gemeinkosten}} sind {{c2::direkte Gemeinkosten, welche für Hauptkostenstellen und Hilfskostenstellen entstehen}}.	
+"wahr oder falsch:<br />
+Der Jahresüberschuss als Ergebnis der GuV wird in der Bilanz auf der Passivseite im Eigenkapital unter dem Posten Bilanzgewinn ausgewiesen."	"falsch:<br />
+In der Bilanz wird entweder der Jahresüberschuss oder der Bilanzgewinn ausgewiesen. Der Jahresüberschuss ist das erwirtschaftete Ergebnis gemäß GuV, der Bilanzgewinn hingegen das Periodenergebnis nach teilweiser Gewinnverwendung."
+{{c1::Der Jahresüberschuss (Jahresfehlbetrag, Periodenerfolg)}} ist {{c2::der Überschuss der Erträge über die Aufwendungen}}.	
+{{c1::\(\text{Periodenerfolg}\)}} \(=\) {{c2::\(EK_{1} - EK_{0} + \text{Entnahme} - \text{Einlagen}\)}} mit {{c2::\(EK\) als Eigenkapital}}	
+{{c1::Das Betriebsergebnis}} ist {{c2::der Abschluss der Kostenrechnung und der Überschuss des Umsatzes nach Abzug der Kosten}}.	
+{{c1::\(\text{Betriebsergebnis}\)}} \(=\) {{c2::\(U - K\)}} mit {{c2::\(U\) als Umsatz, \(K\) als Kosten}}	
+{{c1::Sollkosten}} sind {{c2::die Abweichung der Kosten von den Istkostenbeschäftigung}} und beschreiben {{c3::die anfallenden Kosten, die entstanden wären, wenn bis auf den betrachteten Sachzusammenhang keine außerplanmäßigen Kosten bei Hilfsstellen oder Kostenstelle entstehen}}. Da {{c1::die Sollkosten}} keine außerplanmäßigen Abweichungen berücksichtigen, befinden sie sich auf einer Gerade mit {{c4::den Plankosten}}.	
+"wahr oder falsch:<br />
+Die Teilkostenrechnung berücksichtigt nur die variablen, aber keine fixen Kosten."	"falsch:<br />
+Im Rahmen der Teilkostenrechnung werden auch die fixen Kosten berücksichtigt. Allerdings werden diese nicht den Kostenträgern zugeschlüsselt, sondern en bloc in der Betriebsergebnisrechnung verrechnet."
+{{c1::Die Teilkostenrechnung}} ist {{c2::die Berechnung der variablen Kosten in einer Produkteinheit zur Ermittlung der Teilkosten}}.	
+{{c1::Die Teilkostenrechnung}} führt zum gleichen Ergebnis wie {{c2::die Vollkostenrechnung}}, wenn {{c3::keine Lagerbestandsveränderung vorhanden ist}}.	
+"wahr oder falsch:<br />
+Die Stückkosten in der Vollkostenrechnung sind unabhängig von der produzierten Menge."	"falsch:<br />
+Die Stückkosten in der Vollkostenrechnung sind maßgeblich von der produzierten Menge abhängig. Sofern die produzierte Menge sinkt, werden die Fixkosten auf eine geringere Menge verteilt, sodass die Stückkosten in der Vollkostenrechnung ansteigen und vice versa."
+{{c1::Die Vollkostenrechnung}} ist {{c2::die Berechnung aller Kosten in einer Produkteinheit zur Ermittlung der Vollkosten}}.	
+{{c1::Die Vollkostenrechnung}} ist {{c2::produktionsorientiert}} und führt zu {{c3::einem klareren Ergebnis}}, da {{c3::nur die tatsächlich abgesetzten Güter eingerechnet werden}}.	
+{{c1::Ein finanzwirtschaftliches Ziel}} ist {{c2::ein Unternehmensziel über die Liquidität eines Unternehmens als jederzeitige Zahlungsfähigkeit}}, welcher durch {{c3::den Cashflow}} bemessen wird.	
+"wahr oder falsch:<br />
+Um die Rentabilität des investierten Kapitals zu berechnen, kann der Return on Investment genutzt werden. Der ROI berechnet sich als Quotient aus Umsatzrendite und Kapitalumschlag."	"falsch:<br />
+Der ROI berechnet sich als Produkt aus Umsatzrendite und Kapitalumschlag."
+{{c1::\(ROI\)}} \(=\) {{c2::\(\frac{EBIT}{K}\)}} mit {{c1::\(ROI\) als Return on Investment}}, {{c2::\(EBIT\) als EBIT, \(K\) als investiertes Kapital}}	
+{{c1::\(ROI\)}} \(=\) {{c2::\(U \cdot K\)}} mit {{c1::\(ROI\) als Return on Investment}}, {{c2::\(U\) als Umsatzrendite, \(K\) als Kapitalumschlag}}	
+{{c1::Ein operatives Ziel}} ist {{c2::ein Unternehmensziel über den Erfolg eines Unternehmens als angemessene Verzinsung des investierten Kapitals}}, welcher durch {{c3::den ROI}} bemessen wird.	
+"wahr oder falsch:<br />
+Ein gutes strategisches Ziel muss spezifisch, messbar, umsetzbar, realistisch und zeitgebunden sein."	"falsch:<br />
+In einer komplexen Welt ist ein gutes strategisches Ziel spezifisch und messbar, muss aber nicht umsetzbar, realistisch oder zeitgebunden sein, da zu viel unbekannt ist. Es sollte nicht als Leistungsmaßstab mehrere Personen oder einem Team zugewiesen werden. Ziele können sich im Laufe der Zeit ändern, wenn die Organisation mehr lernt. Ein strategisches Ziel sollte eines sein, das die Organisation erreichen möchte, aber das ist nicht dasselbe wie zu wissen, dass das Ziel umsetzbar und wahrscheinlich erreichbar ist, was für ein Sprint-Ziel besser geeignet ist."
+{{c1::Ein strategisches Ziel}} ist {{c2::ein Unternehmensziel über das Erfolgspotential eines Unternehmens als Wettbewerbsvorteil}}, welcher anhand {{c3::der Preispositionierung}} bemessen wird.	
+{{c1::\(FKQ\)}} \(=\) {{c2::\(\frac{FK}{GK}\)}} mit {{c1::\(FKQ\) als Fremdkapitalquote}}, {{c2::\(FK\) als Fremdkapital, \(GK\) als Gesamtkapital}}	
+{{c1::Ein Konzern}} ist {{c2::eine Menge von Unternehmen, die eine wirtschaftliche Einheit bilden}}.	
+{{c1::Ein Konzern}} wird in {{c2::Mutterunternehmen}} und {{c2::Tochterunternehmen}} unterteilt.	
+{{c1::Die Bilanzierung}} ist {{c2::die Aufstellung einer Bilanz}}.	
+"wahr oder falsch:<br />
+Für Forderungen gilt der Grundsatz der Einzelbewertung."	"wahr:<br />
+Das HGB folgt dem Grundsatz der Einzelbewertung nach § 252 Abs. 1 Nr. 3 HGB. Daher sind Forderungen ebenfalls nach diesem Grundsatz zu bilanzieren. Ausnahmen von diesem Grundsatz existieren beispielsweise bei den Bewertungsvereinfachungsverfahren nach § 256 HGB."
+"<p>{{c1::Forderungen}} bestehen aus:</p>
+<ul>
+<li>{{c2::Forderungen aus Lieferungen und Leistungen}}</li>
+<li>{{c2::Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht}}</li>
+<li>{{c2::Forderungen gegen verbundene Unternehmen}}</li>
+<li>{{c2::sonstige Vermögensgegenstände}}</li>
+</ul>"	
+{{c1::Das Grundbuch}} ist {{c2::die Dokumentation der Geschäftsvorfälle in zeitlicher Reihenfolge}} mit {{c3::Nummerierung, Angabe des Datums und des Belegs}}.	
+{{c1::Ein Tochterunternehmen}} ist {{c2::ein Unternehmen, welches von einem Mutterunternehmen beherrscht wird}}.	
+"Beispiel:<br />
+Passivtausch"	"<ul>
+<li>Fremdkapital wird durch Eigenkapital ersetzt, es entsteht aber kein Mittelzufluss zum Unternehmen</li>
+</ul>"
+{{c1::Ein Passivtausch}} ist eine {{c2::Umverteilung von Vermögen auf der Passiva}}.	
+"Beispiel:<br />
+Aktivtausch"	Verkauf einer Maschine und Kauf einer neuen Maschine mit liquiden Mitteln
+{{c1::Ein Aktivtausch}} ist {{c2::eine Umverteilung von Vermögen auf der Aktiva}}.	
+Aktiva werden gegliedert in {{c1::Anlagevermögen und Umlaufvermögen}}.	
+{{c1::Die Umsatzrentabilität (Return of Sales, ROS)}} ist {{c2::das Verhältnis von Gewinn zu Umsatz}}.	
+{{c1::\(\text{Umsatzrentabilität}\)}} \(=\) {{c2::\(\frac{G}{U}\)}} mit {{c2::\(G\) als Gewinn, \(U\) als Umsatz}}	
+{{c1::\(\text{Umsatzrentabilität}\)}} \(=\) {{c2::\(\frac{EBIT}{U}\)}} mit {{c2::\(EBIT\) als EBIT, \(U\) als Umsatz}}	
+"Frage:<br />
+Angenommen die Gesamtkapitalrendite der Firma XY beträgt 5 %, die Eigenkapitalrendite beträgt 4 % und die Fremdkapitalrendite beträgt 6 %. Wie kann das Unternehmen seine Eigenkapitalrendite steigern?"	Das Unternehmen kann die EK-Rendite erhöhen indem es die Eigenkapitalquote erhöht und damit den Verschuldungsgrad reduziert. Da die Fremdkapitalrendite größer als die Gesamtkapitalrendite ist, steigt die Eigenkapitalrendite mit sinkendem Verschuldungsgrad.
+"Frage:<br />
+Erkläre zwei Situationen in denen die Gesamtkapitalrendite mit der Eigenkapitalrendite übereinstimmt."	"<ol>
+<li>Das Unternehmen ist nur mit Eigenkapital finanziert.</li>
+<li>Die Gesamtkapitalrendite ist gleich der Fremdkapitalrendite.</li>
+</ol>"
+"wahr oder falsch:<br />
+Ist die Fremdkapitalrendite größer als die Gesamtkapitalrendite, steigt die Eigenkapitalrendite im Verschuldungsgrad."	"falsch:<br />
+Ist die Fremdkapitalrendite größer als die Gesamtkapitalrendite, sinkt die Eigenkapitalrendite im Verschuldungsgrad."
+"wahr oder falsch:<br />
+Wenn die Fremdkapitalrendite genauso groß ist wie die Gesamtkapitalrendite, dann ist die Eigenkapitalrendite kleiner als die Gesamtkapitalrendite."	"falsch:<br />
+Wenn die Fremdkapitalrendite genauso groß ist wie die Gesamtkapitalrendite, dann ist die Eigenkapitalrendite genauso groß wie die Gesamtkapitalrendite."
+{{c1::\(\text{EKR}\)}} \(=\) {{c2::\(\frac{G}{EK}\)}} mit {{c1::\(EKR\) als Eigenkapitalrentabilität}}, {{c2::\(G\) als Nettogewinn, \(EK\) als Eigenkapital}}	
+{{c1::\(\text{EKR}\)}} \(=\) {{c2::\(\frac{EBT}{EK}\)}} mit {{c1::\(EKR\) als Eigenkapitalrentabilität}}, {{c2::\(EBT\) als EBT, \(EK\) als Eigenkapital}}	
+{{c1::\(\text{EKR}\)}} \(=\) {{c2::\(\frac{U - z_{FK} \cdot FK}{EK}\)}} mit {{c1::\(EKR\) als Eigenkapitalrentabilität}}, {{c2::\(U\) als Umsatz, \(z_{FK}\) als Fremdkapitalzinsen, \(FK\) als Fremdkapital, \(EK\) als Eigenkapital}}	
+{{c1::\(\text{Gesamtkapitalrentabilität}\)}} \(=\) {{c2::\(\frac{BG}{EK + FK}\)}} mit {{c1::\(GKR\) als Gesamtkapitalrentabilität}}, {{c2::\(BG\) als Bruttogewinn, \(EK\) als Eigenkapital, \(FK\) als Fremdkapital}}	
+{{c1::\(GKR\)}} \(=\) {{c2::\(\frac{EBT}{EK + FK}\)}} mit {{c1::\(GKR\) als Gesamtkapitalrentabilität}}, {{c2::\(EBT\) als EBT, \(EK\) als Eigenkapital, \(FK\) als Fremdkapital}}	
+"wahr oder falsch:<br />
+Stille Rücklagen sind Teile des Eigenkapitals, deren Höhe nicht aus der Bilanz ersichtlich ist. Sie entstehen durch die Überbewertung von Aktiva und die Unterbewertung von Passiva und ergeben sich aus der Differenz zwischen Buchwerten und Marktwerten."	"falsch:<br />
+Stille Rücklagen ergeben sich aus der Unterbewertung von Aktiva und der Überbewertung von Passiva."
+{{c1::Eine stille Reserve (stille Rücklage)}} ist {{c2::ein nicht aus der Bilanz ersichtlicher Bestandteil des Eigenkapitals, welche nicht als Gewinn ausgewiesen ist}}.	
+{{c1::Stille Reserven}} werden durch {{c3::eine Unterbewertung der Aktiva oder eine Überbewertung der Passiva gebildet}}.	
+Durch stille Reserven entsteht {{c1::durch die Gewinneinbehaltung ein Steuerstundungseffekt}}.	
+"<p>{{c1::Stille Reserven}} bestehen aus:</p>
+<ul>
+<li>{{c2::Dispositionsrücklagen}}</li>
+<li>{{c2::Ermessensrücklagen}}</li>
+<li>{{c2::Zwangsrücklagen}}</li>
+</ul>"	
+"Frage:<br />
+Die Aktien der PAM AG werden im Freiverkehr an der Frankfurter Börse gehandelt.<br />
+Ist das Unternehmen börsennotiert und/oder kapitalmarktorientiert oder keines von beiden?"	weder kapitalmarktorientiert noch börsennotiert
+{{c1::Der Freiverkehr}} ist {{c2::ein börsenregulierter Markt}}.	
+{{c1::Die Kapitalrücklage}} ist {{c2::ein Bestandteil des Eigenkapitals als Agiobeträge durch Überpari-Emissionen oder durch die Zuführung von Eignern einer Kapitalgesellschaft}}.	
+"wahr oder falsch:<br />
+Die Summe der Nennbeträge aller ausgegebenen Aktien ist in der Kapitalrücklage zu erfassen."	"falsch:<br />
+Die Summe der Nennbeträge aller ausgegebenen Aktien ergibt das gezeichnete Kapital bzw. Grundkapital."
+{{c1::Das Grundkapital (gezeichnetes Kapital)}} ist {{c2::ein Bestandteil des Eigenkapitals als in der Satzung einer Kapitalgesellschaft fixierter Grundwert}}.	
+{{c1::Das gezeichnete Kapital}} entspricht {{c2::der Summe der Nennwerte der Aktien}} in einer AG oder {{c3::dem Stammkapital}} in einer GmbH.	
+"wahr oder falsch:<br />
+Ein Nachteil der Break-Even-Analyse ist, dass keine Aussage über die tatsächlich erreichte oder erreichbare Absatzmenge getroffen wird. Dies kann dazu führen, dass die geschätzte Absatzmenge unter- oder überschätzt wird."	wahr
+"{{c1::Die Break-Even-Menge}} ist {{c2::der Punkt, an dem weder ein positiver oder negativer Gewinn entsteht}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Break-Even-Analyse.png"" alt=""""><br />
+Break-Even-Analyse}}}}"	
+"Frage:<br />
+Fasse das Konzept des Target Costing kurz zusammen."	Target Costing: Wie viel darf ein Produkt kosten?
+"Frage:<br />
+Welche Quellen könne zur Ermittlung des am Markt erzielbaren Preises eingesetzt werden?"	"<ul>
+<li>Conjoint-Analyse</li>
+<li>Marktstudien</li>
+<li>Messebesuche</li>
+<li>Zielgruppenbefragung</li>
+</ul>"
+"wahr oder falsch:<br />
+Bei der Ermittlung der Zielkosten handelt es sich um eine Komponente des Target Costing-Prozesses."	wahr
+"wahr oder falsch:<br />
+Bei der Festlegung des Zielgewinns handelt es sich um eine Komponente des Target Costing-Prozesses."	wahr
+"wahr oder falsch:<br />
+Beim Target Costing addiert man die Produktkosten und die gewünschte Produktgewinnmarge, um so den Produktpreis zu ermitteln."	falsch
+"wahr oder falsch:<br />
+Beim Target Costing werden die Allowable Costs mit den Drifting Costs verglichen, um eventuell notwendige Kostensenkungen zu ermitteln."	wahr
+"wahr oder falsch:<br />
+Bei der Zielgewinnspaltung handelt es sich um eine Komponente des Target Costing-Prozesses."	falsch
+"wahr oder falsch:<br />
+Bei der Zuordnung der Zielkosten auf Produktkomponenten handelt es sich um eine Komponente des Target Costing-Prozesses."	wahr
+"wahr oder falsch:<br />
+Das Konzept des Target Costing wird auch als ""Market-Into-Company-Ansatz"" bezeichnet."	wahr
+"wahr oder falsch:<br />
+Das Target Costing ist besonders für bereits am Markt befindliche Produkte geeignet."	falsch
+"wahr oder falsch:<br />
+Die Grundidee des Target Costing ist es herauszufinden, was ein Produkt auf dem Markt kosten wird."	falsch
+"wahr oder falsch:<br />
+Grundidee des Target Costing ist, dass die relativen Kosten möglichst der relativen Nutzenstiftung der Produktkomponenten entsprechen soll."	wahr
+{{c1::Das Target Costing (Market-Into-Company)}} ist {{c2::die Berechnung der Zahlungsbereitschaft für ein Produkt, welches schon in frühen Phasen der Produktgestaltung und Prozessgestaltung zum Einsatz kommt}} um {{c3::die Kostenstruktur frühzeitig in Hinblick auf die Marktanforderungen}} gestalten zu können.	
+Die zentrale Frage des {{c1::Target Costing}} beschäftigt sich damit, {{c2::wie viel das Produkt kosten darf}}.	
+{{c1::Target Costing}} ist die Verknüpfung von {{c2::Kostenmanagement}} und {{c2::Kundenorientierung}} und wird durch {{c3::den Market Pull}} getrieben.	
+"wahr oder falsch:<br />
+Während bei standardisierten Dienstleistungen das Mengengerüst für die Kalkulation feststeht, weisen individuelle Dienstleistungen kein konstantes Mengengerüst auf."	"wahr:<br />
+Standardisierte Dienstleistungen umfassen ein festgelegtes Bündel an Aktivitäten und Prozessen. Analog zu einem industriellen Serienprodukt steht damit das Mengengerüst für die Kalkulation fest. Individuelle Dienstleistungen weisen kein konstantes Mengengerüst auf und gehen daher in der Kalkulation mit einer erhöhten Unsicherheit einher."
+{{c1::Eine individuelle Dienstleistung}} ist {{c2::eine Dienstleistung mit individuell festgelegte Aktivitäten und Prozessen}}.	
+{{c1::Eine standardisierte Dienstleistung}} ist eine {{c2::Dienstleistung mit festgelegten Aktivitäten und Prozessen}}. {{c1::Die standardisierte Dienstleistung}} steht {{c2::analog zu der Serienproduktion}}.	
+{{c1::Kostenremanenz}} ist {{c2::die unterschiedliche Senkung von Auslastung und Kosten, bei welcher bei sinkender Auslastung die Kosten nicht in gleicher Höhe, sondern langsamer sinken}}.	
+"wahr oder falsch:<br />
+Bei der Zuschlagskalkulation werden die Gemeinkosten den Kostenträgern direkt zugerechnet, während die Einzelkosten mithilfe von Zuschlagssätzen auf die Kostenträger verrechnet werden."	falsch
+"wahr oder falsch:<br />
+Bei der Zuschlagskalkulation werden die Herstellkosten als Summe der Material- und Fertigungskosten ermittelt. Zudem ergeben sich die Selbstkosten als Summe von Herstellkosten zzgl. Verwaltungs- und Vertriebskosten."	"wahr:<br />
+Bei der Zuschlagskalkulation werden die Selbstkosten als Summe der Herstell-, Verwaltungs- und Vertriebskosten ermittelt. Die Herstellkosten wiederum setzen sich aus Material- und Fertigungskosten zusammen."
+{{c1::Die Zuschlagskalkulation}} ist {{c2::ein Kalkulationsverfahren zur Berechnung der Stückkosten bei Produkten aus einer Serienfertigung durch die Verrechnung von Kosten über Kostenträgern}}. In {{c1::der Zuschlagskalkulation}} werden {{c3::Einzelkosten}} über {{c4::ein Kostenzurechnungsverfahren}} verrechnet, während {{c3::Gemeinkosten}} über {{c5::die Verrechnung von Bezugsgrößen als Zuschlagssatz}} berechnet werden.	
+"wahr oder falsch:<br />
+Im Vergleich zur Kalkulation von Produkten wird die Kalkulation von Dienstleistungen durch eine höhere Intransparenz bei der Inanspruchnahme und dem Verbrauch betrieblicher Ressourcen erschwert."	wahr
+Bei {{c1::standardisierten Dienstleistungen}} werden für die Kostenkalkulation {{c2::die Prozesskostenrechnung}} genutzt.	
+Bei {{c1::individuellen Dienstleistungen}} werden für die Kostenkalkulation {{c2::die Projektkalkulation mit Stunden- oder Tagessätzen}} genutzt.	
+"wahr oder falsch:<br />
+Der Anteil der Kosten, die nicht mit der Beschäftigung variieren, ist im Dienstleistungsbereich hoch."	"falsch:<br />
+Die Erbringung von Dienstleistungen ist personalintensiv. Daher ist die Kostenstruktur von Dienstleistungsunternehmen i.d.R. durch einen hohen Anteil an Personalkosten gekennzeichnet. Diese fallen unabhängig von der Beschäftigung an, da sie fixe Gemeinkosten sind."
+{{c1::Eine Dienstleistung}} ist {{c2::eine immaterielle Leistung, welche durch eine Kombination von Produktionsfaktoren erbracht wird}}.	
+{{c1::Kostenmanagement}} ist {{c2::die Kontrolle über anfallende Kosten}}.	
+{{c1::Sunk Costs}} sind {{c2::in der Vergangenheit entstandene Kosten, an denen in der Zukunft nichts mehr geändert werden kann und die endgültig verloren sind}}.	
+"{{c1::Das Umsatzkostenverfahren}} ist {{c2::die Betriebsergebnisrechnung durch die Gliederung der Aufwendungen und Kosten nach Funktionsbereichen und Erlösen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kajueter-Gesamtkostenverfahren_und_Umsatzkostenverfahren.png"" alt=""""><br />
+Gesamtkostenverfahren und Umsatzkostenverfahren}}}}"	
+"{{c1::Das Gesamtkostenverfahren}} ist {{c2::die Betriebsergebnisrechnung durch die Gliederung der Aufwendungen und Kosten nach Ressourcen und der produzierten Menge}}. Im {{c1::Gesamtkostenverfahren}} muss {{c3::die Differenz zwischen produzierter und abgesetzter Menge}} berücksichtigt werden.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Kajueter-Gesamtkostenverfahren_und_Umsatzkostenverfahren.png"" alt=""""><br />
+Gesamtkostenverfahren und Umsatzkostenverfahren}}}}}}"	
+"wahr oder falsch:<br />
+Die Kuppelkalkulation kommt zum Einsatz, wenn zwischen zwei Produkten ein Absatzverbund besteht. Ein Beispiel hierfür ist der Absatz von Druckern mit zugehöriger Druckerpatrone."	"falsch:<br />
+Die Kuppelkalkulation wird angewandt, wenn bei einem_Produktionsprozess gleichzeitig mehrere Produkte entstehen. Ein Beispiel hierfür ist die Erzeugung von Wärme und Strom in einem Heizkraftwerk. Der Absatz von Druckern und zugehöriger Druckerpatrone stellt ein Produktbündel dar. Dieses entsteht nicht durch den Produktionsprozess, sondern infolge einer bewussten Entscheidung des Unternehmens. So werden die Drucker günstig angeboten, um später eine hohe Marge mit den Druckerpatronen zu verdienen."
+"wahr oder falsch:<br />
+Die Restwertrechnung und die Verteilungsrechnung führen bei der Kuppelkalkulation immer zu denselben Stückkosten für das Hauptprodukt."	"falsch:<br />
+Die Stückkosten für das Hauptprodukt sind nach der Restwertrechnung und nach der Verteilungsrechnung nicht immer gleich hoch. Dies liegt an der unterschiedlichen Berechnung der Kosten für die Nebenprodukte. Während bei der Restwertrechnung den Nebenprodukten Kosten in Höhe ihrer Erlöse zugerechnet werden, werden die Kosten bei der Verteilungsrechnung nach einem bestimmten Kriterium den Haupt- und Nebenprodukten zugeschlüsselt."
+{{c1::Die Kuppelkalkulation}} ist {{c2::ein Kalkulationsverfahren zur Berechnung der Stückkosten bei Entstehung von mehreren Produkten, bei denen eine Aufteilung in Hauptprodukte und Nebenprodukte möglich ist}}.	
+{{c1::Die Kosten in der Kuppelkalkulation}} werden {{c2::auf alle Produkte nach einem Kriterium aufgeteilt}} oder {{c3::durch die Restwertrechnung werden die Erlöse der Nebenprodukte den Gesamtkosten abgezogen, welche dann dem Hauptprodukt zugerechnet werden}}.	
+"wahr oder falsch:<br />
+Bei der Divisionskalkulation werden Einzel- und Gemeinkosten getrennt und anhand von Bezugsgrößen auf den Kostenträger verrechnet."	"falsch:<br />
+Bei der Divisionskalkulation werden Einzel- und Gemeinkosten nicht getrennt und auch nicht anhand von Bezugsgrößen auf den Kostenträger verrechnet. Dies geschieht in der Zuschlagskalkulation. In der Divisionskalkulation werden stattdessen alle Kosten durch die Ausbringungsmenge geteilt."
+{{c1::Die Divisionskalkulation}} ist {{c2::ein Kalkulationsverfahren zur Berechnung der Stückkosten, indem die Gesamtkosten durch die produzierte Menge geteilt werden}}.	
+{{c1::\(\text{Stückkosten der Divisionskalkulation}\)}} \(=\) {{c2::\(\frac{\text{Gesamtkosten} }{\text{Produzierte Menge} }\)}}	
+"wahr oder falsch:<br />
+Die Anwendung der Äquivalenzziffernkalkulation setzt voraus, dass zwischen den Kosten der betrachteten Produkte ein festes Verhältnis besteht."	"wahr:<br />
+Bei der Äquivalenzziffernkalkulation wird ein konstantes Verhältnis zwischen den Kosten der betrachteten Produkte vorausgesetzt. Dieses Verhältnis kommt in den Äquivalenzziffern zum Ausdruck."
+{{c1::Die Äquivalenzziffernkalkulation}} ist {{c2::ein Kalkulationsverfahren zur Berechnung der Stückkosten bei Produkten, die in einem festen Verhältnis stehen}}. Die Äquivalenz wird durch {{c3::eine Äquivalenzziffer}} bereitgestellt, welche {{c3::ein Merkmal wie Bearbeitungszeit, Gewicht oder Volumen sein kann}}.	
+{{c1::\(\text{Stückkosten Sorte Y}\)}} \(=\) {{c2::\(\text{Stückkosten Grundsorte} * \frac{\text{Äquivalenzziffer Sorte Y} }{\text{Äquivalenzziffer Grundsorte} }\)}}	
+{{c1::Ein Kalkulationsverfahren}} ist {{c2::ein Verfahren, um Informationen für die Planung, Kontrolle und Dokumentation von Geschäftsprozessen zu liefern}}.	
+{{c1::Eine Renditekennzahl}} ist {{c2::eine Kennzahl, welche eine Erfolgsgröße zu einer anderen Größe ins Verhältnis setzt}}	
+{{c1::Die Verrechnung zwischen Kostenstellen}} ist {{c2::die innerbetriebliche Leistungsverrechnung zwischen Kostenstellen nach dem Stufenleiterverfahren oder der Anwendung des Gleichungsverfahren}}.	
+{{c1::Eine Hauptkostenstelle (Endkostenstelle)}} ist {{c2::eine Kostenstelle, welche direkt an der Erstellung von Produkten und Dienstleistungen mitwirkt}}.	
+"wahr oder falsch:<br />
+Die Einteilung von Kostenstellen orientiert sich an der Aufbauorganisation des Unternehmens."	"wahr:<br />
+Kostenstellen&nbsp;orientieren sich an der Aufbauorganisation und folgen damit den Verantwortlichkeiten im Unternehmen."
+"wahr oder falsch:<br />
+Eine proportionale Beziehung zwischen Leistungserbringung und Kostenanfall erleichtert die Kostenplanung und die Kostenkontrolle. Dies spricht dafür, wenige große Kostenstellen einzurichten, und nicht viele kleine."	falsch
+"wahr oder falsch:<br />
+Kostenstellen dienen dazu, Einzelkosten auf Kostenträger zu verrechnen."	"falsch:<br />
+Kostenstellen dienen dazu, Gemeinkosten auf Kostenträger zu verrechnen. Einzelkosten können dem Kostenträger direkt zugerechnet werden. Sie werden daher nicht über die Kostenstellen verrechnet."
+"wahr oder falsch:<br />
+Kostenstellen haben zwei wichtige Aufgaben: Sie sind zum einen eine Hilfe, um Gemeinkosten zu verrechnen, und ermöglichen zum anderen die wirksame Kontrolle der Kosten an Ort ihres Anfalls."	"wahr:<br />
+Die zwei zentralen Aufgaben von Kostenstellen sind die Verrechnung der Gemeinkosten und die Durchführung einer wirksamen Kostenkontrolle."
+{{c1::Eine Kostenstelle}} ist {{c2::eine funktionale, organisatorische oder räumliche abgegrenzte Teileinheit eines Unternehmens, die eigenständig Leistungen erbringen und Kosten verursachen}}. {{c1::Kostenstellen}} stellen einen Verantwortungsbereich für {{c3::die Wirtschaftlichkeitskontrolle}} dar und tragen {{c4::Gemeinkosten}}.	
+{{c1::Die Reinvermögensebene}} ist {{c2::eine Ebene über Erträgen und Aufwendungen}}.	
+{{c1::Die Zahlungsebene}} ist {{c2::eine Ebene über Einnahmen und Ausgaben}}.	
+{{c1::\(\text{Cashflow}\)}} \(=\) {{c2::\(E - A\)}} mit {{c2::\(E\) als Einzahlungen, \(A\) als Ausgaben}} bzw. {{c1::\(\text{Cashflow}\)}} \(=\) {{c3::\(G + AS\)}} mit {{c3::\(G\) als Gewinn, \(AS\) als Abschreibungen}}	
+{{c1::Bei langfristigem negativem Cashflow aus operativer Geschäftstätigkeit}} ist ein Unternehmen {{c2::nicht erfolgreich}}, da {{c3::das Unternehmen von Investitionstätigkeiten abhängig ist}}.	
+{{c1::Das Kongruenzprinzip der Erfolgsermittlung}} ist ein Prinzip, welches besagt, dass {{c2::der Zahlungsüberschuss der zahlungsbasierten Erfolgsermittlung gleich zu dem Zahlungsüberschuss der periodenbasierten Erfolgsermittlung sein muss}}.	
+{{c1::Die zahlungsbasierte Erfolgsermittlung (Cashflow Accounting)}} ist {{c2::die Erfolgsermittlung auf Grundlage der Betrachtung der Zahlungsströme und beobachtbarer Größen}}.	
+"Beispiel:<br />
+periodenbasierte Erfolgsermittlung"	"<ul>
+<li>jährliche Dividendenzahlung</li>
+<li>jährliche Managementvergütung</li>
+<li>jährliche Steuerzahlung</li>
+</ul>"
+{{c1::Die periodenbasierte Erfolgsermittlung (Accrual Accounting)}} ist {{c2::ist die Erfolgsermittlung auf Grundlage von der Betrachtung von jedem Jahr als eine eigene Periode}}.	
+{{c1::Kalkulatorische Kosten}} sind {{c2::betriebsbedingte Ressourcenverbräuche, die in der Finanzbuchhaltung als Zusatzkosten oder Anderskosten erfasst werden, für die Unternehmenssteuerung aber bedeutsam sind}}.	
+{{c1::\(\text{Kapitalkosten}\)}} \(=\) {{c2::\(BK \cdot KKS\)}} mit {{c2::\(BK\) als betriebsnotwendiges Kapital, \(KKS\) als Kapitalkostensatz}}	
+{{c1::\(WACC\)}} \(=\) {{c2::\(i_{EK} \cdot \frac{EK}{EK + FK} + i_{FK} \cdot \frac{FK}{EK + FK}\)}} mit {{c1::\(WACC\) als Kapitalkostensatz}}, {{c2::\(i_{EK}\) als Eigenkapitalzinsen, \(EK\) als Eigenkapital, \(FK\) als Fremdkapital, \(i_{FK}\) als Fremdkapitalzins}}	
+{{c1::\(\text{Betriebsnotwendiges Kapital}\)}} \(=\) {{c2::\(EK + FK\)}} mit {{c2::\(EK\) als Eigenkapital, \(FK\) als Fremdkapital}}	
+"wahr oder falsch:<br />
+Als kalkulatorische Zinsen werden im internen Rechnungswesen die Fremdkapitalzinsen bezeichnet, die das Unternehmen an seine Gläubiger bezahlen muss."	"falsch:<br />
+In der Regel unterscheidet sich der kalkulatorische Zinssatz von dem tatsächlichen Fremdkapitalzinssatz, sodass der bilanzielle Zinsaufwand und die kalkulatorischen Zinsen auf das Fremdkapital in der Höhe verschieden sind."
+"wahr oder falsch:<br />
+Kalkulatorische Zinsen berechnen sich aus der Multiplikation des betriebsnotwendigen Kapitals mit dem WACC."	wahr
+"wahr oder falsch:<br />
+Kalkulatorische Zinsen dienen dazu, die Kosten für die Nutzung des betriebsnotwendigen Kapitals als Rechengröße in die eigene Kosten- und Erlösrechnung aufzunehmen."	"wahr:<br />
+Der Ansatz kalkulatorischer Zinsen folgt dem Opportunitätsgedanken: Das eingesetzte betriebsnotwendige Kapital könnte auch anderweitig zinsbringend investiert werden. Diese entgangenen Zinsen können als Opportunitätskosten in der Kosten- und Erlösrechnung angesetzt werden."
+"wahr oder falsch:<br />
+Kalkulatorische Zinsen entsprechen in ihrer Höhe den Zinsen auf das Eigenkapital."	"falsch:<br />
+Kalkulatorische Zinsen umfassen neben der kalkulatorischen Verzinsung des Eigenkapitals auch den Zinsaufwand für das Fremdkapital. Sie sind daher höher als die Zinsen auf das Eigenkapital."
+"wahr oder falsch:<br />
+Kalkulatorische Zinsen erscheinen nicht als Aufwand in der Gewinn- und Verlustrechnung."	"wahr:<br />
+Im externen Rechnungswesen ist der Ansatz von kalkulatorischen Zinsen nicht zulässig. In die handelsrechtliche Gewinn- und Verlustrechnung gehen nur die tatsächlich zu zahlenden Fremdkapitalzinsen ein."
+{{c1::Der kalkulatorische Zins}} ist {{c2::die Verzinsung des betriebsnotwendigen Kapitals}}.	
+{{c1::Die Kostenrechnung (Controlling)}} ist {{c2::zentrales Element der innerbetrieblichen Rechnungswesens zur Steuerung der Finanzen eines Unternehmens}}. Ziel {{c1::der Kostenrechnung}} ist {{c3::die Entscheidungsfundierung und Verhaltenssteuerung}}. {{c1::Die Kostenrechnung}} besteht aus {{c4::der Kostenartenrechnung, Kostenstellenrechnung und Kostenträgerrechnung}}.	
+{{c1::Die Kostenartenrechnung}} ist {{c2::die Rechnung nach einer oder mehrerer Kostenarten zur Erfassung und Bewertung des betrieblich bedingten Ressourcenverzehrts}}.	
+"wahr oder falsch:<br />
+Für Kostenträger werden im Rahmen der Kostenträgerstückrechnung die Stückkosten ermittelt."	"wahr:<br />
+Im Rahmen der Kostenträgerstückrechnung werden die Stückkosten der Kostenträger ermittelt. Die Art des Kalkulationsverfahrens ist dabei von der Art des Produktes abhängig."
+{{c1::Ein Kostenträger}} ist {{c2::ein Objekt, welches Kosten tragen muss}}.	
+{{c1::Die EBT (Earnings Before Taxes)}} ist {{c2::der Aufwand vor Steuern}}.	
+{{c1::Die EBITDA (Earnings Before Interest and Taxes and Depreciation and Amortisation)}} ist {{c2::der operative Cashflow und besteht aus dem Ergebnis vor Zinsaufwand, Steuern und Abschreibungen}}.	
+{{c1::Die EBIT (Earnings Before Interest and Taxes)}} ist {{c2::der operative Gewinn und besteht aus dem Ergebnis vor Zinsaufwand und Steuern}}.	
+"{{c1::Die Kapitalflussrechnung (Finanzierungsrechnung)}} ist {{c2::eine Rechnung zur Ermittlung der Veränderung des Kassenbestandes}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kajueter-Kapitalflussrechnung.png"" alt=""""><br />
+Beispielhafte Kapitalflussrechnung}}}}"	
+{{c1::Die Gewinn- und Verlustrechnung (GuV)}} ist {{c2::eine Bilanz, welche finanzielle Änderungen für einen Zeitraum dokumentiert}}. Sie ist nicht in Aktiva und Passiva, sondern in {{c3::Aufwand und Ertrag}} aufgeteilt, wodurch {{c3::der Werteverzehr bei Aufwand und Wertezuwachs bei Ertrag}} notiert werden kann. {{c4::Der Endwert}} stellt {{c5::den Jahresüberschuss bei Gewinn oder den Jahresfehlbetrag bei Verlust}} dar.	
+"wahr oder falsch:<br />
+Eigentümer, Kunden und Gesellschaft sind Stakeholder eines Unternehmens."	wahr
+"wahr oder falsch:<br />
+Lieferanten, Wettbewerber und Gläubiger sind Stakeholder eines Unternehmens."	"falsch:<br />
+Wettbewerber stellen dem Unternehmen keine Ressourcen zur Verfügung und sind dementsprechend keine Stakeholder."
+"wahr oder falsch:<br />
+Mitarbeiter, Lieferanten und Wettbewerber sind Stakeholder eines Unternehmens."	"falsch:<br />
+Wettbewerber stellen dem Unternehmen keine Ressourcen zur Verfügung und sind dementsprechend keine Stakeholder."
+"wahr oder falsch:<br />
+Mitarbeiter sind Stakeholder eines Unternehmens."	wahr
+"{{c1::Stakeholder}} sind {{c2::Organisationen, die eine Schlüsselrolle in einem System einnehmen und Bedürfnisse, Ziele, Erwartungen, Anforderungen, Abhängigkeiten in Verbindung zu dem System haben}}.<br />
+<img src=""2022-Bild-Kajueter-Stakeholderbeziehung.png"" alt="""">"	
+"wahr oder falsch:<br />
+Ein Unternehmen, das höhere Gewinne erwirtschaftet als ein anderes Unternehmen, ist nicht zwangsläufig rentabler als ein andere Unternehmen."	"wahr:<br />
+Bei der Rentabilität wird der erwirtschaftete Gewinn ins Verhältnis zum eingesetzten Kapital gesetzt. Ein Unternehmen \(A\) kann zum Beispiel rentabler sein als Unternehmen \(B\) mit gleichem Gewinn, wenn \(A\) weniger Kapital einsetzt, um diesen Gewinn zu erwirtschaften."
+"{{c1::Der Gewinn}} ist die Differenz zwischen {{c2::Umsatz und Gesamtkosten}} und {{c3::oft Ziel}} von Unternehmungen.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Unternehmung_mit_Gewinn.png"" alt=""""><br />
+Unternehmung mit Gewinn}}}}"	
+{{c1::Eine Gewinnerzielung}} ist gewährleistet, wenn {{c2::der Preis}} {{c3::größer}} ist als {{c2::die Durchschnittskosten}}.	
+{{c1::\(\text{Gewinn}\)}} \(\Leftarrow \text{Preis (P)} &gt; \text{Durchschnittliche Kosten (DK)}\)	
+{{c1::Normalkosten}} sind {{c2::alle durchschnittlichen angefallenen Kosten in einer Periode anfallen}}.	
+{{c1::Plankosten}} sind {{c2::alle geplanten Kosten für eine zukünftige Periode}}.	
+{{c1::Istkosten}} sind {{c2::alle tatsächlich angefallenen Kosten in einer Periode}}.	
+"Beispiel:<br />
+Einzahlung/Auszahlung"	Kreditaufnahme/Kredittilgung
+"Beispiel:<br />
+Einzahlung und Einnahme/Auszahlung und Ausgabe"	Barkauf/Barverkauf von Rohstoffen
+"Beispiel:<br />
+Einnahme und Ertrag/Ausgabe und Aufwand"	Warenkauf/Warenverkauf auf Ziel
+"Beispiel:<br />
+Ertrag und Leistung/Aufwand und Kosten"	Aufschreibung/Abschreibung
+"Beispiel:<br />
+Leistung/Kosten"	Selbsterstellung von Maschinen/kalkulatorische Miete
+"Frage:<br />
+Akkordlohnzahlungen für die Produktion von Stühlen finden statt. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	beides
+"Frage:<br />
+Ausgaben für die Energiebereitstellung finden statt. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	beides
+"Frage:<br />
+Ein finanzieller Schaden aufgrund eines Betrugsfalles entsteht. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	Aufwand
+"Frage:<br />
+Ein kalkulatorischer Unternehmerlohn wird verbucht. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	Kosten
+"Frage:<br />
+Eine Gewerbesteuernachzahlung wird durchgeführt. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	Aufwand
+"Frage:<br />
+Ein Kunde kauft Produkte auf Ziel. Die Begleichung der Rechnung erfolgt erst in einer Folgeperiode. Handelt es sich um eine Einzahlung, eine Einnahme oder um beides?"	"Einnahme:<br />
+Dieser Sachverhalt ist eine Einnahme, aber keine Einzahlung. Das Nettogeldvermögen erhöht sich, jedoch nicht der Kassenbestand."
+"Frage:<br />
+Ein Kunde begleicht eine Forderung durch Banküberweisung. Handelt es sich um eine Einzahlung, eine Einnahme oder um beides?"	"Einzahlung:<br />
+Dieser Sachverhalt ist eine Einzahlung, aber keine Einnahme. Der Kassenbestand erhöht sich, das Nettogeldvermögen jedoch nicht."
+"Frage:<br />
+Ein Kunde kauft Produkte und begleicht die Rechnung durch Banküberweisung. Handelt es sich um eine Einzahlung, eine Einnahme oder um beides?"	"beides:<br />
+Dieser Sachverhalt ist sowohl eine Einzahlung als auch eine Einnahme, da sich sowohl der Kassenbestand als auch das Nettogeldvermögen erhöhen."
+"Frage:<br />
+Eine Vase, die U ursprünglich vom Sperrmüll eingesammelt hat und nun im Fenster seines Restaurants aufgestellt hat, stellt sich als antikes Objekt von sehr hohem Wert heraus. Der Stammkunde Werner Wusel kauft ihm diese für 1.000€ ab. Handelt es sich um einen Ertrag?"	Ja, da das Reinvermögen steigt.
+"Frage:<br />
+U erhält einen Bescheid über die Bewilligung der Coronahilfe der Bundesregierung. Handelt es sich um eine Einzahlung, Einnahme, Ertrag oder Leistung?"	Einnahme und Ertrag
+"Frage:<br />
+U muss zum Verwalten der während des Sommers angefallenen Kontaktverfolgungszettel mehrere Nächte durcharbeiten. Handelt es sich um Aufwand?"	Nein, kalkulatorischer Unternehmerlohn ist kein Aufwand.
+"Frage:<br />
+U nimmt einen Kredit bei der Münstersche Global Finanz AG auf. Handelt es sich um eine Einzahlung, Einnahme, Ertrag oder Leistung?"	Einzahlung
+"Frage:<br />
+U spendet Stühle aus seiner Pizzeria an einen Kindergarten im Kreuzviertel. Handelt es sich um eine Auszahlung, Ausgabe, Aufwand oder Kosten?"	Aufwand
+"Frage:<br />
+U verbraucht Zutaten aus dem Lager, um Pizzen für eine Großbestellung zu backen. Handelt es sich um eine Auszahlung, Ausgabe, Aufwand oder Kosten?"	Aufwand und Kosten
+{{c1::Stromgrößen des betriebswirtschaftlichen Rechnungswesens}} können {{c2::sich überschneiden}}, ein Geschäftsvorfall kann also {{c2::Bestandteil von mehreren Stromgrößen}} sein.	
+"wahr oder falsch:<br />
+Aktive latente Steuern sind Fremdkapital."	"falsch:<br />
+Lediglich die passiven latenten Steuern sind dem Fremdkapital zuzuordnen. Aktive latente Steuern stellen hingegen Steuerforderungen dar."
+"wahr oder falsch:<br />
+Anleihen sind Fremdkapital."	"wahr:<br />
+Anleihen sind Schuldverschreibungen für am öffentlichen Kapitalmarkt aufgenommenes, langfristiges Fremdkapital."
+"wahr oder falsch:<br />
+Erhaltene Anzahlungen auf Bestellungen sind Fremdkapital."	"wahr:<br />
+Unter erhaltenen Anzahlungen auf Bestellungen werden Sachverhalte bilanziert, bei denen das Unternehmen Zahlungen für eine noch nicht erbrachte aber vertraglich festgelegte Leistung von seinen Vertragspartnern erhalten hat."
+"wahr oder falsch:<br />
+Fremdkapital ist ein solcher Kapitalbetrag, den Dritte einem Unternehmen in Form von Geld- oder Sachmitteln zur Verfügung gestellt haben."	wahr
+"wahr oder falsch:<br />
+Pensionsrückstellungen sind Fremdkapital."	"falsch:<br />
+Pensionsrückstellungen werden für vom Unternehmen gemachte Pensionszusagen an Mitarbeiter gebildet. Pensionsrückstellungen gehören zu den verpflichtend zu passivierenden ungewissen Verbindlichkeiten gemäß § 249 Abs. 1 Satz 1 HGB, da ihre Höhe nur geschätzt bzw. versicherungsmathematisch berechnet werden kann."
+"wahr oder falsch:<br />
+Stille Rücklagen sind Fremdkapital."	"falsch:<br />
+Stille Rücklagen sind Teile des Eigenkapitals, deren Höhe nicht aus der Bilanz ersichtlich ist und die durch die Unterbewertung von Aktiva und die Überbewertung von Passiva entstehen."
+"wahr oder falsch:<br />
+Verbindlichkeiten gegenüber verbundenen Unternehmen sind Fremdkapital."	wahr
+{{c1::Das Fremdkapital}} wird auf {{c2::der Passivseite der Unternehmensbilanz als Verbindlichkeit}} verbucht.	
+"<p>{{c1::Das Fremdkapital}} besteht aus:</p>
+<ul>
+<li>{{c2::passiv latente Steuern}}</li>
+<li>{{c2::Rechnungsabgrenzungsposten}}</li>
+<li>{{c2::Rückstellungen}}</li>
+<li>{{c2::Verbindlichkeiten}}</li>
+</ul>"	
+{{c1::Das Eigenkapital (Reinvermögen)}} sind {{c2::alle Mittel, die durch die Eigentümer eines Unternehmens zu diese zugeführt wurden und entweder als Beteiligungsfinanzierung zur Finanzierung zeitlich unbegrenzt oder durch Verzicht auf Gewinnausschüttungen belassen wurden}}. Der Inhalt {{c1::des Eigenkapitals}} ist von {{c3::der Rechtsform eines Unternehmens}} abhängig.	
+{{c1::\(EK\)}} \(=\) {{c2::\(V - S\)}} mit {{c1::\(EK\) als Eigenkapital}}, {{c2::\(V\) als Vermögen, \(S\) als Schulden}}	
+Das Eigenkapital kann in {{c1::fixes Eigenkapital und variables Eigenkapital}} aufgeteilt werden.	
+"<p>Das reale Eigenkapital wird erhöht durch:</p>
+<ul>
+<li>{{c1::eine Kapitalerhöhung bei Kapitalgesellschaften}}</li>
+<li>{{c1::eine Kapitaleinlage bei Personengesellschaften}}</li>
+<li>{{c1::erzielte Gewinne}}</li>
+</ul>"	
+"<p>{{c1::Das Eigenkapital}} besteht aus:</p>
+<ul>
+<li>{{c2::Bilanzgewinn und Bilanzverlust}}</li>
+<li>{{c2::Gewinnrücklagen}}</li>
+<li>{{c2::Gewinnvortrag und Verlustvortrag}}</li>
+<li>{{c2::Jahresüberschuss und Jahresfehlbetrag}}</li>
+<li>{{c2::gezeichnetes Kapital und Haftungskapital<ul>
+<li>Grundkapital von Aktiengesellschaften</li>
+<li>Stammkapital von GmbHs}}</li></ul></li>
+<li>{{c2::Kapitalrücklagen}}</li>
+</ul>"	
+{{c1::\(\text{Wirtschaftlichkeit}\)}} \(=\) {{c2::\(\frac{\text{Output in Geldeinheiten} }{\text{Input in Geldeinheiten} }\)}}	

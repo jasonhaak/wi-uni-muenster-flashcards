@@ -1,0 +1,1383 @@
+#separator:tab
+#html:true
+"wahr oder falsch:<br />
+Soziodemographischen Indikatoren sind verhaltensorientierten Indikatoren als Kundensegmentierungskriterium vorzuziehen."	falsch
+"<p>{{c1::Faktoren von Kundensegmentierungskriterien}} sind:</p>
+<ul>
+<li>{{c2::Erreichbarkeit und Zugänglichkeit: Erfassung muss praktisch möglich sein}}</li>
+<li>{{c3::Handlungsfähigkeit: Kriterium muss verschiedene Ausprägungen haben}}</li>
+<li>{{c4::Kaufverhaltensrelevanz: Kriterium muss relevant sein}}</li>
+<li>{{c5::Messbarkeit und Vergleichbarkeit}}</li>
+<li>{{c6::Wirtschaftlichkeit: Erfassung des Kriterium darf nicht unverhältnismäßig teuer sein}}</li>
+<li>{{c7::zeitliche Stabilität: Kriterium muss lange bestehen können}}</li>
+</ul>"	
+"<p>{{c1::Formen der Rückwärtsintegration sind}}:</p>
+<ul>
+<li>{{c2::Akquisition des Lieferanten}}</li>
+<li>{{c2::Aufbau eigener Produktionen}}</li>
+<li>{{c2::langfristige Bindung der Lieferanten}}</li>
+</ul>"	
+{{c1::Der Pionier}} ist {{c2::ein Zeitpunkt des Markteintrittes in einen neuen Markt}}.	
+"wahr oder falsch:<br />
+Als später Folger verfolgt man nie eine Imitations- oder Nischenstrategie."	falsch
+{{c1::Der späte Folger}} ist {{c2::ein Zeitpunkt des Markteintrittes in einem Markt mit bestehenden dominanten Design}}.	
+{{c1::Der frühe Folger}} ist {{c2::ein Zeitpunkt des Markteintrittes in einem sich entwickelnden Markt}}.	
+"Frage:<br />
+Warum gibt es bei der direkten Preisabfrage keinen Anreiz die ""wahre” Zahlungsbereitschaft zu offenbaren?"	"Es liegt keine realitätsnahe Kaufsituation vor, weshalb Alternativprodukte nicht zum Vergleich präsent sind.<br />
+Ferner gibt der Kunde häufig bewusst falsche Preisangaben ab, in der Hoffnung, den zukünftigen Preis dadurch zu beeinflussen."
+"<p>{{c1::Probleme der direkten Preisabfrage}} sind:</p>
+<ul>
+<li>{{c2::kein Anreiz, die wahre Zahlungsbereitschaft zu offenbaren}}</li>
+<li>{{c2::mögliche gewollte Beeinflussung eines zukünftigen Preises}}</li>
+<li>{{c2::Preis wird isoliert betrachtet, während in der Kaufentscheidungssituation zwischen Produkteigenschaften und Preis abgewogen wird}}</li>
+<li>{{c2::unrealistisch hohes Preisbewusstsein durch den Fokus auf den Preis}}</li>
+</ul>"	
+"<p>{{c1::Die Preisentscheidung}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Konkretisierung der Produkte und Dienstleistungen}}</li>
+<li>{{c3::Erfassung der Zahlungsbereitschaft der Kunden}}</li>
+<li>{{c4::Konkurrenzanalyse}}</li>
+<li>{{c5::Prüfung der Kostendeckung und Bestimmung der Preisuntergrenze}}</li>
+</ol>"	
+"<p>{{c1::Steuerungsmöglichkeiten des Preisinteresse}} sind:</p>
+<ul>
+<li>{{c2::Dämpfung des Preisinteresses durch die Hervorhebung von Qualitätsvorteilen und Servicevorteilen}}</li>
+<li>{{c2::Einführung von Zweitmarken mit Abgrenzung zur Hauptmarke zur Lenkung des Preisinteresses und Erschließung von neuen Märkten}}</li>
+<li>{{c2::Unterstreichung der eigenen Preiswürdigkeit}}</li>
+</ul>"	
+{{c1::Die Preisinformationsspeicherung}} ist {{c2::die Speicherung von Preisinformationen zur Erzielung der Preiskenntnis}}. {{c3::Nicht alle Preisinformationen}} werden in das Kurzzeitgedächtnis gespeichert.	
+{{c1::Die Preisinformationsverarbeitung}} ist {{c2::die gedankliche Weiterverarbeitung sowie die Bewertung der Preisinformationen}}.	
+"wahr oder falsch:<br />
+Es gibt fünf Formen der Vorwärtsintegration: Franchising, eigene Geschäfte, Konzessionen, Factory Outlets und Shop-in-Shop Konzepte."	wahr
+"<p>{{c1::Formen der Vorwärtsintegration}} sind:</p>
+<ul>
+<li>{{c2::eigene Geschäfte}}</li>
+<li>{{c3::Factory Outlets}}</li>
+<li>{{c4::Franchising}}</li>
+<li>{{c5::Konzessionen}}</li>
+<li>{{c6::Shop in Shop}}</li>
+</ul>"	
+{{c1::Die Preisinformationsaufnahme}} sind {{c2::alle Vorgänge, welche zur Aufnahme von Preisinformationen in das Kurzzeitgedächtnis führen}}.	
+"<p>{{c1::Die Wirkung der Mediaselektion}} ist:</p>
+<ul>
+<li>{{c2::qualitative Wirkung}}: {{c2::Kontaktqualität im Hinblick auf das Werbeziel}}</li>
+<li>{{c3::quantitative Wirkung}}: {{c3::Anzahl der geschaffenen Kontakte}}</li>
+</ul>"	
+"<p>{{c1::Die Dominanz der Bildkommunikation}} entsteht durch:</p>
+<ul>
+<li>{{c2::schnelle Aufnahme sowie Verarbeitung von Bildinformationen}}</li>
+</ul>"	
+{{c1::Die Marktdifferenzierung}} ist {{c2::die Kommunikationspolitik, dass jede Zielgruppe mit einem speziellen Produkt angesprochen werden soll}}.	
+{{c1::Das Brand Commitment}} ist {{c2::die verhaltenswirksame psychologische Bindung von Mitarbeitern an eine Marke}}.	
+"<p>{{c1::Ökonomische Zielgrößen zum Aufbau einer Marke}} sind:</p>
+<ul>
+<li>{{c2::Akquisitionskosten und Kundenbindungskosten einer Marke}}</li>
+<li>{{c2::Kundenstammwert}}</li>
+<li>{{c2::Markenwert}}</li>
+</ul>"	
+"<p>{{c1::Psychographische Zielgrößen zum Aufbau einer Marke}} sind:</p>
+<ul>
+<li>{{c2::Markenbekanntheit}}</li>
+<li>{{c2::Markenloyalität und Händlerloyalität}}</li>
+<li>{{c2::Markensympathie}}</li>
+<li>{{c2::Verbundenheit der Mitarbeiter mit der Marke}}</li>
+<li>{{c2::Weiterempfehlungsrate}}</li>
+</ul>"	
+"<p>{{c1::Probleme der Qualitätsbeurteilung}} sind:</p>
+<ul>
+<li>{{c2::Aggregation zu einem Gesamturteil}}: {{c2::Definition und Gewichtung von Aggregationsregeln}}</li>
+<li>{{c3::Auswahl der relevanten Qualitätsdimensionen}}: {{c3::Welche Eigenschaften sind für wen relevant?}}</li>
+<li>{{c4::Bestimmung von Qualitätssurrogaten}}: {{c4::Erfahrungsgüter und Vertrauensgüter sind nur bestimmt oder nicht beurteilbar}}</li>
+<li>{{c5::Sicherung der Qualitätskonstanz}}</li>
+</ul>"	
+"<p>{{c1::Faktoren der Zielkostenerreichung}} sind:</p>
+<ul>
+<li>{{c2::Anpassung der Produkte}}<ul>
+<li>{{c2::Nutzung von Gleichteilen}}</li>
+<li>{{c2::Verringerung der Variantenvielfalt}}</li></ul></li>
+<li>{{c3::effizientere Nutzung der Ressourcen}}<ul>
+<li>{{c3::Abbau von Hierarchien}}</li>
+<li>{{c3::Zielkostendefinition bei den Lieferanten}}</li></ul></li>
+<li>{{c4::Optimierung der Prozesse und Outsourcing}}</li>
+</ul>"	
+{{c1::Die Limit-Conjoint-Analyse}} ist {{c2::die Ermittlung der Zahlungsbereitschaft durch die Befragung der kaufenswerten und nicht-kaufenswerten Produktalternativen}}. Durch {{c2::die Grenze zwischen den kaufenswerten und nicht-kaufenswerten Produktalternativen}} kann {{c3::die Indifferenz}} ermittelt werden.	
+{{c1::Die Nichtkauf-Option (Choice-Based Conjoint)}} ist {{c2::die Ermittlung der Zahlungsbereitschaft durch die Variation des Preises, bis der Gesamtnutzen genau dem Preis der Nichtkauf-Option entspricht}}.	
+"Beispiel:<br />
+Preisgarantie"	"<ul>
+<li>Price-Beating-Guarantee</li>
+<li>Price-Matching-Guarantee</li>
+</ul>"
+{{c1::Die Preisgarantie}} ist {{c2::die Garantie für einen bestimmten Preis oder die Unterbietung eines Preises}}.	
+"{{c1::Die Einzelkundenbearbeitung (Segment of One-Approach)}} ist {{c2::die Markbearbeitung als völlig differenzierte Bearbeitung von jedem Kunden}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marktbearbeitung.png"" alt=""""><br />
+Abdeckung des Marktes und Grad der Differenzierung}}}}"	
+{{c1::Die Grenze der Substitutionsintensität}} ist {{c2::die Überschneidung des Angebotes, welche sich aus den Grenzen der Substitutionsintensität ergeben}}.	
+"Beispiel:<br />
+Concept-Extension"	"<ul>
+<li>Dr. Oetker mit Pudding-Pulver und der Einführung von Backformen</li>
+</ul>"
+"wahr oder falsch:<br />
+Die Marke ""Tempo"" verkauft nun auch Toilettenpapier. Bei diesem Markentransfer von Papiertaschentüchern zu Toilettenpapier handelt es sich um eine Concept Extension."	"falsch:<br />
+Es handelt sich um eine Line-Extension."
+{{c1::Eine Concept-Extension}} ist {{c2::eine Ausdehnung der Marke in eine neue Produktkategorie durch ein vollständig neues Konzept mit Unterschieden im Herstellungsprozess}}.	
+"Beispiel:<br />
+Franchise-Extension"	"<ul>
+<li>Dr. Oetker mit Pudding-Pulver und der Einführung von Tiefkühl-Fertiggerichten</li>
+</ul>"
+{{c1::Eine Franchise-Extension}} ist {{c2::eine Ausdehnung der Marke in eine neue Produktkategorie}}.	
+"<p>{{c1::Formen der Preisdifferenzierung}} sind:</p>
+<ul>
+<li>{{c2::leistungsbezogene Preisdifferenzierung}}, z. B. {{c2::Flug-Tarife}}</li>
+<li>{{c3::mengenbezogene Preisdifferenzierung}}, z. B. {{c3::Mengenrabatte}}</li>
+<li>{{c4::personenbezogene Preisdifferenzierung}}, z. B. {{c4::Studentenangebote}}</li>
+<li>{{c5::Preisbündelung}}, z. B. {{c5::Komplett-PCs}}</li>
+<li>{{c6::räumlich Preisdifferenzierung}}, z. B. {{c6::Bier}}</li>
+<li>{{c7::zeitliche Preisdifferenzierung}}, z. B. {{c7::Obst}}</li>
+</ul>"	
+"Beispiel:<br />
+Line-Extension"	"<ul>
+<li>Dr. Oetker mit Pudding-Pulver und der Einführung von Instant-Pudding</li>
+</ul>"
+{{c1::Eine Line-Extension}} ist {{c2::eine Ausdehnung der Marke in derselben Produktkategorie}}.	
+"Beispiel:<br />
+Intramediaselektion"	"<ul>
+<li>Entscheidung zwischen der Schaltung von Werbung auf RTL oder ProSieben</li>
+</ul>"
+{{c1::Die Intramediaselektion}} ist {{c2::die Auswahl des speziellen Werbeträgers}}.	
+"<p>{{c1::Nachteile der Ziel und Aufgaben-Methode}} sind:</p>
+<ul>
+<li>{{c2::erheblicher Planungsaufwand}}</li>
+<li>{{c2::keine Prüfung des Kosten-Nutzen-Verhältnisses}}</li>
+</ul>"	
+"Beispiel:<br />
+Intermediaselektion"	"<ul>
+<li>Entscheidung zwischen der Schaltung von Internetwerbung oder Fernsehwerbung</li>
+</ul>"
+{{c1::Die Intermediaselektion}} ist {{c2::die Auswahl der Werbeträgerart}}.	
+"<p>{{c1::Vorteile der Ziel und Aufgaben-Methode}} sind:</p>
+<ul>
+<li>{{c2::Einfachheit}}</li>
+<li>{{c2::hohe Benutzerakzeptanz}}</li>
+<li>{{c2::unternehmensinterne und unternehmensexterne Einflussgrößen können berücksichtigt werden}}</li>
+<li>{{c2::Zielgrößen stehen in einer logischen Beziehung zueinander}}</li>
+</ul>"	
+{{c1::Die Zielkostenspaltung}} ist {{c2::die Zuordnung der Kosten zu Produktkomponenten durch die Ermittlung der stückbezogenen Zielkosten von einzelnen Produktelementen}}.	
+"Frage:<br />
+Was ist das Konzept der identitätsorientierten Markenführungsansatzes?"	Die Übereinstimmung des Selbstbild der Marke (der Markenidentität) und des Fremdbildes der Marke (dem Markenimage) zur Bildung eines Nutzenbündel mit differenzierenden Merkmalen.
+"{{c1::Der identitätsorientierter Markenführungsansatz}} ist {{c2::die Übereinstimmung der Markenidentität und des Markenimage zur Bildung eines Nutzenbündel mit differenzierten Merkmalen.}}<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Identitaetsorientierter_Markenfuehrungsansatz.png"" alt=""""><br />
+Identitätsorientierter Markenführungsansatz}}}}"	
+"Frage:<br />
+Was ist die zeitliche Marktabgrenzung?"	Die zeitliche Marktabgrenzung ist die Bestimmung des relevanten Marktes durch die Überprüfung von Märkten mit dem Faktor Zeit.
+{{c1::Die zeitliche Marktabgrenzung}} ist {{c2::die Bestimmung des relevanten Marktes durch die Überprüfung von Märkten mit dem Faktor Zeit}}.	
+"Frage:<br />
+Was ist die räumliche Marktabgrenzung?"	Die räumliche Marktabgrenzung ist die Bestimmung des relevanten Marktes durch die Überprüfung von Rückkoppelungen zwischen einzelnen Märkten.
+{{c1::Die räumliche Marktabgrenzung}} ist {{c2::die Bestimmung des relevanten Marktes durch die Überprüfung von Rückkoppelungen zwischen einzelnen Märkten}}.	
+{{c1::Ein Entwicklungssegment}} ist {{c2::ein Marktsegment mit einer negativen Bewertung des Kundensegments und einer positiven Bewertung des Wettbewerbssegments}}.	
+{{c1::Ein Ausschlusssegment}} ist {{c2::ein Marktsegment mit einer negativen Bewertung des Kundensegments und einer negativen Bewertung des Wettbewerbssegments}}.	
+"wahr oder falsch:<br />
+Bei der Marktsegmentierung zeichnet sich das Zielsegment durch eine positive Bewertung in Bezug auf das Kundensegment und das Unternehmenssegment aus."	"falsch:<br />
+Das Zielsegment zeichnet sich durch eine positive Bewertung in Bezug auf das Kundensegment und das Wettbewerbssegment aus."
+{{c1::Ein Zielsegment}} ist {{c2::ein Marktsegment mit einer positiven Bewertung des Kundensegments und einer positiven Bewertung des Wettbewerbssegments}}.	
+"wahr oder falsch:<br />
+Auf Basis von Marktforschung können verschiedene Marktsegmente identifiziert werden. Ist die Bewertung des Kundensegments positiv und die des Wettbewerbsegments negativ wird von einem Barrikadesegment gesprochen."	wahr
+"wahr oder falsch:<br />
+Auf Basis von Marktforschung können verschiedene Marktsegmente identifiziert werden. Ist die Bewertung des Kundensegments positiv und die des Wettbewerbsegments negativ wird von einem Entwicklungssegment gesprochen."	"falsch:<br />
+Es handelt sich um ein Barrikadesegment."
+{{c1::Ein Barrikadesegment}} ist {{c2::ein Marktsegment mit einer positiven Bewertung des Kundensegments und einer negativen Bewertung des Wettbewerbssegments}}.	
+"Beispiel:<br />
+Dilemma der Marktsegmentierung"	Kunden in der Gaming-Branche haben andere Anforderungen an Spiele als Kunden in der Kleidungs-Branche Anforderungen an Kleidung haben.
+"Frage:<br />
+Was ist das Dilemma der Marktsegmentierung?"	Es gibt kein Kundensegmentierungskriterium, die alle Anforderungen erfüllt. Der Markt wird mit zunehmender Segmentierung immer homogener, wobei aber auch die Grenzen zwischen den einzelnen Märkten unklarer werden.
+"Frage:<br />
+Wie kann das Dilemma der Marktsegmentierung gelöst werden?"	Durch eine Clusteranalyse zur Bestimmung von bestimmten Kundensegmenten als Cluster.
+"wahr oder falsch:<br />
+Besteht in zwei regionalen Märkten unterschiedlichen Kundenanforderungen und Zahlungsbereitschaften sowie zwischen diesen Märkten ein hohes Maß an Rückkopplungseffekten, so ist es sinnvoll, diese beiden Märkte mit unterschiedlichen Marketing-Strategien zu bearbeiten."	wahr
+"wahr oder falsch:<br />
+Bei einem Ein-Produkt-Unternehmen kann ein KKV auf Unternehmensebene realisiert werden."	wahr
+"Frage:<br />
+Was ist ein unternehmensinterner Verwendungszweck der Markenbewertung?"	Markenführung, insbesondere Steuerung und Kontrolle
+"Frage:<br />
+Was ist ein unternehmensexterner Verwendungszweck der Markenbewertung?"	Dokumentation für die Bilanzierung
+"wahr oder falsch:<br />
+Die Markenbewertung wird unternehmensintern auch zur Budgetallokation verwendet."	wahr
+"Beispiel:<br />
+Verteidigungsfähigkeit"	"<ul>
+<li>Markenrecht</li>
+<li>Patente</li>
+<li>schwer imitierbare Güter</li>
+</ul>"
+"wahr oder falsch:<br />
+Beim Nearest-Neighbor-Verfahren werden die beiden Objekte miteinander fusioniert, die die kleinste Distanz aufweisen."	wahr
+"wahr oder falsch:<br />
+Beim Nearest-Neighbor-Verfahren werden die Distanzen nach der Fusionierung von zwei Objekten so bestimmt, dass in der neuen Distanz-Matrix die niedrigsten Werte von der ursprünglichen Distanzmatrix gewählt werden."	"falsch:<br />
+Es wird nicht die ursprüngliche Distanzmatrix, sondern die Distanzmatrix der vorherigen Iteration genutzt."
+"wahr oder falsch:<br />
+Beim Nearest-Neighbor-Verfahren werden die Distanzen nach der Fusionierung von zwei Objekten so bestimmt, dass in der neuen Distanz-Matrix die niedrigsten Werte von der vorherigen Distanzmatrix gewählt werden."	wahr
+"wahr oder falsch:<br />
+Beim Furthest-Neighbor-Verfahren werden die beiden Objekte miteinander fusioniert, die die kleinste Distanz aufweisen."	wahr
+"wahr oder falsch:<br />
+Beim Furthest-Neighbor-Verfahren werden die Distanzen nach der Fusionierung von zwei Objekten so bestimmt, dass in der neuen Distanz-Matrix die höchsten Werte von der ursprünglichen Distanzmatrix gewählt werden."	"falsch:<br />
+Es wird nicht die ursprüngliche Distanzmatrix, sondern die Distanzmatrix der vorherigen Iteration genutzt."
+"wahr oder falsch:<br />
+Beim Furthest-Neighbor-Verfahren werden die Distanzen nach der Fusionierung von zwei Objekten so bestimmt, dass in der neuen Distanz-Matrix die höchsten Werte von der vorherigen Distanzmatrix gewählt werden."	wahr
+{{c1::Die kommunikative Divergenz}} ist {{c2::die beurteilungsorientierte Preisführerschaft ohne kostenbasierte Preisführerschaft}}.	
+Die kommunikative Divergenz ist langfristig {{c2::nicht stabil}}.	
+"wahr oder falsch:<br />
+Eine inhaltliche Divergenz liegt vor, wenn ein Unternehmen eine kostenbasierte Preisführerschaft ohne beurteilungsorientierte Preisführerschaft realisiert."	wahr
+{{c1::Die inhaltliche Divergenz}} ist {{c2::die kostenbasierte Preisführerschaft ohne beurteilungsorientierte Preisführerschaft}}.	
+Die inhaltliche Divergenz ist langfristig {{c1::nicht wirtschaftlich}}.	
+"Frage:<br />
+Was ist die Bogenelastizität?"	Die Bogenelastizität beschreibt, wie sich die Nachfrage bei einer prozentualen Preisänderung verändert.
+{{c1::Die Bogenelastizität}} ist {{c2::die Veränderung der Nachfrage bei einer prozentualen Preisänderung}}.	
+{{c1::\(\text{Preiselastizität}\)}} \(=\) {{c2::\(\frac{\text{Prozentuale Mengenänderung} }{\text{Prozentuale Preisänderung} }\)}}	
+{{c1::\(\eta_{2}\)}} \(=\) {{c2::\(\frac{p_{2} - p_{1} }{p_{1} } \cdot \eta_{1} \cdot x_{1}\)}} mit {{c1::\(\eta\) als Preiselastizität}}, {{c2::\(p\) als Preis, \(x\) als Menge}}	
+"Frage:<br />
+Was ist die Punktelastizität?"	Die Punktelastizität beschreibt, wie sich die Nachfrage bei einer marginalen Preisänderung verändert.
+{{c1::Die Punktelastizität}} ist {{c2::die Veränderung der Nachfrage bei einer marginalen Preisänderung}}.	
+"{{c1::\(\eta\)}} \(=\) {{c2::\(x&#039;(p) \cdot \frac{p_{i} }{x_{i} }\)}} mit {{c1::\(\eta\) als Preiselastizität}}, {{c2::\(x&#039; (p)\) als Ableitung der Funktion, \(p_{i}\) als Preis, \(x_{i}\) als Menge}}"	
+"Frage:<br />
+Was ist der Fixkostendegressionseffekt?"	Der Fixkostendegressionseffekt beschreibt den Effekt, dass bei einer höheren Produktionsmenge die Fixkosten auf mehrere Einheiten verteilt werden und dadurch die Stückkosten sinken.
+{{c1::Der Fixkostendegressionseffekt}} ist {{c2::der Effekt, dass bei einer höheren Produktionsmenge die Fixkosten auf mehrere Einheiten verteilt werden und dadurch die Stückkosten sinken}}.	
+"Beispiel:<br />
+horizontaler Markentransfer"	McDonalds mit McCafe
+"Frage:<br />
+Was ist ein horizontaler Markentransfer?"	Ein Markentransfer mit gleichem Qualitätsniveau.
+"wahr oder falsch:<br />
+Bei horizontalen Markentransfers handelt es sich um neue Produkte in einer neuen Produktkategorie, die sich auf dem gleichen Qualitätsniveau befinden wie die Muttermarke."	wahr
+"wahr oder falsch:<br />
+Ein horizontaler Markentransfer zeichnet sich dadurch aus, dass sich das Transferprodukt zwar in der gleichen Produktkategorie wie die Muttermarke befindet, allerdings auf einem höheren oder geringeren Preis- und/oder Qualitätsniveau."	falsch
+{{c1::Der horizontale Markentransfer}} ist {{c2::ein Markentransfer mit einem gleichem Qualitätsniveau}}.	
+"Beispiel:<br />
+vertikaler Markentransfer"	"<ul>
+<li>Mercedes Kombi statt Limousine</li>
+<li>VW Limousine statt Polo</li>
+</ul>"
+"Frage:<br />
+Was ist ein vertikaler Markentransfer?"	Ein Markentransfer mit niedrigerem oder höherem Qualitätsniveau.
+"wahr oder falsch:<br />
+""Step-Up"" ist eine spezielle Form des vertikalen Markentransfers."	wahr
+{{c1::Der vertikale Markentransfer}} ist {{c2::ein Markentransfer mit einem unterschiedlichen Qualitätsniveau}}.	
+"<p>{{c1::Arten des Direktmarketing}} sind:</p>
+<ul>
+<li>{{c2::E-Mail-Marketing}}</li>
+<li>{{c2::Handzettel}}</li>
+<li>{{c2::Internet-Shopping}}</li>
+<li>{{c2::Kataloge}}</li>
+<li>{{c2::Postwurfsendungen}}</li>
+</ul>"	
+"<p>{{c1::Arten des persönlicher Verkaufs}} sind:</p>
+<ul>
+<li>{{c2::Fachmessen}}</li>
+<li>{{c2::Verkaufspräsentationen}}</li>
+</ul>"	
+"<p>{{c1::Arten der Öffentlichkeitsarbeit}} sind:</p>
+<ul>
+<li>{{c2::Lobbyismus}}</li>
+<li>{{c2::Presseveröffentlichungen}}</li>
+<li>{{c2::Spenden}}</li>
+<li>{{c2::Sponsoring}}</li>
+</ul>"	
+"<p>{{c1::Arten der Verkaufsförderung}} sind:</p>
+<ul>
+<li>{{c2::Handelspromotionen}}</li>
+<li>{{c2::Händlerpromotionen}}</li>
+<li>{{c2::Verkäuferpromotionen}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Diagnostische Verfahren zur Analyse von Werbemaßnahmen untersuchen die Ursachen für deren Erfolg bzw. Misserfolg."	wahr
+{{c1::Ein diagnostisches Testverfahren zur Analyse von Werbemaßnahmen}} ist {{c2::ein Testverfahren zur Analyse von Werbemaßnahmen durch die Untersuchung der Ursache für Erfolge und Misserfolge von Werbemaßnahmen}}.	
+"<p>{{c1::Diagnostische Testverfahren zur Analyse von Werbemaßnahmen}} umfassen:</p>
+<ul>
+<li>{{c2::Labortests}}</li>
+<li>{{c2::Recall-Tests}}</li>
+<li>{{c2::Recognition-Tests}}</li>
+</ul>"	
+"<p>{{c1::Arten der klassischen Werbung}} sind:</p>
+<ul>
+<li>{{c2::Anzeigen in Zeitungen und Zeitschriften}}</li>
+<li>{{c2::Fernsehwerbung}}</li>
+<li>{{c2::Internetbanner}}</li>
+<li>{{c2::Kinowerbung}}</li>
+<li>{{c2::Plakate}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Beispiele für evaluative Testverfahren zur Analyse von Werbemaßnahmen sind Recall und Recognition-Tests."	falsch
+"wahr oder falsch:<br />
+Evaluative Verfahren zur Analyse von Werbemaßnahmen untersuchen die Ursache für deren Erfolg und Misserfolg."	falsch
+{{c1::Ein evaluative Testverfahren zur Analyse von Werbemaßnahmen}} ist {{c2::ein Testverfahren zur Analyse von Werbemaßnahmen durch die Messung der Verkaufswirkung}}.	
+"<p>{{c1::Evaluative Testverfahren zur Analyse von Werbemaßnahmen}} umfassen:</p>
+<ul>
+<li>{{c2::BuBaW-Verfahren}}</li>
+<li>{{c2::GfK-Behaviour-Scan}}</li>
+<li>{{c2::Markttests}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Bei der Ziel und Aufgaben-Methode können nur interne Einflussgrößen, z. B. das Höchstbudget, berücksichtigt werden."	falsch
+"wahr oder falsch:<br />
+Ein Vorteil der Ziel und Aufgaben-Methode zur Bestimmung des Kommunikationsbudgets ist der geringe Planungsaufwand."	falsch
+{{c1::Die Ziel und Aufgaben-Methode}} ist {{c2::eine nicht wirkungsgestützte Budgetierungsmethode zur Bestimmung des Kommunikationsbudgets}}.	
+"{{c1::Die Ziel und Aufgaben-Methode}} besteht aus mehreren Schritten:<br />
+{{c2::Festlegung der Kommunikationsziele}} -&gt; {{c3::Bestimmung der Kommunikationsmaßnahmen}} -&gt; {{c3::Bewertung der Kosten}} -&gt; {{c3::Festlegung des Kommunikationsbudgets}} -&gt; {{c4::Prüfung, ob das Budget überschritten wurde}} -&gt; {{c5::Durchführung der geplanten Maßnahmen bzw. neue Festlegung der Kommunikationsziele}}"	
+"<p>{{c1::Einflussfaktoren der Preiselastizität}} sind:</p>
+<ul>
+<li>{{c2::Dauerhaftigkeit des Gutes}}</li>
+<li>{{c2::Dringlichkeit des Bedürfnisses}}</li>
+<li>{{c2::Preis eines Produktes}}</li>
+<li>{{c2::Verfügbarkeit und Vergleichbarkeit von Substitutionsgüter}}</li>
+<li>{{c2::Vermarktung des Produktes}}</li>
+</ul>"	
+"<p>{{c1::Nachteile der nicht wirkungsgestützten Budgetierungsmethode}} sind:</p>
+<ul>
+<li>{{c2::erheblicher Planungsaufwand bei der Ziel und Aufgaben-Methode}}</li>
+<li>{{c2::fehlende methodische Orientierung bei Bestimmung von Prozentsätzen bei Plankennziffern}}</li>
+<li>{{c2::fehlende methodische Orientierung bei der Auswahl zwischen Plankennziffern}}</li>
+</ul>"	
+"<p>{{c1::Vorteile der nicht wirkungsgestützten Budgetierungsmethode}} sind:</p>
+<ul>
+<li>{{c2::Berücksichtigung von internen und externen Einflussfaktoren in der Ziel und Aufgaben-Methode}}</li>
+<li>{{c2::einfache Handhabung und hohe Benutzerakzeptanz}}</li>
+<li>{{c2::geringer Aufwand zur Datenerhebung und Datenauswertung}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Ein Vorteil der ""Prozent vom Umsatz""-Methode ist, dass unternehmensinterne und -externe Einflussgrößen im Bewertungsprozess berücksichtig werden können."	falsch
+"<p>{{c1::Planungskennziffern zur nicht wirkungsgestützte Budgetierungsmethode}} sind:</p>
+<ul>
+<li>{{c2::Orientierung am Wettbewerb}}</li>
+<li>{{c2::prozentualer Anteil des Gewinns}}</li>
+<li>{{c2::prozentualer Anteil des Umsatzes}}</li>
+<li>{{c2::""Was wir uns leisten können"": Festlegung eines bestimmten Mindestwertes}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Ein Nachteil der wirkungsgestützten Budgetierungsmethode ist, dass Carry-Over-Effekte nicht berücksichtigt werden."	falsch
+"<p>{{c1::Nachteile der wirkungsgestützten Budgetierungsmethode}} sind:</p>
+<ul>
+<li>{{c2::Ergebnisse sind situationsspezifisch und kaum generalisierbar}}</li>
+<li>{{c2::Prognose ist nicht bzw. nur eingeschränkt möglich}}</li>
+<li>{{c2::schwere empirische Belegung eines Zusammenhangs zwischen Kommunikationsbudgets und einer Zielgröße}}</li>
+</ul>"	
+"<p>{{c1::Vorteile der wirkungsgestützten Budgetierungsmethode}} sind:</p>
+<ul>
+<li>{{c2::Bestimmung eines optimalen Kommunikationsbudgets in Hinblick auf eine Zielgröße}}</li>
+<li>{{c2::mögliche Berücksichtigung von Carry-Over-Effekten}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Ein Nachteil der Break-Even-Analyse ist, dass keine Aussage über die tatsächlich erreichte oder erreichbare Absatzmenge getroffen wird. Dies kann dazu führen, dass die geschätzte Absatzmenge unter- oder überschätzt wird."	wahr
+"{{c1::Die Break-Even-Menge}} ist {{c2::der Punkt, an dem weder ein positiver oder negativer Gewinn entsteht}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Break-Even-Analyse.png"" alt=""""><br />
+Break-Even-Analyse}}}}"	
+"wahr oder falsch:<br />
+Die Abgrenzung eines relevanten Marktes erfolgt typischerweise in zwei Schritten: (1) Bestimmung der Substitutionsintensitäten und (2) Festlegung der Grenzen eines relevanten Marktes auf Basis von Substitutionslücken. Schritt 1 erfolgt dabei aus Unternehmenssicht und Schritt 2 aus Kundensicht."	"falsch<br />
+Schritt 2 erfolgt aus Unternehmenssicht und Schritt 1 aus Kundensicht."
+"<p>{{c1::Konzepte zur Abgrenzung des relevanten Marktes}} sind:</p>
+<ul>
+<li>{{c2::Bedarfsmarktkonzept}}</li>
+<li>{{c2::Industriekonzept}}</li>
+<li>{{c2::Ressourcenpoolkonzept}}</li>
+<li>{{c2::Substitutionslückenkonzept}}<ul>
+<li>{{c2::hypothetischer Monopolistentest}}</li>
+<li>{{c2::Konzept der Kreuzpreiselastizität}}</li></ul></li>
+</ul>"	
+{{c1::Ein hypothetischer Monopolistentest (HMT, small significant non-transitory increase in price, SSNIP-Test)}} ist {{c2::ein Konzept zur Messung des Substitutionseffekt durch die Feststellung der kleinsten Anzahl von Unternehmen, die gemeinsam eine signifikante Preiserhöhung durchsetzen könnten, ohne dass die Nachfrage stark elastisch reagiert}}.	
+"wahr oder falsch:<br />
+Die Kreuzpreiselastizität gibt die absolute Mengenänderung von Produkt \(A\), ausgelöst durch die absolute Preisänderung von Produkt \(B\) an."	"falsch:<br />
+Die Kreuzpreiselastizität gibt die relative Änderung an."
+{{c1::Die Kreuzpreiselastizität}} ist {{c2::ein Konzept zur Messung des Substitutionseffekt durch die Preiselastizität, wobei}} ein relevanter Markt alle Produkt enthält, die {{c1::eine hohe Kreuzpreiselastizität}} besitzen.	
+{{c1::Das Ressourcenpoolkonzept (Konzept der Angebotsflexibilität)}} ist {{c2::ein anbieterorientiertes Konzept zur Abgrenzung des relevanten Marktes durch den Verbrauch von bestimmten Ressourcen, durch welche sie homogene Güter produzieren und anbieten können}}.	
+{{c1::Das Industriekonzept}} ist {{c2::ein anbieterorientiertes Konzept zur Abgrenzung des relevanten Marktes durch technische und physikalische Kriterien, wobei ein relevanter Markt technisch homogene Leistungen anbietet}}.	
+{{c1::Das Bedarfsmarktkonzept}} ist {{c2::ein nachfrageorientiertes Konzept zur Abgrenzung des relevanten Marktes durch Feststellung von Gruppen an Gütern, die das gleiche Grundbedürfnis befriedigen}}.	
+{{c1::Das Substitutionslückenkonzept}} ist {{c2::ein nachfrageorientiertes Konzept zur Abgrenzung des relevanten Marktes durch fehlende Substitutionen zwischen einzelnen Gütern}}.	
+"wahr oder falsch:<br />
+Beim Shop in Shop-Konzept mietet der Hersteller eine Fläche beim Händler, die er mit seinem eigenen Mobiliar ausstattet. Für alles Übrige ist der Händler zuständig."	wahr
+Bei der kostenorientierten Preisfestlegung besteht {{c1::kein Zusammenhang zwischen Kosten und Preis}}, da {{c2::der Gewinnaufschlag willkürlich gewählt werden kann}}.	
+{{c1::Die nachfrageorientierte Preisbestimmung}} ist {{c2::die Preisbestimmung auf Grundlage der Nachfrage und der aggregierten individuellen Zahlungsbereitschaft, spezifisch der Preis-Absatz-Funktion}}.	
+{{c1::Die wettbewerbsorientierte Preisbestimmung}} ist {{c2::die Preisbestimmung auf Grundlage der Konkurrenzbetrachtung}}.	
+{{c1::Die kostenorientierte Preisbestimmung auf Teilkostenbasis}} ist {{c2::die kostenorientierte Preisbestimmung auf Basis der Teilkosten}} zur {{c3::Ermittlung der kurzfristigen Preisuntergrenze}}.	
+Die kostenorientierte Preisbestimmung auf Teilkostenbasis kann langfristig zu {{c1::einer fehlenden Deckung der Fixkosten}} führen.	
+{{c1::Die kostenorientierte Preisbestimmung auf Vollkostenbasis}} ist {{c2::die kostenorientierte Preisbestimmung auf Basis der Vollkosten}} zur {{c3::Ermittlung der langfristigen Preisuntergrenze}}.	
+Die kostenorientierte Preisbestimmung auf Vollkostenbasis führt zu {{c1::prozyklischen}} Verhalten.	
+{{c1::Die kostenorientierte Preisbestimmung}} ist {{c2::die Preisbestimmung der Preisuntergrenze anhand der variablen Kosten oder fixen Kosten}}.	
+"wahr oder falsch:<br />
+Verfolgt man eine Penetration Pricing Strategie, so strebt man in der Regel volumenbedingte Kostenvorteile an."	wahr
+"{{c1::Das Penetration Pricing}} ist {{c2::eine preispolitische und lebenszyklusorientierte Strategie mit einem relativ niedrigen Preis, welcher so lange wie möglich konstant gehalten wird}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Penetration_Pricing.png"" alt=""""><br />
+Penetration Pricing}}}}"	
+"{{c1::Penetration Pricing}} sollte angestrebt werden, wenn {{c2::eine schnelle Marktanteilsgewinnung durch volumenbedingte Kostenvorteile und eine hohe Preiselastizität des Marktsegment erzielt werden kann}}. {{c1::Penetration Pricing}} erzeugt {{c3::Markteintrittsbarrieren}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Wiesel-Penetration_Pricing.png"" alt=""""><br />
+Penetration Pricing}}}}}}"	
+"wahr oder falsch:<br />
+Bei Verfolgung einer Skimming Strategie besteht die Gefahr der Substituierbarkeit durch andere Produkte."	falsch
+"wahr oder falsch:<br />
+Beim Skimming Pricing wird der Preis bei der Markteinführung zunächst so niedrig wie möglich angesetzt, um die Zahlungsbereitschaft der Nachfrager abzuschöpfen."	falsch
+"wahr oder falsch:<br />
+Besteht auf einem Markt die Gefahr der Nachahmung durch Konkurrenzprodukte, kann eine Penetrationspreisstrategie im Rahmen einer Produktneueinführung genutzt werden, Markteintrittsbarrieren aufzubauen."	"falsch:<br />
+Skimming Pricing wird genutzt, um Markteintrittsbarrieren bei einer Produktneueinführung aufzubauen."
+"{{c1::Das Skimming Pricing}} ist {{c2::eine preispolitische und lebenszyklusorientierte Strategie mit einem höchstmöglichen Preis, der bei steigendem Wettbewerbsdruck und im Verlauf des Produktlebenszyklus gesenkt wird}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Skmming_Pricing.png"" alt=""""><br />
+Skimming Pricing}}}}"	
+"{{c1::Skimming Pricing}} sollte angestrebt werden, wenn {{c2::eine schnelle Amortisation der Investition durch Abschöpfung der hohen Zahlungsbereitschaft der Nachfrage erzielt werden kann}}, aber auch wenn {{c3::eine rasche Veralterungsgefahr oder eine große Zahl an Innovationen vorhanden sind}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Wiesel-Skmming_Pricing.png"" alt=""""><br />
+Skimming Pricing}}}}}}"	
+"<p>{{c1::Voraussetzung für die Preisdifferenzierung}} sind:</p>
+<ul>
+<li>{{c2::getrennte Marktbearbeitung der Nachfragegruppen muss möglich sein}}</li>
+<li>{{c2::Produkte für die Zielgruppen müssen über ein gewisses akquisitorisches Potential verfügen}}</li>
+<li>{{c2::unterschiedliche Kundensegmente}}</li>
+<li>{{c2::Vorhandensein unterschiedlicher Preisbereitschaften der Nachfrager}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Die implizite Preiskenntnis bezieht sich auf Informationen über den Preis, an die sich der Nachfrager bewusst erinnern kann."	falsch
+{{c1::Die implizite Preiskenntnis}} ist {{c2::die schwache bewusste Erinnerung an eine Preiskenntnis in einer Entscheidungssituation, wobei der Nachfrager subjektiv beurteilen kann, ob ein hoher oder niedriger Preis vorliegt}}.	
+{{c1::Die explizite Preiskenntnis}} ist {{c2::die Preiskenntnis, an die sich ein Nachfrager bewusst erinnert}}.	
+{{c1::Die Preiskenntnis}} sind {{c2::alle preisbezogenen Informationen zu einem Gut, die der Nachfrager in seinem Gedächtnis speichert}}.	
+"{{c1::Die Preiskenntnis}} ist ein Prozess aus mehreren Schritten:<br />
+{{c2::Preisinteresse}} -&gt; {{c3::Vereinfachungsstrategien}} -&gt; {{c4::Preisinformationsspeicherung}}"	
+{{c1::Eine relative Preisschwelle}} ist {{c2::die sprunghafte Änderung der Preiswahrnehmung und Preisbeurteilung beim Über- bzw. Unterschreiten einer Preisschwelle in einem Preisbereich, in welchem das Produkt weiterhin gekauft wird}}.	
+{{c1::Eine Preisschwelle}} ist {{c2::ein Preispunkt, bei denen sich die Preisbeurteilung der Nachfrager sprunghaft verändert}}.	
+{{c1::Die absolute Preisschwelle}} ist {{c2::eine Preisschwelle, welche bei ein Produkt nicht mehr gekauft wird, wenn der Preis eine absolute Schwelle über- bzw. unterschreitet}}.	
+{{c1::Die preisabhängige Qualitätsbeurteilung}} ist {{c2::die Beurteilung der Qualität von einem Produkt auf Basis des Preises}}.	
+{{c1::Die Preiswürdigkeitsbeurteilung}} ist {{c2::die Bewertung eines Preises auf Basis eines Vergleiches des Nutzens}}.	
+{{c1::Ein Referenzpreis}} ist {{c2::der Preis eines Produktes, welcher zur Beurteilung und als Vergleichsmaßstab für die Bewertung eines Preises dient}}.	
+{{c1::Die Preisgünstigkeitsbeurteilung}} ist {{c2::die Bewertung eines Preises auf Basis eines Vergleiches mit anderen Preisen}}.	
+"<p>{{c1::Vereinfachungsstrategien des Preisinteresse}} sind:</p>
+<ul>
+<li>{{c2::Bedarf an den gebotenen Preisinformationen ausrichten}}</li>
+<li>{{c2::generalisierende Einkaufsregeln}}</li>
+<li>{{c2::Verlagerung des Preisinteresse von der Kaufvorbereitungsphase in die Kaufdurchführungsphase an den Point-of-Sale}}</li>
+<li>{{c2::Verlagerung von dem aktiven Preisinteresse zum passiven Preisinteresse}}</li>
+</ul>"	
+{{c1::Das Preisinteresse}} ist {{c2::die Stärke der tatsächlich unternommenen Bemühungen eines Kunden, Preisinformationen zu sammeln}}.	
+{{c1::Die wahrgenommene Preis-Fairness}} ist {{c2::die Fairness und das Bewusstsein über unterschiedliche Preise durch dritte Faktoren}}.	
+Preisunterschiede werden auf Basis {{c1::der relativen Preisänderung}}, nicht aber auf Basis {{c1::der absoluten Preisänderung}}, bewertet.	
+"Beispiel:<br />
+Behavioral Pricing"	Der Kunde in einem Luxushotel ist bereit mehr für ein Wasser zu zahlen als im Supermarkt.
+"wahr oder falsch:<br />
+Eine Grundannahme des Behavioral Pricing ist, dass Konsumentenentscheidungen durch rationales Verhalten geprägt sind."	falsch
+{{c1::Das Behavioral Pricing}} ist {{c2::ein verhaltenswissenschaftlicher Ansatz, dass die Preisbereitschaft durch Preiserwartungen und wahrgenommene Fairness des Preises bestimmt wird, wodurch irrationales Verhalten erklärt wird}}.	
+"wahr oder falsch:<br />
+Nach der klassischen Preistheorie bewerten Nachfrager Preisunterschiede, z. B. Ersparnis, eher auf der Basis der relativen Preisänderung und weniger aufgrund der absoluten Preisänderung."	falsch
+Die klassische Preistheorie ist {{c2::ein Theorie über die Preispolitik, die von einem Markt als ökonomischen Ort des Austauschen von Produkten ausgeht}}.	
+{{c1::Die klassische Preistheorie}} ist ein {{c2::stark vereinfachtes Modell der Realität}}, welches {{c3::nicht der Realität}} entspricht.	
+"<p>{{c1::Die klassische Preistheorie}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::ein vollkommener Kapitalmarkt mit homogenen Gütern vorhanden ist}}</li>
+<li>{{c2::eine perfekte Informationsverteilung vorhanden ist}}</li>
+<li>{{c2::keine Preisdifferenzierung vorhanden ist}}</li>
+<li>{{c2::keine persönlichen, räumlichen, sachlichen oder zeitlichen Präferenzen vorhanden sind}}</li>
+<li>{{c2::Marktteilnehmer für eine Nutzenmaximierung vollkommen rational handeln}}</li>
+</ul>"	
+"{{c1::Die Preispolitik}} ist {{c2::die Festlegung von alternativen Preisforderungen gegenüber potentiellen Käufern sowie die konkrete Vereinbarung eines Preises bei Kontrahierung}}.<br />
+Kein anderes Marketing-Mix-Instrument besitzt eine vergleichbare direkte Auswirkung auf {{c3::den Gewinn und den Umsatz}}."	
+"<p>{{c1::Die Preispolitik}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::hohe Wirkungsgeschwindigkeit}}</li>
+<li>{{c2::hohe Wirkungsstärke}}</li>
+<li>{{c2::schnelle Umsetzbarkeit}}</li>
+<li>{{c2::schwere Revidierbarkeit}}</li>
+</ul>"	
+"{{c1::Ein Pull-Anreiz}} ist {{c2::die Schaffung und Weckung von Kaufanreizen des Käufers}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Push-Strategie_und_Pull-Strategie.png"" alt=""""><br />
+Push-Strategie und Pull-Strategie}}}}"	
+"wahr oder falsch:<br />
+Push-Anreize entstehen durch die Profilierung der Marke und der Schaffung von Nachfragepotenzial."	falsch
+"{{c1::Ein Push-Anreiz}} ist {{c2::die Schaffung und Weckung von Verkaufsanreizen der Absatzmittler}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Push-Strategie_und_Pull-Strategie.png"" alt=""""><br />
+Push-Strategie und Pull-Strategie}}}}"	
+"wahr oder falsch:<br />
+Eine grundlegende Entscheidung zwischen Push- oder Pull-orientiertem Vorgehen muss bei der Umsetzung des Stimulierungskonzeptes getroffen werden."	wahr
+{{c1::Das Stimulierungskonzept}} ist {{c2::die Führung der Absatzkanäle, um die Absatzmittler zu eine Verhalten zu bewegen, die mit den Zielen des Hersteller übereinstimmen}}.	
+Schwerpunkt des Stimulierungskonzept sind {{c1::die Push-Anreize und Pull-Anreize}}.	
+{{c1::Ein Handelsvertreter}} ist {{c2::ein rechtlich selbstständiger Gewerbetreibender, der damit betraut wird, für eine oder mehrere Hersteller Geschäfte zu vermitteln oder in dessen Name Geschäfte abzuschließen}}.	
+"wahr oder falsch:<br />
+Die Konkretisierung der Absatzkanalstruktur durch die Bewertung und Auswahl der Absatzmittler und Absatzhelfer gehört zum Kontraktkonzept."	wahr
+"{{c1::Das Kontraktkonzept}} ist {{c2::die Bestimmung der Beziehungsstruktur zwischen den Hersteller und den Absatzmittlern und Absatzhelfern}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Kontraktkonzept.png"" alt=""""><br />
+Kontraktkonzept}}}}"	
+{{c1::Der direkte Vertrieb}} ist {{c2::der Vertrieb durch den Hersteller mit unmittelbaren Kontakt zu dem Konsumenten}}.	
+"Beispiel:<br />
+indirekter Vertrieb"	"<ul>
+<li>Franchisenehmer</li>
+</ul>"
+"wahr oder falsch:<br />
+Die Absatzstruktur von Vorwerk ist ein Beispiel für indirekten Vertrieb."	falsch
+{{c1::Der indirekte Vertrieb}} ist {{c2::der Vertrieb durch Absatzmittler oder vertraglich gebundene Kooperationspartner}}.	
+"{{c1::Die vertikale Absatzkanalstruktur}} ist {{c2::die Festlegung der Vertriebsform von Produkten}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Veritikalisierung_im_Absatzkanal.png"" alt=""""><br />
+Vertikalisierung im Absatzkanal}}}}"	
+{{c1::\(\text{Distributionsdichte}\)}} \(=\) {{c2::\(\frac{\text{Anzahl der Letztverkaufsstellen, die ein bestimmtes Produkt führen} }{\text{Fläche des Absatzgebietes} }\)}}	
+{{c1::\(\text{Distributionsquote}\)}} \(=\) {{c2::\(\frac{\text{Anzahl der Letztverkaufsstellen, die eine bestimmte Marke des Produktes führen} }{\text{Anzahl der Letztverkaufsstellen, die irgendeine Marke des Produktes führen} }\)}}	
+"wahr oder falsch:<br />
+Die exklusive Distribution enthält primär Güter des täglichen Bedarfs."	falsch
+{{c1::Die exklusive Distribution}} ist {{c2::eine Form der selektiven Distribution, bei welcher nur speziell ausgewählte Absatzmittler ein Produkt vertreiben dürfen}}.	
+{{c1::Die exklusive Distribution}} ermöglicht {{c2::eine bessere Kontrollmöglichkeiten über Preise und Serviceleistungen}}.	
+{{c1::Die selektive Distribution}} ist {{c2::die Distribution, bei welcher die Auswahl der Absatzmittler nach qualitativen Gesichtspunkten erfolgt}}.	
+Die selektive Distribution wird insbesondere in {{c1::monopolistischen Konkurrenzen}} ausgeübt.	
+"wahr oder falsch:<br />
+Bei der intensiven Distribution werden Absatzmittler vor allem nach qualitativen Gesichtspunkten ausgewählt."	falsch
+"wahr oder falsch:<br />
+Intensive Distribution ist ein Sonderfall der selektiven Auswahl des Absatzmittlers."	falsch
+{{c1::Die intensive Distribution}} ist {{c2::die Distribution, bei welcher ein hoher Distributionsgrad angestrebt wird und das Produkt überall erhältlich sein soll}}.	
+Intensive Distribution wird insbesondere in {{c1::Polypolen}} ausgeübt.	
+"Beispiel:<br />
+Betriebstyp"	"<ul>
+<li>exklusive Unternehmen</li>
+<li>großflächige Unternehmen</li>
+<li>preisbetonte Unternehmen</li>
+</ul>"
+{{c1::Ein Betriebstyp}} ist {{c2::die Variante einer bestimmten Betriebsform}}.	
+"Beispiel:<br />
+Betriebsform"	"<ul>
+<li>Discounter</li>
+<li>Fachmarkt</li>
+<li>Versandhandel</li>
+</ul>"
+"wahr oder falsch:<br />
+Discounter stellen alle den gleichen Betriebstyp dar, können aber unterschiedliche Betriebsformen haben."	falsch
+{{c1::Eine Betriebsform}} ist {{c2::die Kategorie der Unternehmen, deren Merkmale übereinstimmen, als dass sie aus der Perspektive der Konsumente als gleichartig wahrgenommen werden.}}	
+"wahr oder falsch:<br />
+Der direkte und indirekte Vertrieb gehört zu der horizontalen Absatzkanalstruktur."	falsch
+"wahr oder falsch:<br />
+Entscheidungen hinsichtlich der Tiefe der Absatzkanalstruktur befassen sich mit der Festlegung des Betriebstyps und der Anzahl der Absatzmittler."	wahr
+"wahr oder falsch:<br />
+Komponenten der horizontalen Absatzstruktur sind Betriebsformen und Betriebstypen."	wahr
+{{c1::Die horizontale Absatzkanalstruktur}} ist {{c2::die Festlegung der Betriebsform zur Bestimmung der Art der Absatzmittler und des Betriebstyp zur Bestimmung der Anzahl der Absatzmittler}}.	
+"wahr oder falsch:<br />
+Bei der Festlegung der Breite der Absatzkanalstruktur wird die Art der Absatzmittler (Betriebsform) bestimmt."	wahr
+"wahr oder falsch:<br />
+Die Konkretisierung der Absatzkanalstruktur durch die Bewertung und Auswahl der Absatzmittler und -helfer gehört zum Kontraktkonzept."	falsch
+"{{c1::Die Absatzkanalstruktur (Absatzstruktur, Selektionskonzept)}} ist {{c2::die Festlegung der vertikalen und horizontalen Absatzkanalstruktur durch die Bewertung und Auswahl der Absatzmittler und Absatzhelfer}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Absatzkanalstruktur.png"" alt=""""><br />
+Festlegung der Absatzkanalstruktur}}}}"	
+"wahr oder falsch:<br />
+Preispolitischer Zielkonflikte zwischen Hersteller und Handel bestehen, wenn der Hersteller einheitliche Endverbraucherpreise und der Handel eine aggressive Preispolitik fördern möchte."	wahr
+{{c1::Preispolitischer Zielkonflikte zwischen Hersteller und Handel bestehen}}, wenn {{c2::der Hersteller einheitliche Endverbraucherpreise und der Handel eine aggressive Preispolitik fördern möchte}}.	
+"wahr oder falsch:<br />
+Kommunikationspolitischer Zielkonflikte zwischen Hersteller und Handel bestehen, wenn der Hersteller die Markentreue und der Handel die Händlertreue fördern möchte."	wahr
+{{c1::Kommunikationspolitische Zielkonflikte zwischen Hersteller und Handel bestehen}}, wenn {{c2::der Hersteller die Markentreue und der Handel die Händlertreue fördern möchte}}.	
+"wahr oder falsch:<br />
+Distributionspolitische Zielkonflikte zwischen Hersteller und Handel bestehen, wenn der Hersteller wenige große Bestellungen des gesamten Herstellersortiments und der Handel kleine schnelle Lieferungen von ausgewählten fördern möchte."	wahr
+{{c1::Distributionspolitische Zielkonflikte zwischen Hersteller und Handel bestehen}}, wenn {{c2::der Hersteller wenige große Bestellungen des gesamten Herstellersortiments und der Handel kleine schnelle Lieferungen von ausgewählten fördern möchte}}.	
+"wahr oder falsch:<br />
+Produktpolitische Zielkonflikte zwischen Hersteller und Handel bestehen, wenn der Hersteller die Herstellermarke und der Handel das Sortiment und/oder die Eigenmarke fördern möchte."	wahr
+{{c1::Produktpolitische Zielkonflikte zwischen Hersteller und Handel bestehen}}, wenn {{c2::der Hersteller die Herstellermarke und der Handel das Sortiment und/oder die Eigenmarke fördern möchte}}.	
+"<p>{{c1::Ziele der Distributionspolitik}} sind:</p>
+<ul>
+<li>{{c2::Auswahl der Absatzkanäle nach Beeinflussbarkeit und Kontrollierbarkeit}}</li>
+<li>{{c2::Auswahl der Absatzmittler nach Aufbaudauer und Flexibilität}}</li>
+<li>{{c2::Einbindung kooperationsbereiter Absatzmittler}}</li>
+<li>{{c2::Erhöhung des Distributionsgrades}}</li>
+<li>{{c2::Nutzung des Images des Absatzkanals}}</li>
+<li>{{c2::Reduzierung der Vertriebskosten und Handelsspanne}}</li>
+</ul>"	
+"<p>{{c1::Konflikte in der Absatzkanalstruktur}} entsteht durch {{c2::unterschiedliche Vorstellung von Produzenten und Absatzmittler}} in Bezug zu:</p>
+<ul>
+<li>{{c3::Kommunikationsbeziehungen}}</li>
+<li>{{c3::Machtbeziehungen}}</li>
+<li>{{c3::Rollenbeziehungen}}</li>
+<li>{{c3::Zielbeziehungen}}</li>
+</ul>"	
+"Beispiel:<br />
+Absatzhelfer"	"<ul>
+<li>Speditionen</li>
+<li>Versandhandel</li>
+</ul>"
+{{c1::Ein Absatzhelfer}} ist {{c2::ein rechtlich und wirtschaftlich selbstständige Unternehmen, welches unterstützende Funktionen der Distribution erfüllt}}.	
+"Beispiel:<br />
+Absatzmittler"	"<ul>
+<li>Einzelhändler</li>
+<li>Großhändler</li>
+</ul>"
+{{c1::Ein Absatzmittler}} ist {{c2::ein rechtlich und wirtschaftlich selbstständiges Unternehmen, welche im Distributionsprozess absatzpolitische Instrumente eigenständig einsetzt}}.	
+"wahr oder falsch:<br />
+Ein Einzelhändler ist ein Absatzkanal, der im Distributionsprozess absatzpolitische Instrumente eigenständig einsetzt."	falsch
+{{c1::Ein Absatzkanal}} ist {{c2::eine kommunikativsoziale, ökonomische oder rechtliche Beziehung von Distributionsprozessen zu einer Person, Unternehmung oder Organisation}}.	
+{{c1::Das Programmatic Advertising}} ist {{c2::die Entscheidung und Schaltung von Werbung in Echtzeit}}.	
+{{c1::Die Analyse von Werbemaßnahmen}} ist {{c2::die Überprüfung des Zielerreichungsgrades innerhalb des Planungsprozesses der Kommunikationspolitik}}.	
+"{{c1::Die Pulsing Policy (pulsierende Schaltzeitpunkte)}} ist {{c2::das langfristige Timing der Ausstrahlen von Werbung, welche durch intensive, aber kurzfristige Intervallen unterstützt wird}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Varianten_des_Timing.png"" alt=""""><br />
+Varianten des Timing}}}}"	
+"{{c1::Die Intermittent Policy (intermittierende Schaltzeitpunkte)}} ist {{c2::das intensive Timing der Ausstrahlung von Werbung in Intervallen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Varianten_des_Timing.png"" alt=""""><br />
+Varianten des Timing}}}}"	
+"{{c1::Die Even Policy (kontinuierliches Timing)}} ist {{c2::das kontinuierliche, aber schwache Timing der Ausstrahlung von Werbung}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Varianten_des_Timing.png"" alt=""""><br />
+Varianten des Timing}}}}"	
+"{{c1::Der Schaltzeitpunkt (Timing)}} ist {{c2::die Festlegung der genauen Einschaltzeitpunkte von Werbung innerhalb einer Periode}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Timing.png"" alt=""""><br />
+Timing}}}}"	
+"wahr oder falsch:<br />
+Durch eine Blitz Policy findet ein kurzfristiger Aufbau von Erinnerungswerten beim potentiellen Kunden statt."	wahr
+"wahr oder falsch:<br />
+Durch eine Blitz Policy findet ein langfristiger Aufbau von Erinnerungswerten beim Kunden statt."	falsch
+"{{c1::Die Blitz Policy (massierte Schaltzeitpunkte)}} ist {{c2::das intensive, aber kurzfristige Timing der Ausstrahlung von Werbung}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Varianten_des_Timing.png"" alt=""""><br />
+Varianten des Timing}}}}"	
+"wahr oder falsch:<br />
+Anhand des Tausender-Kontaktpreises (TKP) ist es möglich, verschiedene Kommunikationsmedien miteinander zu vergleichen und auf Basis dieser Daten die für eine Kampagne ""beste"" Alternative zu selektieren."	wahr
+"wahr oder falsch:<br />
+Der Tausender-Kontaktpreis gibt an, wie viel es kostet, 1.000 Personen vom Kauf eines Produktes zu überzeugen."	falsch
+"wahr oder falsch:<br />
+Die Entscheidungsregel für die Auswahl eines Werbeträgers mit Hilfe des gewichteten Tausender-Kontaktpreises lautet: Wähle das Medium mit dem größten Tausender-Kontaktpreis."	falsch
+"wahr oder falsch:<br />
+Die Gewichtung des TKP dient zur Berücksichtigung des Fit zwischen dem Medium und der angestrebten Zielgruppe."	falsch
+{{c1::Der Tausender-Kontaktpreis (TKP)}} ist {{c2::die Einschätzung des Kosten-Nutzen-Verhältnisses eines Werbeträgers unter Bemessung des Preises für eine Werbung, um 1.000 Personen zu erreichen}}.	
+{{c1::\(TKP\)}} \(=\) {{c2::\(\frac{\text{Kosten der einmaligen Belegung eines Werbeträgers} }{\text{Kontaktsumme} } \cdot 1.000\)}}	
+"wahr oder falsch:<br />
+Eine Kontaktmaßzahl der Intramediaselektion ist die Nettoreichweite. Überschneidungen von mehreren Kontakten zu einer Person mit der identischen Werbebotschaft werden bei dieser herausgerechnet."	wahr
+{{c1::Die Nettoreichweite}} ist {{c2::die Anzahl der Kontakte, die durch eine Werbung mindestens einmal erreicht wurden}}.	
+{{c1::Die Bruttoreichweite}} ist {{c2::die Summe der Einzelreichweite bei Mehrfachbelegung und/oder Nutzung mehrerer Werbeträger, wobei Überschneidungen nicht berücksichtigt werden}}.	
+{{c1::Die Einzelreichweite}} ist {{c2::die Summe der Kontakte aller Personen, die durch eine oder mehrere Werbungen mit einer Werbebotschaft über einen oder mehrere Werbeträger erreicht wurden}}.	
+"wahr oder falsch:<br />
+Kataloge, Handzettel und E-Mail-Marketing sind Formen des Direktmarketings."	wahr
+{{c1::Die Werbeträgerart}} ist {{c2::ein Instrument der Kommunikationsmaßnahmen zur Umsetzung der Kommunikationspolitik}}.	
+"<p>{{c1::Werbeträgerarten}} sind:</p>
+<ul>
+<li>{{c2::Direktmarketing}}</li>
+<li>{{c2::klassische Werbung}}</li>
+<li>{{c2::Öffentlichkeitsarbeit}}</li>
+<li>{{c2::persönlicher Verkauf}}</li>
+<li>{{c2::Verkaufsförderung}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Aufgabe der Intramediaselektion ist die Auswahl der Werbeträgerarten, Aufgabe der Intermediaselektion ist hingegen die Auswahl spezieller Werbeträger."	falsch
+{{c1::Die Mediaselektion}} ist {{c2::die Auswahl der Werbeträgerart, des speziellen Werbeträgers und der Schaltzeitpunkte}}. {{c1::Die Mediaselektion}} besteht somit aus {{c3::der Intermediaselektion, der Intramediaselektion und des Timings}}.	
+{{c1::Die Mediaselektion}} sollte so getroffen werden, dass {{c2::das gegebene Werbebudget eine maximale Wirkung entfaltet}}.	
+"wahr oder falsch:<br />
+Anhand des Tausender-Kontaktpreises ist es möglich, verschiedene Kommunikationsmedien miteinander zu vergleichen und auf Basis dieser Daten die für eine Kampagne beste Alternative zu selektieren."	wahr
+"wahr oder falsch:<br />
+Die nicht wirkungsgestützte Budgetierungsmethode unterstellt einen Zusammenhang zwischen Kommunikationsbudget und einer angestrebten Zielgröße, z. B. Absatzzahlen."	falsch
+"wahr oder falsch:<br />
+Ein Vorteil der nicht wirkungsgestützten Budgetierungsmethoden ist der hohe Aufwand bei der Datenerhebung und Datenauswertung."	falsch
+{{c1::Die nicht wirkungsgestützte Budgetierungsmethode}} ist {{c2::die Bestimmung des Kommunikationsbudgets durch die Heuristik auf Basis von Planungskennziffern oder der Ziel und Aufgaben-Methode}}.	
+"wahr oder falsch:<br />
+Die Berücksichtigung von Carry-Over-Effekten ist bei der wirkungsgestützten Budgetierungsmethode nicht möglich."	falsch
+"wahr oder falsch:<br />
+Werbereaktionsfunktionen können statischer oder dynamischer Natur sein."	wahr
+"{{c1::Die wirkungsgestützte Budgetierungsmethode}} ist {{c2::die Bestimmung des Kommunikationsbudgets durch die Nutzung von Reaktionsfunktionen, die einen Zusammenhang zwischen dem Kommunikationsbudget und einer Zielgröße annimmt}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Reaktionsfunktion.png"" alt=""""><br />
+Beispiel einer statischen Reaktionsfunktion ohne Berücksichtigung von Wettbewerbsreaktionen}}}}"	
+"Frage:<br />
+Was ist der Unterschied zwischen nicht-wirkungsgestützten und wirkungsgestützten Budgetierungsmethoden?"	"Bei wirkungsgestützten Budgetierungsmethoden wird ein formaler Zusammenhang zwischen dem Kommunikationsbudget und einer Zielgröße unterstellt, z. B. Absatz und Werbebudget.<br />
+Bei nicht-wirkungsgestützten Budgetierungsmethoden wird das Budget auf Basis von Planungskennziffern berechnet, es besteht kein zwingender Zusammenhang zwischen den Größen, z. B. Prozent vom Gewinn."
+{{c1::Das Kommunikationsbudget}} ist {{c2::das Budget für Werbung}}.	
+"<p>{{c1::Der Planungsprozess der Kommunikationspolitik}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Festlegung der Werbeziele}}</li>
+<li>{{c3::Bestimmung des Werbebudgets}}</li>
+<li>{{c4::Entscheidungen zur Werbung}}<ul>
+<li>{{c4::Entscheidung zur Werbebotschaft}}</li>
+<li>{{c4::Entscheidung zur Werbeträgerbelegung}}</li></ul></li>
+<li>{{c5::Beurteilung der Werbewirkung}}</li>
+</ol>"	
+{{c1::Ein Werbeziel}} ist {{c2::ein Ziel der Kommunikationspolitik für ein bestimmtes Kundensegment}}.	
+{{c1::Werbeziele}} können differenziert werden in {{c2::vorökonomische Ziele}}, z. B. {{c2::Bekanntheit}} oder {{c2::Einstellung}}, und {{c3::ökonomische Ziele}}, z. B. {{c3::Absatz}} oder {{c3::Umsatz}}.	
+"<p>{{c1::Kommunikationsbedingungen für die Kommunikationspolitik}} sind:</p>
+<ul>
+<li>{{c2::Dominanz der Bildkommunikation}}</li>
+<li>{{c2::gesättigte Märkte}}</li>
+<li>{{c2::Informationsüberlastung}}</li>
+<li>{{c2::Wertewandel}}</li>
+<li>{{c2::zunehmende Marktdifferenzierung und Produktdifferenzierung}}</li>
+</ul>"	
+{{c1::Die Produktvarietät}} ist {{c2::die Produktdifferenzierung und eine nicht-segment-gerichtete Strategie von mehreren Produktvarianten zur Realisierung höherer Umsätzen und Gewinnen}}.	
+"wahr oder falsch:<br />
+Hat man das Ziel der Wiederbelebung einer stagnierenden oder rückläufigen Umsatz- oder Gewinnentwicklung, bietet sich eine Produktmodifikation an."	wahr
+{{c1::Die Produktmodifikation (Produkt-Relaunch)}} ist {{c2::eine umfassende Veränderung einer oder mehrerer Produkteigenschaften von einem eingeführten Produkt in einem Markt}}.	
+{{c1::Die Produktmodifikation}} versucht {{c2::den Produktlebenszyklus}} zu verlängern.	
+"wahr oder falsch:<br />
+Die Produktpflege ist die kontinuierliche Verbesserung der auf dem Markt eingeführten Produkte und hat die Abschaffung von Produktmängeln zum Ziel."	wahr
+{{c1::Die Produktpflege}} ist {{c2::die kontinuierliche Verbesserung von eingeführten Produkten in einem Markt durch kleine Produktvariationen}}.	
+{{c1::Die Produktpflege}} versucht die Effizienz {{c2::der Produktionsprozesse}} und {{c2::Qualitätsprozesse}} zu verbessern.	
+"wahr oder falsch:<br />
+Bei der Produktdifferenzierung liegt ein zeitlich paralleles Angebot mehrerer Produktvariationen vor, um die Bedürfnisse einer homogenen Zielgruppe befriedigen zu können."	falsch
+{{c1::Die Produktdifferenzierung}} ist {{c2::das zeitliche parallele Angebot von mehreren Produktvariationen, um die Bedürfnisse unterschiedlicher Kundensegmente befriedigen zu können}}.	
+{{c1::Die Produktvariation}} ist {{c2::die Veränderung von Produkten, die bereits in einem Markt eingeführt sind}}.	
+"{{c1::Ein Market Breakthrough}} ist {{c2::eine Produktinnovation mit einer hohen innovativen Bedürfnisbefriedigung und einer niedrigen Technologieinnovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Arten der Produktinnovation}}}}"	
+"{{c1::Ein Technological Breakthrough}} ist {{c2::eine Produktinnovation mit einer niedrigen innovativen Bedürfnisbefriedigung und einer hohen Technologieinnovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Arten der Produktinnovation}}}}"	
+"{{c1::Eine Radical Innovation}} ist {{c2::eine Produktinnovation mit einer hohen innovativen Bedürfnisbefriedigung und einer hohen Technologieinnovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Arten der Produktinnovation}}}}"	
+"{{c1::Eine Incremental Innovation}} ist {{c2::eine Produktinnovation mit einer niedrigen innovativen Bedürfnisbefriedigung und einer niedrigen Technologieinnovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Arten der Produktinnovation}}}}"	
+"<p>{{c1::Erfolgsfaktoren von Produktionsinnovation}} sind:</p>
+<ul>
+<li>{{c2::Einzigartigkeit und Wahrnehmbarkeit des Nutzenvorteils einer Innovation}}</li>
+<li>{{c2::hohe Intensität der Markeinführungsaktivitäten}}</li>
+<li>{{c2::hohes Marketing-Knowhow und Markt-Knowhow}}</li>
+<li>{{c2::hohes technisches Niveau und Nutzung von Synergien}}</li>
+<li>{{c2::Marktsituation}}</li>
+</ul>"	
+"{{c1::Der Adoptionsprozess der Markteinführung}} besteht aus mehreren Schritten:<br />
+{{c2::Erkennen -&gt; Interesse -&gt; Bewertung -&gt; Versuch -&gt; Annahme}}<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Adopter_der_Markteinfuehrung.png"" alt=""""><br />
+Adopter nach verschiedenen Übernahmezeitpunkten}}}}"	
+"<p>{{c1::Die Differenzierung von Produkttests}} besteht aus:</p>
+<ul>
+<li>{{c2::Konzepttest}}</li>
+<li>{{c3::realer Produkttest}}<ul>
+<li>{{c3::Partialtest}}</li>
+<li>{{c3::Volltest}}<ul>
+<li>{{c3::Feldexperiment}}</li>
+<li>{{c3::Labortest}}</li></ul></li></ul></li>
+</ul>"	
+{{c1::Die Ideenrealisation}} ist {{c2::die Umsetzung der Produktideen in konkrete Konzepte oder Produkte als Prototypen zum Testen dieser Konzepte oder Produkte}}.	
+"wahr oder falsch:<br />
+Ein Vorteil der Break-Even-Analyse liegt in der Berücksichtigung von Erfahrungskurveneffekten."	falsch
+"{{c1::Die Break-Even-Analyse}} ist {{c2::die Gewinnschwellenanalyse zur Berechnung der Break-Even-Menge}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Break-Even-Analyse.png"" alt=""""><br />
+Break-Even-Analyse}}}}"	
+"{{c1::Die Break-Even-Menge}} wird durch {{c2::den Schnittpunkt von Umsatz und Gesamtkosten}} bestimmt.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Break-Even-Analyse.png"" alt=""""><br />
+Break-Even-Analyse}}}}"	
+{{c1::Das Quality Function Deployment (QFD)}} ist {{c2::ein Auswahlverfahren zur Feinauswahl durch die Übertragung von Anforderung in qualitative Merkmale}}.	
+{{c1::Ein Scoring-Modell}} ist {{c2::ein Auswahlverfahren zur Grobauswahl als Punktebewertungsmodell, bei dem jeder Teilfaktor ein eigenen Wahrscheinlichkeitskoeffizienten besitzt, durch welchen ein Erwartungswert bestimmt werden kann}}.	
+{{c1::Die Ideenprüfung}} ist {{c2::die Minimierung des Misserfolgsrisikos von Ideen}}.	
+"<p>{{c1::Die Ideenprüfung}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Grobauswahl (Screening)}}: {{c2::Checklisten, Fragebögen und Scoring-Modelle}}</li>
+<li>{{c3::Feinauswahl}}: {{c3::Conjoint-Analyse und QFD}}</li>
+<li>{{c4::Wirtschaftlichkeitsanalyse}}: {{c4::Amortisationsrechnung, Break-Even-Analyse und Kapitalwertmethode}}</li>
+</ol>"	
+"wahr oder falsch<br />
+Kundenbeschwerden sind nicht als Maßnahme zur Ideenfindung geeignet."	falsch
+"<p>{{c1::Maßnahmen zur Ideengewinnung}} sind:</p>
+<ul>
+<li>{{c2::Experten: Lead User mit hohen nutzungsorientierten Produkt-Knowhow}}</li>
+<li>{{c2::interne Quellen: Innerbetriebliche Vorschlagswesen, ideenwettbewerbe für Mitarbeiter, Einführung und Förderung kreativer Denkprozesse}}</li>
+<li>{{c2::Konkurrenzanalyse: Frühaufklärung der Hauptwettbewerber und Benchmarking}}</li>
+<li>{{c2::Nachfrager: Kundenwünschen und Kundenbeschwerden}}</li>
+</ul>"	
+"Um {{c1::die Unsicherheit für Planungsprobleme}} in {{c2::der Innovation}} zu reduzieren, müssen {{c3::die Nachfrager und Kunden in den Produktentwicklungsprozess eingebunden werden}}, um {{c4::wenig erfolgreiche Ideen frühzeitig zu identifizieren}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2022-Bild-Wiesel-Unsicherheit_in_der_Innovation.png"" alt=""""><br />
+Unsicherheit in der Innovation}}}}}}}}"	
+"wahr oder falsch:<br />
+Man unterteilt das operative Innovationsmanagement in diese vier Phasen: Ideengewinnung, Ideenprüfung, Ideenrealisation und Markteinführung."	wahr
+"{{c1::Das operative Innovationsmanagement}} besteht aus mehreren Schritten:<br />
+{{c2::Ideating/Brainstorming}} -&gt; {{c3::Ideenprüfung/Testing}} -&gt; {{c4::Ideenrealisation}} -&gt; {{c5::Markteinführung}}"	
+"Frage:<br />
+Welche Herausforderungen entstehen in Bezug zu Innovation?"	"<ul>
+<li>hohe Misserfolgswahrscheinlichkeit</li>
+<li>hoher Ressourcenaufwand</li>
+</ul>"
+"wahr oder falsch:<br />
+Bei einer konkurrenz-induzierten Innovationsstrategie ist das vorrangige Ziel, aktuelle, noch nicht befriedigte Nachfragebedürfnisse zu entdecken und Produkte entsprechend zu entwickeln."	falsch
+"<p>{{c1::Probleme bei Innovationen}} sind:</p>
+<ul>
+<li>{{c2::hohe Misserfolgswahrscheinlichkeit}}</li>
+<li>{{c2::hoher Ressourcenaufwand}}</li>
+<li>{{c2::Marktrisiken}}</li>
+<li>{{c2::Widerstand in Organisationen und Management}}</li>
+</ul>"	
+{{c1::Der Geltungsnutzen}} ist {{c2::der Nutzen und die Bedürfnisbefriedigung, welcher aus dem sozialen Wert eines Produktes resultiert}}.	
+"wahr oder falsch:<br />
+Der hohe Sicherheitsstandard eines Autos wird als Erbauungsnutzen bezeichnet."	falsch
+{{c1::Der Erbauungsnutzen}} ist {{c2::der Nutzen und die Bedürfnisbefriedigung, welcher aus dem ästhetischen Wert eines Produkts resultiert}}.	
+{{c1::Der Zusatznutzen}} ist {{c2::der Nutzen, welcher über die Bedürfnisbefriedigung des Grundnutzen hinausgeht}}. {{c1::Der Zusatznutzen}} umfasst dabei nicht den Erbauungsnutzen oder Geltungsnutzen.	
+"wahr oder falsch:<br />
+Zu dem Grundnutzen zählen lediglich die technisch-funktionalen Basiseigenschaften eines Produktes."	wahr
+"wahr oder falsch:<br />
+Zum Grundnutzen eines Produktes zählen neben technisch-funktionaler Bedürfnisbefriedigung auch ästhetische und soziale Komponenten."	falsch
+{{c1::Der Grundnutzen}} ist {{c2::der Nutzen und die Bedürfnisbefriedigung, welcher aus den technisch-funktionalen Basiseigenschaften eines Produktes resultiert}}.	
+"Frage:<br />
+Was sind die vier Komponenten des Produktnutzen?"	"<ul>
+<li>Erbauungsnutzen</li>
+<li>Geltungsnutzen</li>
+<li>Grundnutzen</li>
+<li>Zusatznutzen</li>
+</ul>"
+"wahr oder falsch:<br />
+Zum Produktnutzen eines Produktes zählen neben der technisch-funktionalen Bedürfnisbefriedigung und der hinausgehenden Bedürfnisbefriedigung auch ästhetische und soziale Komponenten."	wahr
+{{c1::Der Produktnutzen}} ist {{c2::die Summe aller Nutzenkomponenten des Produktes}}, spezifisch die Summe {{c3::des Grundnutzen, Zusatznutzen, Erbauungsnutzen und Geltungsnutzen}}.	
+"{{c1::Die operative Marketingplanung}} ist {{c2::die Planung aller Marketingmaßnahmen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ablauf_der_operativen_Marketingplanung.png"" alt=""""><br />
+Ablauf der operativen Marketingplanung}}}}"	
+"{{c1::Die operative Marketingplanung}} besteht aus mehreren Schritten:<br />
+{{c2::Situationsanalyse}} -&gt; {{c3::Prognose}} -&gt; {{c4::Marketingziele}} -&gt; {{c5::Marketingstrategie}} -&gt; {{c6::Marketing-Mix}} -&gt; {{c7::Implementierung}} -&gt; {{c8::Kontrolle}}"	
+"<p>{{c1::Motivationen eines Markentransfers}} sind:</p>
+<ul>
+<li>{{c2::Antizipation von Werbebeschränkungen}}</li>
+<li>{{c2::Ausweitung der Assoziationen und Imagebestandteile der Hauptmarke}}</li>
+<li>{{c2::Gewinnung neuer Käufergruppen}}</li>
+<li>{{c2::kognitive Entlastung des Markenwahlprozesses für den Konsumenten}}</li>
+<li>{{c2::Kosteneinsparung bei der Markeneinführung neuer Produkte}}</li>
+<li>{{c2::Reduzierung einer Misserfolgswahrscheinlichkeit}}</li>
+</ul>"	
+"Beispiel:<br />
+Markenfamilienstrategie"	"<ul>
+<li>Beiersdorf mit Nivea und Tesa</li>
+</ul>"
+{{c1::Die Markenfamilienstrategie}} ist {{c2::die Markenstrategie einer Unternehmung, bei der Produkte unter verschiedenen Markenstrategie angeboten werden}}.	
+"wahr oder falsch:<br />
+Die Verwendung eines Markentransfers kann helfen Kosten einzusparen und die Markteinführung neuer Produkte zu erleichtern."	wahr
+"wahr oder falsch:<br />
+Markentransfers bieten im wesentlichen Zeit- und Kostenvorteile gegenüber Markeninnovationen."	wahr
+"wahr oder falsch:<br />
+Oft reichtes aus, nur bestimmte Markenelemente für Markentransfers zu benutzen, z. B. die Verpackung."	wahr
+"<p>Faktoren {{c1::des Markentransfers}} sind:</p>
+<ul>
+<li>{{c2::Anzahl von Marken pro Unternehmen, die für den Transfer eingesetzt werden: Dachmarkenstrategie oder Markenfamilienstrategie}}</li>
+<li>{{c2::Art der für den Markentransfer eingesetzte Instrumente}}</li>
+<li>{{c2::Art der Herkunft der Marke}}</li>
+<li>{{c2::dem räumliche Transfer}}</li>
+<li>{{c2::Produktkategorie, hinsichtlich welcher die Transfer vorgenommen wird}}</li>
+<li>{{c2::Richtung des Markentransfers: Horizontaler Markentransfer oder vertikaler Markentransfer}}</li>
+</ul>"	
+"Beispiel:<br />
+Dachmarkenstrategie"	"<ul>
+<li>Sony mit Kameras und Videospielkonsolen</li>
+</ul>"
+"wahr oder falsch:<br />
+Unternehmen, die viele Produkte anbieten, benutzen tendenziell eher die Dachmarkenstrategie, damit nicht für jedes einzelne Produkt eine eigene Marke genutzt werden muss."	wahr
+{{c1::Die Dachmarkenstrategie}} ist {{c2::die Markenstrategie einer Unternehmung, bei der alle Produkte unter einer einheitlichen Marke angeboten werden}}.	
+"Beispiel:<br />
+Mehrmarkenstrategie"	"<ul>
+<li>Ferrero mit Mon Cheri und Rocher</li>
+</ul>"
+{{c1::Die Mehrmarkenstrategie}} ist {{c2::die Markenstrategie einer Unternehmung, bei ein Produktbereich durch mehreren Marken abgedeckt wird}}.	
+{{c1::Die Zweitmarkenstrategie}} ist {{c2::die Markenstrategie einer Unternehmung, bei der ein Produktbereich durch mehreren Marken zur Differenzierung hinsichtlich der Qualität und des Preises abgedeckt wird}}.	
+"Beispiel:<br />
+Einzelmarkenstrategie"	"<ul>
+<li>Henkel mit Persil als Waschmittel und dato als Gardinenwaschmittel</li>
+</ul>"
+"wahr oder falsch:<br />
+Eine Einzelmarkenstrategie ist besonders dann relevant, wenn in einer Produktkategorie unterschiedliche Zielgruppen angesprochen werden sollen."	wahr
+"wahr oder falsch:<br />
+Werden sämtliche Produkte eines Unternehmens unter einer einheitlichen Marke angeboten, spricht man von einer Einzelmarkenstrategie."	falsch
+{{c1::Die Einzelmarkenstrategie}} ist {{c2::die Markenstrategie einer Unternehmung, bei der jedes einzelne Produkt unter einer für das jeweilige Produkt kreierten Marke angeboten wird}}.	
+{{c1::Die interne Markenstärke}} ist {{c2::die Markenstärke durch die Messung der verhaltenswirksamen psychologischen Bindung von Mitarbeitern an die Marke}}.	
+{{c1::Die externe Markenstärke}} ist {{c2::die Markenstärke durch die Messung der Kaufverhaltensrelevanz des Konsumenten mit den Faktoren der Eroberungsrate und Markenloyalität}}.	
+"wahr oder falsch:<br />
+Bei dem Markenwert/der Markenstärke differenziert man zwischen der externen und innengerichteten Dimension. Die innengerichtete Dimension drückt sich durch eine hohe Markentreue der Käufer aus."	falsch
+{{c1::Die Markenstärke}} ist {{c2::die Quantifizierung des Markenwertes}}.	
+"<p>{{c1::Ziele der Markenführung}} sind:</p>
+<ul>
+<li>{{c2::ökonomische Zielgrößen}}</li>
+<li>{{c2::psychographische Zielgrößen}}</li>
+</ul>"	
+{{c1::Der Markenwert (Brand Equity)}} ist {{c2::der mit einer Marke verbundene Wert}}.	
+"<p>{{c1::Die Markenführung}} wird durch folgende Maßnahmen erzielt:</p>
+<ul>
+<li>{{c2::differenzierte Marktbearbeitung}}</li>
+<li>{{c2::Erschließung von Wachstumspotentialen}}</li>
+<li>{{c2::Schaffung eines preispolitischen Spielraums}}</li>
+</ul>"	
+{{c1::Die Markenführung}} ist {{c2::die Profilierung des eigenen Leistungsangebots und die Steigerung des Unternehmenswertes durch eine Marke}}.	
+{{c1::Der Revenue Premium}} ist {{c2::der Price Premium und Share Premium durch den Halo-Effekt}}.	
+{{c1::Der Share Premium}} ist {{c2::ein höherer Absatzes eines Produktes durch den Halo-Effekt}}.	
+{{c1::Ein Price Premium}} ist {{c2::der Absatz eines Produkt zu einem höheren Preises durch den Halo-Effekt}}.	
+"Beispiel:<br />
+Halo-Effekt"	Konsumenten präferieren Coca-Cola beim Einkaufen, präferieren Pepsi aber im Blindtest.
+"wahr oder falsch:<br />
+Der Halo-Effekt besagt, dass das Image einer Marke die Wahrnehmung der einzelnen Produkteigenschaften immer verbessert."	falsch
+"wahr oder falsch:<br />
+Der Halo-Effekt sorgt für geringeren Umsatz."	falsch
+"wahr oder falsch:<br />
+Der Halo-Effekt sorgt für die irrationale Wahrnehmung von Produkteigenschaften."	wahr
+"wahr oder falsch:<br />
+Der Halo-Effekt sorgt für negative Assoziationen mit Konkurrenzprodukten."	falsch
+"wahr oder falsch:<br />
+Starke Marken können sogenannte Halo-Effekte auslösen, bei dem die Gesamtwahrnehmung auf Teilaspekte ausstrahlt."	wahr
+{{c1::Der Halo-Effekt}} ist {{c2::der Effekt, dass Konsumenten eine Präferenz zu bestimmten Marken trotz ähnlicher Qualität haben}}.	
+Durch {{c1::den Halo-Effekt}} kann {{c2::ein Price Premium, Share Premium und somit auch ein Revenue Premium}} erzielt werden.	
+"wahr oder falsch:<br />
+Eine Prozessverkürzung kann zu einer Erhöhung zeitbasierter Opportunitätskosten führen."	falsch
+"wahr oder falsch:<br />
+Eine Senkung der zeitbasierten Opportunitätskosten kann nur durch die Ermöglichung alternativer Zeitverwendungen erreicht werden."	"falsch:<br />
+Eine Senkung der zeitbasierten Opportunitätskosten kann auch durch Prozessverkürzung erreicht werden."
+{{c1::Die Senkung der zeitbasierten Opportunitätskosten}} wird durch {{c2::die Prozessverkürzung}} oder {{c2::die Ermöglichung einer alternativen Zeitverwendung}} erreicht.	
+"<p>{{c1::Der Zeitpunkt des Markteintrittes}} besteht aus:</p>
+<ol>
+<li>{{c2::Pionier}}</li>
+<li>{{c2::früher Folger}}</li>
+<li>{{c2::später Folger}}</li>
+</ol>"	
+"wahr oder falsch:<br />
+Die Substitutionsintensität stellt die Austauschbarkeit von Gütern in einem Markt für Anbieter dar."	falsch
+{{c1::Die Substitutionsintensität}} ist {{c2::eine Überschneidung der Nachfrage zur sachlichen Abgrenzung des relevanten Marktes}}.	
+{{c1::Die Conjoint-Analyse}} ist {{c2::die ganzheitliche Betrachtung von Produkten und Dienstleistungen als ein Bündel von Eigenschaften zur indirekten Preisabfrage}}.	
+"{{c1::Das Marketing als Chance}} ist {{c2::die markorientierte Führung einer Unternehmung mit Markorientierung und dedizierter Marketing-Abteilung}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marktorientierte_Fuehrung_einer_Unternehmung.png"" alt=""""><br />
+Marktorientierte Führung}}}}"	
+"{{c1::Das Marketing als geteilter Wert}} ist {{c2::die markorientierte Führung einer Unternehmung mit Markorientierung aber ohne dedizierte Marketing-Abteilung}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marktorientierte_Fuehrung_einer_Unternehmung.png"" alt=""""><br />
+Marktorientierte Führung}}}}"	
+"{{c1::Der Marketing-Preacher}} ist {{c2::die markorientierte Führung eine Unternehmung mit dedizierte Marketing-Abteilung aber ohne Marktorientierung}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marktorientierte_Fuehrung_einer_Unternehmung.png"" alt=""""><br />
+Marktorientierte Führung}}}}"	
+"{{c1::Die Marketing-Ignoranz}} ist {{c2::die markorientierte Führung einer Unternehmung ohne Marktorientierung oder dedizierte Marketing-Abteilung}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marktorientierte_Fuehrung_einer_Unternehmung.png"" alt=""""><br />
+Marktorientierte Führung}}}}"	
+"wahr oder falsch:<br />
+Die Etablierung der CD als Standard ist das Ergebnis zwischen rivalisierenden Formaten und entspricht einer endogenen Spielregel."	wahr
+"wahr oder falsch:<br />
+Während exogene Regelbrüche immer negativ sanktioniert werden, können endogene Regelbrüche positive oder negative Folgen haben."	wahr
+"wahr oder falsch:<br />
+Das Angebot von Bahntickets durch LIDL stellt einen Bruch einer exogenen Spielregel dar."	falsch
+"wahr oder falsch:<br />
+Zu exogenen Spielregeln zählen rechtliche Vorgaben, z. B. Vertrags- oder Eigentumsrechte."	wahr
+"wahr oder falsch:<br />
+Recht als Organisationsmittel des Marktprozesses beinhaltet Schutzrechte für Wettbewerber und Nachfrager."	falsch
+"wahr oder falsch:<br />
+Man spricht von einem Kostenreduktionsbedarf, wenn die Allowable Costs kleiner als die Drifting Costs sind."	wahr
+{{c1::Ein Kostenreduktionsbedarf}} beim Vergleich von {{c2::Allowable Costs}} und {{c2::Drifting Costs}} liegt vor, wenn {{c4::die Allowable Costs}} {{c3::kleiner}} sind als {{c4::die Drifting Costs}}.	
+"wahr oder falsch:<br />
+Bei Vertrauensgütern nutzen Kunden häufig Marken, um das Risiko eines Kaufs zu reduzieren."	wahr
+"wahr oder falsch:<br />
+Bei Vertrauensgütern sind Qualitätseigenschaften erst nach dem Kauf beurteilbar."	falsch
+{{c1::Ein Vertrauensgut}} ist {{c2::ein Gut, deren Qualität weder vor, noch nach dem Kauf beurteilbar sind}}.	
+"wahr oder falsch:<br />
+Ein kurzer Innovationssprung kann zu dauerhaften Wettbewerbsvorteilen führen."	wahr
+{{c1::Ein Innovationsvorteil}} besteht durch {{c2::einen frühen Markteintrittszeitpunkt}} nur über {{c3::einen bestimmte Zeitraum}} und kann {{c4::einen dauerhaften Wettbewerbsvorteil}} erzeugen.	
+{{c1::Ein Erfahrungsgut}} ist {{c2::ein Gut, deren Qualität erst nach dem Kauf beurteilt werden kann}}.	
+{{c1::Die Preispräsentation}} ist {{c2::das Marketing, die Darstellung und Präsentation eines Preises}}.	
+{{c1::Ein Dauertiefpreis}} ist ein Preis, welcher {{c2::über einen langen Zeitraum nicht geändert wurde}}.	
+"Beispiel:<br />
+Beeinflussung des Referenzpreises"	"<ul>
+<li>Vergangenheitspreise als externe Referenzpreise</li>
+<li>Wettbewerbspreise als externe Referenzpreise</li>
+</ul>"
+"Frage:<br />
+Welche beiden Arten von Referenzpreisen existieren?"	"<ul>
+<li>Vergangenheitspreis als interner Referenzpreis, z. B. 100,00 EUR letzten Monat, jetzt 50,00 EUR</li>
+<li>Wettbewerbspreis als externer Referenzpreis, z. B. 100,00 EUR bei der Konkurrenz, 50,00 EUR bei dem eigenen Unternehmen</li>
+</ul>"
+{{c1::Die Beeinflussung des Referenzpreises}} ist {{c2::eine Maßnahme in Marketing, bei dem ein höherer Preis als Referenzpreis zum jetzigen Preis genommen wird}}.	
+"Beispiel:<br />
+Eckartikel"	"<ul>
+<li>Butter</li>
+<li>Milch</li>
+</ul>"
+{{c1::Ein Eckartikel}} ist ein Produkt, welcher {{c2::häufig eingekauft wird und leicht vergleichbar ist}}.	
+"wahr oder falsch:<br />
+Bei der beurteilungsorientierten Preisführerstrategie wird durch gezielte Maßnahmen das objektive Preisurteil beeinflusst."	"falsch:<br />
+Das subjektive Preisurteil wird beeinflusst."
+"wahr oder falsch:<br />
+Zu den Ansatzpunkten einer beurteilungsorientierten Preisführerschaft zählen zum Beispiel Eckartikel, Preisgarantien und Rabattgewährungen."	wahr
+{{c1::Die beurteilungsorientierte Preisführer-Strategie}} ist {{c2::eine Preisführer-Strategie durch die subjektive Senkung der empfundenen Kosten}}.	
+"wahr oder falsch:<br />
+Drifting Costs sind die tatsächlichen Kosten, die sich aus der aktuellen Produktionstätigkeit heraus ergeben."	wahr
+{{c1::Die Drifting Costs}} sind {{c2::Istkosten, die sich aus den aktuellen betrieblichen Kosten heraus ergeben}}.	
+"{{c1::Das Reverse Pricing}} ist {{c2::ein Verfahren zur Ermittlung der Zahlungsbereitschaft, bei dem der Käufer dem Verkäufer Preise in Form von Geboten nennt, zu denen er ein Produkt zu kaufen bereit ist}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Reverse_Pricing.png"" alt=""""><br />
+Prozess des Reverse Pricing}}}}"	
+"{{c1::Eine Vickrey-Auktion (Second-Price Auction)}} ist {{c2::ein Bieterverfahren, bei dem der Zuschlag zum Höchstgebot entsteht, der Kaufpreis aber zum zweithöchsten Gebot festgelegt wird}}, wodurch {{c3::eine Anreizkompatibilität}} entsteht.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Wiesel-Vickrey-Auktion.png"" alt=""""><br />
+Vickrey-Aution}}}}}}"	
+"{{c1::Die Höchstpreisauktion}} ist {{c2::ein Bieterverfahren, bei dem der Zuschlag zum Höchstgebot entsteht}}, aber {{c3::keine Anreizkompatibilität}} vorhanden ist, da {{c3::das Gebot direkten Einfluss auf den zu zahlenden Preis nimmt}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Wiesel-Hoechstpreisauktion.png"" alt=""""><br />
+Höchstpreisauktion}}}}}}"	
+{{c1::Die indirekte Preisabfrage}} ist {{c2::eine Befragungstechnik, bei welcher der Proband Abwägungen zwischen Eigenschaften vornehmen müssen, wodurch der Nutzen der einzelnen Eigenschaften widergespiegelt wird}}.	
+{{c1::Ein Preisexperiment}} ist {{c2::die Ermittlung der Wirkung eines Preises auf zu einer bestimmten Absatzmenge durch systematische Variation des Preises}} und anschließender {{c3::Regressionsanalyse zur Ermittlung einer Preis-Absatz-Funktion}}.	
+{{c1::Die Marktpreisbestimmung}} ist {{c2::die Messung der aggregierten und individuellen Zahlungsbereitschaft}}.	
+"Frage:<br />
+Fasse das Konzept des Target Costing kurz zusammen."	Target Costing: Wie viel darf ein Produkt kosten?
+"Frage:<br />
+Welche Quellen könne zur Ermittlung des am Markt erzielbaren Preises eingesetzt werden?"	"<ul>
+<li>Conjoint-Analyse</li>
+<li>Marktstudien</li>
+<li>Messebesuche</li>
+<li>Zielgruppenbefragung</li>
+</ul>"
+"wahr oder falsch:<br />
+Bei der Ermittlung der Zielkosten handelt es sich um eine Komponente des Target Costing-Prozesses."	wahr
+"wahr oder falsch:<br />
+Bei der Festlegung des Zielgewinns handelt es sich um eine Komponente des Target Costing-Prozesses."	wahr
+"wahr oder falsch:<br />
+Beim Target Costing addiert man die Produktkosten und die gewünschte Produktgewinnmarge, um so den Produktpreis zu ermitteln."	falsch
+"wahr oder falsch:<br />
+Beim Target Costing werden die Allowable Costs mit den Drifting Costs verglichen, um eventuell notwendige Kostensenkungen zu ermitteln."	wahr
+"wahr oder falsch:<br />
+Bei der Zielgewinnspaltung handelt es sich um eine Komponente des Target Costing-Prozesses."	falsch
+"wahr oder falsch:<br />
+Bei der Zuordnung der Zielkosten auf Produktkomponenten handelt es sich um eine Komponente des Target Costing-Prozesses."	wahr
+"wahr oder falsch:<br />
+Das Konzept des Target Costing wird auch als ""Market-Into-Company-Ansatz"" bezeichnet."	wahr
+"wahr oder falsch:<br />
+Das Target Costing ist besonders für bereits am Markt befindliche Produkte geeignet."	falsch
+"wahr oder falsch:<br />
+Die Grundidee des Target Costing ist es herauszufinden, was ein Produkt auf dem Markt kosten wird."	falsch
+"wahr oder falsch:<br />
+Grundidee des Target Costing ist, dass die relativen Kosten möglichst der relativen Nutzenstiftung der Produktkomponenten entsprechen soll."	wahr
+{{c1::Das Target Costing (Market-Into-Company)}} ist {{c2::die Berechnung der Zahlungsbereitschaft für ein Produkt, welches schon in frühen Phasen der Produktgestaltung und Prozessgestaltung zum Einsatz kommt}} um {{c3::die Kostenstruktur frühzeitig in Hinblick auf die Marktanforderungen}} gestalten zu können.	
+Die zentrale Frage des {{c1::Target Costing}} beschäftigt sich damit, {{c2::wie viel das Produkt kosten darf}}.	
+{{c1::Target Costing}} ist die Verknüpfung von {{c2::Kostenmanagement}} und {{c2::Kundenorientierung}} und wird durch {{c3::den Market Pull}} getrieben.	
+{{c1::Ein Minimal Viable Product}} ist {{c2::eine disruptive Innovation, welche nur die nötigsten Funktionen bereitstellt, welche für bestimmte Anforderungen aber ausreichend sind}}.	
+"Frage:<br />
+Fasse das Konzept der Wertanalyse kurz zusammen."	"Wertanalyse: ""So gut wie nötig"" und nicht ""so gut wie möglich""."
+"wahr oder falsch:<br />
+Die Wertanalyse besteht darin, im Rahmen der Neuproduktentwicklung ein Produkt so zu entwickeln, dass der aus Kundensicht wahrgenommene Wert erhöht und die Kosten minimiert werden."	"falsch:<br />
+Aus Kundensicht nicht relevante Werte werden entfernt, um Kosten zu minimieren."
+{{c1::Die Wertanalyse}} ist {{c2::das systematische analytische Durchdringen von Funktionsstrukturen}}, mit dem Ziel, {{c3::einer abgestimmten Beeinflussung von deren Elementen in Richtung einer Wertsteigerung}}.	
+{{c1::Die Wertanalyse}} führt zur Entwicklung von {{c2::disruptiven Innovationen und Minimal Viable Products}}.	
+{{c1::Die Volumensteigerung der Produktion}} führt zu {{c2::einer Stückkostensenkung durch den Fixkostendegressionseffekt}}.	
+"wahr oder falsch:<br />
+Möchte ein Unternehmen eine Kostensenkung durchführen, ohne die angebotene Leistung zu verändern, so kann es Strukturmaßnahmen oder Wertanalysen nutzen."	"falsch:<br />
+Es können Strukturmaßnahmen oder die Volumensteigerung genutzt werden."
+{{c1::Die Kostensenkungsalternativen}} ist {{c2::die Kostenentwicklung der relativen dynamischen Kostenposition des KKV-Preis}}.	
+{{c1::Die kostenbasierte Preisführer-Strategie}} ist {{c2::eine Preisführer-Strategie durch die Kostenminimierung}}.	
+{{c1::Das Kostenbenchmarking}} ist {{c2::die Kostenhöhe der relativen statischen Kostenposition des KKV-Preis}}.	
+"wahr oder falsch:<br />
+Bei der konzentrierten Marktbearbeitung beschließt ein Unternehmen in mehreren Marktsegmenten mit jeweils segmentspezifischen Absatzprogrammen tätig zu sein."	falsch
+"wahr oder falsch:<br />
+Durch konzentriertes Marketing können Unternehmen eine starke Position in den von ihnen bedienten speziellen Märkten erreichen. Diese Strategie ist daher oft risikoarm."	falsch
+"wahr oder falsch:<br />
+Konzentriertes Marketing ist differenziert und deckt den Gesamtmarkt ab."	falsch
+"wahr oder falsch:<br />
+Konzentriertes Marketing ist differenziert und deckt nur Teile des Gesamtmarktes ab."	falsch
+"wahr oder falsch:<br />
+Konzentriertes Marketing ist undifferenziert und deckt den Gesamtmarkt ab."	falsch
+"wahr oder falsch:<br />
+Konzentriertes Marketing ist undifferenziert und deckt nur Teile des Gesamtmarktes ab."	wahr
+"{{c1::Die konzentrierte Marktbearbeitung}} ist {{c2::die Marktbearbeitung durch die Beschränkung auf einem Marktsegment, bei dem ein Unternehmen ein spezifisches Angebot anbietet}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marktbearbeitung.png"" alt=""""><br />
+Abdeckung des Marktes und Grad der Differenzierung}}}}"	
+"Beispiel:<br />
+differenzierte Marktbearbeitung"	"<ul>
+<li>VW bietet verschiedene Autotypen an</li>
+</ul>"
+"{{c1::Die differenzierte Marktbearbeitung}} ist {{c2::die Marktbearbeitung durch die Tätigkeit in mehreren Marktsegmenten, bei dem ein Unternehmen differenzierten Angebote anbietet}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marktbearbeitung.png"" alt=""""><br />
+Abdeckung des Marktes und Grad der Differenzierung}}}}"	
+"Beispiel:<br />
+undifferenzierte Marktbearbeitung"	"<ul>
+<li>ein schwarzes einheitliches Auto wird für alle angeboten</li>
+</ul>"
+"wahr oder falsch:<br />
+Bei der undifferenzierten Marktbearbeitung spricht man auch von dem ""One-Segment-Approach""."	wahr
+"wahr oder falsch:<br />
+Bei der undifferenzierten Marktbearbeitung wird dem gesamten Markt ein einziges Angebot vorgelegt. Der gesamte Markt wird mit einem Produkt und einem Marketingprogramm bearbeitet."	wahr
+"{{c1::Die undifferenziertes Marktbearbeitung}} ist {{c2::die Marktbearbeitung durch die Ignorierung der Unterschiede zwischen Marktsegmenten}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marktbearbeitung.png"" alt=""""><br />
+Abdeckung des Marktes und Grad der Differenzierung}}}}"	
+"Bei {{c1::undifferenzierter Marktbearbeitung}} wird {{c2::durch ein Unternehmen dem gesamten Markt ein einziges Angebot}} angeboten.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marktbearbeitung.png"" alt=""""><br />
+Abdeckung des Marktes und Grad der Differenzierung}}}}"	
+"{{c1::Die Marktbearbeitung}} ist {{c2::die Bewertung des Kundensegments und des Wettbewerbssegments}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Einordnung_Wettbewerbssegmente.png"" alt=""""><br />
+Bewertung und Auswahl der Wettbewerbssegmente}}}}"	
+"wahr oder falsch:<br />
+Eine strategische Gruppe umfasst alle Kunden, die mit der gleichen Marketing-Strategie angesprochen werden."	"falsch:<br />
+Eine strategische Gruppe umfasst alle Wettbewerber, die sich durch ein homogenes strategisches Wettbewerbsverhalten auszeichnen."
+"{{c1::Eine strategische Gruppe}} ist {{c2::die Menge alle jene Wettbewerber, die sich durch ein homogenes strategisches Wettbewerbsverhalten auszeichnen}}. Zwischen {{c1::den strategischen Gruppen}} ist {{c2::ein heterogenes Verhalten}} vorhanden.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Strategische_Gruppen_und_der_relevante_Markt.png"" alt=""""><br />
+Strategische Gruppen und der relevante Markt}}}}"	
+{{c1::Der Ein- und Austritt in/aus einer strategischen Gruppe}} wird durch {{c2::eine Mobilitätsbarriere}} erschwert.	
+{{c1::Die Wettbewerbssegmentierung}} ist {{c2::die Marktreaktionserfassung der strategischen Gruppen durch geeignete Segmentierungskriterien}}.	
+"wahr oder falsch:<br />
+Sowohl aus dem Elbow-Kriterium als auch aus dem Dendrogramm können die optimalen Clusteranzahlen abgeleitet werden."	wahr
+"{{c1::Das Elbow-Kriterium (Ellebogen-Methode)}} ist {{c2::ein Kriterium zur Bestimmung der optimalen Clusteranzahl}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Elbow_Kriterium.png"" alt=""""><br />
+Elbow-Kriterium im Struktogramm}}}}"	
+"wahr oder falsch:<br />
+Je kleiner die quadrierte euklidische Distanz zwischen zwei Objekten ist, desto unterschiedlicher sind sich die zwei Objekte."	falsch
+"wahr oder falsch:<br />
+Eine Clusteranalyse kann zur Kundensegmentierung genutzt werden. Dabei werden Ähnlichkeiten zwischen Kunden bestimmt und sich ähnelnde Kunden auf Basis eines Fusionierungsalgorithmus zusammengeführt. Graphisches Ergebnis des Fusionierungsprozesses ist ein Kreisdiagramm."	falsch
+"{{c1::Eine Clusteranalyse}} ist {{c2::eine Analyse zur Bestimmung von ähnlichen Elementen unter einer Menge von vielen Elementen mit spezifischen Merkmalen, durch welches sie unterschieden werden können}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Clusteranalyse_Dendogramm.png"" alt=""""><br />
+Dendogramm des Ergebnisses des Fusionierungsprozess einer Clusteranalyse}}}}"	
+"{{c1::Das Drei-Strategieebenen-Konzept}} ist {{c2::ein Modell zur Aufteilung der Strategie in drei Ebenen, spezifisch die Unternehmensstrategien, Geschäftsfeldstrategien und funktionsbezogene Strategien}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Drei-Strategieebenen-Konzept.png"" alt=""""><br />
+Das Drei-Strategieebenen-Konzept}}}}"	
+"<p>{{c1::Das operative Marketing}} besteht aus:</p>
+<ul>
+<li>{{c2::Marketing-Mix<ul>
+<li>Distributionspolitik</li>
+<li>Kommunikationspolitik</li>
+<li>Preispolitik und Konditionenpolitik</li>
+<li>Produktpolitik}}</li></ul></li>
+<li>{{c3::Marketingpolitik}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Kern des strategischen Marketings ist das Management von KKVs, welche unternehmensspezifisch sind."	"falsch:<br />
+KKVs sind geschäftsbereichsspezifisch."
+{{c1::Das strategische Marketing}} ist {{c2::die Entwicklung einer marketingorientierten Geschäftsfeldstrategie für das Management der komparativen Konkurrenzvorteile}}.	
+"{{c1:: Eine Maßnahme}} ist {{c2::eine Handlungen, um grundlegende Ziele zu verfolgen und in Aktivitäten zu transformieren}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ziele_Strategien_Massnahmen.png"" alt=""""><br />
+Ziele, Strategien und Maßnahmen im Zusammenhang}}}}"	
+"wahr oder falsch:<br />
+Die Marketing-Zielplanung erfolgt in der Regel ohne Berücksichtigung der vorhandenen Ressourcen des Unternehmens."	falsch
+"wahr oder falsch:<br />
+Marketingziele sind erstrebenswerte Zustände, die sich durch Zielbeziehungen (Komplementarität, Neutralität und Konflikt) unterscheiden."	wahr
+{{c1::Das Management der komparativen Konkurrenzvorteile}} ist {{c2::die Entwicklung, der Ausbau und die Verteidigung von komparativen Konkurrenzvorteilen}}.	
+"{{c1::Ein effektivitäts- und effizienzorientierter komparativer Vorteil}} ist {{c2::ein KKV}}, bei dem {{c2::ein positiver Netto-Nutzen-Vorteil und ein positiver Gewinn}} vorliegt.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Effektivitaet_und_Effizienz_als_Massgroessen_des_KKV.png"" alt=""""><br />
+Effektivität und Effizienz als Maßgrößen des KKV}}}}"	
+"{{c1::Ein effektivitätsorientierter komparativer Vorteil}} ist {{c2::ein KKV}}, bei dem {{c2::ein positiver Netto-Nutzen-Vorteil und ein neutraler Gewinn}} vorliegt.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Effektivitaet_und_Effizienz_als_Massgroessen_des_KKV.png"" alt=""""><br />
+Effektivität und Effizienz als Maßgrößen des KKV}}}}"	
+"{{c1::Ein Kostenvorsprung}} ist {{c2::ein KKV}}, bei dem {{c2::ein positiver Gewinn und ein neutraler Netto-Nutzen-Vorteil}} vorliegt.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Effektivitaet_und_Effizienz_als_Massgroessen_des_KKV.png"" alt=""""><br />
+Effektivität und Effizienz als Maßgrößen des KKV}}}}"	
+"{{c1::Ein Effektivitätsdefizit}} ist {{c2::ein KKV}}, bei dem {{c2::ein positiver Gewinn, aber ein negativer Netto-Nutzen-Vorteil}} vorliegt.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Effektivitaet_und_Effizienz_als_Massgroessen_des_KKV.png"" alt=""""><br />
+Effektivität und Effizienz als Maßgrößen des KKV}}}}"	
+"{{c1::Ein Effizienzdefizit}} ist {{c2::ein KKV}}, bei dem {{c2::ein positiver Netto-Nutzen-Vorteil, aber ein negativer Gewinn}} vorliegt.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Effektivitaet_und_Effizienz_als_Massgroessen_des_KKV.png"" alt=""""><br />
+Effektivität und Effizienz als Maßgrößen des KKV}}}}"	
+"wahr oder falsch:<br />
+Ein relativer Kundenvorteil (RKV) setzt sich nur aus der empfundenen Nutzendifferenz zwischen Anbieter und der Konkurrenz zusammen."	falsch
+"{{c1::Die Netto-Nutzen-Differenz (NND, relativer Vorteil, RKV)}} ist {{c2::der Vorteil als Nutzen aus einem Produkt oder einer Dienstleistung gegenüber einem anderen Produkt oder einer anderen Dienstleistung}}. {{c1::Der NND}} ist gleichzeitig die Kombination {{c3::des USP}} und {{c3::Netto-Nutzen-Vorteil}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Wiesel-Relativer_Kundenvorteil.png"" alt=""""><br />
+Relativer Kundenvorteil}}}}}}"	
+{{c1::\(\text{Netto-Nutzen-Differenz}\)}} \(=\) {{c2::\(\text{Nutzendifferenz gegenüber der Konkurrenz} + \text{Kostendifferenz gegenüber der Konkurrenz} - \text{Kosten}\)}}	
+"Frage:<br />
+Was ist das allgemeine Ziel der Marktsegmentierung?"	Die Reduzierung der Heterogenität.
+"Frage:<br />
+Wie kann man anhand von Marktsegmentierungskriterien die Anzahl der Marktsegmente bestimmen?"	Durch eine Clusteranalyse mit Bildung einer Distanzmatrix, in welcher Kunden nach dem Furthest- oder Nearest-Neighbor-Verfahren fusioniert werden, bis eine optimale Lösung erreicht wird, die aus einem oder mehreren Clustern besteht.
+"wahr oder falsch:<br />
+Die sachliche Abgrenzung eines relevanten Marktes erfolgt in zwei Schritten: Bestimmung der Substitutionsintensität aus Unternehmenssicht und Festlegung der Grenzen eines relevanten Marktes auf Basis von Substitutionslücken aus Kundensicht."	"falsch:<br />
+Die sachliche Abgrenzung eines relevanten Marktes erfolgt durch die Bestimmung der Substitutionsintensität aus Kundensicht und Festlegung der Grenzen eines relevanten Marktes auf Basis von Substitutionslücken aus Unternehmenssicht."
+"wahr oder falsch:<br />
+Unter Marktsegmentierung wird die Aufteilung eines Gesamtmarktes in bezüglich ihrer Marktreaktion intern heterogene und untereinander homogene Untergruppen (Marktsegmente) sowie die Bearbeitung eines oder mehrerer dieser Marktsegmente verstanden."	falsch
+{{c1::Die Marktsegmentierung}} ist {{c2::die Aufteilung des relevanten Marktes in homogene und untereinander heterogene Marktsegmente}}.	
+{{c1::Die Marktsegmentierung}} beschäftigt sich mit {{c2::der Kundensegmentierung, Wettbewerbssegmentierung und Marktbearbeitungsstrategie}} nach {{c3::räumlichen, sachlichen und zeitlichen Faktoren}}.	
+{{c1::Die KKV-Dimensionen (Dimensionen des komparativen Konkurrenzvorteils)}} sind {{c2::Dimensionen, aus denen ein KKV erlangt werden kann}}.	
+"<p>{{c1::Die KKV-Dimensionen}} sind:</p>
+<ul>
+<li>{{c2::KKV-Preis}}</li>
+<li>{{c2::KKV-Qualität}}</li>
+<li>{{c2::KKV-Zeit}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Ein Preis-KKV ist ein eindimensionales Konstrukt."	"richtig:<br />
+Es kann in einem Markt nur einen Preisführer geben."
+"wahr oder falsch:<br />
+Eine Preisführer-Strategie erfordert auf der Nachfragerseite ein hohes Maß an Effizienz bei gleichzeitiger Effektivität."	falsch
+"wahr oder falsch:<br />
+Eine zeitlich stabile und wirtschaftliche Preisführerschaft erfordert in der Regel entweder Elemente einer kostenbasierten oder Elemente einer beurteilungsorientierten Preisführerstrategie. Elemente beider Strategien kombiniert man nicht."	falsch
+"wahr oder falsch:<br />
+Um eine Preisführer-Strategie zu realisieren, kann auf die Ausnutzung von Erfahrungskurveneffekten verzichtet werden."	falsch
+{{c1::Eine Preisführer-Strategie (KKV-Preis, Preisführerschaft)}} ist {{c2::eine KKV-Dimensionen, welche einen KKV durch eine kostenbasierte Preisführer-Strategie und eine beurteilungsorientierte Preisführer-Strategie erlangt}}.	
+"wahr oder falsch:<br />
+Qualität ist unabhängig von dem Personenkreis und dessen Wahrnehmung."	falsch
+{{c1::Qualität}} ist {{c2::ein Merkmal zur Bewertung der Eignung, dass eine Lösung oder eine Menge an Eigenschaften bestimmte festgelegte Anforderungen erfüllt}}.	
+"wahr oder falsch:<br />
+Innerhalb eines Marktes kann es mehrere Qualitätsführer geben."	wahr
+{{c1::Eine Qualitätsführer-Strategie (KKV-Qualität, Qualitätsführerschaft)}} ist {{c2::eine KKV-Dimensionen, welche einen KKV durch Qualität erlangt}}.	
+{{c1::Eine Zeitführer-Strategie (KKV-Zeit, Zeitführerschaft)}} ist {{c2::eine KKV-Dimension, welche einen KKV durch den Zeitpunkt des Markteintrittes und/oder die Senkung der zeitbasierten Opportunitätskosten erlangt}}.	
+"Frage:<br />
+Nenne drei Entscheidungsregeln bei einem Zielkonflikt und beschreibe kurz deren Unterschied."	"<ul>
+<li>Priorisierung: Subjektiv</li>
+<li>Rangordnung: Gesetzlich</li>
+<li>Zielgewichtung: Objektiv</li>
+</ul>"
+{{c1::Ein Zielkonflikt}} ist {{c2::ein negativer Zusammenhang von Zielen}} und benötigt {{c3::Entscheidungsregeln zur Lösung des Zielkonfliktes}}.	
+{{c1::Eine Zielneutralität}} ist {{c2::ein neutraler oder kein Zusammenhang von Zielen}}.	
+{{c1::Ein Zielkomplementär}} ist {{c2::ein positiver Zusammenhang von Zielen}}.	
+"{{c1::Ein Ziel (Zielsetzung)}} ist {{c2::ein erstrebenswerter und definierter Zustand, welcher durch eine Strategie umgesetzt wird}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ziele_Strategien_Massnahmen.png"" alt=""""><br />
+Ziele, Strategien und Maßnahmen im Zusammenhang}}}}"	
+"<p>{{c1::Ein Ziel}} besteht aus:</p>
+<ol>
+<li>{{c2::Zielinhalt: Konkretisierung des Zieles}}</li>
+<li>{{c3::Zielausmaß: Minimierung, Maximierung, Fixierung und/oder Anspruchserfüllung eines Faktors}}</li>
+<li>{{c4::zeitlicher Bezug}}</li>
+<li>{{c5::sachlicher Geltungsbereich}}</li>
+</ol>"	
+"wahr oder falsch:<br />
+Ein Netto-Nutzen-Vorteil ist eine notwendige Bedingung, damit ein Produkt als kaufenswert erachtet wird."	wahr
+"{{c1::Der Netto-Nutzen-Vorteil (NNV)}} ist {{c2::der Kundenvorteil und die Konsumentenrente unter Betrachtung von Kosten und Nutzen für den Konsumenten}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Netto-Nutzen-Vorteil.png"" alt=""""><br />
+Kundenvorteil}}}}"	
+{{c1::\(\text{Netto-Nutzen-Vorteil (NNV)}\)}} \(=\) {{c2::\(\text{Nutzen} - \text{Kosten}\)}} \(=\) {{c3::\(\text{Konsumentenrente}\)}}	
+"Frage:<br />
+Worin unterscheidet sich der KKV im Gegensatz zum NNV?"	Der KKV berücksichtigt im Gegensatz zum NNV die Effizienzkomponente und die Konkurrenz.
+"wahr oder falsch:<br />
+Der KKV besteht aus den Dimensionen Bedeutsamkeit, Wahrnehmung durch die Konkurrenten, Verteidigungsfähigkeit und Wirtschaftlichkeit."	"falsch:<br />
+Der KKV besteht nicht aus der Wahrnehmung durch die Konkurrenten, sondern aus der Dimension Wahrnehmung durch den Kunden."
+"wahr oder falsch:<br />
+Der KKV ist ein auf unternehmensinterne Faktoren bezogenes Effektivitäts- und Effizienzkonzept."	"falsch:<br />
+Der KKV ist auf unternehmensexterne Faktoren bezogenes Konzept."
+"wahr oder falsch:<br />
+Der KKV ist ein Effektivitäts- und Effizienzkonzept, das sowohl die Interessen der Nachfrager als auch die der Anbieter berücksichtigt."	wahr
+"wahr oder falsch:<br />
+Ein KKV entspricht nicht einem Netto-Nutzen-Vorteil."	wahr
+"wahr oder falsch:<br />
+Ein KKV gilt als verteidigungsfähig, wenn die Unternehmenskonkurrenz an einer Imitation gehindert werden kann."	wahr
+"wahr oder falsch:<br />
+Ein KKV ist ein Netto-Nutzen-Vorteil, der um die Effizienz-Perspektive ergänzt wird."	"falsch:<br />
+Ein KKV ist ein USP, der um die Kunden- und Wirtschaftlichkeitsbetrachtung ergänzt wird."
+"wahr oder falsch:<br />
+Ein KKV ist ein USP, der um die Effizienz-Perspektive ergänzt wird."	wahr
+"wahr oder falsch:<br />
+Ein KKV ist ein USP, der um die Kunden- und Wirtschaftlichkeitsbetrachtung ergänzt wird."	wahr
+"wahr oder falsch:<br />
+Ein KKV stiftet dem Kunden eine positive Nettonutzendifferenz und bringt dem Anbieter einen Gewinn."	wahr
+"wahr oder falsch:<br />
+Mit einem KKV verfolgt man lediglich Effektivitätsziele."	falsch
+"wahr oder falsch:<br />
+Zur Erreichung eines KKVs muss ein Leistungsangebot so formuliert werden, dass es objektiv nachprüfbare bedeutsame Nutzenelemente für den Nachfrager als auch für den Anbieter beinhaltet."	wahr
+"{{c1::Der komparativer Konkurrenzvorteil (KKV)}} ist {{c2::der relative Kundenvorteil unter Berücksichtigung der eigenen Wirtschaftlichkeit}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Komparativer_Konkurrenzvorteil.png"" alt=""""><br />
+Komparativer Konkurrenzvorteil}}}}"	
+"<p>{{c1::Der komparativer Konkurrenzvorteil (KKV)}} besteht aus:</p>
+<ul>
+<li>{{c2::Effektivitätsziele (konsumentenorientiert)}}<ul>
+<li>{{c2::Bedeutsamkeit}}: {{c2::Was für Konsumenten wichtig ist}}</li>
+<li>{{c2::Wahrnehmung}}: {{c2::Die Wahrnehmung des Produktes durch Konsumenten}}</li></ul></li>
+<li>{{c3::Effizienzziele (produzentenorientiert)}}<ul>
+<li>{{c3::Verteidigungsfähigkeit}}: {{c3::Verhinderung von Imitation}}</li>
+<li>{{c3::Wirtschaftlichkeit}}: {{c3::Positiver Deckungsbeitrag und Kapitalwert}}</li></ul></li>
+</ul>"	
+{{c1::Die Sensitivitätsanalyse}} ist {{c2::eine Menge an Simulationen mit Einrechnung von Zufallszahlen zur Hinzufügung des Faktors Unsicherheit}}. In {{c1::der Sensitivitätsanalyse}} wird berechnet, {{c3::mit welcher Wahrscheinlichkeit eine Obergrenze oder Untergrenze überschritten wird}}.	
+"wahr oder falsch:<br />
+Das Marketing-Dreieck besteht aus dem Anbieter, dem Nachfrager und der Konkurrenz."	wahr
+"wahr oder falsch:<br />
+Das Marketing-Dreieck besteht aus dem KKV, dem Nachfrager und der Konkurrenz."	"falsch:<br />
+Das Marketing-Dreieck besteht aus dem Anbieter, dem Nachfrager und der Konkurrenz."
+{{c1::Das Marketingdreieck}} ist ein Modell im Marketing zur Beschreibung des Zusammenhanges zwischen {{c2::dem Problemen der Konsumenten}}, {{c2::der angebotenen Problemlösung durch einen Anbieter}} und {{c2::der angebotenen Problemlösung durch die Konkurrenten}}.	
+"Frage:<br />
+Zu welchen der vier Elemente des Marketing-Mix gehört der Direktvertrieb?"	Distributionspolitik
+"Frage:<br />
+Zu welchen der vier Elemente des Marketing-Mix gehört die Gewährung eines Skontos?"	Preis- und Konditionenpolitik
+"{{c1::Der Marketing-Mix}} ist {{c2::die Zusammensetzungen aller unternehmenspolitischen Marketing-Entscheidungen}} zur<br />
+{{c3::Umsetzung von Marketingstrategien}} in {{c3::einem Markt}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Wiesel-Marketing-Mix.png"" alt=""""><br />
+Marketing-Mix}}}}}}"	
+"<p>{{c1::Der Marketing-Mix}} umfasst:</p>
+<ul>
+<li>{{c2::Distributionspolitik}}</li>
+<li>{{c2::Kommunikationspolitik}}</li>
+<li>{{c2::Konditionenpolitik und Preispolitik}}</li>
+<li>{{c2::Produktpolitik}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Die Existenz eines USP ist eine notwendige Bedingung für einen KKV."	wahr
+"wahr oder falsch:<br />
+Ein USP ist effizient für den Anbieter, auch wenn dieser unter Umständen hohe Kosten aufbringen muss, um ein USP für sein Produkt zu erlangen."	falsch
+"wahr oder falsch:<br />
+Während das Konstrukt des KKV sowohl die Effektivitäts- als auch die Effizienzdimension betrachtet, wird beim USP nur die Effektivitätsdimension betrachtet."	wahr
+"{{c1::Eine Wertproposition (Unique Selling Proposition, USP, Value Proposition)}} ist {{c2::der Vorteil durch eine Menge an Produkten und Dienstleistungen}}, welchen im Vergleich {{c3::zur Konkurrenz einen besonderen Wert für ein bestimmtes Kundensegment}} schafft, um {{c4::Ansprüche zu befriedigen und/oder ein Problem zu lösen}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2022-Bild-Wiesel-Unique_Selling_Proposition.png"" alt=""""><br />
+Unique Selling Proposition}}}}}}}}"	
+{{c1::\(USP\)}} \(=\) {{c2::\(\text{Wert durch Angebot} - \text{Wert durch Angebot der Konkurrenz}\)}}	
+{{c1::Die Kundensegmentierung (Customer Segments)}} ist {{c2::die Marktreaktionserfassung der unterschiedlichen Konsumentengruppe, Kundengruppen und Marktgruppen, welche unterschiedliche Anforderungen und Zahlungsbereitschaften besitzen}}.	
+{{c1::Die funktionsbezogene Strategie (functional strategy)}} ist {{c2::eine Strategieebene, welche die Strategie und Grundsatzentscheidungen von einzelnen Abteilungen und Stellen umfasst}}.	
+"wahr oder falsch:<br />
+Geschäftsfeldstrategien sollen eine wettbewerbsdominante Position des jeweiligen Geschäftsfelds erzeugen und im Einklang mit der allgemeinen Unternehmensstrategie stehen."	wahr
+{{c1::Die Geschäftsfeldstrategie (business unit strategie)}} ist {{c2::eine Strategieebene, welche die Strategie von einzelnen Geschäftsbereichsorganisationen umfasst}}.	
+{{c1::Die Geschäftsfeldstrategie}} ist so zu formulieren, dass sie im Einklang mit {{c2::den Unternehmensstrategien}} stehen.	
+{{c1::Eine Unternehmensstrategie (Corporate Strategy)}} ist {{c2::eine Strategieebene, welche grundsätzlich Entscheidungen der Strategie einer gesamten Unternehmung umfasst}}.	
+Bei {{c1::Unternehmensstrategien}} handelt es sich um {{c2::strategische Entscheidungen}}, die {{c3::nicht dezentralisiert}} werden können, ohne dass {{c3::erhebliche Synergieeffekte verloren gehen}}.	
+"wahr oder falsch:<br />
+Eine Strategie bietet einen kurzfristigen Orientierungsrahmen für zukünftiges Handeln."	falsch
+"wahr oder falsch:<br />
+Strategien liefern ein starres Gerüst und können bei sich ändernden Bedingungen der Umwelt nicht angepasst werden."	falsch
+"wahr oder falsch:<br />
+Strategien sind das Bindeglied zwischen Zielen und operativen Entscheidungen."	wahr
+"wahr oder falsch:<br />
+Ziele sind fester Bestandteil einer Strategie."	falsch
+"{{c1::Eine Strategie}} ist {{c2::ist ein langfristiger flexibler Orientierungsrahmen für zukünftige Handlungen und die Planung zur Erreichung von Zielen durch operative Maßnahmen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ziele_Strategien_Massnahmen.png"" alt=""""><br />
+Ziele, Strategien und Maßnahmen im Zusammenhang}}}}"	
+"<p>{{c1::Eine Strategie}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::beeinflusst durch externe Einflüsse und Wettbewerb einer Organisation}}</li>
+<li>{{c2::Menge an Aktivitäten}}</li>
+<li>{{c2::umfasst große Entscheidungen für weite Bereiche einer Unternehmung}}</li>
+<li>{{c2::zukunftsorientiert}}</li>
+</ul>"	
+"Beispiel:<br />
+Erfahrungskurve"	"<ul>
+<li>Automatisierung</li>
+<li>Einarbeitung von Mitarbeitern</li>
+<li>Routine</li>
+</ul>"
+"Frage:<br />
+Wie schnell kann der Erfahrungskurveneffekt umgesetzt werden?"	Der Erfahrungskurveneffekt benötigt eine gewisse Vorlaufzeit und kann nicht direkt umgesetzt werden.
+"wahr oder falsch:<br />
+Der Erfahrungskurveneffekt besagt, dass mit jeder Verdoppelung der Absatzmenge eines Produktes die im Zeitablauf kumulierten Stückkosten um einen bestimmten Prozentsatz sinken."	"falsch<br />
+Mit jeder Verdoppelung der kumulierten Absatzmenge eines Produktes sinken die Stückkosten."
+"{{c1::Die Erfahrungskurve (Experience Curve)}} ist {{c2::das dynamische Kostenmanagement durch die Verringerung des benötigten Input bei steigender Erfahrung}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Stockhinger-Erfahrungskurve.png"" alt=""""><br />
+Erfahrungskurve}}}}"	
+{{c1::Die Geschäftsmodellinnovation (Business Model Innovation)}} ist {{c2::die Innovation des Geschäftsmodell, die Schaffung, das Marketing und die Vermittlung}} von {{c3::Wertschöpfung und Kundenbindung}}, welches eine Unternehmung {{c4::einem oder mehreren Kundensegmenten}} bietet, um {{c5::Gewinn}} über {{c5::Einnahmekanäle}} zu erwirtschaften.	
+{{c1::Die Prozessinnovation (Process Innovation)}} ist {{c2::die Innovation der Produktion und Bereitstellung von Produkten und Dienstleistungen}}.	
+{{c1::Die Produktinnovation}} versucht ein Produkt oder eine Dienstleistung {{c2::kostengünstiger, qualitativ hochwertiger oder schneller}} bereitzustellen.	
+{{c1::Bereits bestehende Industrien}} präferieren {{c2::Prozessinnovation}}.	
+{{c1::Die Produktinnovation (Product Innovation)}} ist {{c2::die Innovation der Bestandteile eines Produktes oder einer Dienstleistung}}. {{c1::Die Hochphase der Produktinnovation}} führt zu {{c3::der Etablierung des dominanten Designs}}.	
+{{c1::Sich neu entwickelnde Industrien}} präferieren {{c2::Produktinnovationen}}.	
+{{c1::Der Market Pull}} ist {{c2::die kundengetriebenen Innovation zur Anwendung auf einem Markt}}. Der Fokus liegt dabei auf {{c3::der Frugal Innovation}} oder {{c3::der Lead Innovation}}.	
+"{{c1::Eine Innovation}} ist {{c2::die Erfindung und die Anwendung von einem Gut}} sowie die Schnittmenge von {{c3::Technologien, Unternehmungen und menschlichen Werten}}. Als {{c1::Innovation}} wird auch eine {{c4::neue Idee, eine neue Praxis oder ein neues Objekt verstanden, welches von einem Adopter als neu empfunden wird}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Stockhinger-Erfindung_und_Innovation.png"" alt=""""><br />
+Invention and Innovation}}}}}}"	
+"wahr oder falsch:<br />
+Die Preisbereitschaft wird durch Preiserwartungen und wahrgenommene Fairness von Transaktionen bestimmt."	wahr
+{{c1::Die Zahlungsbereitschaft}} ist {{c2::der Höchstbetrag, den ein Konsument bereit ist, für ein Gut zu zahlen}}.	
+{{c1::Die Zahlungsbereitschaft}} wird durch {{c2::die Preiserwartung}} und {{c2::die wahrgenommene Preis-Fairness}} bestimmt.	
+{{c1::Ein Oligopol}} ist {{c2::eine Form der Marktwirtschaft und eine monopolistische Konkurrenz mit nur geringem Angebot und hoher Nachfrage}} für {{c3::ein identisches oder sehr ähnliches Gut}}, wodurch {{c4::ein geringer Wettbewerb unter den Verkäufern}} entsteht.	
+{{c1::Preise}} in {{c2::einem Oligopolmarkt}} sind {{c3::niedriger}} als im {{c4::Monopolmarkt}}, aber {{c3::höher}} als in {{c4::der vollständigen Konkurrenz}}.	
+{{c1::Ein Monopol}} ist {{c2::eine Marktformen}} mit {{c2::einer hohen Nachfrage}} und {{c2::einem einzigen Anbieter}}, wodurch {{c3::der Anbieter eine hohe Marktmacht}} besitzt und {{c4::Preisfixierer ist}}.	
+{{c1::Ein Polypol (Wettbewerbsmarkt, Konkurrenzmarkt)}} ist {{c2::eine Marktform mit hoher Nachfrage und hohem Angebot}}, so dass {{c3::ein Wettbewerbs- oder Konkurrenzdruck}} entsteht, wodurch {{c3::Marktteilnehmer nur einen geringen Einfluss auf die Preisbildung besitzen}}.	
+In {{c1::einem Polypol}} ist {{c2::der Grenzumsatz}} gleich {{c3::dem Preis}}.	
+{{c1::Eine Marke in der Wirtschaft}} ist {{c2::ein Instrument}} mit spezifischen Merkmalen, welches {{c2::sich gegenüber anderen Marken nachhaltig differenziert}}. {{c1::Eine Marke}} rahmt {{c3::ein Produkt}} ein und gibt ihr {{c3::eine Identität}}.	
+{{c1::Eine Marke}} ist {{c2::ein rechtlich geschütztes Zeichen und ein Kennzeichen}} für {{c3::die Urheberschaft und Warenherkunft}}.	
+"Frage:<br />
+Wann ist die Investition bei gegebenen Kapitalwert \(KW_{0}\) vorteilhaft?"	\(KW_{0} \geq 0\)
+"Frage:<br />
+Warum sollte auf Investitionen mit negativem Kapitalwert verzichtet werden?"	Auf Investitionen mit negativem Kapitalwert sollte verzichtet werden, weil diese in der Gegenwart zu einem Verlust von Kapital führt. In der Gegenwart übersteigt der Wert der Ausgaben&nbsp;den Wert der Einnahmen.
+"Frage:<br />
+Welche Annahme über den Kapitalmarkt wird bei Verwendung der Kapitalwertmethode getroffen?"	Es wird ein vollkommener Kapitalmarkt angenommen.
+"wahr oder falsch:<br />
+Bei der Berechnung des Kapitalwerts werden nur die positiven Kapitalströme auf die Periode \(t = 0\) abgezinst."	"falsch:<br />
+Auf den Kapitalwert werden auch negative Kapitalströme abgezinst."
+"wahr oder falsch:<br />
+Der Entscheidungszeitpunkt bei der Kapitalwertmethode liegt in \(t = T\)."	"falsch:<br />
+Bei der Kapitalwertmethode werden alle Entscheidungskonsequenzen auf den Zeitpunkt \(t = 0\) abgebildet."
+"wahr oder falsch:<br />
+Die Berücksichtigung vorhandener Finanzmittel fehlt bei der Kapitalwertformel. Dies stellt eine zentrale Kritik an der Methode dar."	"falsch:<br />
+Die Berücksichtigung vorhandener Finanzmittel ist nicht erforderlich, da die Anlage oder Aufnahme von Kapital zum Zinssatz \(i\) den Kapitalwert der Investition nicht ändert."
+"{{c1::Der Kapitalwert (Barwert aller Zahlungen, Nettobarwert, Nettogegenstandswert, Kapitalwertmethode, Net Present Value, NPV)}} ist {{c2::die Summe aller zukünftigen Ein- und Auszahlungen}} zu {{c2::einer Investition}} und ein Kalkül zum Vergleich von {{c3::abgezinsten Rückflüssen}} in {{c3::der Investitionsrechnung}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Wikipedia-Berechnung_des_Nettokapitalwert.png"" alt=""""><br />
+Berechnung des Kapitalwertes}}}}}}"	
+\(KW_{0} =\) {{c1::\(-I_{0} + \sum_{t = 1}^{n} C_{t} \cdot (1 + i)^{-t} + \frac{R_{n} }{(1 + i)^{n} }\)}} mit {{c1::\(KW_{0}\) als Kapitalwert, \(- I_{0}\) als Anfangskosten, \(t\) als Laufzeit, \(n\) als Endzeitpunkt, \(C_{t}\) als Rückzahlung, \(i\) als Kalkulationszinssatz, \(R_{n}\) als Resterlös}}	
+In {{c1::der Kapitalwertmethode}} wird durch {{c2::die Abzinsung von zukünftigen Erfolgen auf die Gegenwart}} der {{c3::Zeitwert des Geldes}} berücksichtigt.	
+"Die {{c1::Preisdifferenzierung}} ist {{c2::die unterschiedliche Preispolitik für ein identisches Gut}}, welche durch {{c3::räumliche, zeitliche oder individuelle Eigenschaften}} verursacht wird.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Preisdifferenzierung.png"" alt=""""><br />
+Preisdifferenzierung}}}}"	
+"Bei {{c1::einer Preisdifferenzierung}} wird {{c2::die unterschiedliche Zahlungsbereitschaft der Käufer}} genutzt und {{c3::der Preis entsprechend der Nachfrage}}, welche sich durch {{c3::die bedingten Eigenschaften ergeben}}, verändert.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Preisdifferenzierung.png"" alt=""""><br />
+Preisdifferenzierung}}}}"	
+Die Preisdifferenzierung erhöht {{c1::die Gewinne}} und verringert {{c1::den Wohlfahrtsverlust}}.	
+"Frage:<br />
+Was ist der Unterschied zwischen der Bogenelastizität und der Punkelastizität?"	Die Bogenelastizität beschreibt, wie sich die Nachfrage bei einer prozentualen Preisänderung verändert, die Punktelastizität hingegen, wie sich die Nachfrage bei einer bestimmten Menge bei einer marginalen Preisänderung verändert.
+"{{c1::Die Preiselastizität}} ist {{c2::die relative Änderung}} von {{c2::Menge und Preis im Verhältnis}} und beschreibt {{c3::das Maß für die Stärke, mit der die Nachfrage und das Angebot auf eine Veränderung reagiert}}.<br />
+{{c1::{{c2::{{c3::<img src=""2016-Bild-Mankiw-Taylor-Preiselastizitaet_der_Nachfrage.png"" alt=""""><br />
+Preiselastizität der Nachfrage}}}}}}"	
+Eine {{c1::hohe Preiselastizität}} bedeutet, dass {{c2::eine Preisänderung relativ große Mengenänderungen im Angebot oder der Nachfrage bewirkt}}.	
+{{c1::Die Preis-Absatz-Funktion}} ist {{c2::eine Funktion}}, welche {{c2::die Menge eines Produktes}} bei {{c3::jeweils verschiedenen hohen Preisforderungen}} angibt, die {{c3::in einer Periode abgesetzt werden können}}.	
+"wahr oder falsch:<br />
+Die Distributionspolitik bezieht sich auf die Gesamtheit aller Entscheidungen und Handlungen, welche die Verteilung von materiellen und/oder immateriellen Leistungen vom Endkäufer zum Hersteller betreffen."	falsch
+{{c1::Die Distributionspolitik}} sind {{c2::Entscheidungen und Handlungen}}, welche {{c3::die Verteilungen}} von {{c3::Gütern}} von {{c3::Herstellern zum Endkäufer}} betreffen.	
+"Beispiel:<br />
+Kommunikationspolitik"	Ein Kaufhaus schaltet einen TV-Werbespot für Herrenmode mit erwachsenen Männern als Zielgruppe.
+"wahr oder falsch:<br />
+Ziele der Kommunikationspolitik sind koordinationsgerecht und vollständig zu formulieren."	wahr
+{{c1::Die Kommunikationspolitik}} ist {{c2::die systematische Planung, Ausgestaltung, Abstimmung und Kontrolle}} aller {{c2::Kommunikationsmaßnahmen des Unternehmens}} in Hinblick auf {{c3::alle relevanten Zielgruppen}}, um {{c3::die Kommunikationsziele und damit die nachgelagerten Marketingziele und Unternehmensziele}} zu erreichen.	
+"wahr oder falsch:<br />
+Das Marketing von Unternehmen ist als übergreifendes Konzept auf keine Abteilung des Unternehmens beschränkt."	wahr
+"wahr oder falsch:<br />
+Das Marketing von Unternehmen ist als wesentliche Komponente der Unternehmensstrategie eine Aufgabe der Geschäftsführung."	falsch
+"wahr oder falsch:<br />
+Das Marketing von Unternehmen ist Aufgabe aller Abteilungen mit direktem Kundenkontakt."	falsch
+"wahr oder falsch:<br />
+Das Marketing von Unternehmen ist Sache der Vertriebsabteilung."	falsch
+"wahr oder falsch:<br />
+Durch Marketing-Maßnahmen werden ökonomische Ziele direkt und nicht über psychographische Zielgrößen beeinflusst."	falsch
+"wahr oder falsch:<br />
+Marketing ist ein Führungskonzept, das das Unternehmen als Ganzes auf den Kunden ausrichtet."	wahr
+"wahr oder falsch:<br />
+Marketing ist vor allem geschäftsfeldspezifisch."	wahr
+"wahr oder falsch:<br />
+Marketing wird als Querschnittsfunktion einer Unternehmung interpretiert, die bei den Kunden und deren Bedürfnissen ansetzt und in allen Funktionen (Beschaffung, Forschung und Entwicklung, Produktion, Absatz, Services) des Unternehmens Berücksichtigung findet."	wahr
+"wahr oder falsch:<br />
+Marketingmaßnahmen richten sich nicht nur primär an Händler."	wahr
+"{{c1::Das Marketing}} ist {{c2::marktorientiertes Entscheidungsverhalten in der Unternehmung}} und {{c2::die bewusste marktorientierte Führung des gesamten Unternehmens}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marketing_als_Fuehrungskonzept.png"" alt=""""><br />
+Marketing als Führungskonzept, welches alle Funktionsbereiche betrifft}}}}"	
+{{c1::Marketing}} umfasst das Management von {{c2::komparativen Konkurrenzvorteilen}}.	

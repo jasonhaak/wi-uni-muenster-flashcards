@@ -1,0 +1,579 @@
+#separator:tab
+#html:true
+{{c1::Eine M/M/c-Warteschlange}} ist {{c2::eine Warteschlange mit einer poisson-verteilten Ankunftsrate und einer exponentiell-verteilten Abfertigungsrate sowie einer Menge von \(c\) Servern}}.	
+{{c1::Die Bedarfsplanung}} ist {{c2::die Abstimmung und Bestimmung der Nachfrage durch eine Nachfrageprognose}}.	
+"<p>Probleme von Sales &amp; Operations Planning sind:</p>
+<ul>
+<li>{{c1::die Wahrnehmung von S&amp;OP als reines Software-Implementierungsprojekt}}</li>
+<li>{{c1::fehlendes Verständnis von S&amp;OP, unzureichenden Fähigkeiten und Qualifikation}}</li>
+<li>{{c1::notwendiges Change Management der Organisationskultur}}</li>
+<li>{{c1::S&amp;OP wird nur als Instrument zur Verbesserung der Planung gesehen}}</li>
+<li>{{c1::Überzeugung von Stakeholdern aus verschiedenen Hierarchieebenen}}</li>
+</ul>"	
+"<p>Vorteile {{c1::des Sales &amp; Operations Planning}} sind:</p>
+<ul>
+<li>{{c2::bessere Kapazitätsauslastung}}</li>
+<li>{{c2::die Fähigkeit, Angebot und Nachfrage aufeinander abzustimmen und zu erkenne, wenn ein Ungleichgewicht entsteht}}</li>
+<li>{{c2::Erleichterung des Informationsaustausches und der gemeinsamen funktionsübergreifenden Entscheidungsfindung durch eine Problemlösungsstrategie}}</li>
+<li>{{c2::Förderung des Gesamterfolgs}}</li>
+<li>{{c3::immaterielle Vorteile durch verbesserte Kommunikation, Teamarbeit und Verantwortlichkeiten}}</li>
+<li>{{c3::höhere Prognosegenauigkeit}}</li>
+<li>{{c3::Schaffung und Aufrechterhaltung von einem Wettbewerbsvorteil}}</li>
+<li>{{c3::verbesserte Transparenz der Lieferkette}}</li>
+</ul>"	
+{{c1::Die nachfrageorientierte aggregierte Planung}} sind {{c2::alle Maßnahmen der aggregierten Planung zum Ausgleich von Veränderungen in der Nachfragestruktur}}.	
+"<p>{{c1::Die nachfrageorientierte aggregierte Planung}} besteht aus:</p>
+<ul>
+<li>{{c2::Beeinflussung der Nachfrage}}</li>
+<li>{{c2::komplementäre saisonale Produkt- und Dienstleistungsmischung}}</li>
+<li>{{c2::Nachbestellung in Zeiten hoher Nachfrage}}</li>
+</ul>"	
+{{c1::Die angebotsorientierte aggregierte Planung}} sind {{c2::alle Maßnahmen der aggregierten Planung zur Absorbierung von Nachfrageschwankungen}}.	
+"<p>{{c1::Die angebotsorientierte aggregierte Planung}} besteht aus:</p>
+<ul>
+<li>{{c2::Anpassung der Lagerbestände}}</li>
+<li>{{c2::Einsatz von Teilzeitkräften}}</li>
+<li>{{c2::Subunternehmerverträge}}</li>
+<li>{{c3::Veränderung der Produktionsmenge durch Überstunden oder Leerlaufzeiten}}</li>
+<li>{{c3::Veränderung des Personalbestands durch Einstellung oder Entlassung}}</li>
+</ul>"	
+Betriebswirtschaftlicher Grund des Ungleichgewicht zwischen {{c1::Angebot und Nachfrage}} ist {{c2::ein Silo-Denken in Unternehmen durch widersprüchliche Pläne von Abteilungen, spezifisch der Produktion, dem Rechnungswesen und dem Vertrieb}}.	
+"Frage:<br />
+Welche der folgenden Aussagen beschreiben die Beziehung zwischen Sprint und Kanban genau?<br />
+(die besten zwei Antworten)<br />
+a) Sprints sind Beispiele für Zyklen<br />
+b) mit Kanban-Methoden lassen sich Sprint-Ziele leichter erreichen<br />
+c) Sprints sind Beispiele für eine Richtlinie, welche die Arbeitsweise des Teams zeigt"	a), c)
+"Frage:<br />
+Welche der folgenden Möglichkeiten beschreiben, wie die Anwendung von Kanban die Wertschöpfungskompetenz des Scrum Teams verbessern kann?<br />
+(die besten zwei Antworten)<br />
+a) Es ermöglicht eine Reduzierung der insgesamt für Besprechungen benötigten Zeit.<br />
+b) Es hilft, den Wertfluss im gesamten Produktentwicklungssystem zu optimieren.<br />
+c) Es führt zu einer Senkung des Produktkostenverhältnisses.<br />
+d) Es ermöglicht dem Team, die Zykluszeiten zu verkürzen und kürzere Feedbackschleifen für die Empirie zu schaffen."	b), d)
+"wahr oder falsch:<br />
+Durch die Verwendung von Scrum mit Kanban wird die Rolle des Scrum Masters überflüssig."	falsch
+"wahr oder falsch:<br />
+In Kanban sollten die Grenzen eher für die Anzahl der wertgenerierenden Arbeitselemente gelten und nicht für ihre jeweiligen Unteraufgaben."	wahr
+"wahr oder falsch:<br />
+Scrum Ereignisse, Scrum Team-Verantwortlichkeiten und Scrum Artefakte werden erweitert, wenn Scrum mit Kanban verwendet wird. Beispielsweise kann ein klarer Indikator für das Alter aktiver Sprint Backlog-Elemente dem Scrum Team während des Daily Scrum helfen, seine tägliche Arbeit besser zu überprüfen und anzupassen."	"wahr:<br />
+Das Hinzufügen von Kanban zu Scrum bietet eine Technik, die dem Scrum Team hilft, sich auf die Förderung eines kontinuierlichen Aktivitätsflusses zu konzentrieren, ohne den Wert der Scrum Events, Scrum-Artefakte und Scrum Team-Verantwortlichkeiten zu negieren. Flussbasierte Metriken/Diagramme und Prognosen können jedoch gemäß dem Kanban-Leitfaden für Scrum Teams zu Scrum Events hinzugefügt werden."
+"wahr oder falsch:<br />
+Scrum Ereignisse, Scrum Team-Verantwortlichkeiten und Scrum Artefakte werden geändert, wenn Scrum mit Kanban verwendet wird. Beispielsweise könnte das Scrum Team beschließen, die Sprint Retrospective wegzulassen, wenn Kanban mit Scrum verwendet wird."	"falsch:<br />
+Durch das Hinzufügen von Kanban zu Scrum wird dem Scrum Team eine Technik geboten, die es dem Team ermöglicht, sich auf die Förderung eines kontinuierlichen Aktivitätsflusses zu konzentrieren, ohne jedoch den Wert der Scrum Ereignisse,  Scrum Artefakte und Scrum-Verantwortlichkeiten zu negieren."
+"wahr oder falsch:<br />
+Wenn Scrum mit Kanban verwendet wird, können während des Sprints mehrere Releases durchführen werden."	"falsch:<br />
+Scrum besagt, dass während des Sprints so oft veröffentlicht werden kann, wie gewünscht. Daran ändert auch die Einbeziehung von Kanban nichts."
+"{{c1::Kanban}} ist {{c2::ein Planungssystem zur Produktionssteuerung nach dem Pull-Prinzip, bei welchem nur gefertigt wird, was per übergebenen Kanban-Karten angefordert wurde}}.<br />
+Dabei wird ein Regelkreis zwischen {{c3::Materiallager, Fertigung, Ausgangslager und Kunden}} geschlossen."	
+{{c1::Lean Manufacturing}} ist {{c2::die Produktionsplanung mit Reduktion der Variabilität und die Elimination von Muda innerhalb eines Produktionsprozesses}}.	
+"Beispiel:<br />
+Muda"	"<ul>
+<li>Nacharbeiten an fehlerhaften Produkten</li>
+<li>unnötige Bewegungen</li>
+<li>Wartezeiten</li>
+</ul>"
+{{c1::Muda}} sind {{c2::alle Aktivitäten innerhalb eines Prozesses, welche keinen Beitrag zur Wertschöpfung leisten}}.	
+{{c1::Variabilität}} ist {{c2::die Abweichung von einem idealen Prozess}}.	
+"{{c1::Die Savings-Heuristik}} ist {{c2::eine Abwandlung des Traveling Salesman Problem, bei welchem jeder Knoten einzeln aufgesucht wird und durch Optimierung von gemeinsamen Verbindungen zwischen den einzelnen Knoten zum Rundweg}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Savings-Heuristik.png"" alt=""""><br />
+Savings-Heuristik}}}}"	
+{{c1::Der Johnson-Algorithmus}} ist {{c2::eine Prioritätsregel zur Minimierung der Gesamtbearbeitungszeit bei einem 2-Maschinen-Problem}}.	
+"<p>{{c1::Der Johnson-Algorithmus}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Bei einer Menge an \(n\) Aufträgen mit bekannter Bearbeitungszeit \(t_{1}\) und \(t_{2}\): Ordne die Aufträge in zwei Listen \(J_{1}\) (\(t_{1} \leq t_{2}\)) und \(J_{2}\) (\(t_{1} &gt; t_{2}\))}}</li>
+<li>{{c2::Sortiere \(J_{1}\) nach \(t_{1}\) zunehmend und \(J_{2}\) nach \(t_{2}\) abnehmend}}</li>
+<li>{{c2::Verkette \(J_{1}\) und \(J_{2}\)}}</li>
+</ol>"	
+"{{c1::Die Werkstattfertigung}} ist {{c2::die Ablaufplanung durch einen simultanen Ablauf}}.<br />
+{{c1::{{c2::<img src=""2024-Bild-Hellingrath-Werkstattfertigung.png"" alt=""""><br />
+Werkstattfertigung}}}}"	
+"{{c1::Die Fließfertigung}} ist {{c2::die Ablaufplanung durch einen sequenziellen Ablauf}}.<br />
+{{c1::{{c2::<img src=""2024-Bild-Hellingrath-Fliessfertigung.png"" alt=""""><br />
+Fließfertigung}}}}"	
+Die optimale Lösung bei einer Fließfertigung ist {{c1::die Bearbeitung von Aufträgen in der gleichen Reihenfolge}}.	
+{{c1::Die Moore-Regel}} ist {{c2::eine Prioritätsregel zur Minimierung der Anzahl verspäteter Aufträge bei einem 1-Maschinen-Problem}}.	
+"<p>{{c1::Die Moore-Regel}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Bau eine Liste \(R\) nach den Earliest Due Date und eine leere Liste \(J\) auf}}</li>
+<li>{{c2::Wähle den ersten verspäteten Auftrag \(i\) aus der Liste \(R\); wenn kein Auftrag verspätet ist, gehe zu 4}}</li>
+<li>{{c2::Wähle den Auftrag mit der längsten Belegungszeit vor dem Auftrag \(i\) und ordne ihm der Liste \(J\) zu; danach gehe zu 2}}</li>
+<li>{{c2::Die optimale Lösung besteht aus der Liste \(R + J\)}}</li>
+</ol>"	
+{{c1::Earliest Due Date (EDD)}} ist {{c2::eine Prioritätsregel, bei welcher die Reihenfolge durch den frühsten Fälligkeitstermin festgelegt wird}}. {{c1::EDD}} minimiert {{c3::die maximale Verspätung}} bei mehreren Aufträgen.	
+{{c1::Shortest Processing Time (SPT)}} ist {{c2::eine Prioritätsregel, bei welcher die Reihenfolge durch die kürzeste Belegzeit festgelegt wird}}. {{c1::SPT}} minimiert {{c3::die durchschnittliche Fertigungszeit}} bei mehreren Aufträgen.	
+{{c1::First-Come First-Serve}} ist {{c2::eine Prioritätsregel, bei welcher die Reihenfolge durch die Ankunft bestimmt wird}}.	
+"{{c1::Die Reihenfolgeplanung}} ist {{c2::die Ablaufplanung in Form eines Gantt-Diagramm}}.<br />
+{{c1::{{c2::<img src=""2024-Bild-Hellingrath-Reihenfolgeplanung.png"" alt=""""><br />
+Reihenfolgeplanung}}}}"	
+{{c1::Ein nachhaltiges Produktionsplanungsziel}} ist {{c2::ein Produktionsplanungsziel unter Berücksichtigung der ökologischen Nachhaltigkeit, sozialen Nachhaltigkeit und/oder wirtschaftlichen Aspekte}}.	
+"{{c1::Die Silver-Meal-Heuristik}} ist {{c2::eine Methode zur Losgrößenoptimierung durch die Produktion für Folgeperioden, solange die durchschnittlichen Kosten sinken}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Silver-Meal-Heuristik.png"" alt=""""><br />
+Silver-Meal-Heuristik}}}}"	
+{{c1::Die Bestellmengenheuristik}} ist {{c2::eine Methode zur Losgrößenoptimierung durch die Nutzung des Bestellmengenmodells}}. In {{c1::der Bestellmengenheuristik}} entsprechen {{c3::die fixen Bestellkosten}} {{c4::den Rüstkosten}}.	
+{{c1::Rüstkosten}} sind {{c2::Kosten, welche für die Umstellung der Produktion auf ein anderes Produkt erzeugt werden}}.	
+{{c1::Die Losgrößenoptimierung}} ist {{c2::die Optimierung der Vorlaufzeit aus der Grobterminierung}}. {{c1::Die Losgrößenoptimierung}} basiert auf {{c3::dem bekannten Bedarf an Endprodukten}}.	
+{{c1::Die Grobterminierung}} ist {{c2::die Bedarfsrechnung über die Berücksichtigung von Vorlaufzeiten in der Planung aus dem Nettobedarf}}.	
+"{{c1::Die Nettobedarfsrechnung (Nettobedarf)}} ist {{c2::die Bedarfsrechnung über die benötigten Teile in einer einzelnen Periode aus dem Bruttobedarf}}:<br />
+{{c1::\(\text{Nettobedarf}\)}} \(=\) {{c3::\(\text{Bruttobedarf} - \text{geplanter Lagerzugang} - \text{Anfangsbestand}\)}}"	
+"{{c1::Die Bruttobedarfsrechnung (Bruttobedarf)}} ist {{c2::die Bedarfsrechnung über die zur Verfügung stehenden Teile in einer einzelnen Periode}}:<br />
+{{c1::\(\text{Bruttobedarf}\)}} \(=\) {{c3::\(\sum_{n} \text{Stücklistenfaktor}_{n} \cdot \text{Losgröße der nachgelagerten Stufe}_{n}\)}} mit {{c3::\(n\) als Produkt}}"	
+"{{c1::Eine Baukastenstückliste}} ist {{c2::eine Liste über alle relevanten Teile je Baugruppe von einem Erzeugnis}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Beispiel_Baukastenstueckliste.png"" alt=""""><br />
+Beispiel für eine Baukastenstückliste}}}}"	
+{{c1::Eine Strukturstückliste}} ist {{c2::eine hierarchische Darstellung der Gliederungsstruktur des jeweiligen Elements eines Erzeugnisses in der Erzeugnisstruktur}}.	
+{{c1::Eine Mengenstückliste}} ist {{c2::eine Liste über alle Bestandteile eines Erzeugnisses in einer unstrukturierten Aufzählung}}.	
+{{c1::Die synthetische Betrachtung}} ist {{c2::die Betrachtung der Beziehung über den Verwendungsnachweis von einem Bestandteil}}.	
+{{c1::Ein Teilverwendungsnachweis}} ist {{c2::die synthetische Betrachtung von einer Einheit, in welchen Baugruppen und Produkten dieses enthalten ist}}.	
+{{c1::Eine Stückliste}} ist {{c2::ein Verzeichnis aller Rohstoffe, Teile und Baugruppen, die zur Fertigung einer Einheit eines Erzeugnisses notwendig sind}}.	
+"{{c1::Die Erzeugnisstruktur}} ist {{c2::die Beschreibung der Produktionsstufen eines Gutes aus Materialien und gleichzeitig alle Produktionsstufen für die Herstellung eines Produktes}}.<br />
+{{c1::In der Erzeugnisstruktur}} werden einzelne Erzeugnisse unter Beschreibung der Produktionsvorlaufzeit betrachtet.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Erzeugnisstruktur_Tisch.png"" alt=""""><br />
+Erzeugnisstruktur von einem Tisch}}}}"	
+{{c1::Die Materialbedarfsplanung (Material Requirements Planning, MRP)}} ist {{c2::die Planung des Materialbedarfes auf Grundlage des Produktionsbedarfes aus der Produktionsprogrammplanung}}.	
+{{c1::Die Produktionsprogrammplanung (Master Production Schedule, MPS)}} ist {{c2::die Planung des Produktionsbedarfes und der Produktionszeitpunkte für Endprodukte}}.	
+Eine Komponente besitzt {{c1::einen abhängigen Bedarf}}, welcher sich durch {{c2::die Nachfrage nach dem Endprodukt sowie dessen Erzeugnisstruktur}} ermitteln lässt.	
+{{c1::Ein Endprodukt}} ist {{c2::ein Produkt, welches aus Komponenten besteht}}.	
+{{c1::Eine Überstunde in der Logistik}} ist {{c2::eine Erweiterung der Produktionskapazität}}.	
+{{c1::Eine Rückstellung in der Logistik}} ist {{c2::ein Zustand, bei welchem ein Bedarf in einer Periode nicht erfüllt wird, aber in einer Folgeperiode erfüllt werden kann}}.	
+"Beispiel:<br />
+Kapazitätsfixierung"	"<ul>
+<li>Personalbedarfsplanung, wobei die Mitarbeiterkapazität fixiert wird, wodurch Personalanpassungskosten geringer sind</li>
+</ul>"
+{{c1::Die Kapazitätsfixierung}} ist {{c2::die Fixierung von Faktoren zur aggregierten Planung}}. {{c1::Die Kapazitätsfixierung}} wird durch {{c3::den maximalen durchschnittlichen Faktor}} ermittelt.	
+"Beispiel:<br />
+Bedarfsverfolgung"	"<ul>
+<li>Personalbedarfsplanung, wobei die Mitarbeiterkapazität jede Periode angepasst wird</li>
+</ul>"
+{{c1::Die Bedarfsverfolgung}} ist {{c2::die Überwachung von Faktoren zur aggregierten Planung und Anpassung}}.	
+"<p>Vorteile {{c1::der ABC-Analyse}} sind:</p>
+<ul>
+<li>{{c2::einfache Anwendbarkeit}}</li>
+<li>{{c2::Lenkung der Aufmerksamkeit auf Objekte mit hoher Relevanz}}</li>
+<li>{{c2::übersichtliche Darstellung der Ergebnisse}}</li>
+</ul>"	
+"<p>Nachteile {{c1::der ABC-Analyse}} sind:</p>
+<ul>
+<li>{{c2::Einteilung in drei Klassen ermöglicht nur eine grobe Planung}}</li>
+<li>{{c2::Festlegung geeigneter Kriterien schwierig}}</li>
+<li>{{c2::hinreichende Datenmenge notwendig}}</li>
+</ul>"	
+{{c1::Die ABC-Analyse}} ist {{c2::die aggregierte Planung durch die Kategorisierung von Produkten und Vorprodukten gemäß ihrer Relevanz}}.	
+"<p>{{c1::Die ABC-Analyse}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Festlegung von Kriterien zur Bildung von drei Klassen}}</li>
+<li>{{c2::Einordnung von Produkten in die Klassen entsprechend der Kriterien}}</li>
+</ol>"	
+"{{c1::Die aggregierte Planung}} ist {{c2::die Planung mit Aggregation zur Reduktion von Komplexität}}.<br />
+Ziel {{c1::der aggregierten Planung}} ist {{c3::die Deckung der prognostizierten Nachfrage bei gleichzeitiger Minimierung der Kosten}} im {{c3::taktischen}} Planungshorizont."	
+{{c1::Manufacturing Resource Planning (MRP II)}} ist {{c2::die Produktionsplanung mit einem hohen Bestand}}.	
+"<p>{{c1::Manufacturing Resource Planning}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Geschäftsplanung}}</li>
+<li>{{c2::Aggregierte Planung}}</li>
+<li>{{c2::Produktionsprogrammplanung}}</li>
+<li>{{c2::Materialbedarfsplanung}}</li>
+<li>{{c2::Ablaufplanung}}</li>
+</ol>"	
+{{c1::Eine punktbezogene Bestellung}} ist {{c2::eine Bestellung in einer bestimmten Höhe, welche bei Unterschreitung eines bestimmten Lagerbestandes durchgeführt wird}}.	
+"{{c1::Vendor Managed Inventory (VMI)}} ist {{c2::das Management des Lagers von einem Abnehmer durch den Lieferanten. Der Abnehmer informiert den Lieferanten elektronisch über Bestandsveränderung und veranlasst diesen zu Lieferungen}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Vendor_Managed_Inventory.png"" alt=""""><br />
+Prozess des Vendor Managed Inventory}}}}"	
+"<p>{{c1::Vendor Managed Inventory}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Der Kunde sendet Informationen über seinen Lagerbestand}}</li>
+<li>{{c3::Der Lieferant adaptiert entsprechend die Produktion und Lieferung}}</li>
+<li>{{c4::Der Lieferant füllt das Lager des Kunden, wenn benötigt}}</li>
+</ol>"	
+{{c1::Eine periodische Bestellung}} ist {{c2::eine Bestellung in einer bestimmten Höhe, welche unabhängig vom tatsächlichen Lagerbestand durchgeführt wird}}.	
+"{{c1::Die Lagerhaltungspolitik}} ist {{c2::eine Menge von Entscheidungsregeln, die beeinflussen, wie Lagerzugangsmengen eingeplant werden}}.<br />
+{{c1::Die Lagerhaltungspolitik}} kann durch {{c2::festgelegte Bestellintervalle oder einen Vergleich des aktuellen und vorgegebenen Lagerbestands mit einer konstanten Bestellmenge oder einer Zielbestandsmenge}} erfolgen."	
+{{c1::Das periodische Bestandsmanagement}} ist {{c2::das Bestandsmanagement, welches die aktuelle und zukünftigen Perioden beeinflusst}}. {{c1::Im periodischen Bestandsmanagement}} soll {{c3::ein festgelegter Bestand am Anfang jeder Periode}} vorrätig sein.	
+"Frage:<br />
+Fasse stochastische Nachfrage kurz zusammen."	Die Höhe der zukünftigen Nachfrage unterliegt Unsicherheit. Durch Zufallsvariablen (z. B. Normalverteilung) kann diese Unsicherheit modelliert und parametrisiert werden.
+"{{c1::Eine stochastische Nachfrage}} ist {{c2::eine Nachfrage, welche einer bestimmten Zufallsverteilung unterliegt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Stochastische_Nachfrage.png"" alt=""""><br />
+Stochastische Nachfrage}}}}"	
+{{c1::Das einperiodische Bestandsmanagement}} ist {{c2::das Bestandsmanagement, welches die aktuelle Periode beeinflusst}}.	
+"Frage:<br />
+Fasse deterministische Nachfrage kurz zusammen."	Unter der Annahme eines deterministischen Nachfrageverlaufs wird die zukünftige Nachfrage der jeweiligen Perioden als eindeutig und bekannt angenommen.
+"{{c1::Eine deterministische Nachfrage}} ist {{c2::eine Nachfrage, welche für die jeweiligen Perioden eindeutig und bekannt ist}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Deterministische_Nachfrage.png"" alt=""""><br />
+Deterministische Nachfrage}}}}"	
+"Frage:<br />
+Charakterisiere das Newsvendor-Modell hinsichtlich Kosten, Nachfrage und Perioden."	"Im Newsvendor-Modell werden variable Bestellkosten, Lagerhaltungskosten sowie Fehlmengenkosten berücksichtigt.<br />
+Die Lagerhaltungs- bzw. Überbestandskosten ergeben sich aus den Stückkosten abzüglich eines eventuell vorhandenen Rückgabepreises bzw. Restwerts.<br />
+Die Fehlmengen- bzw. Unterbestandskosten ergeben sich aus den Opportunitätskosten, d. h. dem durch Fehlmengen entstehenden entgangenen Gewinn.<br />
+Die Nachfrage wird im Newsvendor-Modell nur über eine Periode betrachtet."
+{{c1::Das Newsvendor-Modell}} ist {{c2::ein Modell, welches für kurze Verkaufsperioden mit keiner Nachlieferung und erheblicher Unsicherheit genutzt wird}}. Das Modell basiert auf {{c3::einen Zeitungsunternehmer, welcher entscheiden muss, wie viele Zeitungen bestellt werden sollen}}.	
+"{{c1::Das Bestellmengenmodell (Andler-Modell, Economic Order Quantity, EOQ)}} ist {{c2::ein Modell zur Bestimmung der minimalen durchschnittlichen Kosten für eine Bestellmenge \(x\) zu einem Bestellpunkt \(s\)}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Bestellmengenmodell.png"" alt=""""><br />
+Bestellmengenmodell}}}}"	
+{{c1::Lagerhaltungskosten}} sind {{c2::Kosten, welche für je gelagerte Einheit anfallen}}. {{c1::Die Lagerhaltungskosten}} berechnen sich durch {{c3::die gelagerte Menge multipliziert mit dem Lagerhaltungskostensatz}}.	
+{{c1::Fehlmengenkosten}} sind {{c2::Kosten, welche für jede nicht gelieferte oder verspätetet gelieferte Einheit anfallen}}.	
+{{c1::Fixe Bestellkosten}} sind {{c2::Fixkosten, welche unabhängig zu einer bestellten Menge anfallen}}.	
+"<p>{{c1::Fixe Bestellkosten}} bestehen aus:</p>
+<ul>
+<li>{{c2::Materialhandhabungskosten}}</li>
+<li>{{c2::Verwaltungskosten}}</li>
+</ul>"	
+{{c1::Variable Bestellkosten}} sind {{c2::variable Kosten, welche proportional zu einer bestellten Menge sind}}.	
+"<p>{{c1::Variable Bestellkosten}} bestehen aus:</p>
+<ul>
+<li>{{c2::Einstandspreisen}}</li>
+<li>{{c2::mengenproportionalen Transportkosten}}</li>
+</ul>"	
+"Frage:<br />
+Benenne die betriebswirtschaftliche Funktionen von einem Lager."	"<ul>
+<li>Absicherung gegenüber Preiserhöhungen</li>
+<li>Berücksichtigung von Produktionsbeschränkungen</li>
+<li>Beschaffung und Produktion in ökonomischen Losgrößen</li>
+<li>Entkoppelung von operativen Prozessen</li>
+<li>Nachfragebefriedigung</li>
+<li>Schutz vor Fehlbeständen</li>
+</ul>"
+{{c1::Das datengetriebene Qualitätsmanagement}} ist {{c2::die automatische Auswertung von gesammelten Daten und die Analyse von Echtzeitdaten zum Qualitätsmanagement bevor Fehler entstehen}}.	
+"{{c1::Der Prozessfähigkeitsindex}} ist {{c2::ein Index zur Beschreibung der Fähigkeit von einem Prozess, innerhalb der gewünschten Toleranzgrenzen zu agieren und dadurch prozessfähig zu sein}}. Der Prozessfähigkeitsindex wird berechnet durch:<br />
+{{c3::\(C_{pk} = min[\frac{\text{oberer Toleranzbereich} - \text{Mittelwert} }{\text{Stabilitätsbereich} \cdot 0,5}\frac{\text{Mittelwert} - \text{unterer Toleranzbereich} }{\text{Stabilitätsbereich} \cdot 0,5}]\)}} mit {{c3::\(C_{pk} \geq 1\) als Prozess innerhalb des Toleranzbereiches}}, {{c3::\(C_{pk} &lt; 1\) als Prozess außerhalb des Toleranzbereiches}}<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Hellingrath-Prozessfaehigkeitsindex.png"" alt=""""><br />
+Prozessfähigkeitsindex}}}}}}"	
+"{{c1::Prozessfähigkeit}} ist {{c2::ein Zustand, in welchem Attribute innerhalb definierter Toleranzgrenzen liegen und dadurch in einem bestimmten Toleranzbereich liegen}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Toleranzbereich.png"" alt=""""><br />
+Toleranzbereich}}}}"	
+"{{c1::Das Prozesspotential}} ist {{c2::das Potential von einem Prozess, die Toleranzgrenzen innerhalb der Stabilitätsgrenzen zu halten und dadurch prozessfähig zu sein}}. {{c1::Das Prozesspotential}} wird berechnet durch:<br />
+{{c3::\(C_{p} = \frac{\text{Obere Toleranzgrenze} - \text{Untere Toleranzgrenze} }{\text{Stabilitätsbereich} }\)}} mit {{c3::\(C_{p} \geq 1\) als Prozess innerhalb des Toleranzbereiches}}, {{c3::\(C_{p} &lt; 1\) als Prozess außerhalb des Toleranzbereiches}}<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Hellingrath-Prozesspotential.png"" alt=""""><br />
+Prozesspotential}}}}}}"	
+"Befindet sich {{c1::der Toleranzbereich von einem Prozess innerhalb der Stabilitätsgrenzen}}, gilt der Prozess nach dem Prozesspotential als {{c2::prozessfähig}}. Befindet sich {{c1::der Toleranzbereich von einem Prozess außerhalb der Stabilitätsgrenzen}}, gilt der Prozess nach dem Prozesspotential als {{c2::nicht-prozessfähig}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Prozesspotential.png"" alt=""""><br />
+Prozesspotential}}}}"	
+"{{c1::Der Toleranzbereich}} ist {{c2::der Bereich zwischen zwei Toleranzgrenzen, in welchen ein Prozess als akzeptabel gilt}}. Prozesse außerhalb {{c1::des Toleranzbereiches}} werden {{c3::nicht mehr akzeptiert}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Hellingrath-Toleranzbereich.png"" alt=""""><br />
+Toleranzbereich}}}}}}"	
+{{c1::Eine c-Karte}} ist {{c2::eine Regelkarte zur Überwachung von diskreten Prozessen auf Basis des Anzahl von Messwerten}}.	
+{{c1::Eine p-Karte}} ist {{c2::eine Regelkarte zur Überwachung von diskreten Prozessen auf Basis des prozentualen Anteils von Messwerten}}.	
+"{{c1::Eine R-Karte}} ist {{c2::eine Regelkarte zur Überwachung von stetigen Prozessen auf Basis des maximalen Differenz zwischen den Messwerten}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-x-Karte_und_R-Karte.png"" alt=""""><br />
+x-Karte und R-Karte}}}}"	
+"{{c1::Eine x-Karte}} ist {{c2::eine Regelkarte zur Überwachung von stetigen Prozessen auf Basis des Durchschnittes von Messwerten}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-x-Karte_und_R-Karte.png"" alt=""""><br />
+x-Karte und R-Karte}}}}"	
+"{{c1::Statistische Kontrolle}} ist {{c2::ein Zustand, in welchem Attribute innerhalb definierter Eingriffsgrenzen liegen und dadurch in einem bestimmten Stabilitätsbereichs liegen}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Statistische_Kontrolle.png"" alt=""""><br />
+Statistische Kontrolle}}}}"	
+"{{c1::Eine zuordenbare Prozessvariation}} ist {{c2::eine Variation eines Prozesses mit nicht-normalverteilter Wahrscheinlichkeit und nicht-stabiler Vorhersagemöglichkeit, die durch eine spezifische Ursache entsteht}}. {{c1::Eine zuordenbare Prozessvariation}} ist nicht statistisch unter Kontrolle.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Zuordenbare_Variation.png"" alt=""""><br />
+Zuordenbare Prozessvariation}}}}"	
+"{{c1::Eine natürliche Prozessvariation}} ist {{c2::eine Variation eines Prozesses mit normalverteilter Wahrscheinlichkeit und stabiler Vorhersagemöglichkeit}}. {{c1::Eine natürliche Prozessvariation}} ist statistisch unter Kontrolle.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Natuerliche_Prozessvariation.png"" alt=""""><br />
+Natürliche Prozessvariation}}}}"	
+{{c1::Der zentraler Grenzwertsatz}} ist {{c2::ein Satz der Statistik, dass der Mittelwert von Stichproben bei stochastischer Verteilung bei steigender Anzahl der Stichproben annähernd normalverteilt ist}}.	
+"Beispiel:<br />
+diskreter Prozess"	"<ul>
+<li>fehlerhafter Verschluss mit dem Wert ""fehlerhaft"" und ""nicht fehlerhaft""</li>
+</ul>"
+{{c1::Ein diskreter Prozess}} ist {{c2::ein messbarer Prozess, welcher eine diskrete Größe annehmen kann und dadurch abzählbar ist}}.	
+"Beispiel:<br />
+stetiger Prozess"	"<ul>
+<li>Füllmenge einer Flasche mit einer beliebigen Menge an Werten</li>
+</ul>"
+{{c1::Ein stetiger Prozess}} ist {{c2::ein kontinuierlich messbarer Prozess, welcher einen beliebigen Wert annehmen kann}}.	
+"{{c1::Eine Eingriffsgrenze}} ist {{c2::die Definition einer Grenze, ab welcher Streuung ein Eingriff in den Prozess erforderlich ist, um eine statistische Kontrolle wiederherzustellen}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Regelkarte.png"" alt=""""><br />
+Regelkarte}}}}"	
+"{{c1::Der Stabilitätsbereich}} ist {{c2::der Bereich zwischen zwei Eingriffsgrenzen, in welchen ein Prozess als statistisch unter Kontrolle gilt}}. Schwankungen innerhalb {{c1::des Stabilitätsbereiches}} sind auf {{c3::natürliche Variationen}} zurückzuführen.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Hellingrath-Regelkarte.png"" alt=""""><br />
+Regelkarte}}}}}}"	
+"{{c1::Eine Regelkarte}} ist {{c2::ein Instrument zur Qualitätskontrolle auf laufende Prozesse durch die Prüfung von historischen Daten, welche innerhalb definierter Grenzen liegen müssen}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Regelkarte.png"" alt=""""><br />
+Regelkarte}}}}"	
+{{c1::Die statistische Prozesskontrolle (SPC)}} ist {{c2::eine Methode der Qualitätskontrolle}}.	
+"Frage:<br />
+Was ist die Rolle der Qualitätskontrolle und ihre Methoden?"	"<ol>
+<li>Rolle: Bereitstellung notwendiger Daten als Entscheidungsgrundlage</li>
+<li>Methode: Prozessfähigkeit, Regelkarten, statistische Prozesskontrolle</li>
+</ol>"
+{{c1::Die Qualitätskontrolle (Qualitätssicherung)}} ist {{c2::die Menge aller Tätigkeiten, die zur Erfüllung der Qualitätsanforderungen angewendet werden}}.	
+{{c1::Die Mitarbeiterbegleitung}} ist {{c2::ein Konzept des Total Quality Management zur Erweiterung der Arbeitsbereich und Vergabe von mehr Verantwortung von und an Mitarbeiter}}.	
+{{c1::Taguchis Konzept}} ist {{c2::ein Konzept des Total Quality Management zum kontinuierlichen Prozessverbesserung durch die möglichst nahe Herstellung von Produkten am Sollwert}}.	
+"{{c1::Das PDCA-Konzept}} ist {{c2::ein Konzept des Total Quality Management zur kontinuierlichen Verbesserung}} nach dem Grundsatz ""{{c3::Plan, Do, Check, Act}}""."	
+"Frage:<br />
+Beschreibe die Grundidee von Six Sigma."	Verringerung von unerwünschten Qualitätsstreuung durch Qualitätsmanagement
+{{c1::Six Sigma}} ist {{c2::ein systematisches Konzept des Total Quality Management zur Prozessverbesserung durch die Verringerung von unerwünschten Qualitätsstreuungen in Produkten, Prozessen und Handlungsweisen}}. Bei der Anwendung von {{c1::Six Sigma}} in einem Produktionsprozess werden Produkte erfasst, die {{c3::im Abstand von jeweils 6 Standardabweichungen um den geforderten Mittelwert}} liegen, wodurch {{c4::bei gleichbleibenden Toleranzgrenzen der Anteil akzeptierter Produkte steigt}}.	
+"{{c1::Die ISO 9001}} ist {{c2::eine ISO-Norm der ISO-9000-Familie, welche weltweit anerkannte Richtlinien des Qualitätsmanagements umfasst}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-ISO_9001.png"" alt=""""><br />
+ISO 9001}}}}"	
+{{c1::Die ISO-9000-Familie}} ist {{c2::eine Reihe an ISO-Normen zur technisch-administrativen Umsetzung eines wirksamen Qualitätsmanagements}}.	
+"Frage:<br />
+Wo wird Total Quality Management in einem Unternehmen eingesetzt?"	"<ul>
+<li>Führung: Zielgerichteter kooperativer Führungsstil</li>
+<li>Mitarbeiter: Qualifikation und Qualitätsbewusstsein</li>
+<li>Organisation: Eindeutige Ziel-, Aufgaben- und Verantwortungsregeln</li>
+</ul>"
+{{c1::Total Quality Management (TQM)}} ist {{c2::ein ganzheitliches soziotechnisches System zur Umsetzung eines Qualitätsmanagementsystems, welche alle Bereiche einer Organisation umfasst}}. {{c1::Total Quality Management}} beruht auf {{c3::der Mitwirkung aller Mitarbeiter und der Zentrierung von Qualität als Unternehmensziel}}.	
+"<p>Faktoren {{c1::des TQM}} sind:</p>
+<ul>
+<li>{{c2::Führung: Auf Qualität ausgerichteter kooperativer Führungsstil}}</li>
+<li>{{c2::Mitarbeiter: Bildung und Verankerung von Qualitätsbewusstsein}}</li>
+<li>{{c2::Organisation: Definition von Aufgaben, Verantwortungen und Zielen}}</li>
+</ul>"	
+"Beispiel:<br />
+Leistungsmessung"	"<ul>
+<li>Bewertung des Produktionsprozesse zur Minimierung von Kosten durch Fehlererkennung</li>
+</ul>"
+{{c1::Process Mining}} ist {{c2::die Kombination von Prozessmanagement und Data Mining zur Prozessanalyse auf Basis von Ereignisprotokollen aus IT-Systemen}}.	
+{{c1::Die Prozessleistungsanalyse}} ist {{c2::die Analyse der Leistung eines Prozesses}}.	
+"<p>{{c1::Leistungskennzahlen einer Warteschlange}} sind:</p>
+<ul>
+<li>{{c2::\(LS\): Erwartete Anzahl der Nutzer im System}}</li>
+<li>{{c2::\(LQ\): Erwartete Anzahl an Nutzer in der Warteschlange}}</li>
+<li>{{c2::\(WS\): Erwartete Zeit eines Nutzers im System}}</li>
+<li>{{c2::\(WQ\): Erwartete Zeit eines Nutzers in einer Warteschlange}}</li>
+</ul>"	
+{{c1::Eine M/M/1-Warteschlange}} ist {{c2::eine Warteschlange mit einer poisson-verteilten Ankunftsrate und einer exponentiell-verteilten Abfertigungsrate sowie einem Server}}.	
+Die Produktionsqualität kann durch {{c1::die Ermittlung der Anzahl an fehlerhaften Produkten nach jeder Einzelfunktion}} ermittelt werden.	
+Ein Kapazitätsengpass kann durch {{c1::die Ermittlung der Kapazitäten mit anschließender Prüfung der Verfügbarkeit}} ermittelt werden.	
+"Frage:<br />
+Wie ist das Vorgehen einer Warteschlange für das Prozessmanagement?"	analytisch Vorgehen mit Fokus auf Zeit
+"Frage:<br />
+Welche Parameter sind in einer Warteschlange für das Prozessmanagement vorhanden?"	Ankunftszeit und Bearbeitungszeit stochastisch
+"Frage:<br />
+Welche Prozesse sind in einer Warteschlange für das Prozessmanagement vorhanden?"	spezifische nicht-dynamische mathematische Modelle für verschiedene Prozesse
+"Frage:<br />
+Wie hoch ist das Aufwand einer Warteschlange für das Prozessmanagement?"	mittel
+{{c1::Eine Warteschlange in der Wirtschaft}} ist {{c2::ein Modell für die analytische Prozessleistungsanalyse mit mittleren Detaillierungsgrad}} zur {{c3::Einschätzung der Zeit durch spezifische mathematische Funktionen}} innerhalb eines Systems mit {{c4::stochastischer Verteilung}}. Durch {{c1::eine Warteschlange}} kann {{c4::die Leistungsfähigkeit eines Prozesses mit variablen Prozessparametern}} geprüft werden.	
+"Frage:<br />
+Wie ist das Vorgehen einer Prozessflussanalyse für das Prozessmanagement?"	analytisch Vorgehen mit Fokus auf Kapazität
+"Frage:<br />
+Welche Parameter sind in einer Prozessflussanalyse für das Prozessmanagement vorhanden?"	deterministische und konstante Parameter
+"Frage:<br />
+Welche Prozesse sind in einer Prozessflussanalyse für das Prozessmanagement vorhanden?"	verschiedene modellierbare Prozesse ohne dynamische Darstellung
+"Frage:<br />
+Wie hoch ist das Aufwand einer Prozessflussanalyse für das Prozessmanagement?"	gering
+{{c1::Eine Prozessflussanalyse}} ist {{c2::eine analytische Prozessleistungsanalyse mit geringen Detaillierungsgrad zur groben Prüfung der Prozessleistung}} durch {{c3::Prozessmodellierung und Prozessanalyse}}.	
+{{c1::Die Prognose durch Machine Learning}} ist {{c2::die Analyse strukturierter Daten und unstrukturierter Daten durch Machine Learning und führt zu schnelleren und genaueren Prognosen}}.	
+"<p>{{c1::Die Prognose mit Machine Learning}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>Nutzung verschiedener Datenquellen</li>
+<li>Prozessmodellierung mit Machine Learning</li>
+<li>Erzeugung einer Nachfrageprognose</li>
+</ol>"	
+"<p>{{c1::Vorteile der Prognose durch Machine Learning}} sind:</p>
+<ul>
+<li>{{c2::bessere Absatzprognosen mit verbesserter Lagerplanung und Produktionsplanung}}</li>
+<li>{{c2::Möglichkeit zur Erstellung von kurzfristigen Echtzeit-Prognosen}}</li>
+<li>{{c2::Nutzung umfangreicher Datenquellen}}</li>
+<li>{{c2::verbesserte Prognosequalität}}</li>
+</ul>"	
+{{c1::\(\text{MAPE}\)}} \(=\) {{c2::\(\frac{1}{N} \sum_{n = 1}^{N} \frac{\varepsilon_{n} }{y_{t} }\)}} mit {{c2::\(N\) als die Anzahl der Datenpunkte, \(\varepsilon_{n}\) als Abweichung vom Prognosewert, \(y_{t}\) als tatsächlichen Wert}}	
+{{c1::\(\text{MAD}\)}} \(=\) {{c2::\(\frac{1}{N} \sum_{n = 1}^{N} \varepsilon_{n}\)}} mit {{c2::\(N\) als die Anzahl der Datenpunkte, \(\varepsilon_{n}\) als Abweichung vom Prognosewert}}	
+{{c1::Die dreifache exponentielle Glättung}} ist {{c2::ein Zeitreihenprognoseverfahren, basierend auf der doppelten exponentiellen Glättung, für einen Nachfrageverlauf als Trend durch die Wiederholung von Nachfragemustern}}.	
+"<p>{{c1::Die dreifache exponentielle Glättung}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Schätzung der Trendfunkton}}</li>
+<li>{{c2::Bereinigung der Nachfrage um den Trend}}</li>
+<li>{{c2::Berechnung der Saisonfunktion}}</li>
+<li>{{c2::Prognose der Nachfrage}}</li>
+</ol>"	
+"{{c1::Die doppelte exponentielle Glättung}} ist {{c2::ein Zeitreihenprognoseverfahren, basierend auf der einfachen exponentiellen Glättung, für einen Nachfrageverlauf als Trend durch den exponentiellen gewichteten Durchschnittswert von einer Menge von historischen Daten}}.<br />
+Für {{c1::die doppelte exponentielle Glättung}} wird {{c3::für jeden Periode der Achsenabschnitt \(a\) und eine dazugehörige Steigung \(b\)}} berechnet, um eine Prognose zu treffen.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Hellingrath-Doppelte_exponentielle_Glaettung.png"" alt=""""><br />
+Doppelte exponentielle Glättung}}}}}}"	
+{{c1::Ein struktureller Prognosefehler}} ist {{c2::die Unterschätzung oder Überschätzung durch ein Prognoseverfahren, welches für den jeweiligen Nachfrageverlauf ungeeignet ist}}.	
+{{c1::Die einfache exponentielle Glättung (SES, Simple Exponential Smoothing)}} ist {{c2::ein Zeitreihenprognoseverfahren für einen Nachfrageverlauf mit einem konstanten Niveau durch den exponentiellen gewichteten Durchschnittswert von einer Menge von historischen Daten}}.	
+"{{c1::Der gleitende Durchschnitt (Mean Average)}} ist {{c2::ein einfaches Zeitreihenprognoseverfahren für einen Nachfrageverlauf mit einem konstanten Niveau durch den Durchschnittwert von einer Menge von historischen Daten}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Gleitender_Durchschnitt.png"" alt=""""><br />
+Grafische Darstellung des gleitenden Durchschnitts}}}}"	
+{{c1::Linearisierung}} ist {{c2::die Transformation einer Funktion in eine lineare Form \(\tilde{y} = a + b \cdot x\)}}.	
+"{{c1::Eine nicht-lineare Regressionsanalyse}} ist {{c2::eine einfache Regressionsanalyse durch Linearisierung}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Nicht-lineare_Regressionsanalyse.png"" alt=""""><br />
+Grafische Darstellung des Prozesses der nicht-linearen Regressionsanalyse}}}}"	
+"<p>Nachteile der Delphi-Methode sind:</p>
+<ul>
+<li>{{c1::fehlende Verantwortlichkeit}}</li>
+<li>{{c1::langsamer Prozess}}</li>
+</ul>"	
+"<p>Vorteile der Delphi-Methode sind:</p>
+<ul>
+<li>{{c1::erzielt Konsens}}</li>
+<li>{{c1::gut geeignet für langfristige Prognosen}}</li>
+</ul>"	
+"<p>Nachteile der Expertenschätzung sind:</p>
+<ul>
+<li>{{c1::bindet teures und knappes Personal}}</li>
+<li>{{c1::keine Einzelperson ist verantwortlich}}</li>
+<li>{{c1::Risiko, dass einzelne Personen die Gruppe dominieren}}</li>
+</ul>"	
+"<p>Vorteile der Expertenschätzung sind:</p>
+<ul>
+<li>{{c1::für neue Produkte und Dienstleistungen zur mittelfristigen Prognose und langfristigen Prognose gut geeignet}}</li>
+<li>{{c2::Personen, die das Wissen über zukünftige Entwicklungen haben, generieren auch die Prognose}}</li>
+</ul>"	
+"<p>Nachteile der Kundenbefragung sind:</p>
+<ul>
+<li>{{c1::aufwendig und teuer}}</li>
+<li>{{c2::verlangt fundiertes Wissen und hohe Menge an Umfrageteilnehmern}}</li>
+</ul>"	
+"<p>Vorteile der Kundenbefragung sind:</p>
+<ul>
+<li>{{c1::gut geeignet für kurzfristige Prognosen und mittelfristige Prognosen}}</li>
+<li>{{c1::systematisches Verfahren}}</li>
+</ul>"	
+"<p>Nachteile der Vertriebsschätzung sind:</p>
+<ul>
+<li>{{c1::Neigung zur Überschätzung oder Unterschätzung durch Anreizsysteme oder Persönlichkeit}}</li>
+<li>{{c2::Vertriebsmitarbeiter besitzen nicht immer alle notwendigen Informationen}}</li>
+</ul>"	
+"<p>Vorteile der Vertriebsschätzung sind:</p>
+<ul>
+<li>{{c1::gut geeignet für kurzfristige Prognosen und mittelfristige Prognosen}}</li>
+<li>{{c1::Vertriebsmitarbeiter kennen Kunden und können gute Prognose abgeben}}</li>
+</ul>"	
+Die Produktionsplanung wird auf Basis {{c1::der Bedarfsplanung}} und {{c1::Bestellungen}} durchgeführt.	
+"Beispiel:<br />
+Qualitätsmanagement"	"<ul>
+<li>gültige Leitfäden und Standardarbeitsanweisungen</li>
+<li>Qualitätsmanagement-Handbuch zur Beschreibung und Dokumentation</li>
+</ul>"
+{{c1::Das Qualitätsmanagement (QM)}} ist {{c2::die Menge aller aufeinander abgestimmten Tätigkeiten zum Leiten und Lenken einer Organisation bezüglich des Faktors Qualität}}. Durch {{c1::das Qualitätsmanagement}} werden allgemeine Anforderungen definiert und dokumentiert.	
+"<p>Die Prozessoptimierung besteht aus:</p>
+<ul>
+<li>{{c1::Automatisierung}}</li>
+<li>{{c1::Eliminierung}}</li>
+<li>{{c1::Leistungsmessung}}</li>
+<li>{{c1::Parallelisierung}}</li>
+<li>{{c1::Reihenfolgenänderung}}</li>
+</ul>"	
+"Frage:<br />
+Wie ist das Vorgehen einer Simulation für das Prozessmanagement?"	experimentelles Vorgehen mit beliebigen Untersuchungsfokus
+"Frage:<br />
+Welche Parameter sind in einer Simulation für das Prozessmanagement vorhanden?"	beliebige stochastische Parameter
+"Frage:<br />
+Welche Prozesse sind in einer Simulation für das Prozessmanagement vorhanden?"	beliebige Prozesse mit und ohne Dynamik
+"Frage:<br />
+Wie hoch ist das Aufwand einer Simulation für das Prozessmanagement?"	hoch
+{{c1::Eine Simulation}} ist {{c2::eine experimentelle Methode des Prozessmanagements mit mittleren Detaillierungsgrad}} zur Nachstellung von {{c3::real-existierenden Systemen oder von real-existierenden Prozessen}}.	
+{{c1::Die Datensammlung (Datenfassung, Datenerhebung)}} ist {{c2::das Sammlung von benötigten Daten}}.	
+"{{c1::Die Datensammlung}} besteht aus mehreren Schritten:<br />
+{{c2::Datenerhebung}} -&gt; {{c2::Datenaufbereitung}} -&gt; {{c2::Weitergabe von Informationen}}"	
+"{{c1::Ein Prozess}} ist {{c2::eine inhaltlich abgeschlossene, zeitlich-sachlogische Abfolge von Einzelfunktionen, zwischen denen Verbindungen bestehen, zur Erreichung eines definierten Ziels}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Prozess.png"" alt=""""><br />
+Schematische Darstellung eines Prozesses}}}}"	
+{{c1::Ein Prozess}} besteht aus einem {{c2::Hauptprozess}}, welcher aus einer Menge an {{c2::Teilprozessen}} besteht, die aus einer Menge an {{c2::Subprozessen}} bestehen, welche aus einer Menge an {{c2::Aktivitäten}} bestehen.	
+"wahr oder falsch:<br />
+Bei der Just-In-Time-Fertigung sind Abhängigkeiten in der Planung besonders zu berücksichtigen."	"wahr:<br />
+Die just-in-time-Fertigung ist vergleichsweise störanfällig, sodass die Berücksichtigung von Interdependenzen hier besonders wichtig ist."
+{{c1::Die Just-In-Time-Fertigung (Just-In-Time)}} ist {{c2::ein Konzept des Total Quality Management zur Produktion und Lieferung von Produkten bei Nachfrage}}.	
+{{c1::In der Just-In-Time-Fertigung}} steht das Material erst zur Verfügung, wenn {{c2::es benötigt wird}}.	
+"wahr oder falsch:<br />
+Qualität ist unabhängig von dem Personenkreis und dessen Wahrnehmung."	falsch
+{{c1::Qualität}} ist {{c2::ein Merkmal zur Bewertung der Eignung, dass eine Lösung oder eine Menge an Eigenschaften bestimmte festgelegte Anforderungen erfüllt}}.	
+{{c1::Die durchschnittliche quadratische Abweichung (Mean Squared Error, MSE)}} ist {{c2::die Summe der quadratischen Abweichungen jedes Datenpunkts von der Regressionsfunktion, geteilt durch die Anzahl der Datenpunkte}}.	
+"{{c1::Die multiple Regressionsanalyse}} ist {{c2::die Regressionsanalyse von einer abhängigen Variable \(\hat{y}\) und mehreren unabhängigen Variablen}}:<br />
+{{c3::\(\hat{y} = f(x_{1},..., x_{n})\)}}"	
+"{{c1::Die einfache Regressionsanalyse}} ist {{c2::die Regressionsanalyse von einer abhängigen Variable \(\hat{y}\) und einer unabhängigen Variable \(x\)}}:<br />
+{{c3::\(\hat{y} = f(x)\)}}"	
+{{c1::Eine Regressionsanalyse}} ist {{c2::die Analyse einer Kausalbeziehung zwischen einer abhängigen Variable \(\hat{y}\) und einer oder mehreren unabhängigen Variablen \((x_{1},..., x_{n})\)}}.	
+"Frage:<br />
+Erkläre kurz das Prognoseverfahren des Kausalprognoseverfahren."	Abschätzung des Einflusses einer oder mehrerer unabhängiger Variablen auf eine abhängige Variable
+{{c1::Ein Kausalprognoseverfahren}} ist {{c2::ein Prognoseverfahren durch die Bildung einer Funktion, welche die Abhängigkeit der Nachfrage von einer bekannten Größe abbildet}}.	
+Kausalprognoseverfahren werden genutzt, wenn {{c1::die Nachfrage auf Basis einer bekannten Größe prognostiziert werden kann}}.	
+"Frage:<br />
+Erkläre kurz das Prognoseverfahren der Delphi-Methode."	anonymisierter, iterativer Prozess der Expertenbefragung
+"wahr oder falsch:<br />
+Die Delphi-Methode ist ein Beispiel für eine Expertenbefragung."	wahr
+"{{c1::Die Delphi-Methode}} ist {{c2::ein qualitatives Prognoseverfahren durch die anonyme iterative Beantwortung von Fragebögen von Experten, dessen Ergebnisse aufbereitet und zu einem neuen Fragebogen entwickelt werden}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hellingrath-Delphi_Methode.png"" alt=""""><br />
+Delphi-Methode}}}}"	
+"Frage:<br />
+Erkläre kurz das Prognoseverfahren der Expertenschätzung."	Nutzung von Wissen von Führungskräften
+{{c1::Die Expertenschätzung}} ist {{c2::ein qualitatives Prognoseverfahren durch Experten und Führungskräfte aus unterschiedlichen Funktionsbereichen, welche gemeinsam eine Prognose entwickeln}}.	
+"Frage:<br />
+Erkläre kurz das Prognoseverfahren der Kundenbefragung."	strukturierte Befragung von Kunden
+{{c1::Die Kundenbefragung}} ist {{c2::ein qualitatives Prognoseverfahren durch die Befragung von Kunden}}.	
+"Frage:<br />
+Erkläre kurz das Prognoseverfahren der Vertriebsschätzung."	Nutzung der Kontakte von Vertriebsmitarbeitern zu Kunden; Vertriebsmitarbeiter geben individuelle Prognosen ab, die zu einer Gesamtprognose aggregiert werden
+{{c1::Die Vertriebsschätzung}} ist {{c2::ein qualitatives Prognoseverfahren durch Vertriebsmitarbeiter, welche eine individuelle Prognose abgeben, die zu einer Gesamtprognose zusammengefasst wird}}.	
+"Frage:<br />
+Nenne vier qualitative Prognoseverfahren."	"<ul>
+<li>Delphi-Methode</li>
+<li>Expertenschätzung</li>
+<li>Kundenbefragung</li>
+<li>Vertriebsschätzung</li>
+</ul>"
+{{c1::Ein qualitatives Prognoseverfahren}} ist {{c2::ein Prognoseverfahren durch die Zusammenfassung von qualitativem Wissen von Personen}}.	
+Qualitative Prognoseverfahren werden genutzt, wenn {{c1::keine Vergangenheitsdaten verfügbar sind oder diese Daten nicht zur Prognose geeignet sind}}.	
+"Frage:<br />
+Was sind Eigenschaften einer guten Prognose?"	"<ul>
+<li>einfach verständlich</li>
+<li>gemessen in sinnvollen Einheiten</li>
+<li>Genauigkeit</li>
+<li>kosteneffizent</li>
+<li>Rechtzeitigkeit</li>
+<li>schriftlich festgehalten</li>
+<li>Verlässlichkeit</li>
+</ul>"
+"Frage:<br />
+Was sind Grundprinzipien einer Nachfrageprognose?"	"<ul>
+<li>Abschätzung der zukünftigen Nachfrageentwicklung</li>
+<li>Grundlage der meisten Planungen</li>
+<li>strukturierter Prozess</li>
+</ul>"
+"Frage:<br />
+Welche Bedeutung hat eine Nachfrageprognose?"	Die genaue Nachfrageprognose für ein Unternehmen ist entscheidend zur Generierung von Wettbewerbsvorteilen z. B. durch die Reduktion teurer Lagerbestände oder die Verringerung von Rückständen.
+{{c1::Eine Nachfrageprognose}} ist {{c2::die Schätzung der zukünftigen Entwicklung der Nachfrage}}.	
+{{c1::Die Nachfrageprognose}} wird durch {{c2::Marketingmanager und Vertriebsmanager}} in Hinblick auf {{c3::Neukunden, neue Produkte und geplante Preisänderungen}} überprüft und angepasst.	
+Ziel {{c1::der Nachfrageprognose}} ist {{c2::die Identifikation relevanter Datenquellen und die Erstellung einer möglichst guten Nachfrageprognose aus diesen Daten}}.	
+"<p>Aufgaben in Bezug zum Zeithorizont des Operation Managements sind:</p>
+<ul>
+<li>{{c1::operativer Zeithorizont}}: {{c4::Bereitstellung von Produktionsfaktoren, Produktionsplanung und Produktionssteuerung}}</li>
+<li>{{c1::strategischen Zeithorizont}}: {{c2::Ausgestaltung der Produktionskapazität, Produktgestaltung, Prozessgestaltung und Standortplanung}}</li>
+<li>{{c1::taktischer Zeithorizont}}: {{c3::Festlegung des Produktionsprogramms und Produktionskapazitätanpassungen}}</li>
+</ul>"	
+{{c1::Der operative Zeithorizont}} ist {{c2::die kurzfristige und aktuelle Betrachtung von Entscheidungen, oft in einem Zeitraum unter 3 Monaten}}.	
+{{c1::Der taktische Zeithorizont}} ist {{c2::die detaillierte Betrachtung von Entscheidungen, oft in einem Zeitraum zwischen 3 - 18 Monaten}}.	
+{{c1::Der strategische Zeithorizont}} ist {{c2::die langfristige Betrachtung von Entscheidungen, oft in einem Zeitraum von über 18 Monaten}}.	
+{{c1::Operations Management (Produktionsmanagement)}} ist {{c2::die Gestaltung, Planung, Steuerung und Kontrolle aller industriellen Wertschöpfungsprozesse, die zur Entwicklung, Erstellung und Lieferung von Produkten und Dienstleistungen benötigt werden}}.	
+"<p>{{c1::Maßnahmen gegen Lieferkettenengpässe}} sind:</p>
+<ul>
+<li>{{c2::Erhöhung der Lagerbestände}}</li>
+<li>{{c2::Near-Shoring oder In-Shoring der Produktion}}</li>
+<li>{{c2::Preiserhöhungen}}</li>
+<li>{{c2::Suche nach neuen Lieferanten}}</li>
+</ul>"	
+"<p>{{c1::Gründe für Lieferkettenengpässe}} sind:</p>
+<ul>
+<li>{{c2::Produktionsausfälle bei Zulieferern}}</li>
+<li>{{c2::starke Konsumschwankungen}}</li>
+<li>{{c2::Transportprobleme}}</li>
+<li>{{c2::zu geringe Produktionskapazitäten}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Das Traveling Salesman Problem ist ein Beispiel für Zielsetzungsprobleme in der Planung."	"falsch:<br />
+Es ist ein Beispiel für Lösungsprobleme."
+{{c1::Das Traveling Salesperson Problem (Traveling Salesman Problem, TSP)}} ist {{c2::ein NP-vollständiges Problem, bei welchem in einem gewichteten Graph der kürzeste Rundweg bestimmt werden soll, bei welchem alle Knoten genau einmal aufgesucht werden und der Rundweg am Startknoten enden muss}}.	
+{{c1::Die lineare Regressionsanalyse}} ist {{c2::eine Methode zur Bildung einer Mittelwertfunktion \(\hat{y}(x) = a + b \cdot x\) durch mehrere Datenpunkten}} mit dem Ziel, {{c3::die durchschnittliche quadratische Abweichung zu minimieren}}.	
+{{c1::Ein Angebotsüberschuss}} ist ein Überschuss an Nachfrage, welcher entsteht, wenn {{c2::die Angebotsmenge oder der Angebotspreis über den Marktgleichgewicht liegt}}.	
+Bei {{c1::einem Angebotsüberschuss}} ist {{c2::die Angebotsmenge oder der Angebotspreis}} {{c3::größer}} als {{c2::die Nachfragemenge oder der Nachfragepreis}}.	
+"<p>Faktoren des Angebotsüberschuss sind:</p>
+<ul>
+<li>{{c1::Gewinnspannen werden durch Preisnachlässe und vermehrte Werbeaktionen geschmälert}}</li>
+<li>{{c1::potentielle Cashflow-Probleme}}</li>
+<li>{{c1::Risiko des Verderbens und der Überalterung von Produkten}}</li>
+<li>{{c1::Zunahme der Lagerbestände und steigende Lagerkosten}}</li>
+</ul>"	
+"{{c1::Die Wertschöpfung}} ist in der volkswirtschaftlichem Gesamtrechnung {{c2::die wirtschaftliche Leistung}}, welche sich durch {{c3::die Differenz zwischen dem Produktionswert und der getätigten Ausgaben}} ergibt.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Pfingsten-Aggregationsergebnis.png"" alt=""""><br />
+Aggregationsergebnis}}}}}}"	
+{{c1::Ein Nachfrageüberschuss}} ist ein Überschuss an Nachfrage, welcher entsteht, wenn {{c2::die Nachfragemenge oder -preis über den Marktgleichgewicht liegt}}.	
+Bei {{c1::einem Nachfrageüberschuss}} ist {{c2::die Nachfragemenge oder der Nachfragepreis}} {{c3::größer}} als {{c2::die Angebotsmenge oder der Angebotspreis}}.	
+"<p>Faktoren des Nachfrageüberschuss sind:</p>
+<ul>
+<li>{{c1::Produktionsknappheit und hohe Auftragsbestände}}</li>
+<li>{{c1::Reputationsverlust}}</li>
+<li>{{c1::Verkaufseinbußen}}</li>
+<li>{{c1::verlängerte Lieferzeiten und geringere Termintreue}}</li>
+</ul>"	
+"Frage:<br />
+Erkläre kurz das Prognoseverfahren des Zeitreihenprognoseverfahren."	Nachfrageprognose auf Basis von Vergangenheitsdaten
+{{c1::Die Zeitreihenanalyse (Zeitreihenprognose, Zeitreihenprognoseverfahren)}} ist {{c2::eine Prognosemethode, bei welcher Zeitabläufe betrachtet}} und anhand von Trends der vergangenen Nachfrage Prognosen entwickelt werden.	

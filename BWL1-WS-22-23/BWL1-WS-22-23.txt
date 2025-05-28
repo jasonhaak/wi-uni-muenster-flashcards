@@ -1,0 +1,1846 @@
+#separator:tab
+#html:true
+"Frage:<br />
+Nennen und erläutere kurz die Risiken von Finanzierungsmaßnahmen, die sich für Kapitalgeber und Kapitalnehmer ergeben."	"<p>Kapitalgeber:</p>
+<ul>
+<li>Verlust des eigensetzten Kapitals: Kredit und Zinszahlungen werden nicht bedient</li>
+<li>Zinsänderungsrisiko: Bei steigendem Zins entgehen einen mögliche Anlagenalternativen<br />
+Kapitalnehmer:</li>
+<li>Liquiditätsrisiko und Refinanzierungsrisiko: Eine Anschlussfinanzierung ins bei kurzfristigen Finanzierungen unsicher</li>
+<li>Zinsänderungsrisiko: Zinsen für variable Kredite werden angepasst</li>
+</ul>"
+{{c1::\(\text{Wandlungsverhältnis von einer Wandelanleihe}\)}} \(=\) {{c2::\(\frac{\text{Nennwert der Anleihe} }{\text{bedingtes Kapital} }\)}}	
+"{{c1::Das Bezugsverhältnis von einer Wandelanleihe}} ist {{c2::die Anzahl der Aktien, die man bei Umwandlung der Wandelanleihe erhält}}:<br />
+{{c1::\(\text{Bezugsverhältnis von einer Wandelanleihe}\)}} \(=\) {{c3::\(\frac{\text{gezeichnetes Kapital} }{\text{Nennwert der Anleihe} }\)}}"	
+"Frage:<br />
+Erläutere am Beispiel der Biersteuer knapp und präzise die Finanzierungsfunktion und die Lenkungsfunktion einer Steuer und einen üblichen Konflikt zwischen beiden."	Die Finanzierungsfunktion der Biersteuer besteht darin, durch den Bierkonsum Einnahmen zu generieren und somit öffentliche Ausgaben zu finanzieren. Die Lenkungsfunktion der Biersteuer besteht darin, dass der Konsum von Bier teurer und damit unattraktiver gemacht werden soll, um somit den Bierkonsum zu reduzieren.
+{{c1::Ein Steuerkonflikt}} ist {{c2::ein Konflikt zwischen dem Finanzierungseffekt und dem Lenkungseffekt von Steuern, bei welchem der Lenkungseffekt den Steuereffekt sinkt und vice versa}}.	
+"<p>Die Klassifizierung einer Finanzierungsmaßnahme besteht aus:</p>
+<ul>
+<li>{{c1::Finanzierungsanlass}}</li>
+<li>{{c1::Finanzierungsdauer}}</li>
+<li>{{c1::Mittelherkunft}}</li>
+<li>{{c1::Rechtsstellung des Kapitalgebers}}</li>
+</ul>"	
+"Frage:<br />
+Welche Steigung hat eine flache Zinsstrukturkurve?"	keine Steigung
+"{{c1::Eine flache Zinsstrukturkurve}} ist {{c2::eine Zinskurve, welche einen unabhängigen Zins von der Laufzeit für Investitionen besitzt}}.<br />
+{{c1::{{c2::<img src=""2021-Branger-Flache,_inverse_und_normale_Zinsstrukturkurve.png"" alt=""""><br />
+Flache Zinsstrukturkurve, inverse Zinsstrukturkurve und normale Zinsstrukturkurve}}}}"	
+"wahr oder falsch:<br />
+Wenn die Zinskurve steigend ist, dann werden zur Bewertung der einzelnen Zahlungen einer Kuponanleihe unterschiedliche Zinssätze verwendet."	wahr
+"Frage:<br />
+Welche Steigung hat eine normale Zinsstrukturkurve?"	positive Steigung
+"{{c1::Eine normale Zinsstrukturkurve}} ist {{c2::eine Zinskurve, welche einen höheren Zins für langfristige Investitionen besitzt}}.<br />
+{{c1::{{c2::<img src=""2021-Branger-Flache,_inverse_und_normale_Zinsstrukturkurve.png"" alt=""""><br />
+Flache Zinsstrukturkurve, inverse Zinsstrukturkurve und normale Zinsstrukturkurve}}}}"	
+"Frage:<br />
+Welche Steigung hat eine inverse Zinsstrukturkurve?"	negative Steigung
+"{{c1::Eine inverse Zinsstrukturkurve}} ist {{c2::eine Zinskurve, welche einen niedrigen Zins für langfristige Investitionen besitzt}}.<br />
+{{c1::{{c2::<img src=""2021-Branger-Flache,_inverse_und_normale_Zinsstrukturkurve.png"" alt=""""><br />
+Flache Zinsstrukturkurve, inverse Zinsstrukturkurve und normale Zinsstrukturkurve}}}}"	
+"Frage:<br />
+Erläutere in einem Satz den Unterschied zwischen Nennwertaktien und nennwertlosen Aktien."	"<ul>
+<li>Nennwertaktie: Bezieht sich auf eine feste Summe, meist das Grundkapital</li>
+<li>nennwertlose Aktie: Bezieht sich nicht auf eine feste Summe, sondern auf einen bestimmten Anteil am Gesellschaftsvermögen</li>
+</ul>"
+{{c1::Eine Nennwertaktie}} ist {{c2::eine Aktie, die sich auf einem bestimmten Anteil am Gesellschaftsvermögen bezieht}}.	
+"<p>{{c1::Der Kurs einer Anleihe}} steigt, wenn:</p>
+<ul>
+<li>{{c2::der Marktzins fällt}}</li>
+<li>{{c2::der Nominalzins höher ist}}</li>
+<li>{{c2::mit abnehmender Laufzeit, falls Nominalzins &lt; Marktzins}}</li>
+<li>{{c2::mit steigender Laufzeit, falls Nominalzins &gt; Marktzins}}</li>
+</ul>"	
+"Frage:<br />
+Erkläre, wie sich der Wert des Optionsscheins zusammensetzt."	\(\text{Wert des Optionsscheins} = \text{Innerer Wert} + \text{Zeitwert}\)
+{{c1::Optionsscheine}} sind {{c2::eine Menge an Wertpapieren, durch welchen der Erwerb einer Aktie zu einem festgelegten Preis möglich ist}}.	
+"{{c1::Optionsscheine}} besitzen {{c2::einen inneren Wert}}, da {{c2::ein möglicher Gewinn durch den Bezug von Aktien zu einem günstigen Preis umgesetzt werden kann}}.<br />
+{{c1::Optionsscheine}} besitzen {{c3::einen Zeitwert}}, da {{c3::die Nutzung zu einem späteren Zeitpunkt möglich ist}}."	
+"<p>{{c1::Nachteile der Bewertung von Aktien durch das Kurs-Gewinn-Verhältnis}} sind:</p>
+<ul>
+<li>{{c2::das Kurs-Gewinn-Verhältnis ist eine vergangenheitsorientierte Größe}}</li>
+</ul>"	
+"<p>Vorteile der Bewertung von Aktien durch das Kurs-Gewinn-Verhältnis sind:</p>
+<ul>
+<li>{{c2::einfache Berechnung}}</li>
+<li>{{c2::Indikator für mögliche Fehlbewertungen, wenn Unternehmen der gleichen Branche betrachtet werden}}</li>
+</ul>"	
+{{c1::Der Betafaktor}} ist {{c2::die Korrelation der Aktienrendite mit der Marktrendite}}.	
+"{{c1::Die Risikoprämie}} wird durch {{c2::die Korrelation der Aktienrendite mit der Marktrendite multipliziert mit der Kompensation pro Einheit Risiko durch die Marktrendite}} berechnet:<br />
+{{c1::\(\text{Risikoprämie}\)}} \(=\) {{c2::\(\text{Beta-Faktor als Korrelation der Aktienrendite mit der Marktrendite} \cdot \text{Kompensation pro Einheit Risiko als Markrendite}\)}}"	
+{{c1::Die Abweichungsanalyse}} ist {{c2::ein Rechenwerk für die interne Kontrolle}}.	
+{{c1::Die Betriebsergebnisrechnung (Kostenträgerzeitrechnung)}} ist {{c2::ein Rechenwerk im internen Rechnungswesen zur Ermittlung des Periodenerfolgs für die interne Kontrolle}}.	
+{{c1::Die Substanzerhaltung}} ist {{c2::die Erhaltung eines gütermäßig definierten Kapitalbestandes}}, bei der {{c3::ein Zuwachs an Vermögensgegenstände}} als Orientierungsgröße für {{c3::den Gewinn}} definiert wird.	
+"{{c1::Ein Risikoaufschlag}} ist {{c2::ein Aufpreis für ein Risiko}}:<br />
+{{c1::\(RLZ\)}} \(=\) {{c3::\((1 - TAW) \cdot (1 + VZ)\)}} mit {{c3::\(RLZ\) als risikolosen Zinssatz, \(TAW\), als Totalausfallwahrscheinlichkeit, \(VZ\) als verlangter Zinssatz mit Risikoaufschlag}}"	
+{{c1::Eine instrumentale Organisation}} ist {{c2::eine Organisation als Mittel zur Zielerreichung}}.	
+{{c1::Eine institutionelle Organisation}} ist {{c2::eine Organisation als zielgerichtetes, offenes soziotechnisches System}}.	
+{{c1::Eine Ablauforganisation}} bezieht sich jeweils auf {{c2::die einzelnen Teileinheiten}}, die im Rahmen {{c3::der Aufbauorganisation}} gestaltet wurden.	
+"Frage:<br />
+Angenommen, die EZB würde nun die Leitzinsen erhöhen und der Marktzins in Deutschland würde steigen. Welchen Effekt würde dies, ceteris paribus, auf den Kurs und die Rendite der Bundesobligation haben?"	Bei einem höheren Marktzins fällt der Kurs der Anleihe. Da der Kurs und die Rendite zwei Seiten derselben Medaille sind (Kurs bestimmt Rendite, bzw. Rendite bestimmt Kurs), muss die Rendite also steigen.
+"Frage:<br />
+Der Marktzins für risikolose Anleihen ist weiterhin 8 %. Zwei sonst identische Anleihen von verschiedenen Emittenten notieren nun zu einem unterschiedlichen effektiven Zins. Während die<br />
+Anleihe der Firma A zu einem effektiven Zins von 12 % gehandelt wird, wird die Anleihe der Firma B zu einem effektiven Zins von 9 % gehandelt. Worauf ist dies zurückzuführen?"	Dies ist möglicherweise auf einen Risikoaufschlag aufgrund der Bonität und/oder der Handelbarkeit der Anleihen zurückzuführen.
+"Frage:<br />
+Im Szenario würde der Marktzins sich nicht ändern, jedoch würde Deutschland von den Ratingagenturen herabgestuft werden. Welchen Effekt würde dies, ceteris paribus, auf den Kurs und die Rendite der Bundesobligation haben?"	Einer Herabstufung durch Ratingagenturen signalisiert eine sinkende Bonität. Dies sollte sich in einer höheren Rendite der Anleihe infolge eines Zinsaufschlags, dem Credit Spread, niederschlagen. Infolgedessen würde dann wiederum der Kurs sinken.
+"Frage:<br />
+Im Szenario würde der Marktzins sich nicht ändern, jedoch würde die Handelbarkeit bzw. Liquidität deutscher Staatsanleihen sinken. Das bedeutet, dass es für Investoren schwieriger wird die Wertpapiere zu handeln. Welchen Effekt würde dies, ceteris paribus, auf den Kurs und die Rendite der Bundesobligation haben?"	Ein Verlust an Liquidität, oder eine geringere Handelbarkeit der Staatsanleihen, erschwert den Handel durch Investoren von Wertpapieren im Allgemeinen. Das sorgt dafür, dass der Kurs der Anleihe sinkt und somit die effektive Rendite steigt.
+"wahr oder falsch:<br />
+Die effektive Rendite einer Anleihe sinkt, wenn das allgemeine Markzinsniveau steigt."	falsch
+"wahr oder falsch:<br />
+Die effektive Rendite einer Anleihe steigt, wenn das allgemeine Markzinsniveau steigt."	wahr
+"wahr oder falsch:<br />
+Die effektive Rendite einer Anleihe sinkt, wenn die Bonität der Anleihe steigt."	wahr
+"wahr oder falsch:<br />
+Die effektive Rendite einer Anleihe steigt, wenn die Bonität der Anleihe steigt."	falsch
+"wahr oder falsch:<br />
+Die effektive Rendite einer Anleihe sinkt, wenn die Liquidität der Anleihe steigt."	wahr
+"wahr oder falsch:<br />
+Die effektive Rendite einer Anleihe steigt, wenn die Liquidität der Anleihe steigt."	falsch
+"wahr oder falsch:<br />
+Die effektive Rendite einer Industrie‐Anleihe fällt, wenn sich die zugehörige Bonitätsbewertung von BBB auf A verändert."	wahr
+{{c1::Die effektive Rendite einer Anleihe}} besteht aus {{c2::dem Kupon und Kursveränderung über die Laufzeit}}.	
+"<p>Faktoren der effektive Rendite einer Anleihe sind:</p>
+<ul>
+<li>{{c1::Bonität: Bei sinkender Bonität steigt die effektive Rendite der Anleihe}}</li>
+<li>{{c2::Liquidität: Bei sinkender Liquidität steigt die effektive Rendite der Anleihe}}</li>
+<li>{{c3::Markzinsniveau: Bei steigendem Marktzins steigt die effektive Rendite der Anleihe}}</li>
+</ul>"	
+{{c1::Ein kaltes Delisting}} ist {{c2::ein Delisting auf Grund von einer Verschmelzung mit einer nicht-börsennotierten Unternehmen}}.	
+"<p>{{c1::Gründe des Delisting}} sind:</p>
+<ul>
+<li>{{c2::Abwehr einer feindlichen Übernahme durch ein anderes Unternehmen}}</li>
+<li>{{c2::dauerhafte Unterbewertung}}</li>
+<li>{{c2::kaltes Delisting}}</li>
+<li>{{c2::Vermeidung der Offenlegungspflicht}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Bei einer inversen Zinsstrukturkurve steigt die Zerobondrendite für längere Laufzeiten."	falsch
+"{{c1::Die effektive Rendite einer Nullkuponanleihe}} ist:<br />
+{{c2::\(A_{0} = \frac{Z_{n} }{(1 + r_{eff})^{n} }\)}} mit {{c2::\(A_{0}\) als Auszahlungsbetrag, \(n\) als Laufzeit, \(Z_{n}\) als Rückzahlungsbetrag, \(r_{eff}\) als effektive Rendite}}"	
+"{{c1::Die effektive Rendite einer Standardanleihe}} ist:<br />
+{{c2::\(A_{0} = \sum_{1}^{n}\frac{Z_{n} }{(1 + r_{eff})^{n} }\)}} mit {{c2::\(A_{0}\) als Auszahlungsbetrag, \(n\) als Laufzeit, \(Z_{n}\) als Rückzahlungsbetrag, \(r_{eff}\) als effektive Rendite}}"	
+"Frage:<br />
+Das Kurs-Gewinn-Verhältnis kann als Indikator für Fehlbewertungen genutzt werden, wenn Unternehmen derselben Branche betrachtet werden. Der Analyst Heribert schaut auf ein hohes KGV von Bayer und schlussfolgert, dass das Unternehmen überbewertet ist. Ist diese Schlussfolgerung richtig?"	"Ein hohes KGV kann bedeuten, dass das Unternehmen überbewertet ist, da es einen relativ hohen Preis und einen relativ kleinen Gewinn hat. Eigentlich würde man bei einem hohen Preis erwarten, dass auch die Gewinne hoch sind und bsw. hohe Dividenden gezahlt werden können, was wiederum den hohen Preis rechtfertigen würde. Man kann jedoch nicht schlussfolgern, dass das Unternehmen zwangsläufig überbewertet ist. Ein hohes KGV kann zum Beispiel mehr als gerechtfertigt sein, wenn ein Unternehmen ein überdurchschnittlich schnelles Gewinnwachstum aufweist.<br />
+Ebenso muss ein niedriges KGV bei einem Unternehmen mit langsamem Gewinnwachstum keine Unterbewertung signalisieren.<br />
+Das Kurs-Gewinn-Verhältnis sollte wie andere Indikatoren auch also niemals für sich allein genommen betrachtet werden."
+"Frage:<br />
+Es sei angenommen, dass das branchenübliche KGV bei 7 liegt. Äußere basierend auf dem KGV eine Anlageentscheidung für die ZYX AG mit einem KGV von 12. Nenne mögliche Probleme bei der Bewertung von Aktien mit Hilfe des KGV."	"Ein KGV größer als der branchenübliche KGV spricht für einen Verkauf.<br />
+Probleme des KGV sind, dass ein hoher KGV auf hohe zukünftige Gewinne oder eine Fehlbewertung deuten können. Ferner ist der KGV eine vergangenheitsorientierte Größe."
+"wahr oder falsch:<br />
+Eine Aktie mit einem niedrigen KGV ist eine gute Anlage, weil sie<br />
+überbewertet ist."	falsch
+"{{c1::Das Kurs-Gewinn-Verhältnis (KGV)}} ist {{c2::das Verhältnis von einem Wertpapierkurs zu dem ausgeschütteten Gewinn}}:<br />
+{{c1::\(KGV\)}} \(=\) {{c2::\(\frac{K}{GpA}\) mit \(KGV\) als Kurs-Gewinn-Verhältnis, \(K\) als Kurs, \(GpA\) als Gewinn pro Aktie}}"	
+Ein {{c1::niedriges}} Kurs-Gewinn-Verhältnis ist besser als ein {{c1::hohes}} Kurs-Gewinn-Verhältnis.	
+{{c1::Eine Einzahlung}} ist {{c2::eine grundlegende Rechengröße}} und beschreibt {{c3::den Zugang von Zahlungsmitteln}}.	
+"<p>{{c1::Die Unterbewertung von Aktiva}} wird ermöglicht durch:</p>
+<ul>
+<li>{{c2::eine bilanzielle Abschreibung, die größer ist, als die tatsächliche kalkulatorische Abschreibung}}</li>
+</ul>"	
+"<p>{{c1::Die Überbewertung von Passiva}} wird ermöglicht durch:</p>
+<ul>
+<li>{{c2::eine bilanzielle Rückstellung, die größer ist, als die tatsächliche kalkulatorische Rückstellung}}</li>
+</ul>"	
+{{c1::Eine Auszahlung}} ist {{c2::eine grundlegende Rechengröße}} und beschreibt {{c3::den Abgang von Zahlungsmitteln}}.	
+{{c1::Eine Unterpari-Emission}} ist {{c2::die Emission von Aktien unter dem Nennwert}}.	
+Eine Unterpari-Emission ist in Deutschland {{c1::nicht erlaubt}}.	
+{{c1::Die Nominalkapitalerhaltung}} ist {{c2::die Erhaltung des gezeichneten Kapitals}}, bei der {{c3::ein Eigenkapitalzuwachs}} als Orientierungsgröße für {{c3::den Gewinn}} definiert wird.	
+{{c1::\(\text{Wert des Bezugsrecht}\)}} \(=\) {{c2::\(\frac{\text{alter Kurs} - \text{neuer Emissionskurs} }{1 + \text{Bezugsverhältnis} }\)}}	
+{{c1::\(\text{Bezugsverhältnis bei einer Kapitalerhöhung}\)}} \(=\) {{c2::\(\frac{\text{alte Aktien} }{\text{neue Aktien} }\)}}	
+{{c1::Ein Aufwand}} ist {{c2::eine grundlegende Rechengröße}} und beschreibt {{c3::den periodischen Werteverzehr an Gütern und Leistungen}}.	
+{{c1::Ein Ertrag}} ist {{c2::eine grundlegende Rechengröße}} und beschreibt {{c3::den periodischen Wertezuwachs an Gütern und Leistungen}}.	
+{{c1::Ein Kommanditist}} ist {{c2::ein Gesellschafter ohne Mitwirkungsrecht an einem Unternehmen und einer beschränkten Haftung}}.	
+{{c1::Ein Komplementär}} ist {{c2::ein Gesellschafter mit Mitwirkungsrecht an einem Unternehmen und einer Haftung mit dem Privatvermögen}}.	
+{{c1::Eine anorganische Unternehmensverbindung}} ist {{c2::eine Unternehmensverbindung mit verschiedenen Spezialisierungen}}. {{c1::Eine anorganische Unternehmensverbindung}} führt zu {{c3::einer Risikodiversifikation}}.	
+{{c1::Eine vertikale Unternehmensverbindung}} ist {{c2::eine Unternehmensverbindung mit aufeinanderfolgenden Produktionsstufen und Handelsstufen}}. {{c1::Eine vertikale Unternehmensverbindung}} führt zu {{c3::Unabhängigkeiten von anderen Lieferanten}}.	
+{{c1::Eine horizontale Unternehmensverbindung}} ist {{c2::eine Unternehmensverbindung der gleichen Produktionsstufe und Handelsstufe}}. {{c1::Eine horizontale Unternehmensverbindung}} führt zu {{c3::einer Vergrößerung der Marktmacht und ermöglicht gemeinsame Projekte}}.	
+{{c1::Die Leitungsintensität}} ist {{c2::die Anzahl der Leitungsstellen im Vergleich zur Anzahl der Ausführungsstellen}}.	
+{{c1::\(\text{Leitungsintensität}\)}} \(=\) {{c2::\(\frac{\text{Leitungsstellen} }{\text{Ausführungsstellen} }\)}}	
+"{{c1::Die Stellenanzahl}} ist die Anzahl der Stellen, welche aus der Leitungsspanne und Leitungstiefe besteht:<br />
+{{c1::\(\text{Stellenanzahl}\)}} \(=\) {{c2::\(\frac{\text{Leitungsspanne}^{\text{Leitungstiefe} + 1} - 1}{\text{Leitungsspanne} - 1}\)}}"	
+{{c1::Die Leitungsspanne}} ist {{c2::der Faktor der Ebenen, welche die Anzahl der Stellen auf der zweiten Ebene angibt}}.	
+{{c1::Die Leitungstiefe}} ist {{c2::die Anzahl an Ebenen von Leitungsstellen und Ausführungsstellen}}.	
+{{c1::Eine Dienstleistungsstelle}} ist {{c2::eine Stelle, die Unterstützungsaufgaben für mehrere Leitungsstellen übernimmt}}.	
+{{c1::Eine Stabsstelle}} ist {{c2::eine Hilfsstelle für Leitungsstellen mit fachspezifischen Aufgaben ohne Fremdentscheidungskompetenz und Kontrollkompetenz}}.	
+{{c1::Eine Leitungsstelle}} ist {{c2::eine Stelle mit Fremdentscheidungskompetenz und Kontrollkompetenz}}.	
+{{c1::Eine Ausführungsstelle}} ist {{c2::eine Stelle ohne Leitungskompetenz}}.	
+"<p>{{c1::Vorteile der offenen Selbstfinanzierung}} sind:</p>
+<ul>
+<li>{{c2::keine Besicherung benötigt}}</li>
+<li>{{c2::keine Fremdkapitalzinsen}}</li>
+<li>{{c2::keine weiteren Stakeholder}}</li>
+<li>{{c2::Steigerung des Eigenkapital und der Kreditwürdigkeit}}</li>
+<li>{{c2::zeitlich unbegrenzte Mittelüberlassung}}</li>
+</ul>"	
+"Beispiel:<br />
+außerordentlicher Umsatzerlös"	"<ul>
+<li>Verkauf von betriebsnotwendigen Vermögen, z. B. Sale-and-Lease-Back</li>
+<li>Verkauf von nicht betriebsnotwendigen Vermögen, z. B. Maschinen</li>
+<li>Verkürzung der Kapitalbindung, z. B. Abbau von Lagerbeständen</li>
+</ul>"
+{{c1::Eine risikolose Anleihe}} ist {{c2::eine Anleihe, deren effektiver Zins dem Marktzins entspricht}}.	
+"<p>{{c1::Der Kurs einer Anleihe}} {{c2::steigt}} ceteris paribus, wenn:</p>
+<ul>
+<li>{{c3::der Marktzins fällt}}</li>
+<li>{{c3::der Nominalzins höher ist}}</li>
+<li>{{c3::mit abnehmender Laufzeit, falls \(\text{Nominalzins} &lt; \text{Marktzins}\)}}</li>
+<li>{{c3::mit steigender Laufzeit, falls \(\text{Nominalzins} &gt; \text{Marktzins}\)}}</li>
+</ul>"	
+"<p>{{c1::Nachteile von Asset-Backed-Securities}} sind:</p>
+<ul>
+<li>{{c2::Qualität der Forderung von Investoren nur schwer einschätzbar}}</li>
+<li>{{c2::Transaktionskosten}}, z. B. {{c2::durch Rechtsanwälte}}</li>
+</ul>"	
+"<p>{{c1::Vorteile von Asset-Backed-Securities}} sind:</p>
+<ul>
+<li>{{c2::ähnliche Vorteile zum Factoring}}</li>
+<li>{{c2::Diversifikation der Finanzierungsquellen}}</li>
+<li>{{c2::Forderungen und Risiken können handelbar gemacht werden}}</li>
+<li>{{c2::Risiko für Investoren nicht von der Kreditwürdigkeit, sondern von der Qualität des Forderungspool abhängig}}</li>
+</ul>"	
+"<p>{{c1::Vorteile von Factoring}} sind:</p>
+<ul>
+<li>{{c2::Einsparung von Gebühren zur Informationsbeschaffung über die Schuldner}}</li>
+<li>{{c2::Erhöhung der Liquidität}}</li>
+<li>{{c2::Kosteneinsparung und Rationalisierung durch Outsourcing}}</li>
+<li>{{c2::Wegfall des Ausfallrisikos}}</li>
+<li>{{c2::Zinsgewinn durch Ablösung teurer Lieferantenkredite}}</li>
+</ul>"	
+"<p>{{c1::Vorteile von Leasing}} sind:</p>
+<ul>
+<li>aus Sicht der Leasinggesellschaft: {{c5::Kaufpreis und Zinsen sind für die Leasinggesellschaft oft günstiger}}</li>
+<li>aus Sicht des Leasingnehmer: {{c2::Eigenkapitalschonung und Liquiditätsvorteil}}</li>
+<li>aus Sicht des Leasingnehmer: {{c3::Schutz vor technischer Überalterung}}</li>
+<li>aus Sicht des Leasingnehmer: {{c4::Steuerstundungseffekt}}</li>
+</ul>"	
+"<p>{{c1::Nachteile von Leasing}} sind:</p>
+<ul>
+<li>{{c2::Gesamtbelastung ist möglicherweise größer als bei Kauf und Fremdfinanzierung}}</li>
+<li>{{c2::Grundmietdauer beschränkt Handlungsspielraum}}</li>
+</ul>"	
+{{c1::Ein Bankdarlehen}} ist {{c2::ein besicherter und unverbriefter Geldkredit}}.	
+"Beispiel:<br />
+Sachsicherheit an Rechten"	"<ul>
+<li>Forderungszession</li>
+<li>Pfandrecht</li>
+</ul>"
+{{c1::Eine Sachsicherheit an Rechten}} ist {{c2::eine vertragliche Sachsicherheit an Rechten}}.	
+"Beispiel:<br />
+Sachsicherheit an unbeweglichen Vermögensgegenständen"	"<ul>
+<li>Grundschuld</li>
+<li>Hypothek</li>
+</ul>"
+{{c1::Eine Sachsicherheit an unbeweglichen Vermögensgegenständen}} ist {{c2::eine vertragliche Sachsicherheit an unbeweglichen Vermögensgegenständen}}.	
+"Beispiel:<br />
+Sachsicherheit an beweglichen Vermögensgegenständen"	"<ul>
+<li>Eigentumsvorbehalt</li>
+<li>Pfandrecht</li>
+<li>Sicherungsübereignung</li>
+</ul>"
+{{c1::Eine Sachsicherheit an beweglichen Vermögensgegenständen}} ist {{c2::eine vertragliche Sachsicherheit an beweglichen Vermögensgegenständen}}.	
+"Beispiel:<br />
+Personensicherheit"	"<ul>
+<li>Bürgschaft</li>
+<li>Garantie</li>
+<li>Patronatserklärung</li>
+<li>Wechselbürgschaft</li>
+</ul>"
+{{c1::Eine Personensicherheit}} ist {{c2::eine vertragliche Kreditsicherheit durch eine oder mehrere Personen}}.	
+"Beispiel:<br />
+besicherter Kredit"	"<ul>
+<li>Hypothek</li>
+</ul>"
+{{c1::Ein besicherter Kredit}} ist {{c2::ein Kredit mit Besicherung}}.	
+"Beispiel:<br />
+Blanko-Kredit"	"<ul>
+<li>Anleihen</li>
+<li>Kontokorrentkredit</li>
+</ul>"
+{{c1::Ein Blanko-Kredit}} ist {{c2::ein unbesicherter Kredit}}.	
+"Beispiel:<br />
+verbriefter Kredit"	"<ul>
+<li>Anleihen</li>
+</ul>"
+"Beispiel:<br />
+unverbriefter Kredit"	"<ul>
+<li>Bankdarlehen</li>
+</ul>"
+"Beispiel:<br />
+Sachkredit"	"<ul>
+<li>Lieferantenkredit</li>
+</ul>"
+"Beispiel:<br />
+Geldkredit"	"<ul>
+<li>Bankdarlehen</li>
+</ul>"
+"Beispiel:<br />
+langfristiger Kredit"	"<ul>
+<li>Anleihen</li>
+<li>Bankdarlehen</li>
+</ul>"
+{{c1::Ein langfristiger Kredit}} ist {{c2::ein Kredit mit einer Laufzeit von mehr als vier Jahren}}.	
+"Beispiel:<br />
+mittelfristiger Kredit"	"<ul>
+<li>Bankdarlehen</li>
+</ul>"
+{{c1::Ein mittelfristiger Kredit}} ist {{c2::ein Kredit mit einer Laufzeit zwischen einem und vier Jahren}}.	
+"Beispiel:<br />
+kurzfristiger Kredit"	"<ul>
+<li>Diskontkredit</li>
+<li>Kontokorrentkredit</li>
+</ul>"
+{{c1::Ein kurzfristiger Kredit}} ist {{c2::ein Kredit mit einer Laufzeit von einem Jahr oder weniger als einem Jahr}}.	
+{{c1::Ein Management Buyout (MBO)}} ist {{c2::ein LBO, bei welchem das existierende Management übernommen wird}}.	
+{{c1::Ein Leveraged Buyout (LBO)}} ist {{c2::eine Unternehmensübernahme, welche überwiegend durch Fremdkapital finanziert wird}}.	
+"Beispiel:<br />
+Kontraktrisiko"	"<ul>
+<li>fehlende Dividendenzahlung bei einer Vorzugsaktie mit kumulativen Anspruch</li>
+<li>fehlende Rückzahlung von einem Kredit durch eine Insolvenz</li>
+</ul>"
+{{c1::Ein Kontraktrisiko}} ist {{c2::ein Risiko in Form von einem Verlust des eingesetzten Kapitals und/oder der Verzinsung}}.	
+"Beispiel:<br />
+Zinsänderungsrisiko"	"<ul>
+<li>festverzinslicher Kredit, bei dem die Zinsen für den Kapitalnehmer nach Ende der Laufzeit steigen</li>
+</ul>"
+{{c1::Ein Zinsänderungsrisiko}} ist {{c2::ein Risiko, bei dem durch eine Zinsänderung ein Verlust entsteht}}.	
+"Beispiel:<br />
+Bilanzverlängerung"	"<ul>
+<li>Kreditaufnahme und Kauf einer Maschine</li>
+</ul>"
+"Beispiel:<br />
+Passivtausch"	"<ul>
+<li>Fremdkapital wird durch Eigenkapital ersetzt, es entsteht aber kein Mittelzufluss zum Unternehmen</li>
+</ul>"
+{{c1::Ein Passivtausch}} ist eine {{c2::Umverteilung von Vermögen auf der Passiva}}.	
+"Beispiel:<br />
+Aktivtausch"	Verkauf einer Maschine und Kauf einer neuen Maschine mit liquiden Mitteln
+{{c1::Ein Aktivtausch}} ist {{c2::eine Umverteilung von Vermögen auf der Aktiva}}.	
+"Beispiel:<br />
+befristete Kapitalbereitstellung"	"<ul>
+<li>Anleihen</li>
+<li>Kontokorrentkredit</li>
+</ul>"
+{{c1::Eine befristete Kapitalbereitstellung}} ist {{c2::eine Kapitalbereitstellung, bei der eine Rückzahlung vorgesehen ist}}.	
+"Beispiel:<br />
+unbefristete Kapitalbereitstellung"	"<ul>
+<li>Aktien</li>
+<li>Einlage der Gesellschafter vor Eintritt in eine OHG</li>
+</ul>"
+{{c1::Eine unbefristete Kapitalbereitstellung}} ist {{c2::eine Kapitalbereitstellung, bei der keine Rückzahlung vorgesehen ist}}.	
+"Beispiel:<br />
+besonderer Finanzierungsanlass"	"<ul>
+<li>Unternehmensgründung</li>
+<li>Unternehmenssanierung</li>
+<li>Unternehmensübernahme</li>
+<li>Unternehmenszusammenschluss</li>
+</ul>"
+"Beispiel:<br />
+Finanzierung des allgemeinen Geschäftsbetrieb"	"<ul>
+<li>Lohnzahlung</li>
+<li>Marketing</li>
+<li>Miete</li>
+</ul>"
+{{c1::Eine Finanzierung des allgemeinen Geschäftsbetriebs}} ist {{c2::der Finanzierungsanlass aus dem allgemeinen Geschäftsbetrieb}}.	
+"Frage:<br />
+Ist der Staat Adressat des internen oder externen Rechnungswesen?"	externes Rechnungswesen
+"Frage:<br />
+Ist die Informationsversorgung ein Zweck des internen oder externen Rechnungswesen?"	externes Rechnungswesen
+"Frage:<br />
+Ist die Zahlungsbemessung ein Zweck des internen oder externen Rechnungswesen?"	externes Rechnungswesen
+"Frage:<br />
+Sind Lieferanten Adressaten des internen oder externen Rechnungswesen?"	externes Rechnungswesen
+"Frage:<br />
+Sind Kapitalgeber Adressaten des internen oder externen Rechnungswesen?"	externes Rechnungswesen
+{{c1::Das externe Rechnungswesen}} ist {{c2::ein Rechenwerk zur Dokumentation, Rechenschaft und Nominalkapitalerhaltung}}.	
+"<p>{{c1::Ein Planungsdefekt}} entsteht durch:</p>
+<ul>
+<li>{{c2::Bewertungsdefekte}}, z. B. {{c2::mangelnde Datenqualität}}</li>
+<li>{{c2::Lösungsdefekte}}, z. B. {{c2::Travelling-Salesman-Problem}}</li>
+<li>{{c2::Wirkungsdefekte}}, z. B. {{c2::fehlende Daten}}</li>
+<li>{{c2::Zielsetzungsdefekte}}, z. B. {{c2::hoher Gewinn vs. niedriges Risiko}}</li>
+</ul>"	
+"<p>{{c1::Ein Planungsproblem}} entsteht durch:</p>
+<ul>
+<li>{{c2::Abhängigkeiten}}</li>
+<li>{{c2::dynamische Unternehmenswelt}}</li>
+<li>{{c2::Entscheidungsfehler}}</li>
+<li>{{c2::Ungenauigkeit von Prognoseverfahren}}</li>
+<li>{{c2::Wechselwirkungen}}</li>
+</ul>"	
+{{c1::Die Szenariotechnik}} ist {{c2::die Einschätzung künftiger Entwicklungen}} durch {{c2::die Aufstellung von Szenarien}}.	
+"wahr oder falsch:<br />
+Die Güte eines Modells lässt sich stets isoliert von dem Zweck der Modellbildung beurteilen."	"falsch<br />
+Modelle mit einem hohen Grad der Abstraktion sind nicht grundsätzlich schlechter als Modelle mit niedrigem Abstraktionsgrad. Teilweise wird aus Vereinfachungsgründen bewusst auf die Abbildung wichtiger Einflussfaktoren verzichtet. Die Güte des Modells hängt vielmehr von den Fragen ab, die Sie mit diesem Modell beantworten wollen."
+{{c1::\(\text{Liquiditätsnebenbedingung}\)}} \(:\) {{c2::\(\text{Kassenanfangsbestand} + \text{Einzahlungen} - \text{Auszahlungen} \geq 0\)}}	
+{{c1::Eine Leistung}} ist {{c2::eine grundlegende Rechengröße}} und beschreibt {{c3::den bewerteten periodischen Zuwachs an Gütern und Leistungen}}.	
+{{c1::Der Marktzins}} ist {{c2::der vom Markt geforderte effektive Zinssatz}}.	
+{{c1::Der Marktzins}} verändert sich in Abhängigkeit von {{c2::Inflation und Wirtschaftswachstum}} über das Wirken {{c2::der Zentralbank}}.	
+{{c1::Eine Ausgabe}} ist {{c2::eine grundlegende Rechengröße}} und beschreibt {{c3::die Verminderung des Geldvermögens}}.	
+{{c1::Eine Einzahlung}} ist {{c2::eine grundlegende Rechengröße}} und beschreibt {{c3::die Erhöhung des Geldvermögens}}.	
+Durch {{c1::das Steuerobjekt}} und {{c1::die Bemessungsgrundlage}} kann mit dem {{c2::Steuertarif}} die {{c3::Steuerschuld}} berechnet werden.	
+{{c1::Die Bemessungsgrundlage}} ist {{c2::die Mengen- oder Wertegröße}}, die {{c2::den Umfang eines Objektes}} quantifiziert.	
+"{{c1::Der Grenzsteuersatz}} ist der Steuersatz, mit dem {{c2::die jeweils letzte marginale Einheit der Bemessungsgrundlage belastet wird}}:<br />
+{{c1::\(GSS(x)\)}} \(=\) {{c3::\(ST&#039;(x)\)}} mit {{c1::\(GSS(x)\) als Grenzsteuersatz}}, {{c3::\(ST&#039;(x)\) als Steuertarif}}"	
+"{{c1::Der Durchschnittssteuersatz}} ist der Steuersatz, mit dem {{c2::die Bemessungsgrundlage im Durchschnitt belastet wird}}:<br />
+{{c1::\(DSS(x)\)}} \(=\) {{c3::\(\frac{S}{E}\)}} mit {{c1::\(DSS(x)\) als Durchschnittssteuersatz}}, {{c3::\(S\) als Steuern, \(E\) als zu versteuerndes Einkommen}}"	
+{{c1::Das Steuerobjekt}} ist {{c2::der Tatbestand}}, an den {{c2::die Steuerpflicht}} anknüpft.	
+"Frage:<br />
+Was ist die Bogenelastizität?"	Die Bogenelastizität beschreibt, wie sich die Nachfrage bei einer prozentualen Preisänderung verändert.
+{{c1::Die Bogenelastizität}} ist {{c2::die Veränderung der Nachfrage bei einer prozentualen Preisänderung}}.	
+{{c1::\(\text{Preiselastizität}\)}} \(=\) {{c2::\(\frac{\text{Prozentuale Mengenänderung} }{\text{Prozentuale Preisänderung} }\)}}	
+{{c1::\(\eta_{2}\)}} \(=\) {{c2::\(\frac{p_{2} - p_{1} }{p_{1} } \cdot \eta_{1} \cdot x_{1}\)}} mit {{c1::\(\eta\) als Preiselastizität}}, {{c2::\(p\) als Preis, \(x\) als Menge}}	
+"Frage:<br />
+Was ist die Punktelastizität?"	Die Punktelastizität beschreibt, wie sich die Nachfrage bei einer marginalen Preisänderung verändert.
+{{c1::Die Punktelastizität}} ist {{c2::die Veränderung der Nachfrage bei einer marginalen Preisänderung}}.	
+"{{c1::\(\eta\)}} \(=\) {{c2::\(x&#039;(p) \cdot \frac{p_{i} }{x_{i} }\)}} mit {{c1::\(\eta\) als Preiselastizität}}, {{c2::\(x&#039; (p)\) als Ableitung der Funktion, \(p_{i}\) als Preis, \(x_{i}\) als Menge}}"	
+{{c1::Eine Amtsanmaßung}} ist {{c2::die Ausübung einer Kompetenz durch einen Mitarbeiter, obwohl dies nicht in seinem Aufgaben- und Verantwortungsbereich liegen}}. {{c1::Eine Amtsanmaßung}} stellt einen Bruch {{c3::des Kongruenzprinzips der Organisation}} dar.	
+{{c1::Eine Organisation}} ist {{c2::ein zielgerichtetes, offenes soziotechnisches System zur Bildung von Organisationsstrukturen und zur Zielerreichung}}.	
+"wahr oder falsch:<br />
+Die Kontrollfunktion ist eine wichtige Funktion der Investitionsrechnung."	"falsch:<br />
+Die Investitionsrechnung dient vielmehr zur Entscheidungsunterstützung. Hingegen dient die Kostenrechnung der Wirtschaftlichkeitskontrolle."
+{{c1::Die Investitionsrechnung}} ist {{c2::ein Rechenwerk für die interne Entscheidungsunterstützung}}.	
+"Beispiel:<br />
+Limitationalität"	Ein Tapezierer braucht für seine Tätigkeit sowohl Tapeten als auch Kleister, weswegen&nbsp;kein Ersetzen von Tapeten durch Kleister möglich ist.
+"Beispiel:<br />
+zeitliche Preisdifferenzierung"	Das Kino in Münster bietet am Dienstag einen Kinotag mit günstigeren Preisen als an anderen Tagen an.
+"Beispiel:<br />
+dynamische Unternehmenswelt"	Die Nachfrage von Kunden nach Bio-Produkten steigt, wodurch konventionelle Produkte in geringeren Mengen abgesetzt werden.
+"wahr oder falsch:<br />
+Bei der Just-In-Time-Fertigung sind Abhängigkeiten in der Planung besonders zu berücksichtigen."	"wahr:<br />
+Die just-in-time-Fertigung ist vergleichsweise störanfällig, sodass die Berücksichtigung von Interdependenzen hier besonders wichtig ist."
+{{c1::Die Just-In-Time-Fertigung (Just-In-Time)}} ist {{c2::ein Konzept des Total Quality Management zur Produktion und Lieferung von Produkten bei Nachfrage}}.	
+{{c1::In der Just-In-Time-Fertigung}} steht das Material erst zur Verfügung, wenn {{c2::es benötigt wird}}.	
+"Beispiel:<br />
+verbales Modell"	"<ul>
+<li>Thünen-Modell</li>
+</ul>"
+"Beispiel:<br />
+graphisches Modell"	"<ul>
+<li>Organigramm eines Prozesses im Unternehmen</li>
+</ul>"
+{{c1::Motivatoren}} sind {{c2::Faktoren der Zweifaktorentheorie}} für den Übergang von {{c2::Nicht-Zufriedenheit zu Zufriedenheit}}.	
+{{c1::Motivatoren}} sind {{c2::Anerkennungsbedürfnisse und das Bedürfnis nach Selbstverwirklichung}} nach {{c2::Maslow}}.	
+"wahr oder falsch:<br />
+Hygienefaktoren eignen sich als Anreiz nicht besonders gut, um Mitarbeiter zu motivieren."	"wahr:<br />
+Hygienefaktoren sind nicht sonderlich gut zur Motivation geeignet. Stattdessen verhindern diese vielmehr die Unzufriedenheit der Mitarbeiter."
+{{c1::Hygienefaktoren}} sind {{c2::Faktoren der Zweifaktorentheorie}} für den Übergang von {{c2::Unzufriedenheit zu Nicht-Unzufriedenheit}}.	
+{{c1::Hygienefaktoren}} sind {{c2::physiologische Bedürfnisse, Sicherheitsbedürfnisse und Sozialbedürfnisse}} nach {{c3::Maslow}}.	
+{{c1::Ein deduktiver Beweis (wissenschaftlicher Deduktionsbeweis)}} ist {{c2::ein Beweis der Deduktion}} aus {{c3::einer wahren Prämisse}} oder {{c3::einem Axiom}}.	
+{{c1::Abbaufähige fixe Kosten}} sind {{c2::fixe Kosten, welche durch den Abbau von Produktionsfaktoren abgebaut werden können}}.	
+"Beispiel:<br />
+absolut-fixe Kosten"	"<ul>
+<li>Mieten</li>
+<li>Zinsen</li>
+</ul>"
+{{c1::Absolut-fixe Kosten}} sind {{c2::fixe Kosten, welche durch die Existenz eines Unternehmens entstehen}}.	
+{{c1::Das nicht-notifizierte Factoring}} ist {{c2::das Factoring mit keiner Benachrichtigung des Kunden über das Factoring}}.	
+{{c1::Das notifizierte Factoring}} ist {{c2::das Factoring mit einer Benachrichtigung des Kunden über das Factoring}}.	
+{{c1::Das Maturity Factoring}} ist {{c2::das Factoring zur Finanzierung zu der durchschnittlichen Fälligkeit}}.	
+{{c1::Das Standard Factoring}} ist {{c2::das Factoring zur Finanzierung zum Ankaufszeitpunkt}}.	
+{{c1::Das Finance Leasing}} ist {{c2::das langfristige Leasing ohne ein Kündigungsrecht für die Leasing-Gesellschaft}}.	
+{{c1::Das operative Leasing}} ist {{c2::das kurzfristige Leasing mit einem Kündigungsrecht für die Leasinggesellschaft}}.	
+{{c1::Das Immobilien-Leasing}} ist {{c2::das Leasing von unbeweglichen Anlagevermögen}}, z. B. {{c2::Grundstücken oder Immobilien}}.	
+{{c1::Das Mobilien-Leasing}} ist {{c2::das Leasing von beweglichen Anlagevermögen}}, z. B. {{c2::Investitionsgütern oder Konsumgütern}}.	
+{{c1::Das indirekte Leasing}} ist {{c2::das Leasing von einer Leasinggesellschaft}}.	
+{{c1::Das direktes Leasing}} ist {{c2::das Leasing vom Produzent}}.	
+"wahr oder falsch:<br />
+Der Kurs einer Aktie sinkt bei Durchführung einer Kapitalerhöhung, wenn der Bezugskurs der jungen Aktien unter dem aktuellen Kurs der alten Aktien liegt."	wahr
+"{{c1::Der Kurs nach einer Kapitalerhöhung}} besteht aus {{c2::dem Kapitalwert und der Anzahl der alten Aktien und neuen Aktien}}:<br />
+{{c1::\(\text{Kurs}\)}} \(=\) {{c2::\(\frac{\text{Anzahl alter Aktien} \cdot \text{Aktienkurs} + \text{Anzahl neuer Aktien} \cdot \text{Emissionskurs} }{\text{Anzahl alter Aktien} + \text{Anzahl neuer Aktien} }\)}}"	
+{{c1::Der Stimmenrechtseffekt}} ist {{c2::der Effekt, dass bei einer Kapitalerhöhung Altaktionär kein Stimmrechtsverlust erleiden, wenn sie ihr Bezugsrecht zum Kauf neuer Aktien ausüben}}.	
+{{c1::Die ordentliche Kapitalerhöhung}} ist {{c2::die Kapitalerhöhung durch Beschluss der Hauptversammlung}}. Die emittierten Aktien dürfen nicht {{c3::unter den Nennwert der Aktie und nicht über dem aktuellen Aktienkurs liegen}}.	
+Kreditfinanzierung: Anspruch auf Kapitalerträge	ergebnisunabhängige Zinszahlungen
+Kreditfinanzierung: Anspruch auf Rückzahlung	Terminzahlung
+Kreditfinanzierung: Mitwirkungsrecht	nein
+Kreditfinanzierung: Recht auf Veräußerung	ja
+"Frage:<br />
+Definiere das Vermögensrecht von Kreditfinanzierungen."	Nominalanspruch auf Zinszahlung und Rückzahlung des Kapitals
+"wahr oder falsch:<br />
+Der Nominalanspruch der Fremdkapitalgeber hängt nicht vom Ergebnis ab."	wahr
+{{c1::Eine Kreditfinanzierung}} ist {{c2::eine Außenfinanzierung und Fremdfinanzierung aus Fremdkapital}}.	
+Beteiligungsfinanzierung: Anspruch auf Kapitalerträge	ergebnisabhängiger Residualanspruch
+Beteiligungsfinanzierung: Anspruch auf Rückzahlung	nur Residualanspruch bei Liquidation
+Beteiligungsfinanzierung: Mitwirkungsrecht	ja
+Beteiligungsfinanzierung: Recht auf Veräußerung	frei bei Inhaberaktien, andernfalls eingeschränkt
+"Frage:<br />
+Definiere das Mitwirkungsrecht von Beteiligungsfinanzierung."	Recht auf Mitwirkung, z. B. Gesellschafterversammlungen oder in der Unternehmensleitung
+"Frage:<br />
+Definiere das Vermögensrecht von Beteiligungsfinanzierung."	Residualanspruch auf Dividende, Gewinne und bei Liquidation
+{{c1::Eine Beteiligungsfinanzierung}} ist {{c2::eine Außenfinanzierung und Eigenfinanzierung aus Eigenkapital}}.	
+{{c1::Die Umsatzrentabilität (Return of Sales, ROS)}} ist {{c2::das Verhältnis von Gewinn zu Umsatz}}.	
+{{c1::\(\text{Umsatzrentabilität}\)}} \(=\) {{c2::\(\frac{G}{U}\)}} mit {{c2::\(G\) als Gewinn, \(U\) als Umsatz}}	
+{{c1::\(\text{Umsatzrentabilität}\)}} \(=\) {{c2::\(\frac{EBIT}{U}\)}} mit {{c2::\(EBIT\) als EBIT, \(U\) als Umsatz}}	
+{{c1::Eine Besitzverhältnisänderung}} ist {{c2::eine Veränderung des Verhältnisses von Primary Shares und Secondary Shares}}.	
+"{{c1::Das Grundkapital}} in einer Kapitalgesellschaft ist in {{c2::einzelne Aktien}} zerlegt:<br />
+{{c1::\(\text{Nennwert}\)}} \(=\) {{c2:: \(\frac{\text{Grundkapital} }{\text{Aktienanzahl} }\)}}"	
+{{c1::Eine Konsortialbank}} ist {{c2::eine Bank, die innerhalb eines Konsortiums agiert}}.	
+"Frage:<br />
+Nenne zwei Vorteile des Bookbuilding‐Verfahrens."	"<ul>
+<li>höhere Erlöse</li>
+<li>Vollplatzierung durch Preisanpassung bei niedriger Nachfrage, wobei die Gefahr des Underpricing-Effekt gesenkt wird</li>
+</ul>"
+"<p>{{c1::Vorteile des Bookbuilding}} sind:</p>
+<ul>
+<li>{{c2::garantierte Vollplatzierung}}</li>
+<li>{{c2::höherer Umsatz durch Preisdifferenzierung}}</li>
+<li>{{c2::Preisanpassung bei geringer Nachfrage}}</li>
+</ul>"	
+"<p>Nachteile des Festpreisverfahren sind:</p>
+<ul>
+<li>{{c2::fehlende Informationen über die Nachfrage}}</li>
+<li>{{c2::Underpricing-Effekt, da die Nachfrage nicht bekannt ist und ein niedriger Emissionskurs für eine Vollplatzierung gewählt wird}}</li>
+</ul>"	
+{{c1::Ein Wertpapier}} ist {{c2::eine Urkunde, die verschiedene Rechte verbriet}}, die ausgeübt werden können, wenn {{c3::man im Besitz der Urkunde ist}}.	
+{{c1::Ein Konsortium}} ist {{c2::eine überbetriebliche Kooperation und ein Zusammenschluss von mehreren Banken}} zur {{c3::Durchführung eines Geschäftszwecks}}.	
+"Frage:<br />
+Wovon grenzt sich ein Euronote im Vergleich zu einem Commercial Paper ab?"	In beiden Fällen emittieren Unternehmen kurzfristige Notes (Anleihen) am Kapitalmarkt, vor allem Banken. Diese können dann von Investoren gekauft werden. Der Schuldner kann in diesem Fall wählen, bis zu welchem Betrag er diese Art der Finanzierung in Anspruch nimmt. Euronotes habe eine zusätzliche Underwriter-Garantie. Diese besagt, dass das Kreditinstitut nicht platzierte Notes bis zu einem Höchstbetrag und zu einem festgelegten Zinssatz übernimmt.
+{{c1::Ein Euronote}} ist {{c2::eine Schuldverschreibung mit einer kurzen Laufzeit}}, welche {{c3::auf dem Kapitalmarkt gehandelt werden}} kann und zusätzlich {{c4::durch ein Kreditinstitut garantiert wird}}.	
+Ein Euronote besitzt {{c1::ein hohes Mindestvolumen}} und {{c1::eine hohe Flexibilität}} durch {{c2::ein beliebiges Volumen über dem Mindestvolumen und unbefristeter Laufzeit}}.	
+{{c1::Ein Akkreditiv}} ist {{c2::ein Auftrag des Bankkunden an seine Bank, an einen Dritten eine bestimmte Geldsumme aus seinem Guthaben zu zahlen, wenn bestimmte Bedingungen erfüllt sind}}.	
+"Frage:<br />
+Der Erstsemester BWL-Student schließt einen Mietvertrag in Münster ab. Der Vermieter ist bereit, auf eine übliche Mietkaution in Höhe von 3 Monatsmieten (entspricht 3.000 EUR) zu verzichten, sofern ihm dafür eine Bankbürgschaft gestellt wird. Die Hausbank erklärt sich bereit zu bürgen und verlangt eine jährliche Provision von 1 % der Bürgschaftssumme. Um welche Form der Kreditleihe handelt es sich?"	Es handelt sich um einen Avalkredit. Die Bank gewährt eine Bürgschaft oder Garantie gegenüber dem Vermieter der Wohnung. Falls der Vermieter Ansprüche aus dem Mietverhältnis hat kann dieser an die Bank herantreten und die Auszahlung der Mietkaution verlangen.
+"wahr oder falsch:<br />
+Bei einem Avalkredit fließen dem Kreditnehmer im Moment der Zusage des Kredites keine liquiden Mittel zu."	wahr
+{{c1::Ein Avalkredit}} ist {{c2::eine Kreditleih, bei welcher eine Bank}} {{c3::eine Bürgschaft oder eine Garantie gegen eine Avalprovision gewährt und damit auch ein Risiko}} übernimmt.	
+Ein Avalkredit wird insbesondere bei {{c1::Anzahlungsgarantien}} angewendet.	
+{{c1::Ein Akzeptkredit}} ist {{c2::eine Kreditleih durch einen auf eine Bank bezogenen Wechsel}}.	
+{{c1::Ein Lombardkredit}} ist {{c2::ein Bankkredit mit Einräumung des Rechts zur Verpfändung}} von {{c3::beweglichen Vermögensgegenständen}}, insbesondere {{c3::Wertpapieren}}.	
+{{c1::Ein Kontokorrentkredit}} ist {{c2::ein Bankkredit durch die Einräumung einer Kontoüberziehung}}.	
+Ein Kontokorrentkredit besitzt {{c1:: hohe Zinsen}} durch {{c2::eine fehlende Besicherung seitens des Schuldner}} und {{c1::eine hohe Flexibilität}} durch {{c2::formlosen Inanspruchnahme und unbefristete Laufzeit}}.	
+{{c1::Eine Kundenanzahlung}} ist {{c2::ein Handelskredit durch die Anzahlung des Kunden}}.	
+{{c1::Ein Lieferantenkredit}} ist {{c2::ein Handelskredit durch die nicht-sofortige Zahlung bei Lieferung eines Produktes oder einer Dienstleistung}}.	
+Der Effektivzins eines Lieferantenkredits berechnet sich aus {{c1::dem Skonto, den der Lieferant gewährt}}.	
+"Beispiel:<br />
+Kreditleih"	"<ul>
+<li>Avalkredit</li>
+</ul>"
+{{c1::Eine Kreditleih}} ist {{c2::ein Kredit in Form der Kreditwürdigkeit eines Kreditinstituts}}.	
+{{c1::Ein Bankkredit}} ist {{c2::ein Kredit, welcher durch ein Kreditinstitut zur Verfügung gestellt wird}}.	
+{{c1::Ein Handelskredit}} ist {{c2::ein Kredit, welches durch eine Nichtbank bereitgestellt wird}}.	
+{{c1::Ein Junk Bond}} ist {{c2::ein hochspekulatives Wertpapier der untersten Bonitätsbewertung}}.	
+{{c1::Ein Schuldscheindarlehen}} ist ein Darlehen, welches durch {{c2::eine Kapitalsammelstelle}} ausgegeben wird. {{c1::Schuldscheindarlehen}} werden durch {{c3::eine Briefgrundschuld mit Zwangsvollstreckungsklausel}} besichert.	
+"Frage:<br />
+Herr Schmitt baut mit 28 ein Haus und besichert es bei seiner Bank in Form einer Grundschuld. Die Grundschuld wird beim Amtsgericht ins Grundbuchamt im Grundbuch eingetragen. Aufgrund seines Studiums in Münster kann er sein Haus bereits im Alter von 41 Jahren vollständig abbezahlen. Mit 45 möchte er eine zusätzliche Garage bauen. Da er sein gesamtes Vermögen in hochwertige Rennautos investiert hat, stehen im aktuell keine liquiden Mittel zur Verfügung. Kann Herr Schmitt die Grundschuld für den Kredit nutzen?"	Da die Grundschuld eine fiduziarische Sicherheit darstellt, erlischt das Recht, aus dem Grundstück einen bestimmten Geldbetrag zu erhalten, mit Untergang der Forderung nicht. Die Grundschuld kann also erneut für die Besicherung eines Kredites benutzt werden. Hätte man damals eine Hypothek eingetragen, wäre das Recht des Gläubigers, seine Forderung aus dem Grundstück zu befriedigen, mit Bezahlung des Hauskredites erloschen.
+{{c1::Eine Grundschuld}} ist {{c2::eine fiduziarische Sachsicherheit an einem unbeweglichen Vermögensgegenstand}} durch {{c3::einen Grundbucheintrag, welche einem Gläubiger das Recht einräumt wird, einen bestimmten Geldbetrag aus einem bestimmten Grundstück des Schuldners zu erhalten}}.	
+{{c1::Eine Hypothek}} ist {{c2::eine akzessorische Sachsicherheit an einem unbeweglichen Vermögensgegenstand}} durch {{c3::einen Grundbucheintrag, welche einem Gläubiger das Recht einräumt, seine Forderungen aus einem bestimmten Grundstück des Schuldners zu befriedigen}}.	
+"Frage:<br />
+Klassifiziere die Art der Sicherheit im folgenden Beispiel:<br />
+Herr Schmitt kauft ein Auto und finanziert das Auto per Ratenkredit über das Autohaus. Herr Schmitt überträgt dem Autohaus das Eigentum an dem Auto, kann das Auto aber weiterhin nutzen, während er seine Kreditraten begleicht. Das Autohaus lässt sich dafür den Fahrzeugbrief aushändigen. Zusätzlich wird vereinbart, dass das Autohaus das Fahrzeug verkaufen darf, wenn Herr Schmitt seinen Kredit nicht ordnungsgemäß bezahlt."	Es handelt sich um eine Sicherungsübereignung. Der Schuldner (Herr Schmitt) überträgt das Eigentum an den Gläubiger (Autohaus) mit Übergabe des Fahrzeugbriefs, bleibt aber Besitzer des Autos. Im Gegensatz zum Eigentumsvorbehalt wird der Gegenstand hier durch den Fahrzeugbrief genau identifiziert. Bei einem Eigentumsvorbehalt wird diese zusätzliche Sicherheitsvorkehrung nicht getroffen. Der Schuldner wird mit Bezahlung des Kaufpreises Eigentümer der vorab gelieferten Sache.
+"Frage:<br />
+Nenne ein Problem bei der Sicherungsübereignung."	Die Gefahr besteht, dass Eigentum an mehrere Gläubiger gleichzeitig übertragen wird.
+{{c1::Eine Sicherungsübereignung}} ist {{c2::die Sachsicherheit an einem beweglichen Vermögensgegenstand}} durch {{c3::die Übertragung des Eigentums eines Sicherungsgutes an einen Gläubiger, wobei der Schuldner aber im Besitz des Sicherungsgutes bleibt}}.	
+"Frage:<br />
+Nenne ein Problem bei dem Eigentumsvorbehalt."	Es entsteht ein Problem bei Gütern, die weiterverarbeitet oder veräußert werden sollen.
+{{c1::Ein Eigentumsvorbehalt}} ist {{c2::ein Lieferantekredit mit einer Sachsicherheit an einem beweglichen Vermögensgegenstand}}, bei dem {{c3::ein Gut geliefert wird, die Übertragung des Eigentums erst aber bei vollständiger Bezahlung eintritt}}.	
+"Frage:<br />
+Klassifiziere die Art der Sicherheit im folgenden Beispiel:<br />
+Herr Schmitt nimmt erst einen Kredit bei seiner Bank auf. Als Sicherheit steht Herr Braun für Herrn Schmitt bei der Bank ein. Herr Schmitt kann diesen Kredit auch wieder zurückzahlen, nimmt danach jedoch erneut einen Kredit auf. Als er diesen nicht zurückzahlen kann, tritt die Bank an Herrn Braun und dieser muss den Kreditbetrag zurückzahlen für Herr Schmitt."	Es ist eine Garantie, da die Rückzahlung des zweiten Kredites bei einer Bürgschaft nicht verpflichtend gewesen wäre.
+{{c1::Eine Garantie}} ist {{c2::eine fiduziarische Personensicherheit}} zur {{c3::Verpflichtung eines Garant gegenüber einem Kreditgeber für die bestmögliche Erfüllung der Ansprüche gegen den Schuldner einzustehen oder mögliche zukünftige Schäden zu übernehmen}}.	
+{{c1::Eine Bürgschaft}} ist {{c2::eine akzessorische Personensicherheit}} zur {{c3::Verpflichtung eines Bürgen gegenüber einem Kreditgeber für die Erfüllung der Ansprüche gegen den Schuldner einzustehen}}.	
+{{c1::Eine fiduziarische Sicherheit}} ist {{c2::eine Sicherheit, die von dem Bestehen einer Forderung nicht abhängig ist}}.	
+{{c1::Eine akzessorische Sicherheit}} ist {{c2::eine Sicherheit, die von dem Bestehen einer Forderung abhängig ist}}.	
+{{c1::\(\text{Effektivzins}\)}} \(=\) {{c2::\(\frac{NZ+ \frac{\alpha}{i} }{100 \% - \alpha}\)}} mit {{c2::\(NZ\) als Nominalzins, \(\alpha\) als Disagio in %, \(i\) als Laufzeit}}	
+{{c1::Der Agio (Aufgeld, Aufschlag)}} ist {{c2::die Differenz zwischen dem Nennwert und dem Auszahlungsbetrag}}, bei dem {{c3::der Auszahlungsbetrag höher ist als der Nennwert}}.	
+{{c1::Der Disagio (Abgeld, Abschlag)}} ist {{c2::die Differenz zwischen dem Nennwert und dem Auszahlungsbetrag}}, bei dem {{c2::der Auszahlungsbetrag niedriger ist als der Nennwert}}.	
+Bei {{c1::Aufnahme eines Darlehens}} kann {{c2::ein Disagio}} gebildet und unter den Rechnungsabgrenzungsposten ausgewiesen werden.	
+{{c1::Der Auszahlungsbetrag}} ist {{c2::der Betrag, den ein Kreditnehmer bei Kreditaufnahme erhält}}.	
+Anleihe über pari	Anleihe mit Kurs &gt; Nennwert
+Anleihe unter pari	Anleihe mit Kurs &lt; Nennwert
+Anleihe zu pari	Anleihe mit Kurs = Nennwert
+Kuponanleihe über pari	Anleihe mit Nominalzins &gt; Marktzins
+Kuponanleihe unter pari	Anleihe mit Nominalzins &lt; Marktzins
+Kuponanleihe zu pari	Anleihe mit Nominalzins = Nennwert
+Nullkuponanleihe über pari	Nullkuponanleihe mit negativem effektivem Zins
+Nullkuponanleihe unter pari	Nullkuponanleihe mit positivem effektivem Zins
+Nullkuponanleihe zu pari	Nullkuponanleihe mit Nullzins
+{{c1::Pari}} ist ein Begriff in der Finanzwirtschaft und beschreibt {{c2::das Verhältnis von Kurswert und Nennwert}}.	
+Ist {{c1::ein Wertpapier zu pari}}, dann ist {{c2::der Kurswert gleich dem Nennwert}}.	
+Ist {{c1::ein Wertpapier über pari}}, dann ist {{c2::der Kurswert größer als der Nennwert}}.	
+Ist {{c1::ein Wertpapier unter pari}}, dann ist {{c2::der Kurswert kleiner als der Nennwert}}.	
+{{c1::Eine Vorzugsaktie mit kumulativem Anspruch}} ist {{c2::eine Vorzugsaktie mit keinem Auszahlungsanspruch bei Verlusten der Unternehmung in einer Periode, wobei der Verlust im nächsten Gewinnjahr ausgeglichen wird}}.	
+Eine Vorzugsaktie mit kumulativem Anspruch erzeugt gegebenenfalls {{c1::Perioden ohne Dividendenauszahlung}}.	
+{{c1::Eine Vorzugsaktie mit limitiertem Anspruch}} ist {{c2::eine Vorzugsaktie mit prioritärem Anspruch mit einem begrenzten Dividendenanspruch}}.	
+Eine Vorzugsaktie mit limitiertem Anspruch ist in der Regel {{c1::nachteilhafter}} als eine Vorzugsaktie mit prioritärem Anspruch.	
+{{c1::Eine Vorzugsaktie mit Überdividendenanspruch}} ist {{c2::eine Vorzugsaktie mit prioritärem Anspruch mit einer gleichmäßigen Aufteilung weiterer ausschüttbarer Gewinne ohne eine Mindestauszahlung an die Stammaktionäre}}.	
+Eine Vorzugsaktie mit Überdividendenanspruch ist in der Regel {{c1::vorteilhafter}} als eine Vorzugsaktie mit prioritärem Anspruch.	
+{{c1::Eine Vorzugsaktie mit prioritärem Anspruch}} ist {{c2::eine Vorzugsaktie mit einem Dividendenanspruch auf eine Mindestdividende und eine gleichmäßige Aufteilung weiterer ausschüttbarer Gewinne}}, wenn {{c3::die Stammaktionäre eine Auszahlung in Höhe der Mindestdividende erhalten haben}}.	
+{{c1::\(RBF(i; T)\)}} \(=\) {{c2::\(\frac{(1 + i)^{T} - 1}{(1 + i)^{T} \cdot i}\)}} mit {{c1::\(RBF\) als Rentenbarwertfaktor}}, {{c2::\(i\) als Zinssatz, \(T\) als Laufzeit}}	
+"{{c1::Die Annuitätenmethode}} ist {{c2::die gleichmäßige Entnahme des Kapitalwerts über die Laufzeit einer Investition}}:<br />
+{{c3::\(a = KW(i) \cdot \frac{1}{RBF(i; T)}\) mit \(a\) als Entnahme über die Laufzeit \(T\), \(i\) als Zinssatz und \(RBF(i; T)\) als Rentenbarwertfaktor}}"	
+"{{c1::Der Barwert im vollständigen Finanzplan}} ist {{c2::die Entnahme zu Beginn der Laufzeit}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Vollstaendiger_Finanzplan_Barwert.png"" alt=""""><br />
+Vollständiger Finanzplan mit einem Zinssatz von 10 % und einem Barwert von 1.742,00 EUR}}}}"	
+"{{c1::Der Endwert im vollständigen Finanzplan}} ist {{c2::das Bestandssaldo am Ende der Laufzeit ohne eine Entnahme}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Vollstaendiger_Finanzplan_Endwert.png"" alt=""""><br />
+Vollständiger Finanzplan mit einem Zinssatz von 10 % und einem Endwert von 2.806,00 EUR}}}}"	
+"{{c1::Der Endwert}} ergibt sich aus {{c2::der Multiplikation von Kapitalwert und der Askontierung zum Endzeitpunkt \(T\)}}:<br />
+{{c1::\(EW(i)\)}} \(=\) {{c3::\((1 + i)^{T} \cdot KW(i)\)}} mit {{c3::\(i\) als Kalkulationszinssatz, \(T\) als Laufzeit der Investition, \(KW(i)\) als Kapitalwert zum Zinssatz \(i\)}}<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Schneider-Idee_der_Auf-_und_Abzinsung.png"" alt=""""><br />
+Idee der Auf- und Abzinsung von Investitionen zur Herleitung des Endwertes und des Kapitalwert<br />
+}}}}}}"	
+{{c1::Die Endwertmethode}} ist {{c2::die Askontierung von Einzahlungen und Auszahlungen einer Investition mit dem Kalkulationszinssatz \(i\) unter der Annahme, dass ein vollkommener Kapitalmarkt vorhanden ist}}.	
+{{c1::Der Endwert}} stellt {{c2::den aufgezinsten Wert am Ende einer Investition dar}} und gibt {{c3::den Wert einer Investition zum Zeitpunkt \(t = T\)}} an.	
+"{{c1::Der Endwert}} entspricht bei {{c2::einer flachen Zinsstruktur mit \(i_{T} = i_{t}\)}}:<br />
+{{c1::\(EW (i)\)}} \(=\) {{c3::\(\sum_{t = 0}^{T} CF_{t} \cdot (1 + i)^{T - t}\)}} mit {{c3::\(CF_{t}\) als Zahlung im Zeitpunkt \(t\), \(T\) als Laufzeit der Investition, \(i\) als Kalkulationszinssatz}}"	
+"{{c1::Der Endwert}} entspricht bei {{c2::einer nicht-flachen Zinsstruktur}}:<br />
+{{c1::\(EW (i)\)}} \(=\) {{c3::\(\sum_{t = 0}^{T} CF_{t} \cdot \frac{(1 + i_{T})^{T} } {(1 + i_{t})^{t} }\)}} mit {{c3::\(CF_{t}\) als Zahlung in der Periode \(t\), \(T\) als Laufzeit der Investition, \(i_{t}\) als Kalkulationszinssatz in der Periode \(t\) bzw. \(i_{T}\) als Kalkulationszinssatz zum Ende der Laufzeit \(T\)}}"	
+"Frage:<br />
+Worauf beziehen sich die laufzeitabhängigen Zinsen bei der Kapitalwertmethode?"	Zerobonds
+"{{c1::Die Kapitalwertmethode mit laufzeitabhängigem Kalkulationszinssatz}} ist {{c2::die Diskontierung einer Nullkuponanleihe mit einem laufzeitabhängigen Kalkulationszinssatz \(i_{t}\) für jede Periode \(t\) unter der Annahme, dass ein vollkommener Kapitalmarkt vorhanden ist}}:<br />
+{{c1::\(KW (i_{1},..., i_{T})\)}} \(=\) {{c3::\(\sum_{t = 0}^{T} \frac{CF_{t} }{(1 + i_{t})^{t} }\)}} mit {{c3::\(CF_{t}\) als Zahlung in der Periode \(t\), \(T\) als Laufzeit der Investition, \(i_{t}\) als Kalkulationszinssatz in der Periode \(t\)}}"	
+"Zwischen {{c1::dem internen Zinssatz}} und {{c2::der Kapitalwertmethode}} besteht {{c3::ein Zielkonflikt}} bei der Auswahl von Investitionen.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Schneider-KW_und_IRR_im_Vergleich_1.png"" alt=""""><br />
+Auswahlentscheidung, bei der nach dem Kapitalwert die \(I_{2}\) gewählt werden würde, da diese höher liegt, während nach dem internen Zinssatz die \(I_{1}\) gewählt werden würde, da diese eine steilere Gerade besitzt}}}}}}"	
+"{{c1::Der interne Zinssatz (internal rate of return, interner Zinsfuß, IRR)}} ist {{c2::der Zinssatz, bei dem der Kapitalwert einer Investition den Wert ""0"" besitzt}}."	
+"Frage:<br />
+Was lassen die statischen Verfahren zur Beurteilung von Investitionsentscheidungen außer Acht?"	Den Zeitwert des Geldes. Es findet nämlich keine Diskontierung zukünftiger Zahlungen statt.
+{{c1::Ein statisches Verfahren zur Bewertung von Investitionsentscheidungen}} ist {{c2::ein Verfahren zur Bewertung von Investitionsentscheidungen, welche Zahlungsgrößen von einer oder mehreren Perioden verwenden, welche nicht diskontiert werden}}. Bei {{c3::einperiodigen statischen Verfahren}} wird {{c4::eine beispielhafte Referenzperiode}} herangezogen.	
+"{{c1::Die Durchschnittsmethode in der Amortisationsrechnung}} ist {{c2::die Amortisationsrechnung durch die Durchschnittsmethode mit Berechnung der durchschnittlichen Rückflüsse, um unter einer Menge von Investitionsmöglichkeiten jene auszuwählen, dessen Amortisationszeitpunkt am kürzesten ist}}:<br />
+{{c1::\(\text{Amortisationsdauer}\)}} \(=\) {{c3::\(\frac{\text{Kapitaleinsatz} }{\text{Rückfluss pro Jahr} }\)}}<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Schneider-Amortisationsrechnung_mit_Durchschnittsmethode.png"" alt=""""><br />
+Beispielhafte Amortisationsrechnung mit der Durchschnittsmethode}}}}}}"	
+"Frage:<br />
+Welche implizite Annahme trifft man bei der Verwendung der Kumulationsmethode der Amortisationsrechnung?"	Es findet genau nur ein Vorzeichenwechsel statt.
+"{{c1::Die Kumulationsmethode in der Amortisationsrechnung}} ist {{c2::die Amortisationsrechnung durch die Kumulationsmethode mit Addierung aller Zahlungen, um unter einer Menge von Investitionsmöglichkeiten jene auszuwählen, die als ersten ein positiven kumulierten Saldo besitzt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Amortisationsrechnung_mit_Kumulationsmethode_mit_unterjaehriger_Linearitaet.png"" alt="""">}}}}"	
+Bei der Kumulationsmethode in der Amortisationsrechnung wird angenommen, dass {{c1::nur ein Vorzeichenwechsel stattfindet}}.	
+"Frage:<br />
+In welche beiden Varianten wird bei der Amortisationsrechnung unterschieden?"	"<ul>
+<li>Durchschnittsmethode</li>
+<li>Kumulationsmethode</li>
+</ul>"
+"Frage:<br />
+Unter welchen Umständen führen Kumulationsmethode und Durchschnittsmethode zum selben Ergebnis hinsichtlich der Amortisationsdauer?"	Kumulationsmethode und Durchschnittsmethode führen zum selben Ergebnis hinsichtlich der Amortisationsdauer, wenn die jährlichen Cashflows beziehungsweise Netto-Rückflüsse der Investition konstant sind.
+"wahr oder falsch:<br />
+Im Gegensatz zur Gewinnvergleichsrechnung werden beim Verwenden der Durchschnittsmethode der Amortisationsrechnung die kalkulatorischen Abschreibungen und kalkulatorischen Zinsen nicht beachtet."	"wahr:<br />
+Bei der Durchschnittsmethode&nbsp;werden nur Cashflow-wirksame Zahlungsvorgänge beachtet. Da kalkulatorische Abschreibungen und kalkulatorische Zinsen nicht Cashflow-relevant sind, werden diese Größen außer Acht gelassen."
+{{c1::Die Amortisationsrechnung}} ist {{c2::ein mehrperiodiges statisches Verfahren zur Bewertung von Investitionsentscheidungen mit der Amortisierung als Bemessungsgrundlage}}.	
+{{c1::Die Amortisationsrechnung}} kann durch {{c2::die Kumulationsmethode}} oder {{c2::die Durchschnittsmethode}} erfolgen, wobei {{c3::die Methoden nicht zwingend zum gleichen Ergebnis kommen}}, da {{c3::die zeitliche Struktur von Zahlungen missachtet wird}}.	
+{{c1::Die Renditevergleichsrechnung}} ist {{c2::ein einperiodiges statisches Verfahren zur Bewertung von Investitionsentscheidungen mit der Rendite als Bemessungsgrundlage}}.	
+{{c1::Die Kostenvergleichsrechnung}} ist {{c2::ein einperiodiges statisches Verfahren zur Bewertung von Investitionsentscheidungen mit den Kosten als Bemessungsgrundlage}}.	
+"{{c1::Der Kapitaldienst (KD)}} ist {{c2::die Summe der Kosten für die kalkulatorischen Abschreibungen und kalkulatorischen Zinsen}}:<br />
+{{c1::\(KD\)}} \(=\) {{c3::\(\frac{A - RW}{n} + \frac{A + RW}{2} \cdot i\)}} mit {{c1::\(KD\) als Kapitaldienst}}, {{c3::\(A\) als Anschaffungskosten, \(RW\) als Restwert, \(N\) als Nutzungsdauer}}"	
+"Frage:<br />
+Erläutere kurz und präzise zwei Gründe, warum die Einschätzung auf Basis der Gewinnvergleichsrechnung problematisch ist."	Sowohl die Anschaffungskosten, als auch die Laufzeit werden nicht berücksichtigt und können sich bei betrachteten Projekten unterscheiden.
+"Frage:<br />
+Welche der folgenden Faktoren werden bei der Gewinnvergleichsrechnung nur indirekt berücksichtigt: Abschreibungen, Anschaffungskosten, Fixkosten, Laufzeit, variable Kosten."	Anschaffungskosten und Laufzeit
+"wahr oder falsch:<br />
+Die Auswahlentscheidung bezüglich unterschiedlicher Investitionsprojekte auf Basis des Vergleiches des durchschnittlichen Gewinnes wird als Gewinnvergleichsrechnung bezeichnet."	wahr
+"{{c1::Die Gewinnvergleichsrechnung}} ist {{c2::ein einperiodiges statisches Verfahren zur Bewertung von Investitionsentscheidungen mit dem Gewinn als Bemessungsgrundlage}}:<br />
+{{c3::\(G = U - K\)}} mit {{c3::\(G\) als Gewinn, \(U\) als Umsatz, \(K\) als Kosten}}"	
+"{{c1::Die Kosten in der Gewinnvergleichsrechnung}} bestehen aus {{c2::den Betriebskosten und den Kapitaldienst}}:<br />
+{{c1::\(K\)}} \(=\) {{c3::\(\frac{A - RW}{n} + \frac{A + RW}{2} \cdot i + B\) mit \(K\) als Kosten, \(A\) als Anschaffungskosten, \(RW\) als Restwert, \(N\) als Nutzungsdauer, \(B\) als Betriebskosten}}"	
+"wahr oder falsch:<br />
+Wenn eine Investition degressiv abgeschrieben wird, dann sind die Abschreibungsbeträge zunächst immer höher im Vergleich zu einer linearen Abschreibung."	"wahr:<br />
+Würden die Abschreibungsbeträge geringer sein als bei einer linearen Abschreibung,&nbsp;so müssten sich diese Beträge im Zeitverlauf erhöhen, um in der letzten Periode zum gleichen Restwert zu gelangen. Man spräche dann von einer progressiven Abschreibung."
+"{{c1::Die degressive Abschreibung}} ist {{c2::die Abschreibung mit abnehmenden Abschreibungsbeträgen über die Perioden der Nutzungsdauer}}. {{c1::Die degressive Abschreibung}} berechnet sich {{c3::durch den Prozentsatz des Vorjahresbuchwertes}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Schneider-Degressiver_Abschreibungsplan.png"" alt=""""><br />
+Degressiver Abschreibungsplan über 5 Jahre mit einem Kaufwert von 18.000,00 EUR und Restwert von 2.365,00 EUR, wobei der Abschreibungsplan nach \(t = 2\) zur linearen Abschreibung wechselt}}}}}}"	
+Bei {{c1::der degressiven Abschreibung}} wird {{c2::zur linearen Abschreibung}} gewechselt, wenn {{c1::{{c2::{{c3::der lineare Abschreibungsbetrag den degressiven Abschreibungsbetrag in einer Periode übersteigt}}}}}}.	
+"{{c1::Die lineare Abschreibung}} ist {{c2::die Abschreibung mit gleichen Abschreibungsbeträgen über die Perioden der Nutzungsdauer}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Linearer_Abschreibungsplan.png"" alt=""""><br />
+Linearer Abschreibungsplan über 5 Jahre mit einem Kaufwert von 18.000,00 EUR und Restwert von 2.365,00 EUR, wobei der Abschreibungsbetrag durch \(\frac{18.000 - 2.365}{5} = 3.127\) berechnet wurde}}}}"	
+"Frage:<br />
+Aus welchen Gründen findet eine Abschreibung von Vermögensgegenständen statt?"	"<ul>
+<li>Abbildung von periodischen Wertminderungen einer Investition</li>
+<li>Abbildung von Wertverlusten im Zeitablauf der Investition</li>
+<li>aus steuerlichen Gründen</li>
+</ul>"
+"{{c1::Eine Abschreibung}} ist {{c2::eine periodische Wertminderung von einem Vermögensgegenstand}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Lineare_und_degressive_Abschreibung.png"" alt=""""><br />
+Lineare Abschreibung und degressive Abschreibung}}}}"	
+"wahr oder falsch:<br />
+Das Entscheidungskriterium beim vollständigen Finanzplan ist der Kapitalwert."	"falsch:<br />
+Das generelle Entscheidungskriterium beim vollständigen Finanzplan ist der Endwert."
+"wahr oder falsch:<br />
+Der vollständige Finanzplan wurde von einem Professor aus Münster erfunden."	wahr
+"wahr oder falsch:<br />
+Eine Annahme des vollständigen Finanzplans ist der vollkommene Kapitalmarkt."	"falsch:<br />
+Die Anwendung des vollständigen Finanzplans ist auch auf einem unvollkommenen Kapitalmarkt möglich."
+"wahr oder falsch:<br />
+Eine Bedingung des vollständigen Finanzplans ist, dass das Finanzierungssaldo immer gleich Null beträgt."	"wahr:<br />
+Entweder wird der aufzunehmende Kreditbetrag, der die Auszahlungen finanziert, berechnet oder die überschüssigen Eigenmittel werden angelegt, sodass das Finanzierungssaldo immer gleich Null beträgt."
+"wahr oder falsch:<br />
+Zur Entscheidung der Vorteilhaftigkeit einer Investition müssen bei Verwendung des vollständigen Finanzplans die Opportunitätskosten der Geldanlage der eigenen Mittel beachtet werden. Dazu wird der Kapitalwert der Eigenmittel berechnet."	"falsch:<br />
+Die Vorteilhaftigkeit der Investition wird durch den Vergleich des Endwerts der Investition und dem Endwert der Anlage freier Mittel entschieden. Je nachdem&nbsp;welcher Endwert höher ist, wird die Investition durchgeführt oder nicht."
+"{{c1::Ein vollständiger Finanzplan (VoFi)}} ist {{c2::ein Finanzplan zur Darstellung der Zahlungsauswirkungen von mehrperiodigen Investitionsentscheidungen}}. {{c3::Der Endwert}} {{c1::des vollständigen Finanzplans}} stellt {{c4::das Entscheidungskriterium zwischen verschiedenen Investitionen}} dar.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2023-Bild-Schneider-Vollstaendiger_Finanzplan_Sachinvestition.png"" alt=""""><br />
+Vollständiger Finanzplan für eine Sachinvestition, die im Vergleich zur Anlageinvestition einen höheren Endwert besitzt und durchgeführt werden sollte}}}}}}}}"	
+"{{c1::Eine Zahlungsreihe}} sind {{c2::alle ein- und ausgehenden Zahlungen und Werte zu einer einzelnen Investition, meist mit Bezug zu der Produktion und dem Absatz}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Zahlungsreihe.png"" alt=""""><br />
+Zahlungsreihe}}}}"	
+"<p>{{c1::Eine mehrperiodige Investitionsentscheidung}} besteht aus:</p>
+<ul>
+<li>{{c2::Ende: \(t = T\)}}</li>
+<li>{{c3::Laufzeit: \(T \leq 2\)}}</li>
+<li>{{c4::Zeitpunkten: \(t_{0, 1,..., n}\)}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Stromgrößen sind periodenbezogen."	wahr
+Bestandsgrößen sind {{c1::zeitpunktbezogen}}.	
+"Frage:<br />
+Ein Kapitalmarkt sei frei zugänglich und bis auf die jeweils beschriebene Abweichung ansonsten vollkommen. Die Refinanzierungssätze sind volumenabhängig.<br />
+Sollte das Dean-Modell, der Hirshleifer-Fall oder die lineare Programmierung genutzt werden?"	Dean-Modell
+"wahr oder falsch:<br />
+Das Dean-Modell maximiert den intertemporalen Nutzen des relevanten Investors durch die Berücksichtigung unterschiedlicher Präferenzen hinsichtlich der Anlagedauer."	falsch
+"{{c1::Das Dean-Modell}} ist {{c2::ein Modell zur Bestimmung von einperiodigen Investitions- und Finanzierungsentscheidungen mit unterschiedlichen Zinssätzen, wobei kein Einsatz von Eigenmittel stattfindet}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Dean-Modell.png"" alt=""""><br />
+Dean-Modell}}}}"	
+"{{c1::Im Dean-Modell}} ergibt sich {{c2::das Konsumoptimum}} durch {{c3::den Schnittpunkt der Investitionsalternativen, bei Anordnung nach fallender Rendite und der Finanzierungalternativen, bei Anordnung nach steigender Rendite}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Schneider-Dean-Modell.png"" alt=""""><br />
+Dean-Modell}}}}}}"	
+{{c1::Das Dean-Modell}} basiert auf der Annahme, dass {{c2::Investitions- und Finanzierungsentscheidungen beliebig teilbar und unabhängig voneinander sind}}.	
+"Frage:<br />
+Was beschreibt der Klienteleffekt?"	"<p>Der Klienteleffekt beschreibt die Aufteilung von Individuen in die drei Gruppen:</p>
+<ul>
+<li>ausgewogene Zeitpräferenz nicht am Kapitalmarkt aktiv</li>
+<li>hohe Gegenwartspräferenz/Kreditnehmer</li>
+<li>hohe Zukunftspräferenz/ Sparer</li>
+</ul>"
+"<p>{{c1::Der Klienteleffekt}} ist {{c2::eine Theorie, dass Investitionsentscheidungen und Konsumentscheidungen am unvollkommenen Kapitalmarkt, insbesondere im Hirshleifer-Fall, zur Aufteilung in drei Investitions- und Konsumgruppen führen}}:</p>
+<ul>
+<li>{{c3::Individuen mit hoher Gegenwartspräferenz, was zu einer Kreditaufnahme führt}}</li>
+<li>{{c3::Individuen mit ausgeglichener Zeitpräferenz, was zu keiner Kapitalmarktnutzung führt}}</li>
+<li>{{c3::Individuen mit hoher Zukunftspräferenz, was zu einer Investition in Geldanlagen führt}}</li>
+</ul>"	
+"Frage:<br />
+Ein Kapitalmarkt sei frei zugänglich und bis auf die jeweils beschriebene Abweichung ansonsten vollkommen. Die Soll- und Habenzinssätze unterscheiden sich.<br />
+Sollte das Dean-Modell, der Hirshleifer-Fall oder die lineare Programmierung genutzt werden?"	Hirshleifer-Fall
+"wahr oder falsch:<br />
+Im Hirshleifer-Fall existieren für unterschiedliche Individuen unterschiedliche optimale Investitionsprogramme."	wahr
+"{{c1::Der Hirshleifer-Fall}} ist {{c2::ein Modell für einen unvollkommenen Kapitalmarkt mit ungleichen Sollzins und Habenzins}}:<br />
+{{c3::\(\text{Kreditzinssatz}\)}} \(=\) {{c4::\(i_{S} &gt; i_{H}\)}} \(=\) {{c3::\(\text{Anlagezinssatz}\)}} mit {{c4::\(i_{S}\) als Sollzins, \(i_{H}\) als Habenzins}}<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2023-Bild-Schneider-Konsumoptima_im_Hirshleifer-Fall.png"" alt=""""><br />
+Konsumoptima im Hirshleifer-Fall mit Klienteleffekt}}}}}}}}"	
+"In einem vollkommenen Kapitalmarkt wird {{c1::die Nutzenmaximierung für eine Menge an Investitionen}} an dem Punkt erreicht, wo {{c2::die Steigung der Konsummöglichkeitenkurve gleich \(-(1 + i)\)}} ist.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Nutzenmaximierung_bei_gewaehlter_Investition.png"" alt=""""><br />
+Nutzenmaximierung bei gewählter Investition}}}}"	
+"wahr oder falsch:<br />
+Durch die Fisher-Separation wird die Investitions- von der Konsumentscheidung getrennt. Dadurch werden vor allem Gruppen- bzw. Gremienentscheidungen deutlich erschwert."	falsch
+{{c1::Die Fisher-Separation}} ist {{c2::eine Theorie, dass Investitionsentscheidungen und Konsumentscheidungen am vollkommenen Kapitalmarkt getrennt werden und Investoren das optimale Investitionsprogramm mit der höchsten Wertemaximierung wählen}}.	
+"{{c1::Konsumenten mit höherer Zukunftspräferenz}} können eine Nutzenmaximierung und optimale Konsumkombination durch {{c2::Geldanlagen}} realisieren.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Nutzenmaximierung_durch_Geldanlage.png"" alt=""""><br />
+Nutzenmaximierung durch Geldanlage}}}}"	
+"{{c1::Konsumenten mit höherer Gegenwartspräferenz}} können eine Nutzenmaximierung und optimale Konsumkombination durch {{c2::Kreditaufnahme}} realisieren.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Nutzenmaximierung_durch_Kreditaufnahme.png"" alt=""""><br />
+Nutzenmaximierung durch Kreditaufnahme}}}}"	
+"Bei einer einperiodigen Investitionsentscheidung in einem vollkommenen Kapitalmarkt sind {{c1::mehrere Kombinationen aus heutigem und morgigem Konsum}} realisierbar.<br />
+<img src=""2023-Bild-Schneider-Einperiodige_Investitionsentscheidungen_in_einem_vollkommenen_Kapitalmarkt.png"" alt=""""><br />
+Einperiodige Investitionsentscheidungen in einem vollkommenen Kapitalmarkt"	
+"wahr oder falsch:<br />
+Die ersten partiellen Ableitungen einer Nutzenfunktion sind positiv und die zweiten rein partiellen Ableitungen einer Nutzenfunktion sind negativ."	"wahr:<br />
+Es ist wichtig, dass beachtet wird, dass die Nutzenfunktion partiell nach C0 und C1 abgeleitet wird."
+"wahr oder falsch:<br />
+Durch die Einführung eines gespaltenen Kapitalmarktes kann es dazu kommen, dass sich die Nutzenfunktionen schneiden."	falsch
+"wahr oder falsch:<br />
+Ein Nutzenniveau einer ordinalen Nutzenfunktion von \(U = 6\) ist doppelt so gut wie ein Nutzenniveau derselben Nutzenfunktion von \(U = 3\)."	"falsch:<br />
+Ordinale Nutzenfunktionen geben nur Informationen über die Rangfolge von Alternativen. Der Wert hat keine Aussagekraft."
+"{{c1::Eine Nutzenfunktion}} ist {{c2::eine Funktion \(U\), welche den Nutzen bei der Wahl von zwei Komponenten bewertet}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Verschiebung_der_Nutzenfunktion.png"" alt=""""><br />
+Verschiebung der Nutzenfunktion}}}}"	
+"<p>Bei der Nutzung einer Nutzenfunktion wird angenommen, dass:</p>
+<ul>
+<li>{{c1::das Wachstum des Nutzen bei Zunahme von beiden Komponenten \(C_{0}\) und \(C_{1}\) abnimmt und negativ ist}}</li>
+<li>{{c2::der Nutzen bei Zunahme von beiden Komponenten \(C_{0}\) und \(C_{1}\) zunimmt und positiv ist}}</li>
+<li>{{c3::eine Mischung von Komponenten \(C_{0}\) und \(C_{1}\) bevorzugt wird}}</li>
+</ul>"	
+"{{c1::Ein Nutzengebirge}} ist {{c2::die grafische Darstellung einer Nutzenfunktion}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Nutzengebirge.png"" alt=""""><br />
+Nutzengebirge mit der Nutzenfunktion \(U(C_{0}, C_{1}) = C_{0} \cdot C_{1}\)}}}}"	
+"{{c1::Eine Konsummöglichkeitenkurve}} ist {{c2::die grafische Darstellung des Konsums zu einem zukünftigen Zeitpunkt \(C_{t}\) in Abhängigkeit zu dem Konsum in der Gegenwart \(C_{0}\), wobei eine Investition \(I\) zu dem nicht-konsumierten Möglichkeiten stattfindet}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Konsummoeglichkeitenkurve.png"" alt=""""><br />
+Konsummöglichkeitenkurve einer einperiodigen Investitionsentscheidung}}}}"	
+{{c1::Die Konsummöglichkeitenkurve}} ergibt sich aus {{c2::der Spiegelung der Investitionsertragskurve}}.	
+"Frage:<br />
+Was haben Gewinn-, Kosten- und Renditevergleichsrechnung gemeinsam?"	Gewinn-, Kosten- und Renditevergleichsrechnung sind allesamt einperiodige Verfahren.
+"wahr oder falsch:<br />
+Bei einer einperiodigen Investitionsentscheidung ohne Kapitalmarkt spielt das Anfangsvermögen keine Rolle."	"falsch:<br />
+Da kein Zugang zum Kapitalmarkt besteht, ist das Anfangsvermögen entscheidend für die Investitionsmöglichkeiten und die intertemporale Aufteilung des Konsums."
+"<p>Eine einperiode Investitionsentscheidung besteht aus:</p>
+<ul>
+<li>{{c1::Anfangsvermögen: \(W_{0} &gt; 0\) in \(t = 0\)}}</li>
+<li>{{c2::Einkommen: \(Y_{0} = 0\) in \(t = 0\) und \(Y_{1} = 0\) in \(t = 1\)}}</li>
+<li>{{c3::Investitionsprojekten: Beschrieben durch Investitionsmöglichkeitenkurve}}</li>
+<li>{{c4::Geldanlagen und Geldaufnahme: Nicht möglich}}</li>
+<li>{{c5::Zeitpunkten: \(t_{0, 1}\)}}</li>
+</ul>"	
+"<p>Eine Investitionsentscheidung besteht aus:</p>
+<ul>
+<li>{{c1::Anfangsvermögen: \(W_{0}\) in \(t = 0\)}}</li>
+<li>{{c2::Einkommen: \(Y_{0}\) in \(t = n\)}}</li>
+<li>{{c3::Investitionsprojekten: Beschrieben durch Investitionsmöglichkeitenkurve}}</li>
+<li>{{c4::Geldanlagen und Geldaufnahmen: Nicht möglich}}</li>
+<li>{{c5::Zeitpunkten: \(t_{0, 1,..., n}\)}}</li>
+</ul>"	
+"<p>Eine Investitionsentscheidungen besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c1::Anzahl der Investitionen}}</li>
+<li>{{c1::Informationssituation, Sicherheit, Risiko und Ungewissheit}}</li>
+<li>{{c1::Teilbarkeit}}</li>
+<li>{{c1::Zeitpräferenz}}</li>
+<li>{{c1::Zielsetzung}}</li>
+</ul>"	
+{{c1::Die einkommensorientierte Zielsetzung}} ist {{c2::die Zielsetzung zur Maximierung der Entnahmemöglichkeiten}}.	
+{{c1::Die gewinnorientierte Zielsetzung}} ist {{c2::die Zielsetzung zur Maximierung des Gewinnes}}.	
+{{c1::Die vermögensorientierte Zielsetzung}} ist {{c2::die Zielsetzung zur Maximierung des Endvermögens}}.	
+"{{c1::Das Erwartungsnutzenkriterium (Bernoulli-Prinzip, Erwartungsnutzen)}} ist {{c2::ein Kriterium zur Auswahl einer Alternative \(i\) unter einer Menge an Alternativen mit Risiko, bei denen der Nutzen mit einer Nutzenfunktion \(U(y)\) am höchsten ist}}:<br />
+{{c1::\(\text{Erwartungsnutzenkriterium}\)}} \(=\) {{c3::\(\max \limits_{i} (\sum_{j} p_{j} \cdot U(y_{ij}))\)}} mit {{c3::\(i\) als die ausgewählte Alternative, \(p_{j}\) als Wahrscheinlichkeit des Zustand \(j\), \(U(y)\) als Nutzenfunktion, \(y_{ij}\) als das erwartete Ergebnis des Zustand \(j\)}}"	
+"Frage:<br />
+Was beschreibt das St. Petersburg Paradox?"	Das St. Petersburg Paradox beschreibt, dass man nach dem Erwartungswertprinzip handelnd bereit wäre unter bestimmten Bedingungen unendlich viel für eine Investition zu bezahlen.
+{{c1::Das Sankt-Petersburg-Paradoxon}} ist {{c2::ein Paradoxon, welches besagt, dass bei Berechnung und Auswahl des Erwartungswert unter bestimmten Bedingungen eine Auswahl getroffen wird, für die man bereit wäre, einen beliebig großen Betrag zu zahlen}}.	
+"wahr oder falsch:<br />
+Bei einer Entscheidung mit fünf möglichen Zuständen müssen alle fünf Wahrscheinlichkeiten angegeben sein, um den Erwartungswert berechnen zu können."	"falsch:<br />
+Wir brauchen nur vier Wahrscheinlichkeiten."
+"wahr oder falsch:<br />
+Bei einer Investition unter Risiko (d. h. die Eintrittswahrscheinlichkeiten der unterschiedlichen Umweltzustände sind bekannt) führt das Erwartungswertkriterium und das Erwartungsnutzenkriterium immer zum gleichen Ergebnis."	"falsch:<br />
+Erwartungswert und Erwartungsnutzen beschreiben unterschiedliche Konzepte. Während beim Erwartungswert immer die Alternative gewählt wird, deren erwartetes Ergebnis am höchsten ist, hebt das Erwartungsnutzenkriterium die implizite Gleichgewichtung der Ergebnisabstände auf."
+"{{c1::Das Erwartungswertkriterium}} ist {{c2::ein Kriterium zur Auswahl einer Alternative \(i\) unter einer Menge an Alternativen mit Risiko, bei denen das zu erwartende Ergebnis am höchsten ist}}:<br />
+{{c1::\(\text{Erwartungswertkriterium}\)}} \(=\) {{c3::\(\max \limits_{i} (\sum_{j} p_{j} \cdot y_{ij})\)}} mit {{c3::\(i\) als die ausgewählte Alternative, \(p_{j}\) als Wahrscheinlichkeit des Zustand \(j\) und \(y_{ij}\) als das erwartete Ergebnis des Zustand \(j\)}}"	
+"wahr oder falsch:<br />
+Bei Entscheidungen unter Ungewissheit führt das Maximax-Verfahren in der Regel zur Auswahl von Alternativen mit geringen Unterschieden zwischen den Ergebnissen in den einzelnen Zuständen."	"falsch:<br />
+Das Maximax-Verfahren sagt nichts über die Unterschiede zwischen den Ergebnissen aus."
+{{c1::Die Maximax-Regel}} ist {{c2::eine Regel zur Auswahl einer Alternative \(i\) unter einer Menge an Alternativen mit Ungewissheit des Ergebnis, bei denen das beste Ergebnis \(y_{ij}\) mit dem höchsten Wert als Auswahlkriterium dient}}. {{c1::Die Maximax-Regel}} ist {{c3::optimistisch}} und vernachlässigt viele Informationen.	
+"Frage:<br />
+Wenn ein Unternehmen sehr pessimistisch entscheidet, welche Regel verwendet es dann in einer Entscheidungssituation unter Unsicherheit ohne bekannte Eintrittswahrscheinlichkeiten der Umweltzustände?"	Maximin-Regel
+"<p>Frage:<br />
+Es besteht die Wahl zwischen den Investitionen A und B. Die relevanten Projektüberschüsse lauten wie folgt:</p>
+<ul>
+<li>Investition A: Positive Wirtschaftsentwicklung = 60 Überschuss; Negative Wirtschaftsentwicklung = 40 Überschuss</li>
+<li>Investition B: Positive Wirtschaftsentwicklung = 90 Überschuss; Negative Wirtschaftsentwicklung = 20 Überschuss<br />
+Sollte als Kriterium zur Entscheidungsfindung das Erwartungswertkriterium oder die Maximin-Regel verwendet werden?</li>
+</ul>"	Zur Anwendung des Erwartungswertkonzeptes fehlen im vorliegenden Beispiel die Wahrscheinlichkeiten der verschiedenen Szenarien.&nbsp;Daher sollte die Maximin-Regel angewendet werden.
+"<p>Frage:<br />
+Es besteht die Wahl zwischen den Investitionen A und B. Die relevanten Projektüberschüsse lauten wie folgt:</p>
+<ul>
+<li>Investition A: Positive Wirtschaftsentwicklung = 60 Überschuss; Negative Wirtschaftsentwicklung = 40 Überschuss</li>
+<li>Investition B: Positive Wirtschaftsentwicklung = 90 Überschuss; Negative Wirtschaftsentwicklung = 20 Überschuss<br />
+Welche Investition stellt nach der Maximin-Regel die bessere Alternative dar?</li>
+</ul>"	Investition A
+"wahr oder falsch:<br />
+Die Maximin-Regel besagt, dass das Investitionsprojekt zu wählen ist, dessen schlechtestes Ergebnis am niedrigsten ist."	falsch
+{{c1::Die Maximin-Regel (Wald-Regel)}} ist {{c2::eine Regel zur Auswahl einer Alternative \(i\) unter einer Menge an Alternativen mit Ungewissheit, bei denen das schlechteste Ergebnis \(y_{ij}\) mit dem höchsten Wert als Auswahlkriterium dient}}. {{c1::Die Maximin-Regel}} ist {{c3::pessimistisch}} und vernachlässigt viele Informationen.	
+"Frage:<br />
+Für eine Investition kann ein Gewinn oder ein Verlust auftreten. Handelt es sich um eine sichere Erwartung, Erwartung mit Risiko oder Erwartung mit Unsicherheit?"	Erwartung mit Unsicherheit
+{{c1::Ungewissheit (Unsicherheit)}} ist {{c2::eine Informationssituation, bei dem keine Informationen über eine Menge von Zuständen bekannt sind}}. Dadurch steht nicht fest, welcher Zustand eintreten wird.	
+"Frage:<br />
+Für eine Investition liegt die Gewinnwahrscheinlichkeit bei 67 %. Handelt es sich um eine sichere Erwartung, Erwartung mit Risiko oder Erwartung mit Unsicherheit?"	Erwartung mit Risiko
+"wahr oder falsch:<br />
+Eine höhere Streuung der möglichen Rückflüsse einer Investition führt zu einem höheren Risiko, was wiederum zu einer höheren Renditeforderung führt."	wahr
+{{c1::Risiko in der Logik}} ist {{c2::eine Informationssituation, bei dem die Zustandswahrscheinlichkeiten für eine Menge von Zuständen bekannt sind}}.	
+"Frage:<br />
+Für eine Investition wird in jeden Fall ein Gewinn erzielt. Handelt es sich um eine sichere Erwartung, Erwartung mit Risiko oder Erwartung mit Unsicherheit?"	Erwartung mit Sicherheit
+{{c1::Sicherheit in der Logik}} ist {{c2::eine Informationssituation, bei dem ein zukünftiger Zustand \(s\) bekannt ist und genau vorhergesagt werden kann}}. Dadurch steht fest, welcher Zustand eintreten wird.	
+{{c1::Die Zeitpräferenz}} ist {{c2::ein Konzept der Investition, dass der Konsum in der Gegenwart gegenüber dem künftigem Konsum vorzuziehen ist}}.	
+{{c1::Das Teilbarkeitsproblem}} ist {{c2::ein Problem in der Programmentscheidung, bei welcher auf Grund eines begrenzten Kapitals und verschiedener möglichen Investitionsmöglichkeiten gute Investitionen wegen dem begrenzten Kapital und der fehlenden Teilbarkeit einer Investition nicht umgesetzt werden können}}.	
+{{c1::Die Teilbarkeit einer Investition}} ist {{c2::die Möglichkeit zur Durchführung einer Investition zu einem selber bestimmbaren Umfang}}.	
+"wahr oder falsch:<br />
+Für eine Investitionsmöglichkeitenkurve wird angenommen, dass sie sich nicht schneiden dürfen."	falsch
+"wahr oder falsch:<br />
+Für eine Investitionsmöglichkeitenkurve wird Teilbarkeit angenommen."	wahr
+"wahr oder falsch:<br />
+Für eine Investitionsmöglichkeitenkurve wird Transitivität angenommen."	falsch
+"{{c1::Die Investitionsmöglichkeitenkurve (Investitionsertragskurve)}} ist {{c2::die grafische Darstellung von Investitionen nach abnehmender Rentabilität}}.<br />
+{{c2::<img src=""2023-Bild-Schneider-Teilbare_Investitionen_Investitionsmoeglichkeitenkurve.png"" alt=""""><br />
+Grafische Darstellung von teilbaren Projekten als Investitionsmöglichkeitenkurve}}"	
+"{{c1::Die Investitionsmöglichkeitenkurve}} ist {{c2::der grafische Zusammenhang zwischen dem Investitionsbetrag und dem zukünftigen Ertrag}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schneider-Teilbare_Investitionen_Investitionsmoeglichkeitenkurve.png"" alt=""""><br />
+Grafische Darstellung von teilbaren Projekten als Investitionsmöglichkeitenkurve}}}}"	
+{{c1::Eine Investitionsdauerentscheidung}} ist {{c2::eine Einzelentscheidung über die Auswahl von einer Menge von Investitionen und Alternativen ohne eine bereits definierte Investitionsdauer}}.	
+"Frage:<br />
+Zwei alternative Investitionen mit einer festgelegten Investitionsdauer liegen vor.<br />
+Handelt es sich bei der Entscheidung um eine Auswahlentscheidung, Durchführungsentscheidung oder Programmentscheidung?"	Auswahlentscheidung
+"wahr oder falsch:<br />
+Man spricht von einer Auswahlentscheidung, wenn verschiedene Investitionsmöglichkeiten bestehen, die echte Alternativen abbilden und deren Verwendungsdauer fest steht."	wahr
+"wahr oder falsch:<br />
+Man spricht von einer Auswahlentscheidung, wenn verschiedene Investitionsmöglichkeiten bestehen, die echte Alternativen abbilden und deren Verwendungsdauer nicht fest steht."	falsch
+{{c1::Eine Auswahlentscheidung}} ist {{c2::eine Einzelentscheidung über die Auswahl von einer Menge von Investitionen und Alternativen mit einer bereits definierten Investitionsdauer}}.	
+{{c1::Eine Einzelentscheidung}} ist {{c2::eine Investitionsentscheidung über die Auswahl von einer Menge von Investitionen und Alternativen}}.	
+"Frage:<br />
+Zwei Investitionen liegen vor, von denen keine, eine oder beide gewählt werden können.<br />
+Handelt es sich bei der Entscheidung um eine Auswahlentscheidung, Durchführungsentscheidung oder Programmentscheidung?"	Programmentscheidung
+{{c1::Eine Programmentscheidung}} ist {{c2::eine Investitionsentscheidung über die Auswahl von sich unterscheidenden Investitionen}}.	
+"Frage:<br />
+Eine Investition liegt vor, welche durchgeführt werden kann.<br />
+Handelt es sich bei der Entscheidung um eine Auswahlentscheidung, Durchführungsentscheidung oder Programmentscheidung?"	Durchführungsentscheidung
+{{c1::Eine Durchführungsentscheidung}} ist {{c2::eine Investitionsentscheidung über die Durchführung einer Investition}}.	
+"Frage:<br />
+Erörtere knapp und präzise, was unter der Rendite der Differenzinvestition zu verstehen ist."	Es ist die Verzinsung der Differenz der unterschiedlich hohen Kapitaleinsätze mit dem risikolosen Zins gemeint.
+"Frage:<br />
+In welche Phase des Investitionsprozesses fällt der Soll-Ist-Vergleich an?"	Kontrollphase
+"wahr oder falsch:<br />
+Die Begriffe Handlung, Objekte und Zeit fallen unter die Definition von Investition."	wahr
+{{c1::Eine Investition (Investment)}} ist {{c2::der Einsatz von Mitteln, um Zahlungen oder andere Ergebnisse in der Zukunft zu erreichen}}.	
+"{{c1::Der Investitionsprozess}} besteht aus mehreren Schritten:<br />
+{{c2::Problemstellung}} -&gt; {{c3::Analyse}} -&gt; {{c4::Bewertung}} -&gt; {{c5::Durchführung}} -&gt; {{c6::Kontrolle}}"	
+"Frage:<br />
+Erläutere den Begriff Leverage. Welches Risiko ist für die Eigenkapitalgeber damit verbunden?"	"Der Leverage-Effekt ist die Erhöhung der Eigenkapitalrentabilität durch zusätzliches Fremdkapital.<br />
+Das Risiko der Eigenkapital-Geber steigt dadurch, da Fremdkapital-Geber vorrangig bedient werden."
+{{c1::Der Leverage-Effekt (Hebeleffekt)}} ist {{c2::die Erhöhung der Eigenkapitalrentabilität durch Aufnahme von Fremdkapital unter der Annahme, dass der Fremdkapitalzinssatz geringer ist als die Gesamtkapitalrentabilität}}.	
+{{c1::Das zweite Theorem von Modigliani-Miller}} ist {{c2::ein Theorem und beschreibt, dass die erwartete Eigenkapitalrendite eines Unternehmens mit seinem Verschuldungsgrad linear steigt}}.	
+{{c1::Das zweite Theorem von Modigliani-Miller}} ist {{c2::in der Realität kaum anwendbar}}, da es davon ausgeht, dass {{c3::keine differenzierte Informationskosten, differenzierte Zinskosten, Insolvenzkosten, Steuern oder Transaktionskosten}} existieren.	
+"wahr oder falsch:<br />
+Die Kapitalstruktur hat Einfluss auf den Wert eines Unternehmens."	wahr
+"<p>Die Kapitalstruktur nimmt durch folgende Faktoren Einfluss auf den Wert eines Unternehmens:</p>
+<ul>
+<li>{{c1::Insolvenz erzeugt direkte und indirekte Kosten}}</li>
+<li>{{c2::risikoreiche Maßnahmen und Investitionen führen zu möglichen zusätzlichen Verlusten gegenüber Fremdkapitalgebern}}</li>
+<li>{{c3::Steuerzahlungen hängt von der Kapitalstruktur ab, welche Einfluss auf den Wert eines Unternehmens besitzt}}</li>
+</ul>"	
+"Frage:<br />
+Unterstelle, dass eine Welt vorhanden ist, in der keine<br />
+Transaktionskosten, keine Steuern und keine Insolvenzkosten anfallen. Zudem sind Geldanlage und Kreditaufnahme am Kapitalmarkt zum gleichen Zins möglich und alle Investoren verfügen über die gleichen Informationen.<br />
+Nehme nun zu folgender Aussage Stellung:<br />
+Wenn man teures Eigenkapital durch billiges Fremdkapital ersetzt, dann sinken die Kosten der Finanzierung insgesamt. Durch eine geschickte Wahl der Kapitalstruktur kann man daher den Wert<br />
+des Unternehmens erhöhen."	Diese Aussage ist falsch, da unter den genannten Annahme der Firma unabhängig von der Kapitalstruktur ist. Dies entspricht dem ersten Theorem von Modigliani-Miller.
+"wahr oder falsch:<br />
+Die Kapitalstruktur hat nach dem ersten Theorem von Modigliani-Miller Einfluss auf den Wert eines Unternehmens."	falsch
+{{c1::Das erste Theorem von Modigliani-Miller}} ist {{c2::ein Theorem und beschreibt, dass der Wert eines Unternehmens unter bestimmten Annahmen unabhängig von der Kapitalstruktur ist}}.	
+{{c1::Das erste Theorem von Modigliani-Miller}} ist {{c2::in der Realität kaum anwendbar}}, da es davon ausgeht, dass {{c3::keine differenzierte Informationskosten, differenzierte Zinskosten, Insolvenzkosten, Steuern oder Transaktionskosten}} existieren.	
+{{c1::\(\text{NG}\)}} \(=\) {{c2::\(BG - r_{FK} \cdot FK\)}} mit {{c1::\(NG\) als Nettogewinn}}, {{c2::\(BG\) als Bruttogewinn, \(r_{FK}\) als Fremdkapitalzinssatz, \(FK\) als Fremdkapital}}	
+"Frage:<br />
+Angenommen die Gesamtkapitalrendite der Firma XY beträgt 5 %, die Eigenkapitalrendite beträgt 4 % und die Fremdkapitalrendite beträgt 6 %. Wie kann das Unternehmen seine Eigenkapitalrendite steigern?"	Das Unternehmen kann die EK-Rendite erhöhen indem es die Eigenkapitalquote erhöht und damit den Verschuldungsgrad reduziert. Da die Fremdkapitalrendite größer als die Gesamtkapitalrendite ist, steigt die Eigenkapitalrendite mit sinkendem Verschuldungsgrad.
+"Frage:<br />
+Erkläre zwei Situationen in denen die Gesamtkapitalrendite mit der Eigenkapitalrendite übereinstimmt."	"<ol>
+<li>Das Unternehmen ist nur mit Eigenkapital finanziert.</li>
+<li>Die Gesamtkapitalrendite ist gleich der Fremdkapitalrendite.</li>
+</ol>"
+"wahr oder falsch:<br />
+Ist die Fremdkapitalrendite größer als die Gesamtkapitalrendite, steigt die Eigenkapitalrendite im Verschuldungsgrad."	"falsch:<br />
+Ist die Fremdkapitalrendite größer als die Gesamtkapitalrendite, sinkt die Eigenkapitalrendite im Verschuldungsgrad."
+"wahr oder falsch:<br />
+Wenn die Fremdkapitalrendite genauso groß ist wie die Gesamtkapitalrendite, dann ist die Eigenkapitalrendite kleiner als die Gesamtkapitalrendite."	"falsch:<br />
+Wenn die Fremdkapitalrendite genauso groß ist wie die Gesamtkapitalrendite, dann ist die Eigenkapitalrendite genauso groß wie die Gesamtkapitalrendite."
+{{c1::\(\text{EKR}\)}} \(=\) {{c2::\(\frac{G}{EK}\)}} mit {{c1::\(EKR\) als Eigenkapitalrentabilität}}, {{c2::\(G\) als Nettogewinn, \(EK\) als Eigenkapital}}	
+{{c1::\(\text{EKR}\)}} \(=\) {{c2::\(\frac{EBT}{EK}\)}} mit {{c1::\(EKR\) als Eigenkapitalrentabilität}}, {{c2::\(EBT\) als EBT, \(EK\) als Eigenkapital}}	
+{{c1::\(\text{EKR}\)}} \(=\) {{c2::\(\frac{U - z_{FK} \cdot FK}{EK}\)}} mit {{c1::\(EKR\) als Eigenkapitalrentabilität}}, {{c2::\(U\) als Umsatz, \(z_{FK}\) als Fremdkapitalzinsen, \(FK\) als Fremdkapital, \(EK\) als Eigenkapital}}	
+{{c1::\(\text{BG}\)}} \(=\) {{c2::\(G + r_{FK} \cdot FK\)}} mit {{c1::\(BG\) als Bruttogewinn}}, {{c2::\(G\) als Nettogewinn, \(r_{FK}\) als Fremdkapitalzinssatz, \(FK\) als Fremdkapital}}	
+{{c1::\(\text{Gesamtkapitalrentabilität}\)}} \(=\) {{c2::\(\frac{BG}{EK + FK}\)}} mit {{c1::\(GKR\) als Gesamtkapitalrentabilität}}, {{c2::\(BG\) als Bruttogewinn, \(EK\) als Eigenkapital, \(FK\) als Fremdkapital}}	
+{{c1::\(GKR\)}} \(=\) {{c2::\(\frac{EBT}{EK + FK}\)}} mit {{c1::\(GKR\) als Gesamtkapitalrentabilität}}, {{c2::\(EBT\) als EBT, \(EK\) als Eigenkapital, \(FK\) als Fremdkapital}}	
+{{c1::\(\text{V}\)}} \(=\) {{c2::\(\frac{FK}{EK}\)}} {{c1::mit \(V\) als Verschuldungsgrad}}, {{c2::\(FK\) als Fremdkapital, \(EK\) als Eigenkapital}}	
+{{c1::\(\text{V}\)}} \(=\) {{c2::\(\frac{1}{EKQ} - 1\)}} mit {{c1::\(V\) als Verschuldungsgrad}}, {{c2::\(EKQ\) als Eigenkapitalquote}}	
+{{c1::\(\text{EKQ}\)}} \(=\) {{c2::\(\frac{EK}{EK + FK}\)}} mit {{c1::\(EKQ\) als Eigenkapitalquote}}, {{c2::\(EK\) als Eigenkapital, \(FK\) als Fremdkapital}}	
+{{c1::\(\text{EKQ}\)}} \(=\) {{c2::\(\frac{1}{1 + V}\)}} mit {{c1::\(EKQ\) als Eigenkapitalquote}}, {{c2::\(V\) als Verschuldungsgrad}}	
+"Frage:<br />
+Beschreibe den Lohmann-Ruchti-Effekt."	Der Lohmann-Ruchti-Effekt beschreibt die Finanzierung aus Abschreibungsgegenwerten. Obwohl das Innenfinanzierungspotential aus Abschreibungen nur temporär ist, kommt es zu einem dauerhaften Kapazitätseffekt ohne dass zusätzliche finanzielle Mittel eingesetzt werden.
+"Frage:<br />
+Nehme kritisch Stellung zu folgendem Satz:<br />
+Der Lohmann‐Ruchti‐Effekt ist für irrelevant, da zusätzlichen Produkte gar nicht mehr abgesetzt werden könnten."	Der Lohmann-Ruchti-Effekt ist dennoch relevant, da die Annahme getroffen wird, dass dies nicht immer sinnvoll sein muss. Die verfügbaren Mittel können nämlich auch für andere Zwecke verwendet werden.
+"Frage:<br />
+Nenne zwei Annahmen, auf denen der Lohmann‐Ruchti‐Effekt basiert."	"<ol>
+<li>Erstanschaffung mit Eigenkapital finanziert</li>
+<li>Kein technischer Fortschritt oder Preiserhöhung bei Maschinen</li>
+<li>Keine Preissenkung bei erzeugten Produkten</li>
+<li>Leistungsfähigkeit der Maschinen unabhängig von Alter</li>
+<li>Lineare Abschreibung entspricht der tatsächlichen Abnutzung</li>
+</ol>"
+"{{c1::Der Lohmann-Ruchti-Effekt (Kapazitätserweiterungseffekt, Marx-Engels-Effekt)}} ist {{c2::die dauerhafte Erhöhung der Kapazität von Maschinen durch die temporäre Finanzierung aus Abschreibungsgegenwerten}}.<br />
+{{c2::Die temporäre Finanzierungsquelle aus dem Abschreibungsgegenwert wird dazu genutzt}}, um {{c3::neue Maschinen vor Ende der Laufzeit einer Maschine anzuschaffen}}, was {{c4::neu temporäre Finanzierungsquellen ermöglicht}}, bis {{c5::ein dauerhaftes Gleichgewicht erreicht wird}}."	
+{{c1::Die Finanzierung aus Abschreibungsgegenwerten}} ist {{c2::die Innenfinanzierung durch die temporäre Nutzung von liquiden Mitteln, die dazu bedacht sind, abgeschrieben Güter nach Ende ihrer Laufzeit neu zu beschaffen}}.	
+"Beispiel:<br />
+Finanzierung aus Vermögensumschichtung"	"<ul>
+<li>Sale-and-Lease-Back bei betriebsnotwendigen Vermögen</li>
+<li>Verkauf von nicht betriebsnotwendigen Vermögensgegenständen</li>
+<li>Verkürzung der Kapitalbindung, z. B. der Verkauf von Lagerbeständen</li>
+</ul>"
+{{c1::Die Finanzierung aus Vermögensumschichtung}} ist {{c2::die Innenfinanzierung durch den Aktivtausch}}.	
+"Frage:<br />
+Inwiefern hat eine Finanzierung aus Rückstellungsgegenwerten nur einen temporären Effekt?"	Die finanziellen Mittel stehen zwischen Bildung und Auflösung der Rückstellung zur Verfügung, vorausgesetzt, dass die Rückstellungsgegenwerte in Preise einkalkuliert werden und diese auch durchgesetzt werden können, d. h. als bilanzieller bzw. steuerlicher Aufwand gelten.
+"Frage:<br />
+Was ist ein Nachteil der Finanzierung aus Rückstellungsgegenwerten?"	Der Effekt der Finanzierung ist nicht dauerhaft und kann sogar in umgekehrter Richtung wirken, wenn z. B. Pensionsleistungen gezahlt werden müssen.
+{{c1::Die Finanzierung aus Rückstellungsgegenwerten}} ist {{c2::die Innenfinanzierung durch die Bildung von Rückstellungen}}.	
+{{c1::Die Finanzierung aus Rückstellungsgegenwerten}} setzt voraus, dass {{c2::entsprechende Ziele zu dem angenommenen Preis der Rückstellung realisiert werden können}}.	
+"Beispiel:<br />
+Rückstellung"	"<ul>
+<li>drohende Verluste</li>
+<li>Garantie-Leistungen</li>
+<li>Pensionszahlungen</li>
+<li>Rückstellungen für Reparaturen</li>
+</ul>"
+"wahr oder falsch:<br />
+Langfristige Rückstellungen, die für einen Zeitraum, der ein Jahr überschreitet, gebildet werden, sind abzuzinsen."	"wahr:<br />
+Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr sind mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre abzuzinsen."
+"wahr oder falsch:<br />
+Rückstellungen können zum einen den Charakter einer Außenverpflichtung gegenüber Dritten haben, zum anderen aber auch eine Innenverpflichtung gegenüber sich selbst darstellen. Dabei resultieren Außenverpflichtungen immer aus einer rechtlichen Verpflichtung und Innenverpflichtungen hingegen immer aus einer faktischen Verpflichtung."	"falsch:<br />
+Auch Rückstellungen für Außenverpflichtungen können auf einer faktischen Verpflichtung beruhen."
+"wahr oder falsch:<br />
+Rückstellungen sind Passivposten zur Berücksichtigung von Aufwendungen, die in der Abrechnungsperiode verursacht sind, aber insbesondere bezüglich ihrer Existenz und/oder Höhe ungewiss sind und erst künftig zu Einzahlungen führen."	"falsch:<br />
+Rückstellungen sind Passivposten für künftige oder gegenwärtige Verpflichtungen eines Unternehmens, die künftig zu&nbsp;Auszahlungen&nbsp;führen."
+{{c1::Eine Rückstellung in der Wirtschaft}} ist {{c2::eine Rücklage für Verbindlichkeiten, die in ihrem Grund nach bekannt, in ihrer Höhe und des Anfallszeitpunkts aber noch nicht bekannt sind}}. {{c1::Die Rückstellung}} setzt voraus, dass {{c3::entsprechende Preise sich nicht ändern}}.	
+Rückstellungen sind auf {{c1::der Passivseite}} der Bilanz aufgeführt.	
+Rückstellungen werden nach {{c2::vernünftiger kaufmännischer Beurteilung unter Berücksichtigung von künftigen Preissteigerungen}} bewertet.	
+Bei {{c1::einer Rückstellung}} mit {{c2::einer Restlaufzeit von mehr als einem Jahr}} sind diese mit {{c3::dem durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre}} abzuzinsen.	
+Durch Rückstellungen entsteht {{c1::durch die Gewinneinbehaltung ein Steuerstundungseffekt}}.	
+"<p>{{c1::Nachteile der stillen Selbstfinanzierung}} sind:</p>
+<ul>
+<li>{{c2::die begrenzten Möglichkeiten durch bilanzielle Bewertungsvorschriften und die Notwendigkeit zur Auflösung der stillen Reserven in einer späteren Periode}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Stille Rücklagen sind Teile des Eigenkapitals, deren Höhe nicht aus der Bilanz ersichtlich ist. Sie entstehen durch die Überbewertung von Aktiva und die Unterbewertung von Passiva und ergeben sich aus der Differenz zwischen Buchwerten und Marktwerten."	"falsch:<br />
+Stille Rücklagen ergeben sich aus der Unterbewertung von Aktiva und der Überbewertung von Passiva."
+{{c1::Eine stille Reserve (stille Rücklage)}} ist {{c2::ein nicht aus der Bilanz ersichtlicher Bestandteil des Eigenkapitals, welche nicht als Gewinn ausgewiesen ist}}.	
+{{c1::Stille Reserven}} werden durch {{c3::eine Unterbewertung der Aktiva oder eine Überbewertung der Passiva gebildet}}.	
+Durch stille Reserven entsteht {{c1::durch die Gewinneinbehaltung ein Steuerstundungseffekt}}.	
+"<p>{{c1::Stille Reserven}} bestehen aus:</p>
+<ul>
+<li>{{c2::Dispositionsrücklagen}}</li>
+<li>{{c2::Ermessensrücklagen}}</li>
+<li>{{c2::Zwangsrücklagen}}</li>
+</ul>"	
+"Frage:<br />
+Die bilanzielle Abschreibung der Maschine beträgt im Jahr 2020 EUR 7.000, wobei der tatsächliche Wertverlust sich auf EUR 3.000 beläuft.<br />
+Kommt es zu einer stillen Selbstfinanzierung?"	Ja, es kommt zu einer stillen Innenfinanzierung, da die bilanzielle Abschreibung i. H. v. EUR 7.000 größer als die kalkulatorische Abschreibung i. H. v. EUR 3.000 ist und sich die Firma im Rahmen der gesetzlichen Bewertungsvorschriften bewegt.
+"Frage:<br />
+Es ist abzusehen, dass die tatsächliche Rückstellung für einen Rechtskonflikt geringer ausfallen wird als die gesetzlich zu bildende bilanzielle Rückstellung.<br />
+Kommt es zu einer stillen Selbstfinanzierung?"	Ja, es kommt zu einer stillen Innenfinanzierung, da die bilanzielle Rückstellung größer als die kalkulatorische Rückstellung ist und sich die Firma im Rahmen der gesetzlichen Bewertungsvorschriften bewegt.
+"Frage:<br />
+Obwohl die Firma XY eigentlich Pensionsrückstellungen für die eigenen Mitarbeiter bilden muss verzichtet sie darauf und nutzt das Kapital zum Kauf einer neuen Maschine.<br />
+Kommt es zu einer stillen Selbstfinanzierung?"	Die Firma bewegt sich nicht im Rahmen der gesetzlichen Bewertungsvorschriften und hat eine bilanzielle Rückstellung zu bilden.
+"Frage:<br />
+Was ist ein Nachteil der stillen Selbstfinanzierung?"	Es entsteht ein Steuerstundungseffekt, welcher nicht dauerhaft ist.
+{{c1::Die stille Selbstfinanzierung}} ist {{c2::die Innenfinanzierung durch die Bildung von stillen Reserven}}.	
+"<p>{{c1::Nachteile der offenen Selbstfinanzierung}} sind:</p>
+<ul>
+<li>aus Sicht der Eigenkapitalgeber: {{c2::Die dauerhafte unbegrenzte Mittelüberlassung, welche unter anderem außerhalb des Unternehmens besser angelegt werden könne, wodurch Opportunitätskosten entstehen können}}.</li>
+</ul>"	
+"wahr oder falsch:<br />
+Man spricht von offener Selbstfinanzierung, wenn der<br />
+ausgewiesene Jahresüberschuss bzw. Bilanzgewinn zumindest<br />
+teilweise im Unternehmen einbehalten wird."	wahr
+{{c1::Die offene Selbstfinanzierung}} ist {{c2::die Innenfinanzierung durch Erhöhung des Eigenkapitals eines Unternehmens}}.	
+{{c1::Die offene Selbstfinanzierung}} bewirkt {{c2::einen dauerhaften Finanzierungseffekt und steigende Gewinnrücklage}} durch die Erhöhung des Eigenkapitals.	
+"Frage:<br />
+Borussia Dortmund verkauft das eigene Fußballstation da der Verein Liquiditätsprobleme hat. Die GmbH &amp; Co KGaA benötigt das Station für weitere Heimspiele. Deshalb wird das Stadion von dem neuen Vermieter, für eine jährliche Miete gemietet.<br />
+Um welche Art der Innenfinanzierung handelt es sich?"	Mittelzufluss aus außerordentlichen Umsatzerlösen: Verkauf betriebsnotwendigen Vermögens (Sale-and-Lease-Back))
+"Frage:<br />
+Firma XY produziert neue Maschinen und verwendet aufgrund von Liquiditätsengpässen die im Lager befindlichen Herstellungsteile, die für genau diesen Fall schon vor 5 Jahren angeschafft wurden.<br />
+Um welche Art der Innenfinanzierung handelt es sich?"	Mittelzufluss aus außerordentlichen Umsatzerlösen: Verkürzung der Kapitalbindung (Abbau von Lagerbeständen)
+"Frage:<br />
+Die Firma XY nutzt nicht zahlungswirksame Aufwendungen (Erhöhung von Rückstellungen und Abschreibungen auf Sachanlagen) zur Finanzierung einer Maschine. Es wird angenommen, dass die Preise am Markt durchgesetzt werden können. Deshalb stehen einem Teil der baren Umsatzerlöse keine gleichzeitigen Auszahlungen gegenüber.<br />
+Um welche Art der Innenfinanzierung handelt es sich?"	Mittelzufluss aus ordentliche Umsatzerlöse
+"Frage:<br />
+Firma XY verkauft eine Maschine die nicht mehr benötigt wird.<br />
+Um welche Art der Innenfinanzierung handelt es sich?"	Mittelzufluss aus außerordentlichen Umsatzerlösen: Verkauf nicht betriebsnotwendigen Vermögens
+"<p>{{c1::Quellen der Innenfinanzierung}} sind:</p>
+<ul>
+<li>{{c2::außerordentliche Umsatzerlöse}}, z. B. {{c2::aus dem Verkauf von nicht mehr benötigten Betriebsmitteln, die nicht mehr neu angeschafft werden müssen}}</li>
+<li>{{c3::ordentliche Umsatzerlöse}}, {{c3::z. B. aus Gewinnerzielung}}</li>
+</ul>"	
+{{c1::\(\text{Innenfinanzierungsvolumen}\)}} \(=\) {{c2::\(\text{betriebliche Einzahlungen} - \text{betriebliche Auszahlungen} - \text{Gewinnausschüttungen}\)}}	
+"{{c1::Ein Einzahlungsüberschuss}} ist {{c2::eine positive Differenz zwischen den baren Umsatzerlösen und den geleisteten Auszahlungen}}:<br />
+{{c1::\(\text{Einzahlungsüberschuss}\)}} \(=\) {{c2::\(\text{bare Umsatzerlöse} - \text{geleistete Auszahlungen}\)}}"	
+"{{c1::Die Rendite einer Aktie von einem Unternehmen}} wird im {{c2::Capital Asset Pricing Model}} aus {{c3::dem risikolosen Zins und der Risikoprämie berechnet}}:<br />
+{{c1::\(\text{Rendite der Aktie eines Unternehmens}\)}} \(=\) {{c3::\(\text{Risikoloser Zins} + \text{Risikoprämie}\)}}"	
+"<p>Nachteile {{c1::des Gordon-Growth-Modell}} zur Bewertung von Aktien sind:</p>
+<ul>
+<li>{{c2::Höhe und Risiko von zukünftigen Dividenden sind nicht sicher}}</li>
+<li>{{c2::Wahl der Diskontierungsrate ist unbekannt}}</li>
+</ul>"	
+"{{c1::Das Gordon-Growth-Modell (Dividendenwachstumsmodell)}} ist {{c2::ein Modell zur Bewertung von Aktien anhand von zukünftig getätigten Zahlungen}}:<br />
+{{c3::\(S_{0} = \frac{D_{1} }{i - \alpha}\)}} mit {{c4::\(S_{0}\) als der Aktienkurs zum Zeitpunkt \(t = 0\), \(D_{t}\) als die Dividendenzahlung zum Zeitpunkt \(t\), \(i\) als die Diskontierungsrate, \(\alpha\) als die ewige Wachstumsrate}}"	
+"wahr oder falsch:<br />
+Eine Bewertung mit dem Dividendenbarwertmodell setzt voraus,<br />
+dass das Wachstum der jährlichen Dividendenzahlung kleiner als der verwendete Zins ist."	wahr
+"{{c1::Das Dividenden-Barwert-Modell}} ist {{c2::ein Modell zur Bewertung von Aktien anhand von zukünftig getätigten Zahlungen}}:<br />
+{{c3::\(S_{0}\)}} \(=\) {{c4::\(\sum_{t = 1}^\infty \frac{D_{t} }{1 + i^{t} }\)}} mit {{c3::\(S_{0}\) als der Aktienkurs zum Zeitpunkt \(t = 0\)}}, {{c4::\(D_{t}\) als die Dividendenzahlung zum Zeitpunkt \(t\) und \(i\) als die Diskontierungsrate}}"	
+"Handelt es sich im {{c1::Dividenden-Barwert-Modell}} um {{c2::konstante Dividendenzahlungen}}, so gilt:<br />
+{{c3::\(S_{0}\)}} \(=\) {{c4::\(\frac{D}{i}\)}} mit {{c3::\(S_{0}\) als der Aktienkurs zum Zeitpunkt \(t = 0\)}}, {{c4::\(D\) als die Dividendenzahlung und \(i\) als die Diskontierungsrate}}"	
+"Frage:<br />
+Nenne drei Möglichkeiten zur Bewertung von Aktien."	"<ol>
+<li>Bewertung durch Buchwert</li>
+<li>Bewertung durch das Kurs-Gewinn-Verhältnis</li>
+<li>Bewertung und Orientierung an zukünftigen Zahlungen</li>
+</ol>"
+"<p>{{c1::Die Bewertung von Aktien}} besteht aus:</p>
+<ul>
+<li>{{c2::Bewertung von Aktien durch das Kurs-Gewinn-Verhältnis}}</li>
+<li>{{c2::Bewertung von Aktien durch den Buchwert}}</li>
+<li>{{c2::Orientierung an zukünftigen Gewinnen und Zahlungen}}</li>
+</ul>"	
+"{{c1::Die Bewertung von Aktien durch den Buchwert}} erfolgt durch {{c2::die Teilung des Eigenkapitals durch die Gesamtanzahl der Aktien}}:<br />
+{{c1::\(\text{Aktienbewertung}\)}} \(=\) {{c2::\(\frac{\text{bilanzielles Eigenkapital} }{\text{Anzahl an Aktien} }\)}}"	
+{{c1::Der Buchwert und die Marktkapitalisierung}} liegen in der Regel weit auseinander, da {{c2::stille Reserven und das Wachstumspotential nicht berücksichtigt werden}}.	
+{{c1::Eine Anleihe mit einem Ausfallrisiko}} besitzt {{c2::einen effektiven Zins über dem Marktzins}}, da {{c3::in dieser ein Credit Spread}} beinhaltet ist.	
+{{c1::Der Credit Spread}} ist {{c2::ein Zinsaufschlag bei Wertpapieren zur Kompensierung des Ausfallrisikos}}.	
+Die Höhe eines Credit Spread wird durch {{c1::das Rating des Wertpapieres}} bestimmt.	
+"Frage:<br />
+Erläutere in maximal zwei Sätzen den Ablauf einer ABS‐Transaktion."	In ABS-Transaktionen werden Aktiva eines Unternehmens durch eine Zweckgesellschaft in einem Pool zusammengefasst, zu handelbaren Wertpapiere verbrieft und am Markt an Investoren verkauft.
+"wahr oder falsch:<br />
+Eine ABS‐Transaktion kann für den Originator von Vorteil sein, weil sich dadurch eine Verbesserung seiner Bilanzkennzahlen ergeben kann."	wahr
+{{c1::Eine Asset-Backed Security (ABS)}} ist {{c2::die Verbriefung von einer Menge von Forderungen und Risiken als handelbare Wertpapiere}} durch {{c2::eine Zweckgesellschaft}}.	
+"Frage:<br />
+Angenommen, ein Kreditkarteninstitut, das viele kleine Konsumentenkredite in der Bilanz hat, benötigt kurzfristig Liquidität und will dieses aus den Konsumentenkrediten erlangen. Welche Maßnahmen können man hierfür durchführen und welche Vor- und Nachteile hätten diese in dem konkreten Beispiel?"	"Eine Möglichkeit wäre das Factoring. Durch den Verkauf der Forderungen würde man die Liquidität schnell erhöhen können (Finanzierungsfunktion) und würde sich die Kosten für die Eintreibung der Kredite ersparen (Dienstleistungsfunktion) und das Ausfallrisiko an das Factoringinstitut abgeben (Delkrederefunktion). Da die Erlöse als Liquidität benötigt werden, kann jedoch kein Zinsgewinn durch Ablösung eigener Kredite erzielt werden.<br />
+Eine weitere Möglichkeit wäre der Einsatz von ABS. Hierbei wären die Vorteile ähnlich zum Factoring, allerdings kann über die Handelbarkeit der ABS eine größere Investorenzahl erreicht werden. Ein Nachteil ist, dass ABS mit deutlich höheren Transaktionskosten verbunden sind."
+"wahr oder falsch:<br />
+Wenn der Factor eine Delkrederefunktion übernimmt, dann muss sich das Unternehmen keine Gedanken mehr über die Kreditwürdigkeit seiner Kunden machen."	falsch
+{{c1::Das Factoring}} ist {{c2::der vertraglich festgelegte Ankauf von Forderungen aus Lieferung und Leistungen gegen einen oder mehrere Schuldnern durch einen Factor}}.	
+"Frage:<br />
+Erkläre die Kehrseite des Steuerstundungseffektes im Leasing."	Der Leasingnehmer erzielt einen Steuerstundungseffekt, weil er Leasingraten bezahlt, die seinen heutigen Gewinn schmälern. Der Gewinn fällt bei der Leasinggesellschaft, durch die erhaltenen Leasingraten, sofort an und sie muss verhältnismäßig viele Steuern zahlen. Diesen Nachteil wird der Leasinggeber womöglich einpreisen und an den Leasingnehmer weitergeben.
+{{c1::Das Leasing}} ist {{c2::die Vermietung und Verpachtung von Anlagevermögen}}.	
+"Frage:<br />
+Erkläre den Begriff Optionsanleihe ex?"	\(\text{Wert der Optionsanleihe vor der Umwandlung} = \text{Wert der Optionsanleihe nach der Umwandlung} + \text{Wert der Optionsscheine}\), d. h. der Wert der Optionsanleihe ex kann mit dem Wert einer gewöhnlichen Anleihe übersetzt werden.
+"Frage:<br />
+Was bleibt bei Ausübung der Option einer Optionsanleihe verhalten und geht bei Ausübung der Wandelung bei einer Wandelanleihe verloren?"	Anleihe
+{{c1::Eine Optionsanleihe}} ist {{c2::eine Mischform eines Wertpapieres, bei der es möglich ist, Aktien zu einem vorher festgelegten Preis durch Optionsscheine zu erwerben, ohne das die Optionsanleihe verfällt}}.	
+{{c1::\(\text{Wert der Optionsanleihe vor der Umwandlung}\)}} \(=\) {{c2::\(\text{Wert der Optionsanleihe nach der Umwandlung} + \text{Wert der Optionsscheine}\)}}	
+"wahr oder falsch:<br />
+Eine Wandelanleihe unterscheidet sich von einer Optionsanleihe dadurch, dass sie keine Option, sondern grundsätzlich eine Verpflichtung zur Wandlung in Aktien beinhaltet."	falsch
+"wahr oder falsch:<br />
+Eine Wandelanleihe unterscheidet sich von einer Optionsanleihe dadurch, dass sie nur dann gewandelt werden darf, wenn der Aktienkurs seit der Emission nicht gestiegen ist."	falsch
+"{{c1::Eine Wandelanleihe (Convertible Bond)}} ist {{c2::eine Mischform einer Schuldverschreibung aus Eigenkapital und Fremdkapital, bei welcher der Gläubiger innerhalb der Schuldlaufzeit die Möglichkeit besitzt, in einem vorher festgelegten Umtauschverhältnis die Schulden in Aktien umzuwandeln}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Branger-Wandelanleihe.png"" alt=""""><br />
+Schematische Darstellung des Verlaufes einer Wandelanleihe}}}}"	
+"Wird {{c1::eine Wandelanleihe}} nicht {{c2::umgewandelt}}, wird {{c1::die Wandelanleihe}} wie {{c2::eine Anleihe ausgezahlt}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Branger-Wandelanleihe.png"" alt=""""><br />
+Schematische Darstellung des Verlaufes einer Wandelanleihe}}}}"	
+Bei der Ausgabe von {{c1::Wandelanleihen}} handelt es sich um {{c2::eine bedingte Kapitalerhöhung}}, weshalb {{c3::Bezugsrechte für Altaktionäre}} entstehen.	
+"Frage:<br />
+Ordne das folgende Beispiele der Betrachtungsweisen der Kreditwürdigkeit zu:<br />
+Für die Finanzierung einer großen Stromanlage lässt sich die Bank projektbezogene Unterlagen zukommen. Diese umfassen unter anderem Kostenkalkulationen, Projektprognosen und Projektkostenrechnungen aus der Controllingabteilung."	projektbezogene Kreditwürdigkeit
+{{c1::Die projektbezogene Kreditwürdigkeit}} ist {{c2::die Kreditwürdigkeit eines Projektes}} durch die Berechnung {{c3::der Kostenanalyse, Marktanalyse und Erfolgsaussichten}}.	
+"Frage:<br />
+Ordne das folgende Beispiel der Betrachtungsweisen der Kreditwürdigkeit zu:<br />
+Neben dem Jahresabschluss schaut sich die Bank die Quartalszahlen des Unternehmens an, um eine Einschätzung über die Ertragskraft des Unternehmens zu bekommen. Außerdem schaut die Bank auf Liquiditätskennzahlen des Unternehmens um zu beurteilen, ob das Unternehmen verfügbare Mittel zur Bezahlung künftiger Verbindlichkeiten hat. Wenn die Bank bereits eine Geschäftsbeziehung mit dem Kunden hat, schaut sie auf das interne Bankrating, was auf Kontobewegungen und Erfahrung mit dem Kunden basiert. Ein öffentliches Rating wird bei Neukunden herangezogen."	unternehmensbezogene Kreditwürdigkeit
+{{c1::Eine unternehmensbezogene Kreditwürdigkeit}} ist {{c2::die Kreditwürdigkeit eines Unternehmens}}, welche sich aus {{c3::dem Jahresabschluss und des Ratings}} ergibt.	
+"Frage:<br />
+Ordne das folgende Beispiel der Betrachtungsweisen der Kreditwürdigkeit zu:<br />
+Die Bank hat mit dem Kunden eine langjährige Geschäftsbeziehung. Vergangene Kredite wurden immer ordnungsgemäß zurückgezahlt und die das Unternehmen genießt bei seinen Kunden, aufgrund von hoher Serviceorientierung, höchstes Ansehen."	persönliche Kreditwürdigkeit
+{{c1::Die persönliche Kreditwürdigkeit}} ist {{c2::die Kreditwürdigkeit einer Person}} durch {{c3::ihren Ruf und vorherige Kreditaktivitäten}}.	
+"Frage:<br />
+Definiere in einem Satz den Begriff Kreditwürdigkeit."	Ein Kreditnehmer ist kreditwürdig, wenn er die Fähigkeit besitzt, seinen Verpflichtungen aus Kreditverträgen nachkommen zu können.
+{{c1::Die Kreditwürdigkeit (Bonität)}} ist {{c2::die Fähigkeit eines Kreditnehmers, seinen Verpflichtungen aus einem Kreditvertrag nachzukommen}}.	
+Von {{c1::weniger kreditwürdigen Schuldnern}} wird ein {{c2::höherer Kreditzins als Sicherheitsmarge und/oder eine Sicherheit}} verlangt.	
+{{c1::Das Delisting (Going-Privat)}} ist {{c2::die Übernahme der sich im Umlauf befindlichen Aktien und der Rückzug aus jeglichen Börsengeschäften}}, meist durch {{c3::ein Leveraged Buyout oder Management Buyout}}.	
+{{c1::Ein Aktienrückkauf}} ist {{c2::die Kapitalherabsetzung über den Rückkauf von Aktien am Kapitalmarkt}}.	
+Bei einem Aktienrückkauf wird {{c1::eine kurz- bis mittelfristige Steigerung des Aktienkurses}} erwartet.	
+{{c1::Eine vereinfachte Kapitalherabsetzung}} ist {{c2::die Kapitalherabsetzung zum Wertminderungsausgleich und zur Beseitigung von Bilanzverlusten}}, wobei {{c3::keine Zahlung an Aktionäre erfolgt}}.	
+{{c1::Eine ordentliche Kapitalherabsetzung}} ist {{c2::die Kapitalherabsetzung auf Beschluss der Hauptversammlung}} durch {{c3::eine Herabsetzung des Nennbetrags pro Aktie oder einer Aktienzusammenlegung von Aktien}}.	
+{{c1::Eine effektive Kapitalherabsetzung}} ist {{c2::eine Kapitalherabsetzung durch die Rückzahlung eines Teils des Grundkapital oder die Umwandlung von Grundkapital in Rücklagen}}.	
+{{c1::Eine nominelle Kapitalherabsetzung}} ist {{c2::eine Kapitalherabsetzung aufgrund eines Ausgleiches von Verlusten oder einer Wertminderung}} durch {{c3::Anpassung des Eigenkapitals}}.	
+{{c1::Eine Kapitalerhöhung aus Gesellschaftsmitteln}} ist {{c2::eine Kapitalerhöhung durch die Umwandlung von Kapitalrücklagen oder Gewinnrücklagen in Grundkapital ohne zusätzliche Einlagen, wobei der Aktienkurs gesenkt wird und zum Ausgleich Aktien an Altaktionäre ausgegeben werden}}.	
+{{c1::Das genehmigte Kapital}} ist {{c2::die Kapitalerhöhung um einen bestimmten Kapitalbetrag über einen bestimmten Zeitraum mit einer einfachen Zustimmung des Aufsichtsrates eines Unternehmens, welches im Voraus durch die Hauptversammlung beschlossen wurde}}.	
+"wahr oder falsch:<br />
+Bei einer bedingten Kapitalerhöhung kann der Vorstand später (ohne Zustimmung der Hauptversammlung) selber über die Kapitalerhöhung entscheiden."	"falsch:<br />
+Es handelt sich dabei um ein genehmigtes Kapital."
+{{c1::Eine bedingte Kapitalerhöhung}} ist {{c2::eine Kapitalerhöhung, welche durch das Eintreten eines bestimmten Ereignisses ausgelöst wird}}.	
+{{c1::Der Vermögenseffekt}} ist {{c2::der Effekt, dass bei einer Kapitalerhöhung Altaktionäre keinen Vermögensverlust erleiden, da sie Aktien durch ihr Bezugsrecht kaufen oder das Bezugsrecht verkaufen könne}}.	
+{{c1::Eine Kapitalerhöhung}} ist {{c2::die Erhöhung des Grundkapitals, der Kapitalrücklagen und der liquiden Mittel durch Emittierung von weiteren Aktien}}.	
+Bei einer Kapitalerhöhung erhalten {{c1::Altaktionär}} {{c2::das Bezugsrecht, die neuen Aktien gemäß des bisherigen Aktienanteils des Alt-Aktionär zum Bezugskurs zu erwerben, um den Stimmenanteil beizubehalten}}. Bei fehlendem Interesse an {{c2::dem Erwerb zum Erhalt des Stimmenrechtsanteil}} kann {{c2::das Bezugsrecht}} verkauft werden.	
+"{{c1::Das Meistausführungsprinzip}} ist {{c2::eine Methode zur Preisfindung auf dem Sekundärmarkt, bei welcher zu bestimmten Zeit auf der Börse der Preis gesetzt wird, welcher zu der höchsten Anzahl an Ausführungen führt}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Branger-Meistausfuehrungsprinzip.png"" alt=""""><br />
+Ausführungsmöglichkeiten mit 52 als Kurs des Meistausführungsprinzip}}}}"	
+{{c1::Das Orderbuchverfahren}} ist {{c2::ein Verfahren zur Preisfindung von Wertpapieren, bei denen Angebote ausgeführt werden, wenn in einem öffentliches oder nicht-öffentlichen Orderbuch eine entsprechende Gegenorder vorliegt}}.	
+{{c1::Ein kapitalisierungsgewichteter Index}} ist {{c2::ein Index, welcher den Kurs des Index durch die Gewichtung nach Marktkapitalisierung und das arithmetische Mittel mit einem Korrekturfaktor berechnet}}.	
+{{c1::Ein preisgewichteter Index}} ist {{c2::ein Index, welcher den Kurs eines Indexes durch die höhe des Kurses einzelner Unternehmen und das arithmetische Mittel mit einem Korrekturfaktor berechnet}}.	
+"wahr oder falsch:<br />
+Der Performanceindex ist niemals kleiner als der Preisindex."	wahr
+{{c1::Ein Performanceindex}} ist {{c2::ein Index, welcher den Kurs eines Indexes durch Berücksichtigung der Bardividenden und sonstigen Einnahmen aus dem Besitz der Aktie}}.	
+"Frage:<br />
+Herr Schmitt möchte 10.000 € investieren. Da er wenig Wissen besitzt, will er anhand der vergangenen Entwicklung des S&amp;P500-Indices abschätzen, ob sich ein Investment gelohnt hätte. Nehme hierzu Stellung.<br />
+Hinweis: Der S&amp;P500 ist ein Preisindex, der die 500 größten amerikanische Unternehmen entsprechend ihrer Marktkapitalisierung gewichtet."	Die Entwicklung des Preisindex macht keine exakte Aussage über die tatsächliche historische Rendite, wenn man alle Aktien des Index entsprechend ihrer Gewichtung kaufen würde. Hierfür muss ein Performanceindex betrachtet werden, der zwischenzeitlich ausgeschüttete Dividenden und andere Einnahmen aus den Aktien mit einbezieht.
+{{c1::Ein Preisindex (Kursindex)}} ist {{c2::ein Index, welcher den Kurs eines Indexes ausschließlich durch Aktienkurse berechnet}}.	
+{{c1::Ein regulierter Markt}} ist {{c2::ein gesetzlich regulierter Markt}}.	
+"Frage:<br />
+Die Aktien der PAM AG werden im Freiverkehr an der Frankfurter Börse gehandelt.<br />
+Ist das Unternehmen börsennotiert und/oder kapitalmarktorientiert oder keines von beiden?"	weder kapitalmarktorientiert noch börsennotiert
+{{c1::Der Freiverkehr}} ist {{c2::ein börsenregulierter Markt}}.	
+{{c1::Secondary Shares (Altaktien)}} sind {{c2::Aktien, die vor einer Kapitalerhöhung bereits vorhanden sind}}.	
+{{c1::Primary Shares (Neuaktien)}} sind {{c2::Aktien, die bei einer Kapitalerhöhung emittiert werden}}.	
+{{c1::Der Bilanzeffekt}} ist {{c2::die Erhöhung des Grundkapital, der Kapitalrücklagen und der liquiden Mitteln}} durch {{c3::den Börsengang und die Emission von Aktien}}.	
+"wahr oder falsch:<br />
+Unter den Gewinnrücklagen werden Eigenkapitalbeträge ausgewiesen, die im Rahmen der Ergebnisverwendung durch Thesaurierung entstehen und die weder gesetzliche noch satzungsmäßige Rücklagen sind."	"falsch:<br />
+Nach § 266 Abs. 3 HGB werden vier Arten von Gewinnrücklagen unterschieden: die gesetzliche Rücklage, die Rücklage für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen, satzungsmäßige Rücklagen und andere Gewinnrücklagen."
+{{c1::Die Gewinnrücklage}} ist {{c2::ein Bestandteil des Eigenkapitals als nicht ausgeschüttete Gewinne}}.	
+"<p>{{c1::Die Gewinnrücklagen}} bestehen aus:</p>
+<ul>
+<li>{{c2::andere Gewinnrücklagen}}</li>
+<li>{{c3::gesetzlichen Rücklagen für AGs und KGaAs}}</li>
+<li>{{c4::Rücklagen für Anteile an einem herrschenden oder mehrheitlich beteiligten Unternehmen}}</li>
+<li>{{c5::satzungsmäßige Rücklagen}}</li>
+</ul>"	
+{{c1::Die Kapitalrücklage}} ist {{c2::ein Bestandteil des Eigenkapitals als Agiobeträge durch Überpari-Emissionen oder durch die Zuführung von Eignern einer Kapitalgesellschaft}}.	
+"wahr oder falsch:<br />
+Die Summe der Nennbeträge aller ausgegebenen Aktien ist in der Kapitalrücklage zu erfassen."	"falsch:<br />
+Die Summe der Nennbeträge aller ausgegebenen Aktien ergibt das gezeichnete Kapital bzw. Grundkapital."
+{{c1::Das Grundkapital (gezeichnetes Kapital)}} ist {{c2::ein Bestandteil des Eigenkapitals als in der Satzung einer Kapitalgesellschaft fixierter Grundwert}}.	
+{{c1::Das gezeichnete Kapital}} entspricht {{c2::der Summe der Nennwerte der Aktien}} in einer AG oder {{c3::dem Stammkapital}} in einer GmbH.	
+{{c1::Die Greenshoe-Option}} ist {{c2::die Möglichkeit für Konsortialbanken, bei einem Nachfrageüberhang während des Bookbuildings weitere Aktien zum Emissionskurs zu beziehen}}.	
+{{c1::Das Bookbuilding}} ist {{c2::ein Verfahren zur Bestimmung des Emissionskurses durch die Zuteilung von abgegebenen Angeboten von potentiellen Käufern}}.	
+{{c1::Das Festpreisverfahren}} ist {{c2::ein Verfahren zur Bestimmung des Emissionskurses durch Festlegung eines Festpreises}}. Bei einem Nachfrageüberhang findet die Zuteilung durch {{c3::festgelegte Präferenzen oder eine Loszuteilung}} statt.	
+{{c1::Der Sekundärmarkt}} ist {{c2::ein Kapitalmarkt, auf dem Aktien ausgehend von Aktionären gehandelt werden}}.	
+{{c1::Der Primärmarkt}} ist {{c2::ein Kapitalmarkt, auf dem Aktien ausgehend vom emittierenden Unternehmen gehandelt werden}}.	
+"Frage:<br />
+Jan hat eine vinkuliere Namensaktie der Firma XY AG und möchte beide an seinen Freund Simon verkaufen. Was muss er tun?"	Eine vinkulierte Namensaktie bedarf zu ihrer Übertragung der Zustimmung der ausgebenden Aktiengesellschaft. Damit wird die geringe Verkehrsfähigkeit von Namensaktien weiter eingeschränkt. Da die Gesellschaft die Zustimmung zur Übertragung verweigern darf, ist der im Aktienregister eingetragene Aktionär zunächst allein berechtigt, die aus der Aktie resultierenden Rechte geltend zu machen.
+"Frage:<br />
+Wie lässt sich eine vinkulierte Namensaktie übertrage?"	Die Übertragung erfolgt durch Zustimmung der Gesellschafter und Umschreibung im Aktienregister.
+{{c1::Eine vinkulierte Namensaktie}} ist {{c2::eine Aktie, die auf den Namen eines Aktionärs läuft und nur durch eine Zustimmung der Gesellschaft übertragen werden kann}}.	
+"Frage:<br />
+Wie lässt sich eine Namensaktie übertrage?"	Die Übertragung erfolgt durch Umschreibung im Aktienregister.
+{{c1::Eine Namensaktie}} ist {{c2::eine Aktie, die auf den Namen eines Aktionärs gelistet ist und nur durch eine Umschreibung im Aktienregister übertragen werden kann}}.	
+"Frage:<br />
+Wie lässt sich eine Inhaberaktie übertrage?"	Die Übertragung erfolgt durch Einigung und Übergabe der Aktie.
+{{c1::Eine Inhaberaktie}} ist {{c2::eine Aktie, dessen Inhaber die Rechte der Aktie ausüben kann}}.	
+{{c1::Eine stimmrechtslose Aktie}} ist {{c2::eine Aktie ohne Stimmrecht}}.	
+{{c1::Eine Aktie mit einfachen Stimmrecht}} ist {{c2::eine Aktie mit einem Stimmrecht pro Aktie}}.	
+{{c1::Eine Vorzugsaktie}} ist {{c2::eine Aktie ohne Stimmrecht, aber mit zusätzlichen Dividendenansprüchen und/oder einer Bevorzugung bezüglich der Gewinnbeteiligung}}.	
+{{c1::Eine Stammaktie}} ist {{c2::eine Aktie mit einem Stimmrecht}}.	
+europäische Aktiengesellschaft: Anzahl Eigentümer	mindestens ein Eigentümer
+europäische Aktiengesellschaft: Besteuerung	Körperschaftssteuer
+europäische Aktiengesellschaft: Haftung	haftungsbeschränkt
+europäische Aktiengesellschaft: Leitungsbefugnis	Vorstand, Aufsichtsrat und Hauptversammlung
+europäische Aktiengesellschaft: Mindestkapital	120.000,00 EUR Stammkapital
+Einzelunternehmen: Anzahl Eigentümer	ein Eigentümer
+Einzelunternehmen: Besteuerung	Einkommensteuer
+Einzelunternehmen: Haftung	Haftung des Eigentümer mit dem Privatvermögen
+Einzelunternehmen: Leitungsbefugnis	Inhaber
+Einzelunternehmen: Mindestkapital	kein Mindestkapital
+"wahr oder falsch:<br />
+Bei der Gründung eines Einzelunternehmens gibt es kein<br />
+vorgeschriebenes Haftungskapital, weil die Aufnahme stiller<br />
+Gesellschafter möglich ist."	falsch
+"Frage:<br />
+Zu welchen der vier Elemente des Marketing-Mix gehört der Direktvertrieb?"	Distributionspolitik
+"Frage:<br />
+Zu welchen der vier Elemente des Marketing-Mix gehört die Gewährung eines Skontos?"	Preis- und Konditionenpolitik
+"{{c1::Der Marketing-Mix}} ist {{c2::die Zusammensetzungen aller unternehmenspolitischen Marketing-Entscheidungen}} zur<br />
+{{c3::Umsetzung von Marketingstrategien}} in {{c3::einem Markt}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Wiesel-Marketing-Mix.png"" alt=""""><br />
+Marketing-Mix}}}}}}"	
+"<p>{{c1::Der Marketing-Mix}} umfasst:</p>
+<ul>
+<li>{{c2::Distributionspolitik}}</li>
+<li>{{c2::Kommunikationspolitik}}</li>
+<li>{{c2::Konditionenpolitik und Preispolitik}}</li>
+<li>{{c2::Produktpolitik}}</li>
+</ul>"	
+"Frage:<br />
+Die Bank CD hat Firma XY Kapital zur Verfügung gestellt, allerdings in Form eines Kredites. Dieser beläuft sich auf eine Höhe von 10 Mio. € für eine Laufzeit von 10 Jahren. Das nötige Kapital hat die Bank von 10 Anlegern eingesammelt, die jeweils nur eine Mio. € zur Verfügung stellen und auch nur für einen Zeitraum von 5 Jahren. Nach diesen 5 Jahre hofft die Bank, erneut Einleger zu finden, die insgesamt 10 Mio. € für weitere 5 Jahre zur Verfügung stellen.<br />
+Beschreibe anhand dieses Beispiels die Rolle einer Bank als Kreditgeber."	"<ul>
+<li>Losgrößentransformation: Die Bank sammelt daher die kleinen Anlagebeträge und gibt diese als einzelnen Kredit an Firma XY aus.</li>
+<li>Fristentransformation: Anleger wollen ihr Kapital nur für 5 Jahre zur Verfügung stellen, Firma XY allerdings einen 10-jährigen Kredit.</li>
+</ul>"
+"Frage:<br />
+Ordne das folgende Beispiel der Rolle der Banken als direkter Eigenkapitalgeber zu:<br />
+Banken erwerben und halten selbst Aktien an Unternehmen zu spekulativen Zwecken. Des Weiteren kaufen und verkaufen Banken Finanzprodukte um sich gegen Risiken abzusichern."	Beteiligung der Banken aus Eigenhandel
+"Frage:<br />
+Ordne das folgende Beispiel der Rolle der Banken als direkter Eigenkapitalgeber zu:<br />
+Banken kaufen Aktien an dem verbundenen Unternehmen um Einfluss auf die Strategie des Unternehmens auszuüben."	Beteiligung der Banken aufgrund der Unternehmensstrategie
+"Frage:<br />
+Ordne das folgende Beispiel der Rolle der Banken als direkter Eigenkapitalgeber zu:<br />
+Banken versorgen Unternehmen kurzfristig mit Eigenkapital, um das Unternehmen vor einer möglichen Insolvenz zu schützen, die auch für die Bank aufgrund von Vertragsbeziehungen unvorteilhaft wäre."	Beteiligung der Banken im Rahmen von Sanierungen
+"Frage:<br />
+Ordne das folgende Beispiel der Rolle der Banken als Vermittler am Kapitalmarkt zu:<br />
+Bankbürgschaft: Eine Bankbürgschaft bedeutet, dass ein Kreditinstitut als Bürge eintritt. Diese Bürgschaft ist nicht umsonst, sondern wird vom Schuldner mit jährlichen Gebühren bezahlt. Bei der Bankbürgschaft handelt es sich um ein Kreditgeschäft."	Banken übernehmen Risiken
+"Frage:<br />
+Ordne das folgende Beispiel der Rolle der Banken als Vermittler am Kapitalmarkt zu:<br />
+Banken begleiten Börsengänge."	Banken ermöglichen und organisieren Kapitalbeschaffung
+"Frage:<br />
+Ordne das folgende Beispiel der Rolle der Banken als Vermittler am Kapitalmarkt zu:<br />
+Banken begleiten Zusammenschlüsse und Unternehmensübernahmen."	Banken begleiten Übernahmen und Zusammenschlüsse
+"Frage:<br />
+Ordne das folgende Beispiel der Rolle der Banken als Vermittler am Kapitalmarkt zu:<br />
+Banken setzen Analysten ein, um Risiken möglichst objektiv einschätzen zu können, und veröffentlichen diese Informationen in Form von Ratings."	Banken überbrücken Informationsdefizite
+"<p>{{c1::Die Rolle von Banken in der Finanzierung}} ist:</p>
+<ul>
+<li>{{c2::direkter Eigenkapitalgeber}}<ul>
+<li>{{c2::aus Eigenhandel}}</li>
+<li>{{c2::aufgrund einer Unternehmensstrategie}}</li>
+<li>{{c2::im Rahmen einer Unternehmenssanierung}}</li></ul></li>
+<li>{{c3::direkter Kreditgeber}}<ul>
+<li>{{c3::Fristentransformation: Viele Anleger legen kurz für einen langfristigen Kredit an}}</li>
+<li>{{c3::Losgrößentransformation: Viele Anleger geben wenig Geld für große Kreditvolumina}}</li>
+<li>{{c3::Risikotransformation: Anleger wolle sichere Anlagen für ausfallrisikobehaftete Unternehmen}}</li></ul></li>
+<li>{{c4::Mittelsmann im Finanzierungsprozess von Unternehmen}}</li>
+<li>{{c5::Vermittler am Kapitalmarkt}}<ul>
+<li>{{c5::zur Organisation des Kapitals}}</li>
+<li>{{c5::zur Überbrückung von Informationsdefiziten}}</li>
+<li>{{c5::zur Übernahme von Risiken}}</li></ul></li>
+</ul>"	
+"Beispiel:<br />
+Fremdfinanzierung"	"<ul>
+<li>Aufnahme neuer Kredite</li>
+<li>Ausgabe neuer Anleihen</li>
+</ul>"
+{{c1::Die Fremdfinanzierung}} ist {{c2::die Finanzierung durch Überlassung von Fremdkapital durch Kapitalgeber}}, bei der {{c3::Gläubigerrechte mit ergebnisunabhängigen Zahlungsansprüchen}} und {{c3::Ansprüchen auf Zins- und Tilgungszahlungen}} für {{c3::die Kapitalgeber}} entstehen.	
+"Beispiel:<br />
+Eigenfinanzierung"	"<ul>
+<li>Aufnahme eines neuen Gesellschafters in eine OHG</li>
+<li>Kapitalerhöhung einer AG</li>
+</ul>"
+{{c1::Die Eigenfinanzierung}} ist {{c2::die Finanzierung durch Überlassung von Eigenkapital durch Kapitalgeber}}, bei der {{c3::Eigentümerrechte mit ergebnisabhängigen Zahlungsansprüchen}} und {{c3::Ansprüchen auf Gewinn}} für {{c4::die Kapitalgeber}} entstehen.	
+{{c1::Ein Treasurer}} ist {{c2::ein Finanz-Manager in der Finanzwirtschaft und sichert die Liquidität}}.	
+{{c1::Ein Controller}} ist {{c2::ein Gewinn-Manager im betriebswirtschaftlichen Rechnungswesen und sichert die Gewinnerzielung}}.	
+"Frage:<br />
+Die betriebliche Finanzwirtschaft versammelt verschiedene Theorien. Gegenstand hiervon ist beispielsweise, ob Firma A eine neue Halle bauen sollte, ob hierzu ein Kredit aufgenommen werden sollte und die ideale Durchführung des Neubaus. Ordne die Beispiele, falls möglich, der Finanzierungs- bzw. Investitionstheorie zu."	"<ol>
+<li>Kapitalverwendung: Ob eine neue Halle gebaut werden soll fällt unter Investitionstheorie.</li>
+<li>Kapitalbeschaffung: Die Entscheidung, ob ein Kredit aufgenommen werden sollte, fällt unter Finanzierungstheorie.</li>
+<li>Die Durchführung des Neubaus wird typischerweise von einer Fach-/Projektabteilung vorgenommen und fällt nicht unter betriebliche Finanzwirtschaft.</li>
+</ol>"
+{{c1::Die Finanzwirtschaft}} sind alle Aktivitäten {{c2::der Finanzierung zur Kapitalbeschaffung}}, {{c3::Investition zur Kapitalbeschaffung}}, {{c4::des Zahlungsverkehrs zur Kapitalverwaltung}} und {{c5::der Bilanzierung zur Abbildung der Vermögensstruktur}}.	
+{{c1::Der Initial Public Offering (Börsengang, IPO)}} ist {{c2::die Emittierung von Aktien einer emissionsfähigen Kapitalgesellschaft an einem Kapitalmarkt}}.	
+Der Börsengang wird durch {{c1::ein Konsortium}} organisiert.	
+Der Börsengang schafft {{c2::einen Imagegewinn}}, besorgt {{c1::Kapital}} und erhöht {{c3::den Marktwert}} eines Unternehmens.	
+{{c1::Der Nennwert (Kreditbetrag, Nennwert, Nominalbetrag, Nominalwert)}} ist {{c2::die Summe der Rückzahlungsbeträge zu einem Kredit und umfasst den Kreditbetrag und alle anfallenden Zinsen}}.	
+"{{c1::Der Nennwert von einem Wertpapier}} ist {{c2::das Unternehmenskapital im Verhältnis zu der Anzahl der Wertpapiere}}:<br />
+{{c1::\(\text{Nennwert}\)}} \(=\) {{c2::\(\frac{\text{Unternehmenskapital} }{\text{Wertpapieranzahl} }\)}}"	
+"Frage:<br />
+Die Anleihe der Firma XY AG wird von Ratingagenturen wie Moody’s und Standard &amp; Poor’s (S&amp;P) als Anleihe mittlerer Qualität (Investment Grade) eingestuft. Nachdem die Firma durch einen zusätzlichen Kredit ihre kurzfristigen Verbindlichkeiten erneut erhöht hat, wurde sie von den genannten Ratingagentur abgewertet. Jetzt fällt die Anleihe in die Bonitätsbewertung spekulative Anlage (Spekulative Grade). Warum ist die Abwertung hier von besonderer Bedeutung?"	Viele große Anleger unterliegen der Auflage, dass sie ihre Gelder in Anleihen der Investment Grade Kategorie anzulegen haben. Daher gelten Investment Grade Anleihen als größte und wichtigste Anleihen-Klasse. Ein Sprung von der besseren in die schlechtere Anleihen-Klasse sorgt dafür, dass manche Anleger nicht weiter in diese Firma investieren können/dürfen.
+{{c1::Das Rating}} ist {{c2::die Bewertung der Kreditwürdigkeit durch eine Ratingagentur}}.	
+{{c1::Eine Nullkuponanleihe (Zero-Bond)}} ist {{c2::eine Anleihe ohne Dividendenzahlung und einer Rückzahlung des Nennwertes zum Ende der Laufzeit}}. Der Kurs wird mit {{c3::einem Disagio unter pari}} emittiert, wodurch sich {{c3::die Rendite}} ergibt.	
+{{c1::Eine Standardanleihe (Kuponleihe, Plain-Vanilla-Bond)}} ist {{c2::eine Anleihe mit einer festen Nominalverzinsung während der Laufzeit und einer Rückzahlung zum Nennwert am Ende der Laufzeit}}.	
+"Frage:<br />
+Der aktuelle Marktzins liegt bei 8 %. Ein Bekannter behauptet:<br />
+Eine Anleihe mit einem Nominalzins von 13 % ist eine hervorragende Investition, während niemand eine Anleihe mit einem Nominalzins von 3 % kaufen wird.<br />
+Beide Anleihen stammen von demselben Emittenten. Ist dem zustimmbar?"	"Nein, da die effektive Rendite bzw. der Marktzins bei 8 % liegt und somit bei beiden Anleihen gleich ist. Der Nominalzins bzw. Kupon kann beliebig festgelegt werden, wodurch sich der Preis anpasst.<br />
+Möglicherweise gibt es eine Präferenz im Bezug zur Zeitstruktur."
+"Frage:<br />
+Die Bank AB möchte Firma XY gerne Kapital zur Verfügung stellen. Wichtig ist ihr dabei, dass das in Form eines frei handelbaren Wertpapieres geschieht, damit die Bank ihr eingesetztes Kapital kurzfristig wieder zurückerlangen kann. In die Unternehmenspolitik der Firma XY möchte die Bank sich hingegen nicht einmischen. Welche Finanztitel würde der Bank in diesem Fall empfohlen werden?"	Die Bank sollte eine Anleihe der Firma XY kaufen. Diese ist eine Kreditfinanzierung und stellt somit Fremdkapital dar, wodurch die Bank wie gewünscht keine Mitspracherechte erhält.
+{{c1::Eine Anleihe (Bond, Industrieobligation, Rente, Obligation)}} ist {{c2::ein Wertpapier, welches durch ein emissionsfähiges Unternehmen zur Aufnahme eines Darlehens ausgegeben wird}}.	
+Der Nominalzins von einer Anleihe kann {{c1::frei gewählt werden}}, da {{c2::sich entsprechend der Preis anpasst}}.	
+"<p>{{c1::Eine Anleihe}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::als Besitzer einer Anleihe ist man Fremdkapitalgeber}}</li>
+<li>{{c3::ist durch eine Börse handelbar}}</li>
+<li>{{c4::wird durch Covenants besichert}}</li>
+</ul>"	
+{{c1::Eine Aktie}} ist {{c2::ein Wertpapier, welches bestimmte Rechte an einer emissionsfähigen Kapitalgesellschaft verbrieft}}.	
+"<p>{{c1::Eine Aktie}} verbrieft folgende Rechte:</p>
+<ul>
+<li>{{c2::Bezugsrechte im Falle einer Kapitalerhöhung}}</li>
+<li>{{c3::Mitgliedschaftsrechte}}</li>
+<li>{{c4::Mitwirkungsrechte}}</li>
+<li>{{c5::Vermögensrechte, insbesondere das Recht auf einen Anteil am Liquidationserlös im Falle einer Liquidation}}</li>
+<li>{{c6::Vermögensrechte, insbesondere die Partizipation am Unternehmensgewinn über die Dividende}}</li>
+</ul>"	
+Der Handel mit {{c1::Aktien}} an der Börse ermöglicht es, {{c2::die Eigenkapitalanteile eines Unternehmens frei zu handeln, ohne dabei die Eigenkapitalausstattung des Unternehmens zu berühren}}.	
+{{c1::Ein Index (Aktienindex) in der Wirtschaft}} ist {{c2::die quantitative Beschreibung von einer Menge von bestimmten Unternehmen}} nach {{c3::Marktkapitalisierung}} zur Erfüllung {{c4::einer Benchmark-Funktion}}.	
+"{{c1::Solvenz-Bedingung}}:<br />
+{{c2::\(EK = VW - FK &gt; 0\) mit \(EK\) als Eigenkapital, \(VW\) als Vermögenswerte, \(FK\) als Fremdkapital}}"	
+"wahr oder falsch:<br />
+Das Traveling Salesman Problem ist ein Beispiel für Zielsetzungsprobleme in der Planung."	"falsch:<br />
+Es ist ein Beispiel für Lösungsprobleme."
+{{c1::Das Traveling Salesperson Problem (Traveling Salesman Problem, TSP)}} ist {{c2::ein NP-vollständiges Problem, bei welchem in einem gewichteten Graph der kürzeste Rundweg bestimmt werden soll, bei welchem alle Knoten genau einmal aufgesucht werden und der Rundweg am Startknoten enden muss}}.	
+{{c1::Ein Geldmarktpapier (Commercial Paper)}} ist {{c2::eine Schuldverschreibung}}, die zur {{c3::Beschaffung kurzfristiger Gelder emittiert wird}}.	
+{{c1::Ein Commercial Paper}} besitzt {{c2::ein hohes Mindestvolumen}} und {{c2::eine hohe Flexibilität}} durch {{c3::ein beliebiges Volumen über dem Mindestvolumen}} und {{c3::unbefristeter Laufzeit}}.	
+"wahr oder falsch:<br />
+Opportunitätskosten sind keine realen Kosten und sollten daher bei Investitionsentscheidungen auch nicht berücksichtigt werden."	"falsch:<br />
+Auch wenn Opportunitätskosten nicht effektiv anfallen, müssen diese dennoch bei Investitionsentscheidungen berücksichtigt werden, da sonst eventuell eine Investition getätigt werden würde, obwohl die Anlage der eigenen Mittel zum Habenzinssatz vorteilhafter wäre."
+{{c1::Opportunitätskosten}} sind {{c2::der Verlust von entgangenen Gewinnen, welcher bei der Wahl zwischen mehreren Optionen aufgegeben wird, um durch die ausgewählte Option Gewinn einzufahren}}.	
+{{c1::Die Gelegenheitsgesellschaft}} ist eine {{c2::zeitlich begrenzte überbetrieblichen Kooperation}} von {{c3::Personen oder Organisationen}} zu {{c4::einer Gesellschaft bürgerlichen Rechts}} mit dem Ziel, {{c5::ein einzelnes Geschäft durchzuführen}}.	
+{{c1::Die Zweifaktorentheorie}} ist eine Theorie über {{c2::die Dimensionen der Arbeitszufriedenheit von Unzufriedenheit und Nicht-Unzufriedenheit durch Hygienefaktoren}} sowie {{c2::Zufriedenheit und Nicht-Zufriedenheit durch Motivatoren}}.	
+{{c1::Die Arbeitszufriedenheit}} ist {{c2::die subjektive Bewertung der Arbeitssituation}}.	
+Die Arbeitszufriedenheit ist {{c1::ein theoretisches Konzept}} und empirisch {{c2::schwer}} nachweisbar.	
+{{c1::Die Erwartungswert-Theorie}} ist eine Theorie zur Erklärung {{c2::der Arbeitsmotivation}}, nach welcher {{c3::das menschliche Verhalten durch positive und negative Gratifikation beeinflusst wird, weshalb Menschen motiviert sind, positiv und erstrebenswerte Ziele verfolgt werden}}.	
+{{c1::Die Arbeitsmotivation}} ist der Beweggrund einer Person zur Arbeitsleistung.	
+"Frage:<br />
+Definiere das Kongruenzprinzip der Organisation und erläutere dieses an einem selbst gewählten Beispiel."	"Das Kongruenzprinzip besagt, dass Aufgabe, Kompetenz und Verantwortung einer Personalstelle übereinstimmen sollten.<br />
+Ein Mitarbeiter, der die Aufgabe hat, Informationen über die Wirtschaftlichkeit des Unternehmens an den Vorstand zu berichten, muss die Kompetenz haben, Zugriff auf die relevanten Unternehmensdaten zu erhalten. Zudem ist der Mitarbeiter für die korrekte Aufbereitung der Daten verantwortlich."
+{{c1::Das Kongruenzprinzip der Organisation}} ist die Bestimmung, dass {{c2::Aufgaben, Kompetenzen, Verantwortung und Informationen für eine Stelle in einer Organisation übereinstimmen müssen}}.	
+"Frage:<br />
+Erläutere in Worten, was ökonomisch unter der Konsumentenrente zu verstehen ist. Mit welcher Maßnahme können Unternehmen versuchen, die Konsumentenrente abzuschöpfen?"	"Konsumentenrente: Umsatz, den der Kaufmann dadurch verschenkt, dass er nicht bei allen Kunden deren individuelle Zahlungsbereitschaft ausnutzt.<br />
+Möglichkeiten der Ausnutzung: Zeitliche Preisdifferenzierung."
+"{{c1::Die Konsumentenrente (Consumer Surplus)}} ist {{c2::die Differenz zwischen der Zahlungsbereitschaft eines Konsumenten für ein Gut und dem Marktpreis, zu dem ein Gut gekauft wird}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Sieg-Konsumentenrente.png"" alt=""""><br />
+Konsumentenrente}}}}"	
+"{{c1::\(\text{Konsumentenrente}\)}} \(=\) {{c2::\(\frac{(\text{Vorbehaltspreis} - \text{Gleichgewichtspreis}) \cdot \text{Gleichgewichtsmenge} }{2}\)}}<br />
+{{c1::{{c2::<img src=""2022-Bild-Sieg-Konsumentenrente.png"" alt=""""><br />
+Konsumentenrente}}}}"	
+"{{c1::Die Konsumentenrente}} ist für den Konsumenten {{c2::der subjektive Nutzen und das Ersparnis}}, den {{c2::der Konsument}} erhält.<br />
+{{c1::{{c2::<img src=""2022-Bild-Sieg-Konsumentenrente.png"" alt=""""><br />
+Konsumentenrente}}}}"	
+{{c1::Die Konsumentenrente}} ist {{c2::am größten}}, wenn {{c3::die Bedingungen der vollständigen Konkurrenz auf allen Märkten}} gegeben sind.	
+"{{c1::Das Thünen-Modell (thünensche Ringe)}} ist {{c2::ein Modelle der Standorttheorie zur landwirtschaftlichen Bodennutzung}} unter {{c3::ökonomischen Aspekten}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Wikipedia-Thuenen'sche_Ringe.png"" alt=""""><br />
+Thünensche Ringe}}}}}}"	
+"Beispiel:<br />
+Prinzipal-Agent-Theorie"	Die Beziehung zwischen Arzt und Patient.
+Die {{c1::Prinzipal-Agent-Theorie}} ist eine Theorie über die Betrachtung der Beziehung zwischen zwei Subjekten, spezifisch zwischen dem Prinzipal und Agent bei vorliegendem Interessenskonflikt und einer asymmetrischen Informationsverteilung.	
+"Frage:<br />
+Wann ist die Investition bei gegebenen Kapitalwert \(KW_{0}\) vorteilhaft?"	\(KW_{0} \geq 0\)
+"Frage:<br />
+Warum sollte auf Investitionen mit negativem Kapitalwert verzichtet werden?"	Auf Investitionen mit negativem Kapitalwert sollte verzichtet werden, weil diese in der Gegenwart zu einem Verlust von Kapital führt. In der Gegenwart übersteigt der Wert der Ausgaben&nbsp;den Wert der Einnahmen.
+"Frage:<br />
+Welche Annahme über den Kapitalmarkt wird bei Verwendung der Kapitalwertmethode getroffen?"	Es wird ein vollkommener Kapitalmarkt angenommen.
+"wahr oder falsch:<br />
+Bei der Berechnung des Kapitalwerts werden nur die positiven Kapitalströme auf die Periode \(t = 0\) abgezinst."	"falsch:<br />
+Auf den Kapitalwert werden auch negative Kapitalströme abgezinst."
+"wahr oder falsch:<br />
+Der Entscheidungszeitpunkt bei der Kapitalwertmethode liegt in \(t = T\)."	"falsch:<br />
+Bei der Kapitalwertmethode werden alle Entscheidungskonsequenzen auf den Zeitpunkt \(t = 0\) abgebildet."
+"wahr oder falsch:<br />
+Die Berücksichtigung vorhandener Finanzmittel fehlt bei der Kapitalwertformel. Dies stellt eine zentrale Kritik an der Methode dar."	"falsch:<br />
+Die Berücksichtigung vorhandener Finanzmittel ist nicht erforderlich, da die Anlage oder Aufnahme von Kapital zum Zinssatz \(i\) den Kapitalwert der Investition nicht ändert."
+"{{c1::Der Kapitalwert (Barwert aller Zahlungen, Nettobarwert, Nettogegenstandswert, Kapitalwertmethode, Net Present Value, NPV)}} ist {{c2::die Summe aller zukünftigen Ein- und Auszahlungen}} zu {{c2::einer Investition}} und ein Kalkül zum Vergleich von {{c3::abgezinsten Rückflüssen}} in {{c3::der Investitionsrechnung}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Wikipedia-Berechnung_des_Nettokapitalwert.png"" alt=""""><br />
+Berechnung des Kapitalwertes}}}}}}"	
+\(KW_{0} =\) {{c1::\(-I_{0} + \sum_{t = 1}^{n} C_{t} \cdot (1 + i)^{-t} + \frac{R_{n} }{(1 + i)^{n} }\)}} mit {{c1::\(KW_{0}\) als Kapitalwert, \(- I_{0}\) als Anfangskosten, \(t\) als Laufzeit, \(n\) als Endzeitpunkt, \(C_{t}\) als Rückzahlung, \(i\) als Kalkulationszinssatz, \(R_{n}\) als Resterlös}}	
+In {{c1::der Kapitalwertmethode}} wird durch {{c2::die Abzinsung von zukünftigen Erfolgen auf die Gegenwart}} der {{c3::Zeitwert des Geldes}} berücksichtigt.	
+{{c1::Das Gefangenendilemma (Prisoner's Dilemma)}} ist {{c2::ein Kooperationsproblem der Spieltheorie}}, bei welchem {{c2::eigennütziges Handeln für alle Parteien zu einem schlechteren Ergebnis führt, als Kooperation, wobei das Kooperationsverhalten anderer Parteien das eigene Ergebnis verbessern kann}}.	
+"Beispiel:<br />
+Deduktion"	\(\text{Alle Menschen sind sterblich.} \land \text{Sokrates ist ein Mensch.} \Rightarrow \text{Sokrates ist sterblich.}\)
+{{c1::Die Deduktion}} ist {{c2::ein logisches Verfahren zur Ableitung}} einer {{c2::spezifischen Konklusion}} aus {{c2::einer allgemeinen Prämisse}}.	
+"Beispiel:<br />
+Induktion"	\(\text{Sokrates ist sterblich.} \land \text{Sokrates ist ein Mensch.} \Rightarrow \text{Alle Menschen sind sterblich.}\)
+{{c1::Die Induktion in der Logik}} ist {{c2::ein logisches Verfahren zur Herleitung}} einer {{c3::allgemeinen Konklusion}} aus {{c2::einem spezifischen Phänomen}}.	
+Beta-Fehler	Fehler zweiter Art, Konsumentenrisiko
+{{c1::Der Beta-Fehler (Fehler zweiter Art, Konsumentenrisiko)}} ist {{c2::ein Entscheidungsfehler in statistischen Testverfahren}}, der vorliegt, wenn {{c2::eine Hypothese angenommen wird, obwohl diese falsch ist}}.	
+Alpha-Fehler	Fehler erster Art, Produzentenrisiko
+{{c1::Der Alpha-Fehler (Fehler erster Art, Produzentenrisiko)}} ist {{c2::ein Entscheidungsfehler in statistischen Testverfahren}}, der vorliegt, wenn {{c2::eine Hypothese abgelehnt wird, obwohl diese wahr ist}}.	
+{{c1::Teilkosten}} sind {{c2::die Verrechnung von angefallenen Kosten für einen bestimmten Zweck in einer Periode}}.	
+{{c1::Vollkosten}} sind {{c2::die Verrechnung aller angefallenen Kosten in einer Periode}}.	
+{{c1::Normalkosten}} sind {{c2::alle durchschnittlichen angefallenen Kosten in einer Periode anfallen}}.	
+{{c1::Plankosten}} sind {{c2::alle geplanten Kosten für eine zukünftige Periode}}.	
+{{c1::Istkosten}} sind {{c2::alle tatsächlich angefallenen Kosten in einer Periode}}.	
+The Market of Lemons: Quality Uncertainty and the Market Mechanism ist ein wissenschaftliches Paper des Wirtschaftswissenschaftler Georg A. Akerlof, in dem er {{c1::die adverse Selektion am Beispiel von Gebrauchtwagen}} beschreibt.	
+"Beispiel:<br />
+adverse Selektion"	"<ul>
+<li>Arbeitsmarkt</li>
+<li>Gebrauchtwagenmarkt</li>
+<li>Versicherungsmarkt</li>
+</ul>"
+{{c1::Die adverse Selektion (Antiselektion, Negativauslese)}} ist {{c2::eine Theorie über das Marktversagen, in welcher durch die asymmetrische Informationsverteilung zwischen zwei Partner ein Zustand erzielt wird, welcher nicht Pareto-optimal ist}}.	
+"Beispiel:<br />
+sprungfixe Kosten"	Die entstehenden Kosten durch die Inbetriebnahme einer zusätzlichen Maschine.
+{{c1::Sprungfixen Kosten (intervallfixe Kosten, Sprungkosten)}} sind {{c2::eine zwischen variablen Selbstkosten und fixe Kosten stehende Kostenkategorie}}.	
+{{c1::Gemeinkosten (indirekt Kosten)}} sind {{c2::nicht unmittelbar zurechenbare Kosten zu einer Stelle}}.	
+{{c1::Einzelkosten (direkte Kosten)}} sind {{c2::unmittelbar zurechenbare Kosten zu einer Stelle}}.	
+"{{c1::Grenzkosten}} sind {{c2::die Kosten eines zusätzlich produzierten Gutes}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Kostenfunktion.png"" alt=""""><br />
+Verschiedene Kostenfunktionen}}}}"	
+"{{c1::Die Grenzkosten}} sind {{c2::die erste Ableitung der Kostenfunktion}}:<br />
+{{c1::\(GK(x)\)}} \(=\) {{c2::\(K&#039;(x)\)}} mit {{c1::\(GK(x)\) als Grenzkosten}}, {{c2::\(K&#039;(x)\) als Ableitung der Kostenfunktion}}<br />
+{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Kostenfunktion.png"" alt=""""><br />
+Verschiedene Kostenfunktionen}}}}"	
+"{{c1::Durchschnittskosten (Stückkosten)}} sind {{c2::die durchschnittlichen Kosten aller bisherig produzierten Güter}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Kostenfunktion.png"" alt=""""><br />
+Verschiedene Kostenfunktionen}}}}"	
+"{{c1::Die Durchschnittskosten}} sind die Relation zwischen {{c2::der Kostenfunktion}} und {{c2::den eingesetzten Güter}}:<br />
+{{c1::\(DK(x)\)}} \(=\) {{c2::\(\frac{K(x)}{x}\)}} mit {{c1::\(DK(x)\) als Durchschnittskosten}}, {{c2::\(K(x)\) als Kostenfunktion, \(x\) als eingesetzte Güter}}<br />
+{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Kostenfunktion.png"" alt=""""><br />
+Verschiedene Kostenfunktionen}}}}"	
+"{{c1::Variable Kosten}} sind {{c2::die beschäftigungs- und mengenabhängige Kosten}}, die sich mit {{c3::der jeweils betrachteten Einflussgröße}} ändern:<br />
+{{c1::\(VK\)}} \(=\) {{c4::\(K(x) - K(0)\)}} mit {{c1::\(VK\) als variable Kosten}}, {{c4::\(K(x)\) als Kostenfunktion}}<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Pfingsten-Fixe_und_variable_Kosten.png"" alt=""""><br />
+Fixkosten \(K_{f}\) und variable Kosten \(K_{v}\)}}}}}}"	
+"Beispiel:<br />
+fixe Kosten"	"<ul>
+<li>entstehenden Kosten durch die Inbetriebnahme einer zusätzlichen Maschine</li>
+<li>Mieten</li>
+<li>Zinsen</li>
+</ul>"
+"{{c1::Fixe Kosten (Fixkosten)}} sind {{c2::beschäftigungs- und mengenunabhängige Kosten, die sich nicht mit der jeweils betrachteten Einflussgröße ändern}}:<br />
+{{c1::\(FK\)}} \(=\) {{c3::\(K(0)\)}} mit {{c1::\(FK\) als Fixkosten}}, {{c3::\(K(0)\) als Kostenfunktion für \(x = 0\)}}<br />
+{{c1::{{c2::<img src=""2021-Bild-Pfingsten-Fixe_und_variable_Kosten.png"" alt=""""><br />
+Fixkosten \(K_{f}\) und variable Kosten \(K_{v}\)}}}}"	
+{{c1::Die Kostenfunktion (Kostenkurve)}} ist {{c2::eine Funktion, welche die Kosten angibt, die anfallen}}, wenn {{c3::einer Menge eines Gutes bei gegebenen Preis mit der durch die Produktionsfunktion beschrieben Technologie produziert wird}}.	
+"{{c1::Die Kostenfunktion}} besteht aus {{c2::fixen Kosten}} und {{c2::variablen Kosten}}:<br />
+{{c1::\(K(x)\)}} \(=\) {{c2::\(FK + VK(x)\)}} mit {{c1::\(K(x)\) als Kostenfunktion}}, {{c2::\(FK\) als fixe Kosten, \(VK\) als variable Kosten}}"	
+{{c1::Die Rationalisierungsinvestition (Ersatzinvestition)}} ist {{c2::eine Investition}} mit {{c2::angestrebter höherer Effizienz oder Rentabilität}} durch {{c3::bessere Nutzung bzw. Rationalisierung von Produktionsfaktoren}}.	
+{{c1::Die volkswirtschaftlichen Effekte}} von Rationalisierungsinvestitionen sind {{c2::nicht völlig eindeutig}} erforscht.	
+"Bei {{c1::Änderung von Produktionsfaktoren}} bei {{c1::gleichem Output zur Kostenminimierung}} {{c2::steigt der Anteil des Produktionsfaktors entsprechend der Änderung}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Pfingsten-Drehung_der_Minimalkostenkombination.png"" alt=""""><br />
+Änderung der Faktornachfrage}}}}"	
+"Bei {{c1::Änderung von Produktionsfaktoren}} bei {{c1::gleichen Kosten zur Erhöhung des Output}} {{c2::können nicht vorhersehbare Änderungen am Anteil der Produktionsfaktoren vorkommen, da sich durch die Änderung neue Technologien oder günstigere Alternativen vorhanden sein können}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Pfingsten-Drehung_der_Minimalkostenkombination.png"" alt=""""><br />
+Änderung der Faktornachfrage}}}}"	
+{{c1::Kosten}} sind {{c2::eine grundlegende Rechengröße}} und beschreiben {{c3::den bewerteten Verzehr aller für die Erstellung der betrieblichen Leistung verbrauchten Güter}}.	
+Nur {{c1::der Einsatz von Produktionsfaktoren}} für {{c2::produktive Zwecke}} führt zu {{c3::Kosten}}.	
+"{{c1::Der Expansionspfad}} ist {{c2::die Verbindung aller Minimalkostenkombinationen bei wachsenden Kosten und steigenden Produktionsfaktoren}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Expansionspfade.png"" alt=""""><br />
+Istkosten und Isoquanten mit vier Minimalkostenkombinationen, wobei eine Verbindungslinie zwischen diesen Punkten den Expansionspfad darstellt}}}}"	
+"{{c1::Die Minimalkostenkombination}} ist {{c2::die Kombination von Produktionsfaktoren und Kosten der Kostenfunktion nach den ökonomischen Prinzipien}}:<br />
+{{c1::\(K(x)\)}} \(=\) {{c2::\(q_{1} r_{1} + q_{2} r_{2} +... + q_{n} r_{n}\)}} mit {{c1::\(K(x)\) als Kostenfunktion}}, {{c2::\(x\) als Ausbringungsmenge, \(q_{i}\) als Preis, \(r_{i}\) als Einsatzmenge}}"	
+"Geometrisch ergibt sich {{c1::die Minimalkostenkombination}} aus {{c2::dem Schnittpunkt(en) zwischen der Isoquante und der Istkostenkurve}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Minimale_Kostenkombination.png"" alt=""""><br />
+Tangentialpunkt von Isokostengerade und Isoquante bestimmen die Minimalkostenkombination}}}}"	
+"{{c1::Die Istkostenkurve (Isokostengerade, Isokostenlinie, Isotime, Kostenisoquante, Kostengerade)}} ist {{c2::die Kombination von Produktionsfaktoren}}, die zu {{c2::gleich hohen Istkosten}} führen.<br />
+{{c1::{{c2::<img src=""2021-Bild-Pfingsten-Kostengeraden.png"" alt=""""><br />
+Faktorkombination mit konstanten Kosten}}}}"	
+{{c1::Das Gesetz der abnehmenden Grenzrate der Substitution}} ist ein Gesetz und gibt an, {{c2::welche Veränderung der Einsatzmenge eines Produktionsfaktors erforderlich ist}}, um, {{c3::bei konstanter Produktionsmenge und konstanten Einsatzmengen aller sonstigen Produktionsfaktoren}}, {{c4::eine vorgegebene Veränderung der Einsatzmenge eines anderen Produktionsfaktors zu kompensieren}}.	
+"Beispiel:<br />
+Isoquante"	"<ul>
+<li>Limitionalität: Tapezierer benötigt zum Tapezieren Tapete und Kleister</li>
+<li>Substitionalität: Ein Bäcker benötigt für Brötchen Butter und/oder Margarine</li>
+</ul>"
+"wahr oder falsch:<br />
+Die Form der Isoquanten einer Produktionsfunktion hängt von den Faktorpreisen ab."	"falsch:<br />
+Die Form der Isoquanten hängt von den technischen Eigenschaften des Produktionsprozesses ab."
+"{{c1::Eine Isoquante}} ist {{c2::ein Vektor}}, auf welchen durch {{c3::die Kombination}} von {{c3::Faktoreinsatzmengen}} die {{c3::Ausbringungsmenge}} angegeben wird. Aus {{c1::den Isoquanten}} kann {{c4::die nötige Substitution der Produktionsfaktoren}} entnommen werden.<br />
+{{c1::<img src=""2021-Bild-Pfingsten-Isoquanten_1.png"" alt=""""><br />
+Isoquanten bei Limitation mit \(r_{1}\) als Arbeit, \(r_{2}\) als Einzelteile}}"	
+{{c1::Eine Technologie}} ist {{c2::die Wissenschaft der Technik}} und {{c2::die Menge aller Aktivitäten}}, über die {{c2::ein Betrieb oder eine Volkswirtschaft verfügt}}.	
+"{{c1::Die Produktionsfunktion}} ist {{c2::die funktionale Beziehung}} zwischen {{c2::Faktoreinsatzmengen}} und {{c2::der maximalen Ausbringungsmenge}} mit {{c2::der Hilfe von Technologien}}, durch welchen {{c3::eine Wertschöpfung}} stattfindet.<br />
+\(x\) \(=\) {{c1::\(\phi (r_{1}, r_{2},..., r_{n})\)}} mit \(x\) als {{c2::maximale Ausbringungsmenge}}, \(phi\) als {{c2::Technologien}}, \(r\) als {{c2::Faktoreinsatzmengen}}"	
+{{c1::Eine Aktivität \(\underline{y}\)}} ist {{c2::die Kombination von Faktoreinsatzmengen \(\underline{r}\)}} mit den {{c3::daraus hergestellten Ausbringungsmengen \(\underline{x}\) in einer Produktion}}.	
+{{c1::Ein Produktionsfaktor (Faktoreinsatz)}} ist ein {{c2::in die Produktion eingesetztes Gut}}.	
+{{c1::Die Produktion (Fertigung, Herstellung)}} ist {{c2::die Einsetzung von Produktionsfaktoren zur Umwandlung in neue Güter}}.	
+{{c1::Ein Gut}} ist {{c2::eine Ware und Dienstleistung}}, die {{c3::konsumiert}} oder {{c3::bei der Produktion}} in {{c3::andere Güter umgewandelt werden kann}}.	
+"Frage:<br />
+Begründe knapp und präzise, ob in der üblichen Erklärung des Tax Shields die Finanzierung mit Eigenkapital oder die Finanzierung mit Fremdkapital günstiger ist."	"Die Finanzierung mit Fremdkapital ist günstiger, da Fremdkapitalzinsen zu einem steuerlichen Vorteil führen. Der Zinsaufwand ist als Betriebsausgabe abzugsfähig und mindert den zu versteuernden Gewinn.<br />
+Annahme ist, dass die Zinserträge der Fremdkapitalgeber nicht besteuert werden."
+"wahr oder falsch:<br />
+Der Tax-Shield bewirkt, dass das Unternehmen einen höheren Umsatz erwirtschaftet."	"falsch:<br />
+Der Umsatz des Unternehmens steigt nicht. Das Tax-Shield bewirkt, dass aufgrund der&nbsp;steuerlichen Abzugsfähigkeit von Fremdkapitalzinsen die Steuerschuld des Unternehmens sinkt."
+"wahr oder falsch:<br />
+Der Tax Shield führt zur Vorteilhaftigkeit der Fremdfinanzierung gegenüber der Eigenfinanzierung von Unternehmen."	"wahr:<br />
+Fremdkapitalzinsen sind steuerlich abzugsfähig und mindern den zu versteuernden Gewinn. Ausschüttungen an Eigenkapitalgeber sind hingegen nicht steuerlich abzugsfähig. Daher ist die Fremdfinanzierung vorteilhaft gegenüber der Eigenfinanzierung"
+{{c1::Der Tax-Shield (Steuerschild)}} ist {{c2::eine Verringerung der Steuerlast durch Fremdkapitalzinsen, Schulden oder Verlustvorträgen}}, die durch {{c3::die Verringerung des Gewinn vor Steuern erzeugt wird}}.	
+"<p>Ein {{c1::Tax-Shield}} entsteht durch {{c5::die Fortschreibung von alten Verlusten}} oder {{c5::die Erhöhung der Abschreibung}}:</p>
+<ul>
+<li>{{c4::Aufkauf von insolventen und nicht mehr aktiv tätigen Unternehmensmänteln}}</li>
+<li>{{c3::Erhöhung der Abschreibung durch finanziellen Positionen}}, z. B. {{c3::durch Zinsaufwand durch ein Leveraged Buyout}}</li>
+<li>{{c2::operative Tätigkeiten}}, z. B. {{c2::durch höheren Aufwand}}</li>
+</ul>"	
+{{c1::Ein Tauschkreis (Nachbarschaftshilfe, Tauschring)}} ist {{c2::ein Marktsystem}}, in welchem {{c2::Güter ohne Entgelt gehandelt werden}}.	
+"wahr oder falsch:<br />
+Wenn durch Steuern nur geringe staatliche Einnahmen erzielt werden sollen, liegt keine Steuer vor."	"falsch:<br />
+Auch kleine Steuern erzeugen einen Lenkungseffekt."
+"wahr oder falsch:<br />
+Wenn Landwirte jedes zehnte gemästete Schwein beim Finanzamt abgeben müssen, ist das eine Steuer im Sinne der Abgabenordnung."	"falsch:<br />
+Steuern umfassen nur Geldleistungen."
+{{c1::Eine Steuer}} ist {{c2::eine Geldleistung, die nicht eine Gegenleistung für eine besondere Leistung darstellen und von einem öffentlich-rechtlichen Gemeinwesen zur Erzielung von Einnahmen auferlegt werden}}.	
+{{c1::Der Discounted Cash Flow (DCF)}} ist {{c2::eine Methode zur Berechnung des zukünftig erwarteten Cashflows}}.	
+Gründe der Insolvenz	"<ul>
+<li>drohende Zahlungsunfähigkeit</li>
+<li>Überschuldung</li>
+<li>Zahlungsunfähigkeit</li>
+</ul>"
+{{c1::Der Endbestand}} ist {{c2::eine Bestandsgröße im betriebswirtschaftlichen Rechnungswesen und beschreibt den stichtagbezogenen Bestand von Geldvermögen, Werten und Zahlungsmitteln}}.	
+{{c1::\(Endbestand\)}} \(=\) {{c2::\(Anfangsbestand + Zugänge - Abgänge\)}}	
+"Beispiel:<br />
+Einzahlung/Auszahlung"	Kreditaufnahme/Kredittilgung
+"Beispiel:<br />
+Einzahlung und Einnahme/Auszahlung und Ausgabe"	Barkauf/Barverkauf von Rohstoffen
+"Beispiel:<br />
+Einnahme und Ertrag/Ausgabe und Aufwand"	Warenkauf/Warenverkauf auf Ziel
+"Beispiel:<br />
+Ertrag und Leistung/Aufwand und Kosten"	Aufschreibung/Abschreibung
+"Beispiel:<br />
+Leistung/Kosten"	Selbsterstellung von Maschinen/kalkulatorische Miete
+"Frage:<br />
+Akkordlohnzahlungen für die Produktion von Stühlen finden statt. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	beides
+"Frage:<br />
+Ausgaben für die Energiebereitstellung finden statt. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	beides
+"Frage:<br />
+Ein finanzieller Schaden aufgrund eines Betrugsfalles entsteht. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	Aufwand
+"Frage:<br />
+Ein kalkulatorischer Unternehmerlohn wird verbucht. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	Kosten
+"Frage:<br />
+Eine Gewerbesteuernachzahlung wird durchgeführt. Handelt es sich um einen Aufwand, um Kosten oder um beides?"	Aufwand
+"Frage:<br />
+Ein Kunde kauft Produkte auf Ziel. Die Begleichung der Rechnung erfolgt erst in einer Folgeperiode. Handelt es sich um eine Einzahlung, eine Einnahme oder um beides?"	"Einnahme:<br />
+Dieser Sachverhalt ist eine Einnahme, aber keine Einzahlung. Das Nettogeldvermögen erhöht sich, jedoch nicht der Kassenbestand."
+"Frage:<br />
+Ein Kunde begleicht eine Forderung durch Banküberweisung. Handelt es sich um eine Einzahlung, eine Einnahme oder um beides?"	"Einzahlung:<br />
+Dieser Sachverhalt ist eine Einzahlung, aber keine Einnahme. Der Kassenbestand erhöht sich, das Nettogeldvermögen jedoch nicht."
+"Frage:<br />
+Ein Kunde kauft Produkte und begleicht die Rechnung durch Banküberweisung. Handelt es sich um eine Einzahlung, eine Einnahme oder um beides?"	"beides:<br />
+Dieser Sachverhalt ist sowohl eine Einzahlung als auch eine Einnahme, da sich sowohl der Kassenbestand als auch das Nettogeldvermögen erhöhen."
+"Frage:<br />
+Eine Vase, die U ursprünglich vom Sperrmüll eingesammelt hat und nun im Fenster seines Restaurants aufgestellt hat, stellt sich als antikes Objekt von sehr hohem Wert heraus. Der Stammkunde Werner Wusel kauft ihm diese für 1.000€ ab. Handelt es sich um einen Ertrag?"	Ja, da das Reinvermögen steigt.
+"Frage:<br />
+U erhält einen Bescheid über die Bewilligung der Coronahilfe der Bundesregierung. Handelt es sich um eine Einzahlung, Einnahme, Ertrag oder Leistung?"	Einnahme und Ertrag
+"Frage:<br />
+U muss zum Verwalten der während des Sommers angefallenen Kontaktverfolgungszettel mehrere Nächte durcharbeiten. Handelt es sich um Aufwand?"	Nein, kalkulatorischer Unternehmerlohn ist kein Aufwand.
+"Frage:<br />
+U nimmt einen Kredit bei der Münstersche Global Finanz AG auf. Handelt es sich um eine Einzahlung, Einnahme, Ertrag oder Leistung?"	Einzahlung
+"Frage:<br />
+U spendet Stühle aus seiner Pizzeria an einen Kindergarten im Kreuzviertel. Handelt es sich um eine Auszahlung, Ausgabe, Aufwand oder Kosten?"	Aufwand
+"Frage:<br />
+U verbraucht Zutaten aus dem Lager, um Pizzen für eine Großbestellung zu backen. Handelt es sich um eine Auszahlung, Ausgabe, Aufwand oder Kosten?"	Aufwand und Kosten
+{{c1::Stromgrößen des betriebswirtschaftlichen Rechnungswesens}} können {{c2::sich überschneiden}}, ein Geschäftsvorfall kann also {{c2::Bestandteil von mehreren Stromgrößen}} sein.	
+{{c1::Das betriebswirtschaftliche Rechnungswesen}} ist {{c2::die betriebliche Rechnungslegung}} und umfasst {{c3::verschiedene Rechenwerke zur Erfassung und Überwachung von Geldströmen und Leistungsströme innerhalb eines Unternehmens}}.	
+{{c1::Die Bruttowertschöpfung}} ist {{c2::die entstehende Wertschöpfung}} durch {{c2::die Produktion von Gütern}}.	
+"{{c1::\(\text{Bruttowertschöpfung}\)}} \(=\) \(\text{Produktionswert} - \text{Vorleistung}\)<br />
+{{c1::<img src=""2021-Bild-Pfingsten-Aggregationsergebnis.png"" alt=""""><br />
+Aggregationsergebnis}}"	
+"{{c1::\(\text{Bruttowertschöpfung}\)}} \(=\) \(\text{Nettowertschöpfung} + \text{Abschreibungen}\)<br />
+{{c1::<img src=""2021-Bild-Pfingsten-Aggregationsergebnis.png"" alt=""""><br />
+Aggregationsergebnis}}"	
+{{c1::Der Produktionswert}} ist {{c2::der Wert aller Güter}}, die von {{c3::einem Unternehmen oder einer Volkswirtschaft}} produziert werden.	
+"{{c1::\(\text{Produktionswert}\)}} \(=\) {{c2::\(\text{Verkäufe} + \text{Bestandsveränderung an eigenen Erzeugnissen} + \text{selbster stellte Anlagen}\)}}<br />
+{{c1::{{c2::<img src=""2021-Bild-Pfingsten-Aggregationsergebnis.png"" alt=""""><br />
+Aggregationsergebnis}}}}"	
+"{{c1::Die Wertschöpfung}} ist in der volkswirtschaftlichem Gesamtrechnung {{c2::die wirtschaftliche Leistung}}, welche sich durch {{c3::die Differenz zwischen dem Produktionswert und der getätigten Ausgaben}} ergibt.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Pfingsten-Aggregationsergebnis.png"" alt=""""><br />
+Aggregationsergebnis}}}}}}"	
+{{c1::Die volkswirtschaftliche Gesamtrechnung (gesamtwirtschaftliches Rechnungswesen, volkswirtschaftliches Rechnungswesen, VGR)}} ist {{c2::die quantitative Beschreibung des wirtschaftlichen Geschehens}} in einer Volkswirtschaft für {{c3::einen zurückliegenden und daher abgeschlossenen Zeitraum}}.	
+{{c1::Die Rechnungslegung}} dient {{c2::der Informationsversorgung}} von {{c3::Stakeholdern}}.	
+"Beispiel:<br />
+Außenfinanzierung"	"<ul>
+<li>Aufnahme neuer Kredite</li>
+<li>Ausgabe neuer Aktien</li>
+<li>Ausgabe neuer Anleihen</li>
+</ul>"
+"{{c1::Die Außenfinanzierung}} ist {{c2::die Zuführung finanzieller Mittel durch externe Kapitalgeber}} zur {{c3::Finanzierung}}.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Pfingsten-Finanzierungsarten.png"" alt=""""><br />
+Typisierung von Finanzierungsformen}}}}}}"	
+"Beispiel:<br />
+Innenfinanzierung"	"<ul>
+<li>Finanzierung aus Abschreibungsgegenwerten</li>
+<li>Finanzierung aus Vermögensumschichtung</li>
+<li>offene Selbstfinanzierung und stille Selbstfinanzierung</li>
+</ul>"
+"{{c1::Die Innenfinanzierung}} ist {{c2::die Freisetzung unternehmensintern erzielter Umsatzerlöse und Einzahlungsüberschüssen}} zur {{c3::Finanzierung}}.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Pfingsten-Finanzierungsarten.png"" alt=""""><br />
+Typisierung von Finanzierungsformen}}}}}}"	
+{{c1::Das Eigenkapital (Reinvermögen)}} sind {{c2::alle Mittel, die durch die Eigentümer eines Unternehmens zu diese zugeführt wurden und entweder als Beteiligungsfinanzierung zur Finanzierung zeitlich unbegrenzt oder durch Verzicht auf Gewinnausschüttungen belassen wurden}}. Der Inhalt {{c1::des Eigenkapitals}} ist von {{c3::der Rechtsform eines Unternehmens}} abhängig.	
+{{c1::\(EK\)}} \(=\) {{c2::\(V - S\)}} mit {{c1::\(EK\) als Eigenkapital}}, {{c2::\(V\) als Vermögen, \(S\) als Schulden}}	
+Das Eigenkapital kann in {{c1::fixes Eigenkapital und variables Eigenkapital}} aufgeteilt werden.	
+"<p>Das reale Eigenkapital wird erhöht durch:</p>
+<ul>
+<li>{{c1::eine Kapitalerhöhung bei Kapitalgesellschaften}}</li>
+<li>{{c1::eine Kapitaleinlage bei Personengesellschaften}}</li>
+<li>{{c1::erzielte Gewinne}}</li>
+</ul>"	
+"<p>{{c1::Das Eigenkapital}} besteht aus:</p>
+<ul>
+<li>{{c2::Bilanzgewinn und Bilanzverlust}}</li>
+<li>{{c2::Gewinnrücklagen}}</li>
+<li>{{c2::Gewinnvortrag und Verlustvortrag}}</li>
+<li>{{c2::Jahresüberschuss und Jahresfehlbetrag}}</li>
+<li>{{c2::gezeichnetes Kapital und Haftungskapital<ul>
+<li>Grundkapital von Aktiengesellschaften</li>
+<li>Stammkapital von GmbHs}}</li></ul></li>
+<li>{{c2::Kapitalrücklagen}}</li>
+</ul>"	
+Unternehmensgesellschaft: Anzahl Eigentümer	mindestens ein Eigentümer
+Unternehmensgesellschaft: Mindestkapital	kein Mindestkapital
+Unternehmensgesellschaft: Haftung	haftungsbeschränkt
+Unternehmensgesellschaft: Besteuerung	Körperschaftssteuer
+Unternehmensgesellschaft: Leitungsbefugnis	Geschäftsführer
+{{c1::Die Haftungsbeschränkung}} ist {{c2::die Verhinderung von Verlust des Privatvermögens in Unternehmungen}}.	
+Aktiengesellschaft: Anzahl Eigentümer	mindestens ein Eigentümer
+Aktiengesellschaft: Besteuerung	Körperschaftssteuer
+Aktiengesellschaft: Haftung	haftungsbeschränkt
+Aktiengesellschaft: Leitungsbefugnis	Vorstand, Aufsichtsrat und Hauptversammlung
+Aktiengesellschaft: Mindestkapital	50.000,00 EUR Stammkapital
+Gesellschaft mit beschränkter Haftung: Anzahl Eigentümer	mindestens ein Eigentümer
+Gesellschaft mit beschränkter Haftung: Besteuerung	Körperschaftssteuer
+Gesellschaft mit beschränkter Haftung: Haftung	haftungsbeschränkt
+Gesellschaft mit beschränkter Haftung: Leitungsbefugnis	Geschäftsführung, Aufsichtsrat und Gesellschaftsversammlung
+Gesellschaft mit beschränkter Haftung: Mindestkapital	25.000,00 EUR Stammkapital
+Kommanditgesellschaft: Anzahl der Eigentümer	mindestens zwei Eigentümer
+Kommanditgesellschaft: Besteuerung	Einkommensteuer
+Kommanditgesellschaft: Haftung	Haftung der Komplementäre mit den Privatvermögen, Haftungsbeschränkung für die Kommanditisten
+Kommanditgesellschaft: Leitungsbefugnis	Komplementäre
+Kommanditgesellschaft: Mindestkapital	kein Mindestkapital
+"wahr oder falsch:<br />
+Bei einer KG trägt der Kommanditist mehr Risiko als der Komplementär."	falsch
+offene Handelsgesellschaft: Anzahl der Eigentümer	mindestens zwei Eigentümer
+offene Handelsgesellschaft: Besteuerung	Einkommensteuer
+offene Handelsgesellschaft: Haftung	Haftung der Eigentümer mit dem Privatvermögen
+offene Handelsgesellschaft: Leitungsbefugnis	Gesellschafter
+offene Handelsgesellschaft: Mindestkapital	kein Mindestkapital
+Einzelkaufmann: Anzahl der Eigentümer	ein Eigentümer
+Einzelkaufmann: Haftung	Haftung des Eigentümers mit dem Privatvermögen
+Einzelkaufmann: Besteuerung	Einkommensteuer
+Einzelkaufmann: Leitungsbefugnis	Inhaber
+Einzelkaufmann: Mindestkapital	kein Mindestkapital
+"Frage:<br />
+Erläuter die wesentlichen Informations- und Anreizprobleme, die bei einer idealtypischen Kapitalgesellschaft auftreten, und wie sie gelöst oder zumindest entschärft werden können."	"<ul>
+<li>Problem 1: Qualitätsunsicherheit vor Eintritt in die Gesellschaft beim potenziellen Gesellschafter über deren wirtschaftliche Lage. Lösung: Reduzierung des möglichen Schadens durch Haftungsbegrenzung</li>
+<li>Problem 2: Verhaltensunsicherheit bei den Alt-Gesellschaftern bezüglich des Verhaltens des neuen Gesellschafters. Lösung: Kontrollsystem zur Überwachung.</li>
+</ul>"
+"Frage:<br />
+Wie hoch ist die Sekundärmarktliquidität für eine idealtypische Kapitalgesellschaft?"	Es besteht eine hohe Sekundärmarktliquidität: Bei einer idealtypischen Kapitalgesellschaft besteht eine schwach asymmetrische Informationsverteilung zwischen Folge- und Ersterwerber und damit kaum (diesbezügliche) Qualitätsunsicherheit. Zusätzlich schwächen Publizitätsmaßnahmen die Asymmetrie der Informationsverteilung weiter ab. Ein Markt zum Handel von bereits emittierten Titeln auf Sekundärmärkten würde daher zustande kommen.
+{{c1::Eine idealtypische Kapitalgesellschaft}} ist ein Unternehmenstyp zur {{c2::Reduktion des Informationsbedarf und Koordinierungsaufwand zwischen Gesellschaftern und Kapitalgebern}}.	
+"Frage:<br />
+Was ist der Nachteile einer idealtypischen Personengesellschaft?"	Ein hoher Koordinationsaufwand zwischen mehreren Gesellschaftern.
+"Frage:<br />
+Wie hoch ist die Sekundärmarktliquidität für eine idealtypische Personengesellschaft?"	Es besteht kaum bzw. nur wenig Sekundärmarktliquidität: Bei der idealtypischen Personengesellschaft besteht eine stark asymmetrische Informationsverteilung zwischen Folge- und Ersterwerber und damit eine erhebliche Qualitätsunsicherheit. Der Markt zum Handel von bereits emittierten Titeln auf Sekundärmärkten würde daher aufgrund von adverser Selektion nicht zustande kommen.
+"wahr oder falsch:<br />
+Wenn eine idealtypische Personengesellschaft um viele Gesellschafter erweitert werden soll, bietet es sich an, die Geschäftsführung an ein professionelles Management zu delegieren."	"wahr:<br />
+Die Koordinationskosten der Vielzahl an Gesellschafter würden die Kosten, die durch Beauftragung eines professionellen Managements entstehen, übersteigen."
+{{c1::Eine idealtypische Personengesellschaft}} ist ein Unternehmenstyp {{c2::zur Einräumung umfassender Rechte, insbesondere dem Informations-, Mitwirkungs- und Kündigungsrecht}}.	
+{{c1::Ein naives Geschäft}} ist ein Unternehmen mit {{c2::proportionalen Anteil an Gewinn und Verlust}} so wie keinen {{c3::Informationsrecht}}, {{c4::Mitwirkungsrecht}} oder {{c5::Kündigungsrecht}}.	
+{{c1::Eine Unternehmensverbindung}} ist {{c2::eine Verbindung zwischen zwei oder mehreren Unternehmen}}.	
+{{c1::Ein Joint Venture (Gemeinschaftsunternehmen)}} ist {{c2::eine überbetriebliche Kooperation zur Gründung eines Tochterunternehmens durch zwei oder mehrere unabhängige Unternehmen}}.	
+"wahr oder falsch:<br />
+Ein Ziel einer Unternehmenskooperation kann eine höhere Marktmacht gegenüber den Lieferanten sein."	"wahr:<br />
+Je größer die Macht der kooperierenden Unternehmen ist, umso eher können sie die Preise, die sie an Zulieferer für Produktionsfaktoren zahlen müssen, in ihrem Sinne beeinflussen."
+{{c1::Eine überbetriebliche Kooperation}} ist {{c2::die Zusammenarbeit von zwei oder mehreren selbstständigen Unternehmen}}.	
+{{c1::Eine Geschäftsbereichsorganisation}} ist eine Organisation, welche nach {{c4::Kundengruppen}}, {{c3::Produkten}} und/oder {{c2::Regionen}} organisiert ist.	
+"Frage:<br />
+Erläutere kurz zwei besonders wichtige Situationsmerkmale, bei deren Vorliegen eine funktionale Organisation gegenüber einer Geschäftsbereichsorganisation vorteilhaft ist."	"<ul>
+<li>homogener Zielmarkt: Sonst Funktionserfüllung nicht angepasst genug</li>
+<li>homogenes Produktionsprogramm: Hohe fachliche Spezifikation</li>
+</ul>"
+{{c1::Eine funktionale Organisation}} ist {{c2::ein Modell einer Organisation, welche nach ihren Funktionen organisiert ist}}.	
+{{c1::Eine innerbetriebliche Interdependenz}} ist {{c2::die Abhängigkeit und Beziehung von Märkten, Leistungen und Ressourcen zwischen einzelnen Stellen}}.	
+{{c1::Eine Stelle (Teileinheit)}} ist {{c2::die kleinste organisatorische Einheit}}, welche durch {{c2::die dauerhafte Zuordnung von Aufgaben, Kompetenzen und Verantwortung}} entsteht.	
+{{c1::Eine Ablauforganisation}} ist die Gliederung von einem Unternehmen in {{c2::organisatorische Teileinheiten}}, welche nach {{c3::dem Ablauf des betrieblichen Geschehens}} geschlüsselt werden.	
+{{c1::Eine Aufbauorganisation}} ist die Gliederung von einem Unternehmen in {{c2::organisatorische Teileinheiten}}, welche nach {{c3::Aufgaben und Kompetenzen der einzelnen Teileinheiten}} geschlüsselt werden.	
+In {{c1::der Aufbauorganisation}} wird zwischen {{c2::Leitungsstellen}} und {{c2::Ausführungsstellen}} unterschieden.	
+"{{c1::Maslows Bedürfnispyramide (Bedürfnishierarchie)}} ist {{c2::eine hierarchische Anordnung der Bedürfnisse}}, bei welcher {{c2::das nächst höheres Bedürfnis erst dann befriedigt werden kann, wenn das hierarchisch untergeordnete Bedürfnis befriedigt ist}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Dynamische_Beduerfnishierarchie_nach_Abraham_Maslow.svg"" alt=""""><br />
+Dynamische Darstellung der Bedürfnishierarchie}}}}"	
+Maslows Bedürfnishierarchie ist {{c1::theoretisch}} fundiert und empirisch {{c1::nur unzureichend}} nachweisbar.	
+"Frage:<br />
+Diskutiere die Frage der Lohnfortzahlungen im Krankheitsfall aus Sicht eines asymmetrischen Informations- und Anreizproblems. Wie sollte die Wahlmöglichkeit jedes Beschäftigten zwischen dem Wegfall des Weihnachtsgeldes und der Kürzung der Lohnfortzahlungen im Krankheitsfall auf 80 % bewertet werden?"	Arbeitgeber ist über die Gesundheit des Arbeitnehmers schlechter informiert und kann sie auch nicht so gut beobachten. Lohnfortzahlung schafft Anreiz zur Krankmeldung. Wahlmöglichkeit ist daher quasi als Selbstbehalt bzw. Qualitätssignal des Arbeitnehmers zu verstehen. Wählt er den Wegfall des Weihnachtsgeldes anstelle der Kürzung der Lohnfortzahlung, so ist mit häufigen Krankmeldungen zu rechnen. Wählt er die Kürzung, wird er sich bemühen selten krank zu sein. Arbeitgeber kann die Qualität seiner Angestellten besser einschätzen
+"Frage:<br />
+Erkläre kurz aber präzise, was die Möglichkeit der Vereinbarung einer Selbstbeteiligung im Schadensfall bei Autoversicherungen mit der Beseitigung von Informationsasymmetrien zu tun hat."	"Es besteht eine Informationsasymmetrie bezüglich der Autofahrqualitäten des Interessenten für eine Autoversicherung und der Versicherungsgesellschaft selbst. Mit Hilfe der Vereinbarung eines Selbstbehaltes kann diese Informationsasymmetrie vermindert werden.<br />
+Der Autofahrer signalisiert auf diese Weise seine Qualität und auch die Tatsache, dass er um die Vermeidung von Unfällen bemüht sein wird."
+{{c1::Die asymmetrische Informationsverteilung}} ist {{c2::einen Zustand, bei welchen zwei oder mehrere Parteien nicht die gleichen Informationen über einen Sachverhalt besitzen und dadurch eine Partei die Entwicklung besser abschätzen kann}}.	
+{{c1::Die symmetrische Informationsverteilung}} ist {{c2::einen Zustand, bei welchen zwei oder mehrere Parteien die gleichen Informationen über einen Sachverhalt besitzen und dadurch eine Entwicklung gleich gut einschätzen können}}.	
+{{c1::Die perfekte Informationsverteilung}} ist {{c2::einen Zustand, bei welchen zwei oder mehrere Parteien alle relevanten Informationen über einen Sachverhalt besitzen und dadurch eine Entwicklung perfekt einschätzen können}}.	
+"wahr oder falsch:<br />
+Der Produktlebenszyklus ist kein allgemeingültiges Konzept, um die Absatzentwicklung einzelner Marken zu beschreiben."	"wahr:<br />
+Der Produktlebenszyklus unterliegt keiner allgemeingültigen Gesetzmäßigkeit, da es nicht theoretisch fundiert oder empirisch bestätigt ist, vor allem nicht für einzelne Produkte oder Marken."
+Der Produktlebenszyklus besitzt {{c1::keine empirische oder theoretische}} Gesetzmäßigkeit und vernachlässigt wichtige Einflussfaktoren.	
+"{{c1::Die bedingte Wahrscheinlichkeit}} ist die Wahrscheinlichkeit \(Pr[A|B]\), dass {{c2::ein Ereignis eintritt, unter der Bedingung, dass ein Ereignis bereits eingetreten ist}}:<br />
+\(Pr[A \mid B] = \frac{Pr[A \cap B]}{Pr[B]}\)"	
+"Beispiel:<br />
+räumliche Preisdifferenzierung"	Ein Fahrradverleih vermietet Fahrräder in Münster teurer als in Dortmund.
+{{c1::Die räumliche Preisdifferenzierung}} ist {{c2::die Preisdifferenzierung, welche durch räumliche Faktoren entsteht}}.	
+Bei {{c1::der räumlichen Preisdifferenzierung}} werden {{c2::Preisunterschiede}} und {{c2::Zahlungsbereitschaft}} von getrennten Märkten genutzt.	
+"Die {{c1::Preisdifferenzierung}} ist {{c2::die unterschiedliche Preispolitik für ein identisches Gut}}, welche durch {{c3::räumliche, zeitliche oder individuelle Eigenschaften}} verursacht wird.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Preisdifferenzierung.png"" alt=""""><br />
+Preisdifferenzierung}}}}"	
+"Bei {{c1::einer Preisdifferenzierung}} wird {{c2::die unterschiedliche Zahlungsbereitschaft der Käufer}} genutzt und {{c3::der Preis entsprechend der Nachfrage}}, welche sich durch {{c3::die bedingten Eigenschaften ergeben}}, verändert.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Preisdifferenzierung.png"" alt=""""><br />
+Preisdifferenzierung}}}}"	
+Die Preisdifferenzierung erhöht {{c1::die Gewinne}} und verringert {{c1::den Wohlfahrtsverlust}}.	
+"Frage:<br />
+Was ist der Unterschied zwischen der Bogenelastizität und der Punkelastizität?"	Die Bogenelastizität beschreibt, wie sich die Nachfrage bei einer prozentualen Preisänderung verändert, die Punktelastizität hingegen, wie sich die Nachfrage bei einer bestimmten Menge bei einer marginalen Preisänderung verändert.
+"{{c1::Die Preiselastizität}} ist {{c2::die relative Änderung}} von {{c2::Menge und Preis im Verhältnis}} und beschreibt {{c3::das Maß für die Stärke, mit der die Nachfrage und das Angebot auf eine Veränderung reagiert}}.<br />
+{{c1::{{c2::{{c3::<img src=""2016-Bild-Mankiw-Taylor-Preiselastizitaet_der_Nachfrage.png"" alt=""""><br />
+Preiselastizität der Nachfrage}}}}}}"	
+Eine {{c1::hohe Preiselastizität}} bedeutet, dass {{c2::eine Preisänderung relativ große Mengenänderungen im Angebot oder der Nachfrage bewirkt}}.	
+{{c1::Die Preis-Absatz-Funktion}} ist {{c2::eine Funktion}}, welche {{c2::die Menge eines Produktes}} bei {{c3::jeweils verschiedenen hohen Preisforderungen}} angibt, die {{c3::in einer Periode abgesetzt werden können}}.	
+{{c1::Die Produktpolitik}} sind {{c2::Entscheidungen, die sich auf die Gestaltung der vom Unternehmen im Absatzmarkt anzubietenden Güter beziehen}}.	
+"wahr oder falsch:<br />
+Die Distributionspolitik bezieht sich auf die Gesamtheit aller Entscheidungen und Handlungen, welche die Verteilung von materiellen und/oder immateriellen Leistungen vom Endkäufer zum Hersteller betreffen."	falsch
+{{c1::Die Distributionspolitik}} sind {{c2::Entscheidungen und Handlungen}}, welche {{c3::die Verteilungen}} von {{c3::Gütern}} von {{c3::Herstellern zum Endkäufer}} betreffen.	
+{{c1::Die Preispositionierung}} ist {{c2::die strategische Preissetzung}} und {{c2::die Festlegung von Rabatten und Zahlungszielen}}.	
+{{c1::Die Preispositionierung}} wird in {{c2::Discountstrategie}} und {{c2::Premiumpreisstrategie}} unterteilt.	
+"<p>{{c1::Die Konditionenpolitik}} sind alle Vereinbarungen, welche durch {{c2::die Preispositionierung}} umgesetzt werden, spezifisch:</p>
+<ul>
+<li>{{c3::Kreditierungsbedingungen}}</li>
+<li>{{c4::Lieferungsbedingungen}}</li>
+<li>{{c5::Rabatte}}</li>
+<li>{{c6::Zahlungsbedingungen}}</li>
+</ul>"	
+"Beispiel:<br />
+Kommunikationspolitik"	Ein Kaufhaus schaltet einen TV-Werbespot für Herrenmode mit erwachsenen Männern als Zielgruppe.
+"wahr oder falsch:<br />
+Ziele der Kommunikationspolitik sind koordinationsgerecht und vollständig zu formulieren."	wahr
+{{c1::Die Kommunikationspolitik}} ist {{c2::die systematische Planung, Ausgestaltung, Abstimmung und Kontrolle}} aller {{c2::Kommunikationsmaßnahmen des Unternehmens}} in Hinblick auf {{c3::alle relevanten Zielgruppen}}, um {{c3::die Kommunikationsziele und damit die nachgelagerten Marketingziele und Unternehmensziele}} zu erreichen.	
+{{c1::Das akquisitorische Potential nach Gutenberg}} ist {{c2::der dauerhafte Absatz eines Produktes}}, welcher durch {{c2::Stammkunden gebildet und gesichert wird}}.	
+"<p>{{c1::Das akquisitorische Potential nach Gutenberg}} besteht aus:</p>
+<ul>
+<li>{{c2::Heterogenität der Produkte zur Schaffung eines Ökosystem}}</li>
+<li>{{c2::Kundendienstleistungen}}</li>
+<li>{{c2::Lieferungsbedingungen und Zahlungsbedingungen}}</li>
+<li>{{c2::Qualität}}</li>
+</ul>"	
+Der {{c1::Kaufanreiz}} ist {{c2::ein Anreiz zum Kauf und Konsum eines Gutes}}.	
+Die dauerhafte Weckung des Kaufanreizes wird durch {{c1::neue oder modifizierte Güter}} erreicht.	
+{{c1::Kundenzufriedenheit}} ist {{c2::ein Instrumentalziel}}, da {{c2::dies einen Anreiz schaffen soll, ein Gut erneut zu konsumieren}}.	
+"wahr oder falsch:<br />
+Das Marketing von Unternehmen ist als übergreifendes Konzept auf keine Abteilung des Unternehmens beschränkt."	wahr
+"wahr oder falsch:<br />
+Das Marketing von Unternehmen ist als wesentliche Komponente der Unternehmensstrategie eine Aufgabe der Geschäftsführung."	falsch
+"wahr oder falsch:<br />
+Das Marketing von Unternehmen ist Aufgabe aller Abteilungen mit direktem Kundenkontakt."	falsch
+"wahr oder falsch:<br />
+Das Marketing von Unternehmen ist Sache der Vertriebsabteilung."	falsch
+"wahr oder falsch:<br />
+Durch Marketing-Maßnahmen werden ökonomische Ziele direkt und nicht über psychographische Zielgrößen beeinflusst."	falsch
+"wahr oder falsch:<br />
+Marketing ist ein Führungskonzept, das das Unternehmen als Ganzes auf den Kunden ausrichtet."	wahr
+"wahr oder falsch:<br />
+Marketing ist vor allem geschäftsfeldspezifisch."	wahr
+"wahr oder falsch:<br />
+Marketing wird als Querschnittsfunktion einer Unternehmung interpretiert, die bei den Kunden und deren Bedürfnissen ansetzt und in allen Funktionen (Beschaffung, Forschung und Entwicklung, Produktion, Absatz, Services) des Unternehmens Berücksichtigung findet."	wahr
+"wahr oder falsch:<br />
+Marketingmaßnahmen richten sich nicht nur primär an Händler."	wahr
+"{{c1::Das Marketing}} ist {{c2::marktorientiertes Entscheidungsverhalten in der Unternehmung}} und {{c2::die bewusste marktorientierte Führung des gesamten Unternehmens}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Marketing_als_Fuehrungskonzept.png"" alt=""""><br />
+Marketing als Führungskonzept, welches alle Funktionsbereiche betrifft}}}}"	
+{{c1::Marketing}} umfasst das Management von {{c2::komparativen Konkurrenzvorteilen}}.	
+"wahr oder falsch:<br />
+Absatzziele sind typischerweise kurzfristig ausgerichtet."	wahr
+"wahr oder falsch:<br />
+Der Absatz ist reaktiv, d. h. es geht darum, ein vorhandenes Produkt zu vertreiben."	wahr
+"wahr oder falsch:<br />
+Erläutere in wenigen Sätzen, welche Bedeutung der Zeithorizont für die Entscheidung eines Unternehmens spielen kann, ob negative Produkteigenschaften im Absatz verschwiegen werden sollen."	"Kurzfristig kann das Verschweigen negativer Produkteigenschaften Gewinne steigern.<br />
+Langfristig kann es durch das Verschweigen negativer Produkteigenschaften zu Gewinneinbrüchen wegen Reputationsschäden kommen."
+{{c1::Der Absatz}} ist {{c2::ein betrieblicher Funktionsbereich}}, wie auch {{c2::die verkaufte Menge an Gütern}}.	
+"wahr oder falsch:<br />
+Die Annahme des richtigen Trends ist eine wichtige Voraussetzung für eine vernünftige Stichprobenanalyse."	"falsch:<br />
+Die Stichprobenanalyse arbeitet gar nicht mit zeitlichen Verläufen, so dass Trends nicht vorkommen."
+"wahr oder falsch:<br />
+Mit Stichprobenanalysen werden zeitliche Trends fortgeschrieben."	"falsch:<br />
+Zeitliche Trends werden mit Zeitreihenanalysen fortgeschrieben. Stichprobenanalysen werden zur Hochrechnung von Beobachtungen eingesetzt."
+{{c1::Die Stichprobenanalyse}} ist {{c2::eine Prognosemethode, bei welcher einzelne Zeitabschnitte betrachtet und aus diesen Stichproben Prognosen entwickelt werden}}.	
+"Frage:<br />
+Erkläre kurz das Prognoseverfahren des Zeitreihenprognoseverfahren."	Nachfrageprognose auf Basis von Vergangenheitsdaten
+{{c1::Die Zeitreihenanalyse (Zeitreihenprognose, Zeitreihenprognoseverfahren)}} ist {{c2::eine Prognosemethode, bei welcher Zeitabläufe betrachtet}} und anhand von Trends der vergangenen Nachfrage Prognosen entwickelt werden.	
+"Beispiel:<br />
+simultane Planung"	Die Pollmann AG und Waterbeheer stellen jeweils genau ein Produkt her. Dafür benötigen beide Gusseisen und ein Spezialteil, das nur in geringen Mengen verfügbar ist.
+{{c1::Die simultane Planung}} ist {{c2::die gleichzeitige Planung eines Prozesses}}.	
+{{c1::Die simultane Planung}} ist sinnvoll bei {{c2::innerbetrieblichen Interdependenzen}}.	
+"Beispiel:<br />
+sequenzielle Planung"	Die Pollmann AG stellt genau ein Produkt her.
+"wahr oder falsch:<br />
+Sequenzielle Planung zeichnet sich dadurch aus, dass wechselseitige Abhängigkeiten besonders gut berücksichtigt werden können."	"falsch:<br />
+Gerade bei wechselseitigen Interdependenzen ist die simultane Planung zu empfehlen, um gleichzeitig alle potentiellen Wechselwirkungen berücksichtigen zu können."
+{{c1::Die sequenzielle Planung}} ist {{c2::die Planung eines Prozesses in eine Richtung}}.	
+{{c1::Die Planung}} sind {{c2::alle Maßnahmen und Überlegungen}}, durch die es möglich wird, aus {{c2::einer Anzahl von Alternativen zur Lösung eines Problems die im Hinblick auf ein Ziel günstigere Alternative herauszufinden}}.	
+{{c1::Die Planung}} wird {{c2::durch Szenariotechniken}} mit entsprechenden Definitionen und Eintrittswahrscheinlichkeiten durchgeführt.	
+"Die Planung ist üblicherweise ein Prozess aus mehreren Schritten:<br />
+{{c1::Zielbildung}} -&gt; {{c2::Problemanalyse}} -&gt; {{c3::Alternativensuche und Bewertung (iterativ)}} -&gt; {{c4::Entscheidung}} -&gt; {{c5::Realisation}} -&gt; {{c6::Kontrolle}}"	
+"Frage:<br />
+Unter welchen Umständen müssen Manager nur den Wert des Unternehmens maximieren ohne auf die Präferenzen der Aktionäre zu achten?"	Der Kapitalmarkt ist zugänglich und vollkommen.
+"wahr oder falsch:<br />
+Auf einem vollkommenen Kapitalmarkt führt eine Auswahlentscheidung nach dem Kapitalwert zum gleichen Ergebnis wie die Auswahlentscheidung nach dem Endwert."	"richtig:<br />
+Dies ist nur auf dem vollkommenen Kapitalmarkt anwendbar."
+{{c1::Ein vollkommener Kapitalmarkt}} ist {{c2::ein analytisches Modell}}, über {{c3::einen Kapitalmarkt mit einem einheitlichen Zinssatz und ohne Mengenbeschränkungen}}.	
+"<p>{{c1::Ein vollkommender Kapitalmarkt}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::einheitlicher Sollzinssatz und Habenzinssatz}}</li>
+<li>{{c2::Kapital ist ein homogenes Gut: Keine Unterscheidung zwischen Eigenkapital und Fremdkapital}}</li>
+<li>{{c2::Kapital ist nicht knapp: Kann in jeder Höhe angelegt und beschaffen werden}}</li>
+<li>{{c2::keine Steuern oder Transaktionskosten}}</li>
+<li>{{c2::rationales Verhalten aller Marktteilnehmer}}</li>
+<li>{{c2::sichere Erwartungen und Informationssymmetrie}}</li>
+</ul>"	
+"Beispiel:<br />
+analytisches Modell"	"<ul>
+<li>Kapitalwertmethode</li>
+</ul>"
+Aus der Wirtschaftlichkeit und Produktivität kann folgende gemeinsame Kennzahl gebildet werden: {{c1::\(\text{Kennzahl} = \frac{\text{Output} }{\text{Input} }\)}}	
+{{c1::\(\text{Produktivität}\)}} \(=\) {{c2::\(\frac{\text{Output in Mengeneinheiten} }{\text{Input in Mengeneinheiten} }\)}}	
+Durch {{c1::Spartätigkeiten}} und {{c1::Investitionstätigkeiten}} kann {{c2::die Produktivität}} gesteigert werden.	
+{{c1::Ein Rückgang}} {{c2::der Produktivität}} ist mit {{c1::einem Anstieg}} {{c3::der Arbeitslosigkeit}} verbunden.	
+"Beispiel:<br />
+Modelle"	"<ul>
+<li>Aufbau eines Motors</li>
+<li>Klimamodell</li>
+<li>Modelleisenbahn</li>
+</ul>"
+{{c1::Ein Modell (Theoretical Framework)}} ist {{c2::eine Repräsentation eines Objektes, der Wirklichkeit oder eines Ausschnitts dieser Wirklichkeit}}. {{c1::Ein Modell}} wird aus einem Grund für {{c3::eine bestimmte Audienz}} mit {{c4::einer definierten Sprache}} konstruiert.	
+Das Hauptmerkmal von {{c1::Modellen}} ist {{c2::die Abstrahierung von komplexen Zusammenhängen}} zur {{c3::Gewinnung von Information}}.	
+"<p>{{c1::Ein Modell}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::empirische Bestätigung}}</li>
+<li>{{c2::Genauigkeit}}</li>
+<li>{{c2::Informationsgehalt}}</li>
+<li>{{c2::Realitätsbezug}}</li>
+<li>{{c2::Widerspruchsfreiheit}}</li>
+</ul>"	
+{{c1::Eine Unternehmung (Unternehmen)}} ist eine {{c2::auf Dauer angelegte}} {{c3::kooperative Veranstaltung}} von Individuen mit {{c4::nicht notwendigerweise identischen Interessen}} zur {{c5::Sicherung von möglichen Vorteilen}} durch {{c6::gemeinsames und koordiniertes Verhalten}}.	
+{{c1::Die Liquidität}} ist {{c2::die Fähigkeit, den fälligen Zahlungsverpflichtungen jederzeit nachkommen zu können}}.	
+{{c1::\(\text{Rentabilität}\)}} \(=\) {{c2::\(\frac{G}{B}\) mit \(G\) als Gewinn, \(B\) als Bezugsgröße}}	
+"wahr oder falsch<br />
+Gemäß des ökonomischen Prinzips entspricht das generelle Extremalprinzip der Maximierung des Outputs unter Minimierung der anfallenden Kosten."	"falsch:<br />
+Das generelle Extremalprinzip entspricht der Optimierung (Minimierung oder Maximierung) einer verdichteten Größe aus Input und Output. Eine Maximierung des Outputs unter Minimierung der anfallenden Kosten ist nicht gleichzeitig möglich, da der Optimierung sodann der ""Anker"" fehlen würde."
+ökonomische Prinzipien: generelles Extremumprinzip/Optimumprinzip	Optimierung des Verhältnisses zwischen Input und Output
+ökonomische Prinzipien: Maximalprinzip	bei gegebenem Input den Output maximieren
+ökonomische Prinzipien: Minimalprinzip	bei gegebenem Output den Input minimieren
+{{c1::\(\text{Lohnstückkosten (Euro/Mengeneinheit)}\)}} \(=\) {{c2::\(\frac{\text{Lohnkosten (Euro/Stunde)} }{\text{Teilproduktivität (Mengeneinheiten/Stunde)} }\)}}	
+{{c1::\(\text{Wirtschaftlichkeit}\)}} \(=\) {{c2::\(\frac{\text{Output in Geldeinheiten} }{\text{Input in Geldeinheiten} }\)}}	
+{{c1::Das Wirtschaften}} ist {{c2::das Treffen von ökonomischen Entscheidungen}} und {{c2::die Verwaltung und Verteilung von knappen Gütern}}.	
+{{c1::Die ceteris-paribus-Bedingung}} ist eine Bedingung, welches es erlaubt, in {{c2::einer Partialanalyse einen Sachverhalt auf lediglich einen Faktor zu untersuchen}}, wobei angenommen wird, dass {{c2::sich alle anderen Bedingungen nicht verändern}}.	

@@ -1,0 +1,483 @@
+#separator:tab
+#html:true
+"Frage:<br />
+Was ist ein Kolmogorov-Smirnov-Anpassungstest?"	ein Einstichprobentest, bei dem Daten zu einer vorgegebenen Verteilung geprüft werden und die empirische und theoretische Verteilungsfunktion verglichen werden
+"wahr oder falsch:<br />
+Der Kolmogorov-Smirnov-Anpassungstest besitzt im Vergleich zum Chi-Quadrat-Anpassungstest eine hohe Güte."	wahr
+"wahr oder falsch:<br />
+Der Kolmogorov-Smirnov-Anpassungstest besitzt im Vergleich zum Chi-Quadrat-Anpassungstest eine niedrige Güte."	"falsch:<br />
+der Kolmogorov-Smirnov-Anpassungstest besitzt im Vergleich eine hohe Güte"
+"wahr oder falsch:<br />
+Im Kolmogorov-Smirnov-Anpassungstest werden Normalverteilungen geprüft."	wahr
+"wahr oder falsch:<br />
+Im Kolmogorov-Smirnov-Anpassungstest werden \(\chi^{2}\)-Verteilungen mit hoher Stichprobe geprüft."	"falsch:<br />
+es werden \(\chi^{2}\)-Verteilungen mit kleiner Stichprobe geprüft"
+"Frage:<br />
+Was ist ein Chi-Quadrat-Anpassungstest?"	ein Einstichprobentest, bei dem diskrete Merkmale mit einer endlich-diskreten Verteilung verglichen werden
+"wahr oder falsch:<br />
+Die Güte eines Chi-Quadrat-Anpassungstest ist gering."	wahr
+"wahr oder falsch:<br />
+Die Güte eines Chi-Quadrat-Anpassungstest ist hoch."	falsch
+"Frage:<br />
+Was ist ein Chi-Quadrat-Unabhängigkeitstest?"	ein Test mit zwei gebundenen Stichproben, bei denen geprüft wird, ob die Stichproben unabhängig von einander sind
+"Frage:<br />
+Welche Hypothese wird im Chi-Quadrat-Unabhängigkeitstest geprüft?"	Sind zwei gebundene Stichproben statistisch Unabhängig voneinander?
+"wahr oder falsch:<br />
+Die Güte eines Chi-Quadrat-Unabhängigkeitstest ist gering."	wahr
+"wahr oder falsch:<br />
+Die Güte eines Chi-Quadrat-Unabhängigkeitstest ist hoch."	falsch
+"Frage:<br />
+Auf welchen Prinzip basiert der Wilcoxon-Rangsummentest?"	basierend auf Rängen
+"Frage:<br />
+Welcher statistische Test sollte bei einer stetigen Grundgesamtheiten mit Lageverschiebung ausgewählt werden?"	Wilcoxon-Rangsummentest
+"Frage:<br />
+Welche Voraussetzung muss für den Wilcoxon-Rangsummentest vorhanden sein?"	die Verteilungsfunktionen der zwei Stichprobenfunktionen müssen von der Form her gleich
+"Frage:<br />
+Welcher statistische Test sollte bei einer normalverteilte Grundgesamtheiten mit gegebenenfalls verschiedenen Varianz ausgewählt werden?"	Welch-t-Test
+"Frage:<br />
+Welcher statistische Test sollte bei einer nicht-stetige Grundgesamtheitsverteilung ausgewählt werden?"	approximativer Gauß-Test
+"Frage:<br />
+Welcher statistische Test sollte bei einem Zweistichprobentest mit mit großem Stichprobenumfang \(n &gt; 30\) der Verteilung ausgewählt werden?"	approximativer Gauß-Test
+"Frage:<br />
+Welcher statistische Test sollte bei einem Einstichprobentest mit Normalverteilung und bekannter Varianz ausgewählt werden?"	Gauß-Test
+"Frage:<br />
+Welcher statistische Test sollte bei einem Zweistichprobentest mit Normalverteilung und bekannter Varianz ausgewählt werden?"	Gauß-Test
+"Frage:<br />
+Was ist ein Zweistichprobentest?"	die Ziehung zweier Stichproben sowie die Analyse möglicher Unterschiede der Herkunft der zwei Stichproben
+"Frage:<br />
+Was ist das Principle Of Minimum Likelihood?"	Das Principle Of Minimum Likelihood im Bezug auf den p-Wert besagt, dass der p-Wert die Wahrscheinlichkeit beschreibt und dabei die Nullhypothese mit der geringsten Wahrscheinlichkeit des beobachteten Datensatzes als Grundlage nimmt.
+"Frage:<br />
+Ab welchen \(n\)-Wert kann die Approximation der t-Verteilung durch die Standardnormalverteilung angenommen werden?"	ab einem \(n\)-Wert von \(n &gt; 30\)
+"Frage:<br />
+Was kann bei einem t-Test mit \(n &gt; 30\) angenommen werden?"	Die Approximation der t-Verteilung durch die Standardnormalverteilung.
+"Frage:<br />
+Welcher statistische Test sollte bei einer normalverteilte Grundgesamtheiten mit gleicher Varianz im Zweistichprobentest ausgewählt werden?"	t-Test
+"Frage:<br />
+Welcher statistische Test wird im Einstichprobentest bei Normalverteilung mit unbekannter Varianz durchgeführt?"	t-Test
+"wahr oder falsch:<br />
+Der p-Wert entspricht der geringsten vorgegebenen Irrtumswahrscheinlichkeit, zu der die Nullhypothese bei vorliegender Stichprobe abgelehnt werden kann."	wahr
+"wahr oder falsch:<br />
+Der p-Wert ist auf viele diskrete Modelle übertragbar."	"falsch:<br />
+Der p-Wert ist bei diskreten Modellen Formeln nicht einfach übertragbar, weil die Verteilungsfunktion nicht invertierbar ist."
+"wahr oder falsch:<br />
+Der p-Wert ist auf viele stetige Modelle übertragbar."	wahr
+"wahr oder falsch:<br />
+Der p-Wert ist keine Wahrscheinlichkeit, sondern zufallsabhängig."	wahr
+"wahr oder falsch:<br />
+Bei einem Test, der die Nullhypothese nie ablehnt, ist die Wahrscheinlichkeit für einen Fehler 1. Art \(0\) und<br />
+für einen Fehler zweiter Art \(1\)."	wahr
+"wahr oder falsch:<br />
+Bei einem Test, der die Nullhypothese nie ablehnt, ist die Wahrscheinlichkeit für einen Fehler 1. Art \(1\) und<br />
+für einen Fehler zweiter Art \(0\)."	falsch
+"wahr oder falsch:<br />
+Bei einem Test, der die Nullhypothese stets ablehnt, ist die Wahrscheinlichkeit für einen Fehler 1. Art \(0\) und für einen Fehler zweiter Art \(1\)."	falsch
+"wahr oder falsch:<br />
+Bei einem Test, der die Nullhypothese stets ablehnt, ist die Wahrscheinlichkeit für einen Fehler 1. Art \(1\) und für einen Fehler zweiter Art \(0\)."	wahr
+"wahr oder falsch:<br />
+Die Nullhypothese kann mit genügend Informationen akzeptiert werden."	"falsch:<br />
+Die Nullhypothese kann nie akzeptiert werden, nur mangels genügend Informationen nicht widerlegt werden."
+"wahr oder falsch:<br />
+Die Nullhypothese kann nie akzeptiert werden, nur mangels genügend Informationen nicht widerlegt werden."	wahr
+"wahr oder falsch:<br />
+Sprechen in den Daten genügend Indizien gegen die Nullhypothese, so wird die Nullhypothese verworfen und man entscheidet sich aktiv für die Alternativhypothese."	wahr
+"Frage:<br />
+Was ist das Optimalitätskriterium?"	Das Optimalitätskriterium beschreibt die Bedingungen, unter denen ein Test in der mathematischen Statistik als optimal angesehen wird. Es wird dabei untersucht, wie gut ein Test zwischen der Nullhypothese und der Alternativhypothese unterscheiden kann, während er das vorgegebene Signifikanzniveau \(\alpha\) einhält.
+"Frage:<br />
+Was ist ein Referenztest?"	Ein Referenztest ist ein theoretisch optimaler Test, der unter der Nullhypothese​ mit Wahrscheinlichkeit \(\alpha\) ablehnt. Er dient als Maßstab, an dem andere Tests gemessen werden.
+"Frage:<br />
+Welche Hypothesen von statistischen Test können nur widerlegt werden?"	die Nullhypothese \(H_{0}\)
+"Frage:<br />
+Wie muss ein Hypothesentest formuliert werden, um die Hypothese zu bestätigen?"	Die zu bestätigende Hypothese muss als Alternativhypothese \(H_{1}\) formuliert werden, wobei dann die  Nullhypothese \(H_{0}\) widerlegt werden muss.
+"wahr oder falsch:<br />
+Die Nullhypothese kann durch ein statistischen Test belegt werden."	falsch
+"Frage:<br />
+Was ist ein Verteilungstest?"	Ein Verteilungstest ist ein Test, die einen Verteilungstyp oder eine Verteilungseigenschaft ohne parametrische Annahme prüft.
+"wahr oder falsch:<br />
+Die Formulierung der Hypothesen eines Verteilungstest erfolgt mit Bezug auf den Verteilungstyp."	wahr
+"wahr oder falsch:<br />
+Die Formulierung der Hypothesen eines Parametertest erfolgt mit Bezug auf Verteilungsparameter und Verteilungskennzahlen."	wahr
+"Frage:<br />
+Was beschreibt die Faltungsformel in der Wahrscheinlichkeitstheorie? (Mathe)"	Die Faltungsformel beschreibt die Wahrscheinlichkeitsverteilung der Summe von zwei unabhängigen Zufallsvariablen durch das Falten ihrer Dichtefunktionen.
+"Frage:<br />
+Wie lautet die Faltungsformel?"	\(f_(Z)(z) = (g *h)(z) = \int_{- \infty}^{\infty} g(x) h(z-x) dx\) für \(g, h\) als Wahrscheinlichkeitsdichten zweier unabhängig stochastischen Zufallsvariablen
+"wahr oder falsch:<br />
+Die Faltungsformel ist \(f_(Z)(z) = (g *h)(z) = \int_{- \infty}^{\infty} g(x) h(z-x) dx\) für \(g, h\) als Wahrscheinlichkeitsdichten zweier unabhängig stochastischen Zufallsvariablen."	wahr
+"wahr oder falsch:<br />
+Die Faltungsformel kann nur für diskrete Zufallsvariablen verwendet werden. (Mathe)"	falsch
+"wahr oder falsch:<br />
+Die Faltung zweier Normalverteilungen ergibt ebenfalls eine Normalverteilung. (Mathe)"	wahr
+"Frage:<br />
+Wie wird die obere Grenze \(G_{o}\) eines Konfidenzintervalls \(I_{n}\) definiert?"	\(G_{u} = T_{n} + t \cdot A_{n}\) mit \(G_{u}\) als untere Grenze, \(T_{n}\) als Schätzer, \(t\) als Quantil der Verteilung und \(A_{n}\) als Schätzer für die Standardabweichung \(\sqrt{var(T_{n})}\)
+"Frage:<br />
+Wie wird die untere Grenze \(G_{u}\) eines Konfidenzintervalls \(I_{n}\) definiert?"	\(G_{u} = T_{n} - t \cdot A_{n}\) mit \(G_{u}\) als untere Grenze, \(T_{n}\) als Schätzer, \(t\) als Quantil der Verteilung und \(A_{n}\) als Schätzer für die Standardabweichung \(\sqrt{var(T_{n})}\)
+"Frage:<br />
+Wie ist ein linksseitiger Konfidenzintervall für \(\theta\) definiert?"	\(I_{n} = [G_{u}, \infty [\) mit \(G_{u}\) als untere Grenze
+"Frage:<br />
+Wie ist ein rechtseitiger Konfidenzintervall für \(\theta\) definiert?"	\(I_{n} = ] -\infty, G_{o}]\) mit \(G_{o}\) als obere Grenze
+"Frage:<br />
+Wie ist ein zweiseitiger Konfidenzintervall für \(\theta\) definiert?"	\(I_{n} = [G_{u}, G_{o}]\) mit \(G_{u}\) als untere Grenze, \(G_{o}\) als obere Grenze
+"wahr oder falsch:<br />
+Die Intervallgrenzen eines Konfidenzintervalls hängen von der Stichprobenvarianz ab."	wahr
+"Frage:<br />
+Wie ist die Dichte der Verteilung für eine Chi-Quadrat-Verteilung approximativ mit einem Freiheitsgrad \(n &gt; 100\)?"	Für einen Freiheitsgrad \(n &gt; 100\) in der Chi-Quadrat-Verteilung ist die Dichte der Verteilung approximativ \(\mathcal{N}(n, 2n)\).
+"wahr oder falsch:<br />
+Die \(\chi^{2}\)-Verteilung ist nicht symmetrisch, weshalb die Ablehnung der Nullhypothese bei einem zweiseitigen Hypothesentest unsymmetrisch ist und anderen Ablehnungskriterien folgt, als üblicherweise."	wahr
+"wahr oder falsch:<br />
+Die \(\chi^{2}\)-Verteilung ist symmetrisch und folgt den üblichen Ablehnungskriterien."	"falsch:<br />
+Die \(\chi^{2}\)-Verteilung ist nicht symmetrisch, weshalb die Ablehnung der Nullhypothese bei einem zweiseitigen Hypothesentest unsymmetrisch ist und anderen Ablehnungskriterien folgt."
+"wahr oder falsch:<br />
+Für bekanntes \(\mu\) werden Quantile und Verteilungsfunktion der \(\chi^{2}\)-Verteilung mit \(n\) Freiheitsgraden verwendet."	"wahr:<br />
+Dies ist möglich, aber eher unrealistisch, da der Wert dann approximativ oder per Statistik-Programm berechnet werden muss."
+"wahr oder falsch:<br />
+Für ein kleinen Freiheitsgrad \(n\) in der Chi-Quadrat-Verteilung ist die Dichte der Verteilung linkssteil."	wahr
+"wahr oder falsch:<br />
+Für ein kleinen Freiheitsgrad \(n\) in der Chi-Quadrat-Verteilung ist die Dichte der Verteilung rechtssteil."	"falsch:<br />
+Die Dichte ist linkssteil für ein kleines \(n\)."
+"wahr oder falsch:<br />
+Für einen Freiheitsgrad \(n &gt; 100\) in der Chi-Quadrat-Verteilung ist die Dichte der Verteilung approximativ \(\mathcal{N}(n, 2n)\)."	wahr
+"wahr oder falsch:<br />
+Für einen Freiheitsgrad \(n &gt; 100\) in der Chi-Quadrat-Verteilung ist die Dichte der Verteilung linkssteil."	"falsch:<br />
+Für einen Freiheitsgrad \(n &gt; 100\) in der Chi-Quadrat-Verteilung ist die Dichte der Verteilung approximativ \(\mathcal{N}(n, 2n)\)."
+"Frage:<br />
+Was bedeutet es, wenn ein Schätzer \(T\) als MSE-effizient bezeichnet wird?"	\(T\) ist effizienter als jeder andere Schätzer, wenn seine Risikofunktion für alle \(\theta\) kleiner oder gleich der Risikofunktion aller anderen Schätzer ist.
+"Frage:<br />
+Wie wird der MSE eines Schätzers \(T\) berechnet?"	Der MSE wird als \(E((T − \theta)^{2})\) berechnet, wobei \(E\) den Erwartungswert darstellt.
+"wahr oder falsch:<br />
+Ein Schätzer ist MSE-effizienter, wenn seine Risikofunktion für alle \(\theta\) kleiner oder gleich der Risikofunktion eines anderen Schätzers ist."	wahr
+"Frage:<br />
+Welche Schwächen hat der Linear Congruential Generator bei der Erzeugung von Zufallszahlen?"	LCGs können bei ungünstiger Wahl der Parameter unvorhersehbare Muster oder zu kleine Periodenlängen aufweisen, was die Zufälligkeit beeinträchtigt.
+"<p>{{c1::Nachteile des Linear Congruential Generators}} sind:</p>
+<ul>
+<li>{{c2::bei ungünstiger Wahl der Parameter treten unvorhersehbare Muster auf}}</li>
+</ul>"	
+"Frage:<br />
+Was sind Faktoren einer simulierten Bewegung?"	"<ul>
+<li>Startpunkt \(s\)</li>
+<li>Endpunkt \(z\)</li>
+<li>Startzeitpunkt \(t_{0}\)</li>
+<li>Zeitintervall \(\Delta t\)</li>
+<li>Richtungsvektor \(\overrightarrow{r}\)</li>
+<li>Maximalgeschwindigkeit des Objektes \(v(F_{x})\)</li>
+<li>Maximalgeschwindigkeit des Richtungsvektors \(v(\overrightarrow{r})\)</li>
+<li>Iterationszähler \(i\)</li>
+</ul>"
+"Frage:<br />
+Wie wird die Geschwindigkeit einer simulierten Bewegung für \((x_{i +1}; y_{i + 1})\) berechnet, wenn \(i\) der Iterationszähler ist?"	"\(x_{i + 1} = x_{i} +\overrightarrow{r} * v\)<br />
+\(y_{i + 1} = y_{i} +\overrightarrow{r} * v\)<br />
+wobei \(v = \text{max}[v(F_{x}); v(\overrightarrow{r}); v(z)]\)"
+"Frage:<br />
+Was ist die Abbruchbedingung für eine simulierte Bewegung und wann weiß das Objekt, dass es das Ende erreicht hat?"	Wenn zu Beginn einer neuen Iteration \((x_{i}; y_{i}) = (x_{z}; y_{z})\) mit \(z\) als Endpunkt erreicht ist und die aktuelle Position somit dem Endpunkt gleicht.
+"wahr oder falsch:<br />
+Ein Bayes-Schätzer ist ein Schätzer, welchen ein gewichtetes Mittel aus einer datenabhängigen Schätzung und einer Vorinformation des Schätzers berechnet, um die nachherige Verteilung zu erhalten."	wahr
+"wahr oder falsch:<br />
+Ein Minimum-Distanz-Schätzer ist ein Schätzer, welchen die Distanzen zwischen der Stichprobenverteilung und der theoretischen Verteilung minimiert."	wahr
+"wahr oder falsch:<br />
+Ein Kleinste-Quadrate-Schätzer ist ein Schätzer, welchen den besten Zusammenhang zwischen der abhängigen und der unabhängigen Variablen in einer Regression beschreibt."	wahr
+"Frage:<br />
+Was ist die grundlegende Idee hinter der Momentmethode in der Schätzung?"	Die Momentmethode schätzt die Parameter einer Verteilung, indem sie die theoretischen Momente mit den empirischen Momenten der Stichprobe gleichsetzt.
+"Frage:<br />
+Was ist die Voraussetzung für die Konsistenz eines Momentmethoden-Schätzers?"	Die Momente der Verteilung müssen existieren und die Stichprobengröße muss gegen unendlich gehen.
+"Frage:<br />
+Was sind die wesentlichen Schritte bei der Momentmethode?"	"<ol>
+<li>Bestimmung der k-ten empirischen Momente</li>
+<li>Gleichsetzen der empirischen und theoretischen Momente</li>
+<li>Lösen des resultierenden Gleichungssystems für die unbekannten Parameter</li>
+<li>Überprüfung der eindeutigen Lösbarkeit und Messbarkeit</li>
+</ol>"
+"wahr oder falsch:<br />
+Die Momentmethode ist immer effizienter als die Maximum-Likelihood-Schätzung (MLE)."	falsch
+"wahr oder falsch:<br />
+Für jede Verteilung gibt es eine Momentmethode, um die Parameter zu schätzen."	wahr
+"wahr oder falsch:<br />
+Momentmethoden-Schätzer sind immer unverzerrt."	falsch
+{{c1::Ein Maximum-Likelihood-Schätzer (ML-Schätzer)}} ist {{c2::ein Schätzer, welcher die Grundgesamtheitskennzahl \(\theta\) durch Maximierung der gemeinsamen Wahrscheinlichkeitsdichte der Stichprobenvariablen als Funktion von \(\theta\) bestimmt}}.	
+"wahr oder falsch:<br />
+Eine Schätzfunktion (Schätzer) ist eine Funktion \(T = g(X_{1}, ..., X_{n})\) für eine Menge an Stichprobenvariable, welche der Grundgesamtheitskennzahl \(\theta\) annähern soll."	wahr
+"wahr oder falsch:<br />
+Ein Schätzfunktion ist eine Funktion von Zufallszahlen und kann deshalb nicht den exakten Wert der Grundgesamtheitskennzahl angeben."	wahr
+"Frage:<br />
+Wie wählt man den passenden statistischen Test für ein Fall aus?"	Unter allen Tests mit vorgegebenem Signifikanzniveau denjenigen Test bestimmen, der die Wahrscheinlichkeit für den Fehler 2. Art minimiert.
+"wahr oder falsch:<br />
+Ein statistischer Test ist eine Methode zur Überprüfung einer Hypothese, die so konstruiert ist, dass eine richtige Hypothese nur mit sehr geringer Wahrscheinlichkeit abgelehnt wird."	wahr
+"wahr oder falsch:<br />
+Ein Intervallschätzverfahren ist eine Methode, die ein Intervall angibt, in das ein unbekannte Parameter mit einer bestimmten Wahrscheinlichkeit fällt."	wahr
+"wahr oder falsch:<br />
+Ein Punktschätzverfahren ist eine Methode, die einen einzelnen Wert als Schätzung für einen unbekannten Parameter liefert."	wahr
+{{c1::Die inverse Transformation}} ist {{c2::eine Methode zur Erzeugung von Zufallsvariablen mit einer gewünschten Verteilung, indem man gleichverteilte Zufallszahlen im Intervall \([0, 1]\) verwendet und auf jede Zufallszahl eine Umkehrfunktion der gewünschten Verteilungsfunktion anwendet, sodass die Werte der angestrebten Verteilung folgen}}.	
+"Frage:<br />
+Was ist der Unterschied zwischen einem Generalized Congruential Generator (GCG) und einem klassischen LCG?"	Der GCG kann verschiedene rekursive Formeln verwenden, die zusätzliche Parameter und Variationen beinhalten, während ein klassischer LCG nur eine Standardformel nutzt.
+"wahr oder falsch:<br />
+Der Generalized Congruential Generator (GCG) kann verschiedene Variationen der rekursiven Formeln eines LCG umfassen, um flexiblere Pseudozufallszahlen zu erzeugen."	wahr
+{{c1::Ein Generalized Congruence Generator}} ist {{c2::die Berechnung von einer Menge von Pseudo-Zufallszahlen durch mehrere abhängige vorherige Werte}}.	
+{{c1::Eine Verteilungsfunktion}} ist {{c2::eine Funktion \(F(a) = P(X \leq a)\)}}, welche beschreibt, dass {{c3::eine Zufallsvariable \(x\) einen Wert kleiner oder gleich \(a\) annimmt}}.	
+"Frage:<br />
+Was unterscheidet einen Multiplicative LCS von einem klassischen LCG?"	Ein Multiplicative LCS verwendet nur einen Multiplikator und keine additive Konstante, um die Pseudozufallszahlen zu generieren.
+"wahr oder falsch:<br />
+Ein Multiplicative LCS (Linear Congruential Sequence) verwendet nur einen Multiplikator, ohne eine additive Konstante."	wahr
+{{c1::Ein Multiplicative Linear Congruential Generator (Multiplicative LCG)}} ist {{c2::ein Linear Congruential Generator ohne einen Zuwachsparameter}}.	
+"Frage:<br />
+Wie unterscheidet sich der Mixed LCS vom Multiplicative LCS?"	Der Mixed LCS verwendet sowohl einen Multiplikator als auch eine additive Konstante, während der Multiplicative LCS nur einen Multiplikator verwendet.
+"wahr oder falsch:<br />
+Ein Mixed LCS kombiniert sowohl einen Multiplikator als auch eine additive Konstante zur Erzeugung von Pseudozufallszahlen."	wahr
+{{c1::Ein Mixed Linear Congruential Generator (Mixed LCG)}} ist {{c2::ein Linear Congruential Generator mit einem Zuwachsparameter \(c\), wodurch alle Zahlen im Intervall \([0; m - 1]\) gebildet werden können}}.	
+"<p>{{c1::Vorteile des Linear Congruential Generators}} sind:</p>
+<ul>
+<li>{{c2::einfache Implementierung und Portierbarkeit}}</li>
+<li>{{c2::unabhängige Sequenzen sind einfach zu erzeugen}}</li>
+</ul>"	
+"Frage:<br />
+Was bedeutet es, wenn die Periodenlänge eines LCG zu klein ist?"	Eine zu kleine Periodenlänge bedeutet, dass der Generator wiederholt dieselben Zahlen erzeugt, was die Zufälligkeit beeinträchtigt.
+"Frage:<br />
+Welche Parameter sind beim Design eines Linear Congruential Generators entscheidend für die Qualität der erzeugten Zufallszahlen?"	Die Parameter \(a\), \(c\), und \(m\) bestimmen die Periodenlänge und die Zufälligkeit der erzeugten Zahlen.
+"wahr oder falsch:<br />
+Die Wahl der Parameter \(a\), \(c\) und \(m\) hat keinen Einfluss auf die Qualität der Zufallszahlen bei einem LCG."	falsch
+"wahr oder falsch:<br />
+Ein klassischer LCG ist ein Mixed LCS, wenn \(c = 0\)."	"falsch:<br />
+Ein klassischer LCG ist ein Mixed LCS, wenn \(c \neq 0\)."
+"wahr oder falsch:<br />
+Ein klassischer LCG ist ein Mixed LCS, wenn \(c \neq 0\)."	wahr
+"{{c1::Ein Linear Congruential Generator (LCG)}} ist {{c2::die Berechnung von einer Menge von Pseudo-Zufallszahlen durch die Berechnung durch Teilen mit Restwerten}}:<br />
+{{c3::\(Z_{i} = (a \cdot Z_{i - 1} + c) \mod{m}\)}} mit {{c3::\(Z_{0}\) als Startzahl, \(a\) als Multiplikator, \(c\) als Zuwachs für den Versatz, \(m\) Modulus für die Rest-Division}}"	
+"<p>{{c1::Anforderungen an einen Zufallszahlen-Generator}} sind:</p>
+<ul>
+<li>{{c2::die Erzeugung ist reproduzierbar}}</li>
+<li>{{c2::erzeugte Zufallszahlen sind gleichverteilt und korrelieren nicht}}</li>
+<li>{{c2::parallele Erzeugung von Sequenzen von Zufallszahlen}}</li>
+<li>{{c2::Portierbarkeit}}</li>
+<li>{{c2::Zufallszahlen werden schnell und mit wenig Speicherbedarf erzeugt}}</li>
+</ul>"	
+{{c1::Eine Pseudo-Zufallszahl}} ist {{c2::eine Sequenz von erzeugen Zahlen, welche scheinbar keiner Gesetzesmäßigkeit folgt}}.	
+{{c1::Eine Multi-Agent-Simulation}} ist {{c2::eine Simulation eines Multi-Agent-Systems}}.	
+{{c1::Ein Multi-Agent-System}} ist {{c2::ein System, in welchem mehrere Agenten miteinander interagieren}}.	
+{{c1::Ein Software-Agent}} ist {{c2::ein Computersystem, welches autonom und proaktiv auf seine Umwelt reagieren kann und mit anderen Agenten Informationen austauschen kann}}.	
+"{{c1::Die Whole-Part Darstellung}} ist {{c2::die Darstellung von einem Objekt und seiner jeweiligen Bestandteile}}.<br />
+{{c1::{{c2::<img src=""2024-Bild-Schoenberger-Whole-Part_Darstellung.png"" alt=""""><br />
+Whole-Part Darstellung}}}}"	
+"{{c1::Die Gen-Spec Darstellung}} ist {{c2::eine Darstellung der Generalisierung und Spezifizierung von Objekten}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schoenberger-Gen-Spec_Darstellung.png"" alt=""""><br />
+Gen-Spec Darstellung}}}}"	
+"Frage:<br />
+Warum ist es wichtig, das Verhalten von Objekten in der objektorientierten Analyse zu modellieren?"	Weil es die Interaktionen und die Dynamik innerhalb des Systems darstellt, was für die korrekte Funktion der Simulation entscheidend ist.
+"Frage:<br />
+Was beschreibt eine Klasse in der objektorientierten Analyse?"	Eine Klasse definiert die Eigenschaften und das Verhalten von Objekten, die dieser Klasse angehören.
+"Frage:<br />
+Was ist der Unterschied zwischen einer Klasse und einem Objekt in der objektorientierten Analyse?"	Eine Klasse ist der Bauplan, während ein Objekt eine konkrete Instanz der Klasse ist.
+"wahr oder falsch:<br />
+Die objektorientierte Analyse berücksichtigt in erster Linie das Verhalten von Objekten und deren Interaktionen."	wahr
+"wahr oder falsch:<br />
+In der objektorientierten Analyse sind Objekte die Instanzen von Klassen."	wahr
+"wahr oder falsch:<br />
+In der objektorientierten Analyse wird das System in Objekte unterteilt, die bestimmte Eigenschaften und Verhalten besitzen."	wahr
+{{c1::Die objektorientierte Analyse}} ist {{c2::ein objektorientiertes Konzept zur Analyse komplexer Systeme}}.	
+"<p>{{c1::Die objektorientierte Analyse}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Klassen und Objekte finden}}</li>
+<li>{{c2::Strukturen identifizieren}}</li>
+<li>{{c2::Subjekte identifizieren}}</li>
+<li>{{c2::Attribute definieren}}</li>
+<li>{{c2::Services definieren}}</li>
+<li>{{c2::Ergebnisse darstellen}}</li>
+</ol>"	
+{{c1::Eine Objektklasse}} ist {{c2::eine Vorlage für ein Objekt}}.	
+"<p>{{c1::Prinzipien für den Umgang mit Komplexitäten}} sind:</p>
+<ul>
+<li>{{c2::Abstraktion zur Betrachtung von nur notwendigen Informationen}}</li>
+<li>{{c2::Assoziation zur Kombination von Dingen}}</li>
+<li>{{c2::Kapselung zur Reduktion des Informationsaustausches}}</li>
+<li>{{c2::Nachrichten-basierte Kommunikation zwischen Objekten}}</li>
+<li>{{c2::Vererbung zur Verwendung ähnlicher Attribute für ähnliche Dinge}}</li>
+</ul>"	
+{{c1::Ein objektorientiertes Design}} ist {{c2::ein objektorientiertes Konzept zur Repräsentation komplexer Systeme}}.	
+"<p>{{c1::Herausforderungen von elektronischen Karten}} sind:</p>
+<ul>
+<li>{{c2::große Datenmengen mit einer hohen Knotenmenge}}</li>
+<li>{{c2::komplexe Datenstrukturen mit verschiedenen Objektarten}}</li>
+</ul>"	
+{{c1::Tile-Based Rendering}} ist {{c2::das Rendern von einer elektronischen Karte, in welcher eine Karte in kleine Tiles unterteilt wird}}.	
+{{c1::Ein geografisches Informationssystem (GIS)}} ist {{c2::ein Informationssystem, welches geografische Daten speichert, verarbeitet und analysiert}}.	
+{{c1::Geo-Coding}} ist {{c2::die Bestimmung des Breitengrades und Längengrades für ein Objekt in einem geografischen Gebiet}}.	
+{{c1::Eine elektronische Karte (Digital Map)}} ist {{c2::ein digitaler Zwilling eines geografischen Gebiets}}.	
+{{c1::Eine elektronische Karte}} wird gerendert, um {{c2::Daten der Karte anzeigen zu können}}. Dies wird häufig durch {{c3::Tile-Based Rendering}} ermöglicht.	
+{{c1::Die Fortschreibung einer diskretisierten Zeit}} ist eine {{c2::Methode zur Simulation mit diskreten Zeitschritten}}. {{c3::Zeitschritte}} werden in der Simulation rekursiv berechnet, bis {{c4::eine vordefinierte Bedingung erfüllt ist}}.	
+"Frage:<br />
+Was ist ein zellulärer Automat?"	Ein diskretes Modell in der Mathematik und Informatik, das aus Zellen in einem regelmäßigen Gitter besteht, die jeweils einen Zustand haben und sich nach festen Regeln verändern.
+"Frage:<br />
+Welche drei Elemente benötigt ein zellulärer Automat zur Funktion?"	Ein Gitter aus Zellen, eine Menge von Zuständen und Regeln für Zustandsübergänge.
+"Frage:<br />
+Wie wird der nächste Zustand eines zellulären Automaten berechnet?"	Durch die Anwendung der Übergangsregeln auf den aktuellen Zustand der Zelle und ihrer Nachbarn.
+"Frage:<br />
+Wovon hängt der Zustand einer Zelle in einem zellulären Automaten ab?"	Vom Zustand der Zelle selbst und ihrer Nachbarzellen gemäß einer festgelegten Regel.
+"wahr oder falsch:<br />
+Ein zellulärer Automat kann deterministisch oder stochastisch sein."	wahr
+"wahr oder falsch:<br />
+Ein zellulärer Automat kann nur in zwei Dimensionen dargestellt werden."	falsch
+"{{c1::Ein zellularer Automat}} ist {{c2::eine System-Simulation mit dem Fokus auf individuelles Verhalten von Systembestandteilen}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Schoenberger-Zellularer_Automat.png"" alt=""""><br />
+Zellularer Automat}}}}"	
+"{{c1::Eine Transition}} ist {{c2::ein Knotenpunkt in einem Graph, welcher Zustände miteinander verbindet}}. {{c1::Die Transition}} wird durch {{c3::Marken}} geschaltet, was nur erfolgen sein, wenn {{c4::die vorherigen Zustände eine Marke besitzen}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2023-Bild-Schoenberger-Transition.png"" alt=""""><br />
+Transition mit Möglichkeit zur Schaltung}}}}}}}}"	
+{{c1::Systemdynamik}} ist {{c2::die Änderung der Systemzustände über Zeit}}. Die Zusammenhänge werden über {{c3::Transitionen}} gegeben.	
+Im zeitlichen Kontext ändern sich Objekte in Systemen durch {{c2::Bewegungen}} oder {{c1::Status-Änderungen}}.	
+{{c1::Eine M/M/c-Warteschlange}} ist {{c2::eine Warteschlange mit einer poisson-verteilten Ankunftsrate und einer exponentiell-verteilten Abfertigungsrate sowie einer Menge von \(c\) Servern}}.	
+{{c1::Eine exponentiell verteilte Zufallsvariable}} ist {{c2::eine Zufallsvariable, welche exponentialverteilt ist}}.	
+{{c1::Ein Markov-Prozess}} ist {{c2::eine Sequenz von voneinander unabhängigen Ereignissen}}.	
+"<p>{{c1::Lösungen für das Rampenproblem}} sind:</p>
+<ul>
+<li>{{c2::Erweiterung der Kapazität der Rampen}}</li>
+<li>{{c2::Optimierung der Anlieferzeiten}}</li>
+<li>{{c2::Reduktion der Wartezeiten von Fahrzeugen an der Rampe}}</li>
+</ul>"	
+"Frage:<br />
+Was ist das Hauptziel der Simulation im Zusammenhang mit dem Rampenproblem?"	Das Ziel ist es, die Wartezeiten und die Auslastung der Ressourcen zu analysieren und zu optimieren.
+"Frage:<br />
+Wie wird das Rampenproblem in einer Simulation typischerweise modelliert?"	Es wird meist durch Warteschlangentheorie modelliert, wobei die Ankunfts- und Bedienraten als Zufallsvariablen berücksichtigt werden.
+"wahr oder falsch:<br />
+Das Rampenproblem beschreibt eine Situation, in der mehrere Kunden in einem Warteschlangensystem gleichzeitig bedient werden müssen."	falsch
+"wahr oder falsch:<br />
+Im Rampenproblem ist die Anzahl der Warteschlangen immer konstant."	falsch
+{{c1::Das Rampenproblem}} ist {{c2::eine Herausforderung in der Logistik, in welchem ein Engpass bei der Kapazität im Wareneingang durch Rampen und Verladestellen entsteht}}.	
+{{c1::Operations Research}} ist {{c2::die Wissenschaft über Methoden zur Erstellung formal-mathematischer Modelle für Entscheidungsprobleme und zur Entscheidungsfindung}}.	
+"<p>{{c1::Die Modellierung komplexer Systeme}} besteht aus:</p>
+<ul>
+<li>{{c2::Aggregation}}</li>
+<li>{{c2::Annahmen}}</li>
+<li>{{c2::Dekomposition}}</li>
+<li>{{c2::Objekt-Relationen}}</li>
+<li>{{c2::Skalierung}}</li>
+</ul>"	
+"Beispiel:<br />
+örtliche Dekomposition"	"<ul>
+<li>verschiedene Produktions-Standorte</li>
+</ul>"
+{{c1::Die örtliche Dekomposition}} ist {{c2::die Dekomposition auf verschiedene Standorte}}.	
+"Beispiel:<br />
+zeitliche Dekomposition"	"<ul>
+<li>Prüfungsplanung je Semester</li>
+</ul>"
+{{c1::Die zeitliche Dekomposition}} ist {{c2::die Dekomposition aufgrund von zeitlichen Zusammenhängen}}.	
+"Beispiel:<br />
+logische Dekomposition"	"<ul>
+<li>die Abiturvorbereitung erfolgt vor, und nicht nach dem Studium</li>
+</ul>"
+{{c1::Die logische Dekomposition}} ist {{c2::die Dekomposition aufgrund von Abhängigkeiten}}.	
+{{c1::Die Dekomposition}} ist {{c2::die Zerlegung eines betrachteten Objektes in Teilobjekte}}.	
+{{c1::Eine Objekt-Relation (Objektbeziehung)}} ist {{c2::eine Relation zwischen Objekten zur Identifikation und Beschreibung von wesentlichen Bestandteilen eines Systems}}.	
+"<p>{{c1::Herausforderungen in der Modellierungen}} sind:</p>
+<ul>
+<li>{{c2::Wie können Prozesse identifiziert und umgesetzt werden?}}</li>
+<li>{{c2::Wie können Prozesse koordiniert werden?}}</li>
+</ul>"	
+{{c1::Die Komplexitätsreduzierung}} ist {{c2::das Weglassen von nicht-benötigten Bestandteilen von einem Objekt zur Beschränkung auf das Wesentliche}}.	
+"Frage:<br />
+Wie ist das Vorgehen einer Warteschlange für das Prozessmanagement?"	analytisch Vorgehen mit Fokus auf Zeit
+"Frage:<br />
+Welche Parameter sind in einer Warteschlange für das Prozessmanagement vorhanden?"	Ankunftszeit und Bearbeitungszeit stochastisch
+"Frage:<br />
+Welche Prozesse sind in einer Warteschlange für das Prozessmanagement vorhanden?"	spezifische nicht-dynamische mathematische Modelle für verschiedene Prozesse
+"Frage:<br />
+Wie hoch ist das Aufwand einer Warteschlange für das Prozessmanagement?"	mittel
+{{c1::Eine Warteschlange in der Wirtschaft}} ist {{c2::ein Modell für die analytische Prozessleistungsanalyse mit mittleren Detaillierungsgrad}} zur {{c3::Einschätzung der Zeit durch spezifische mathematische Funktionen}} innerhalb eines Systems mit {{c4::stochastischer Verteilung}}. Durch {{c1::eine Warteschlange}} kann {{c4::die Leistungsfähigkeit eines Prozesses mit variablen Prozessparametern}} geprüft werden.	
+{{c1::Ein Attribut}} ist {{c2::eine Eigenschaft einer Instanz oder eines Objekts}}.	
+{{c1::Die Entscheidungsfindung}} ist {{c2::ein Vorgang, um eine Entscheidung zu treffen}}.	
+Eine Entscheidung hängt von {{c1::beeinflussbaren Faktoren}} und {{c1::nicht-beeinflussbaren Faktoren}} ab.	
+Für die Entscheidungsfindung müssen {{c1::einzelne Entscheidungsalternativen}} bewertet werden.	
+{{c1::Eine Klasse}} ist {{c2::eine Gruppe, eine Menge oder eine Sammlung an bestimmten Elementen oder Objekten einer gleichen Instanz}}.	
+Jede Instanz einer Klasse stellt {{c1::einen Software-Agenten}} dar, welche durch Attribute den Software-Agent beschreiben und durch Services in der Lage sind, zu agieren.	
+"Frage:<br />
+Wie ist das Vorgehen einer Simulation für das Prozessmanagement?"	experimentelles Vorgehen mit beliebigen Untersuchungsfokus
+"Frage:<br />
+Welche Parameter sind in einer Simulation für das Prozessmanagement vorhanden?"	beliebige stochastische Parameter
+"Frage:<br />
+Welche Prozesse sind in einer Simulation für das Prozessmanagement vorhanden?"	beliebige Prozesse mit und ohne Dynamik
+"Frage:<br />
+Wie hoch ist das Aufwand einer Simulation für das Prozessmanagement?"	hoch
+{{c1::Eine Simulation}} ist {{c2::eine experimentelle Methode des Prozessmanagements mit mittleren Detaillierungsgrad}} zur Nachstellung von {{c3::real-existierenden Systemen oder von real-existierenden Prozessen}}.	
+"Beispiel:<br />
+Aggregation"	"<ul>
+<li>Betrachtung von Kundengruppen anstatt der Betrachtung individueller Kunden</li>
+<li>Häufigkeitsverteilung</li>
+</ul>"
+{{c1::Die Aggregation}} ist {{c2::die Komplexitätsreduktion durch die Zusammenfassung von Objekten und Objektbeziehungen}}.	
+{{c1::Der Dichtetransformationssatz}} ist {{c2::die Transformation einer univariaten Zufallsvariable mit stetiger Verteilung zur Berechnung der Wahrscheinlichkeitsdichte für eine stetige Zufallsvariable}}.	
+"<p>Die Funktion zur Transformation im {{c1::Dichtetransformationssatz}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::g ist eindeutig umkehrbar mit der Umkehrfunktion \(h = g^{-1}\)}}</li>
+<li>{{c2::\(g\) und \(h\) sind stetig differenzierbar mit \(h&#039; (y) \neq 0\)}}</li>
+</ul>"	
+{{c1::Eine bivariate Verteilung}} ist {{c2::ein Spezialfall der Wahrscheinlichkeitsverteilung mit zwei Zufallsvariablen \(x\) und einem oder mehreren daraus hergeleiteten Zufallsvariablen \(Y\)}}.	
+{{c1::Eine univariate Verteilung}} ist {{c2::ein Spezialfall der Wahrscheinlichkeitsverteilung mit einer Zufallsvariable \(X\) und einer daraus hergeleiteten Zufallsvariable \(Y\)}}.	
+{{c1::Die Normalverteilung}} ist {{c2::eine stetige Wahrscheinlichkeitsverteilung mit Einbezug eines Zufallsrauschen}}.	
+{{c1::Die Exponentialverteilung}} ist {{c2::eine stetige Wahrscheinlichkeitsverteilung mit Messung der Zeit des Erfolges eines Ereignis in einem Intervall}}.	
+"Beispiel:<br />
+Poisson-Verteilung"	"<ul>
+<li>Ankunftszählung</li>
+</ul>"
+{{c1::Eine Poisson-Verteilung}} ist {{c2::eine diskrete Wahrscheinlichkeitsverteilung mit Zählung von entstandenen Ereignissen innerhalb einer bestimmten Zeit}}.	
+"Beispiel:<br />
+geometrische Verteilung"	"<ul>
+<li>Wartezeiten</li>
+</ul>"
+{{c1::Eine geometrische Verteilung}} ist {{c2::eine diskrete Wahrscheinlichkeitsverteilung mit Messung der Zeit des Erfolges eines Ereignis}}.	
+{{c1::Eine Multinomialverteilung}} ist {{c2::eine diskrete Wahrscheinlichkeitsverteilung mit einer Klasseneinteilung}}.	
+{{c1::Eine Binomialverteilung}} ist {{c2::eine Verteilung nach der Bernoulli-Kette}}.	
+{{c1::Eine Bernoulli-Kette}} ist {{c2::ein diskretes Modell und ein Spezialfall der Multinomialverteilung mit zwei Kategorien}}.	
+"Beispiel:<br />
+Einstichprobenmodell"	"<ul>
+<li>Urnenexperiment</li>
+</ul>"
+{{c1::Ein Einstichprobenmodell}} ist {{c2::ein statistisches Modell, bei dem Zufallsvariablen stochastisch unabhängig sind und eine identische Wahrscheinlichkeit besitzen}}.	
+{{c1::Die Modellverteilung}} ist {{c2::die Verteilung der Zufallsvariablen in einem Modell}}.	
+{{c1::Eine Stichprobenverteilung}} ist {{c2::die Verteilung von Zufallsvariablen in Abhängigkeit von einem Wahrscheinlichkeitsmodell}}.	
+{{c1::Ein Rückschluss mit endlichen Zufallsvariablen}} kann nicht exakt sein, weshalb {{c2::ein Rückschluss und dessen Ungenauigkeiten mit Wahrscheinlichkeiten bewertet werden}}.	
+{{c1::Die Stichprobenstatistik}} ist {{c2::die Nutzung von Zufallsvariablen in einem Wahrscheinlichkeitsmodell}}.	
+{{c1::Ein Hypothesentest}} ist {{c2::ein Test zur Sicherung einer bestimmten statistischen Wahrscheinlichkeit}}.	
+{{c1::Eine Schätzung}} ist {{c2::die Findung einer Größe, welche eine andere Größe möglichst gut ersetzt}}.	
+{{c1::Ein Konkretisierung}} ist {{c2::ein Rückschluss von einer Gesamtklasse auf eine Teilklasse}}.	
+{{c1::Die deskriptive Statistik}} ist {{c2::die Aggregation von Merkmalsausprägungen der einzelnen Merkmalsträger}} zur {{c2::Aussage über Stichproben}}.	
+"{{c1::Ein Service (Dienst)}} ist {{c2::ist eine Menge an Funktionen und das daraus resultierende Verhalten, welche ein Objekt seiner Umwelt zu Verfügung stellt und dadurch Wert erzeugt}}. {{c1::Ein Service}} wird genutzt, um {{c3::Zustandsänderungen}} zu realisieren.<br />
+{{c1::{{c2::{{c3::<img src=""2024-Bild-Schoenberger-Service-Definition.png"" alt=""""> Service Definition}}}}}}"	
+{{c1::Der Induktionsschluss als statistisches Gesetz (induktive Statistik)}} ist {{c2::die Induktion durch die Erkenntnis aus Statistik von einer Teilklasse auf eine Gesamtklasse}}.	
+{{c1::Eine Annahme}} ist {{c2::eine grundsätzlich unterbewusste und selbstverständliche Aussage}} über {{c2::eine Umwelt}}.	
+{{c1::Eine Annahme}} unterstellt {{c2::einem Wirkungszusammenhang}} innerhalb eines Systems.	
+"Frage:<br />
+Für eine Investition kann ein Gewinn oder ein Verlust auftreten. Handelt es sich um eine sichere Erwartung, Erwartung mit Risiko oder Erwartung mit Unsicherheit?"	Erwartung mit Unsicherheit
+{{c1::Ungewissheit (Unsicherheit)}} ist {{c2::eine Informationssituation, bei dem keine Informationen über eine Menge von Zuständen bekannt sind}}. Dadurch steht nicht fest, welcher Zustand eintreten wird.	
+"Frage:<br />
+Für eine Investition wird in jeden Fall ein Gewinn erzielt. Handelt es sich um eine sichere Erwartung, Erwartung mit Risiko oder Erwartung mit Unsicherheit?"	Erwartung mit Sicherheit
+{{c1::Sicherheit in der Logik}} ist {{c2::eine Informationssituation, bei dem ein zukünftiger Zustand \(s\) bekannt ist und genau vorhergesagt werden kann}}. Dadurch steht fest, welcher Zustand eintreten wird.	
+"{{c1::Ein Objekt}} ist {{c2::ein passives Element, denen moralische Agenten eine moralische Verantwortung haben können}}. {{c3::Ein Objekt}} besitzt {{c4::Substanz}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2023-Bild-Schoenberger-Instanz_der_Klasse_Vehicle.png"" alt=""""><br />
+Instanz der Klasse ""Vehicle""}}}}}}}}"	
+"{{c1::Ein Subjekt}} ist {{c2::ein aktives Element}}. {{c1::Ein Subjekt}} wird durch {{c3::Gruppierung von Klassen}} realisiert.<br />
+{{c1::{{c2::{{c3::<img src=""2024-Bild-Schoenberger-Vier_Subjekte.png"" alt=""""><br />
+Eine Struktur mit vier Subjekten}}}}}}"	
+"wahr oder falsch:<br />
+Das Traveling Salesman Problem ist ein Beispiel für Zielsetzungsprobleme in der Planung."	"falsch:<br />
+Es ist ein Beispiel für Lösungsprobleme."
+{{c1::Das Traveling Salesperson Problem (Traveling Salesman Problem, TSP)}} ist {{c2::ein NP-vollständiges Problem, bei welchem in einem gewichteten Graph der kürzeste Rundweg bestimmt werden soll, bei welchem alle Knoten genau einmal aufgesucht werden und der Rundweg am Startknoten enden muss}}.	
+{{c1::Skalierung}} ist {{c2::die Fähigkeit, ein System in seinen Fähigkeiten oder seiner Größe anzupassen}}. {{c1::Skalierung}} ist außerdem {{c3::die Reduzierung oder Erhöhung des physikalischen Ausmaßes des Untersuchungsgegenstandes}}.	
+{{c1::Skalierung}} in der IT beschreibt {{c2::die Anpassung an wachsende bzw. fallende Nachfrage, häufig durch Virtualisierung}}.	
+{{c1::Die Mikroebene}} ist {{c2::die Betrachtung von einzelnen Elementen in einem System}}.	
+{{c1::Die Mesoebene}} ist {{c2::die Betrachtung von Verbindungen der Elementen in einem System}}.	
+{{c1::Die Makroebene}} ist {{c2::die Betrachtung eines System als Ganzes}}.	
+Beta-Fehler	Fehler zweiter Art, Konsumentenrisiko
+{{c1::Der Beta-Fehler (Fehler zweiter Art, Konsumentenrisiko)}} ist {{c2::ein Entscheidungsfehler in statistischen Testverfahren}}, der vorliegt, wenn {{c2::eine Hypothese angenommen wird, obwohl diese falsch ist}}.	
+Alpha-Fehler	Fehler erster Art, Produzentenrisiko
+{{c1::Der Alpha-Fehler (Fehler erster Art, Produzentenrisiko)}} ist {{c2::ein Entscheidungsfehler in statistischen Testverfahren}}, der vorliegt, wenn {{c2::eine Hypothese abgelehnt wird, obwohl diese wahr ist}}.	
+"Beispiel:<br />
+Modelle"	"<ul>
+<li>Aufbau eines Motors</li>
+<li>Klimamodell</li>
+<li>Modelleisenbahn</li>
+</ul>"
+{{c1::Ein Modell (Theoretical Framework)}} ist {{c2::eine Repräsentation eines Objektes, der Wirklichkeit oder eines Ausschnitts dieser Wirklichkeit}}. {{c1::Ein Modell}} wird aus einem Grund für {{c3::eine bestimmte Audienz}} mit {{c4::einer definierten Sprache}} konstruiert.	
+Das Hauptmerkmal von {{c1::Modellen}} ist {{c2::die Abstrahierung von komplexen Zusammenhängen}} zur {{c3::Gewinnung von Information}}.	
+"<p>{{c1::Ein Modell}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::empirische Bestätigung}}</li>
+<li>{{c2::Genauigkeit}}</li>
+<li>{{c2::Informationsgehalt}}</li>
+<li>{{c2::Realitätsbezug}}</li>
+<li>{{c2::Widerspruchsfreiheit}}</li>
+</ul>"	

@@ -1,0 +1,483 @@
+#separator:tab
+#html:true
+{{c1::Die Geldmenge}} ist {{c2::die Menge an Geld in einer Volkswirtschaft}}.	
+"<p>{{c1::Die Geldmenge}} besteht aus:</p>
+<ul>
+<li>{{c2::M1: Bargeld und Sichteinlagen}}</li>
+<li>{{c2::M2: M1 + Einlagen mit einer Laufzeit von bis zu 2 Jahren oder mit einer gesetzlicher Kündigungsfrist von bis zu 3 Monaten}}</li>
+<li>{{c2::M3: M2 + Bankschuldverschreibungen, Geldmarktfondanteile, Geldmarktpapiere und Repogeschäfte mit einer Laufzeit von bis zu 2 Jahren}}</li>
+</ul>"	
+"Meist verkaufen&nbsp;Anbieter&nbsp;in {{c1::einer vollständiger Konkurrenz}} ohne&nbsp;Gewinn&nbsp;im&nbsp;Marktgleichgewicht.<br />
+{{c1::<img src=""2021-Bild-Sieg-Gewinnmaximierung_bei_vollstaendiger_Konkurrenz.png"" alt=""""><br />
+Gewinnmaximierung in einer vollständigen Konkurrenz}}"	
+"<p>{{c1::Einflussfaktoren der Nachfrage}} sind:</p>
+<ul>
+<li>{{c2::Änderung des Einkommens der Konsumenten}}</li>
+<li>{{c2::Änderung von verwandten Gütern}}</li>
+<li>{{c2::demografischer Wandel}}</li>
+<li>{{c2::Erwartung der Kunden}}</li>
+<li>{{c2::Präferenz der Konsumenten}}</li>
+<li>{{c2::Werbung}}</li>
+</ul>"	
+"<p>{{c1::Einflussfaktoren des Angebots}} sind:</p>
+<ul>
+<li>{{c2::Änderung von Produktionsfaktoren}}</li>
+<li>{{c2::Anzahl der Anbieter}}</li>
+<li>{{c2::Erwartung der Anbieter}}</li>
+<li>{{c2::gesellschaftliche Faktoren}}</li>
+<li>{{c2::Rentabilität}}</li>
+<li>{{c2::Technologie}}</li>
+</ul>"	
+{{c1::Die Hochlohnarbeitslosigkeit}} ist {{c2::die Arbeitslosigkeit}} auf Grund von {{c2::Lohn, der über den Gleichgewichtslohn liegt}} und dadurch {{c3::ein Nachfrageüberschuss an Arbeitskräften erzeugt}}.	
+{{c1::Die Sucharbeitslosigkeit}} ist {{c2::die Arbeitslosigkeit}} auf Grund von {{c2::derzeitiger Arbeitsplatzsuche}}.	
+{{c1::Die strukturelle Arbeitslosigkeit}} ist {{c2::die Arbeitslosigkeit}} auf Grund von {{c2::einem Ungleichgewicht zwischen Arbeitsplätzen und Nachfrage}} durch {{c3::unterschiedliche branchenspezifischen, qualifikationsbedingten und/oder regionalen Gründen}}.	
+"{{c1::Der Gewinn in einem Monopol}} wird {{c2::durch die Differenz zwischen Preis und den durchschnittlichen Gesamtkosten multipliziert mit der verkauften Menge}} berechnet.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopol_Gewinn.png"" alt=""""><br />
+Gewinn eines Monopolisten}}}}"	
+{{c1::Ein abnehmendes Grenzprodukt}} ist ein Grenzprodukt, bei welchem {{c2::mit steigendem Einsatz von Produktionsfaktoren}} {{c4::das Grenzprodukt sinkt}}, was bei den meisten Produktionsfunktionen der Fall ist, da {{c3::diese nicht unendlich skalierbar sind}}.	
+"Beispiel:<br />
+Gründe der Konjunktur"	"<ul>
+<li>Arbeitslose benötigen Zeit für die Suche nach neun Arbeitsplätzen</li>
+<li>Investitionen wirken nicht direkt</li>
+<li>Lagerbestände werden nicht direkt aufgelöst</li>
+<li>Lohnänderungen und Preisänderungen benötigen Anpassungszeit</li>
+</ul>"
+{{c1::Ein Marktversagen}}, welches durch {{c2::Externalitäten}} erzeugt wird, kann durch {{c3::Regulierungen, Steuern und Subventionierung}} behoben werden.	
+"{{c1::Das Gesetz des Angebotes}} ist ein Gesetz über das Angebot, welches besagt, dass {{c2::die Angebotsmenge und der Preis eine positive Korrelation besitzen}}:<br />
+{{c2::Mit steigendem Preis steigt die Angebotsmenge}}."	
+"{{c1::Das Gesetz der Nachfrage}} ist ein Gesetz über die Nachfrage, welches besagt, dass {{c2::die Nachfragemenge und der Preis eine negative Korrelation besitzen}}:<br />
+{{c2::Mit steigendem Preis sinkt die Nachfragemenge}}."	
+"{{c1::Gesamteinnahmen und Gesamtausgaben}} sind die Einnahmen und Ausnahmen in einem Markt, berechnet durch {{c2::die gesamte gekaufte Menge an Gütern multipliziert mit dem Güterpreis}}:<br />
+{{c1::\(\text{Gesamteinnahmen und Gesamtausgaben}\)}} \(=\) {{c2::\(\text{Menge an Gütern} \cdot \text{Güterpreis}\)}}"	
+"Frage:<br />
+Was ist die Bogenelastizität?"	Die Bogenelastizität beschreibt, wie sich die Nachfrage bei einer prozentualen Preisänderung verändert.
+{{c1::Die Bogenelastizität}} ist {{c2::die Veränderung der Nachfrage bei einer prozentualen Preisänderung}}.	
+{{c1::\(\text{Preiselastizität}\)}} \(=\) {{c2::\(\frac{\text{Prozentuale Mengenänderung} }{\text{Prozentuale Preisänderung} }\)}}	
+{{c1::\(\eta_{2}\)}} \(=\) {{c2::\(\frac{p_{2} - p_{1} }{p_{1} } \cdot \eta_{1} \cdot x_{1}\)}} mit {{c1::\(\eta\) als Preiselastizität}}, {{c2::\(p\) als Preis, \(x\) als Menge}}	
+{{c1::Der Gewinn}} ist {{c3::maximal}}, wenn {{c2::der Grenzumsatz den Grenzkosten}} entspricht.	
+Ein Marktgleichgewicht in {{c1::einer vollständigen Konkurrenz}} entspricht {{c2::einer effizienten Allokation von Ressourcen}}, da {{c3::das Gleichgewicht Pareto-optimal ist}}.	
+{{c1::Eine Preisänderung}} führt zu {{c2::einer Bewegung}} auf der Angebotsfunktion, während {{c1::die Beeinflussung der Einflussfaktoren des Angebots}} zu {{c2::einer Verschiebung}} der Angebotsfunktion führt.	
+{{c1::Eine Preisänderung}} führt zu {{c2::einer Bewegung}} auf der Nachfragefunktion, während {{c1::die Beeinflussung der Einflussfaktoren der Nachfrage}} zu {{c2::einer Verschiebung}} der Nachfragefunktion führt.	
+{{c1::Eine Arbeitslosenversicherung}} kann {{c2::die Arbeitslosigkeit}} erhöhen, wenn {{c3::das Arbeitslosengeld nahe dem Lohn}} liegt, da {{c3::nur ein geringer Anreiz besteht, die Beschäftigung aufzunehmen}},	
+"{{c1::Mindestlohn}} führt {{c2::kurzfristig}} zu einer Erhöhung {{c3::des ausgezahlten Lohns}} an bestehenden Arbeitskräften.<br />
+{{c2::Langfristig}} erhöht sich {{c3::die Arbeitslosigkeit}}, da {{c3::für bestehende Arbeitskräfte mehr Lohn gezahlt werden muss}}."	
+{{c1::Das reale Pro-Kopf-BIP}} ist der reale BIP pro Bürger und gibt {{c2::die ökonomische Wohlfahrt einer Volkswirtschaft}} an.	
+"{{c1::Die langfristige Gewinnmaximierung in monopolistischen Konkurrenzen}} führt zu {{c2::Preisen}}, die {{c2::über}} {{c3::den Grenzkosten}}, wie in {{c3::einem Monopol}}, aber {{c2::gleich}} {{c3::den durchschnittlichen Gesamtkosten,}} wie in {{c3::einem Polypol}} sind.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Monopolistische_Konkurrenz_langfristig.png"" alt=""""><br />
+Monopolistische Konkurrenz auf langfristige Sicht}}}}}}"	
+"{{c1::Monopolistische Konkurrenzen}} produzieren langfristig {{c2::in Überkapazität}} und {{c2::nehmen einen Preisaufschlag}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopolistische_Konkurrenz_langfristig.png"" alt=""""><br />
+Monopolistische Konkurrenz auf langfristige Sicht}}}}"	
+"{{c2::Die kurzfristige Gewinnmaximierung in monopolistischen Konkurrenzen}} ist gleich zu {{c1::der Gewinnmaximierung in Monopolen}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopolistische_Konkurrenz_Gewinn.png"" alt=""""><br />
+Unternehmen mit Gewinn in einer monopolistischen Konkurrenz auf kurzfristige Sicht}}}}"	
+"Der&nbsp;Grenzumsatz&nbsp;eines&nbsp;Monopols&nbsp;ist immer {{c1::geringer als der&nbsp;Preis}}, da {{c2::die&nbsp;Nachfrage&nbsp;mit Erhöhung des Preises sinkt}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopol_Grenzerloes_und_Nachfrage.png"" alt=""""><br />
+Grenzerlös und Nachfrage}}}}"	
+"{{c1::Der Grenzumsatz}} sinkt in Monopolen dabei {{c2::doppelt so stark}} wie {{c1::die Nachfrage}}, so dass das Monopol Verlust mit dem Verkauf machen kann.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopol_Grenzerloes_und_Nachfrage.png"" alt=""""><br />
+Grenzerlös und Nachfrage}}}}"	
+"Ein Monopol maximiert seinen Gewinn, wenn {{c1::es die Menge produziert, bei dem die Grenzkosten und der Grenzumsatz gleich sind}}.<br />
+{{c1::<img src=""2021-Bild-Sieg-Monopol_Gewinnmaximierung.png"" alt=""""><br />
+Gewinnmaximierung eines Monopolisten}}"	
+"{{c1::Die Überkapazität}} ist {{c2::ein Zustand in einer Produktion}}, in welchem {{c2::weniger als die ökonomische Effizienz produziert wird}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopolistische_Konkurrenz_Aufschlag_und_Ueberkapaziaet.png"" alt=""""><br />
+Preisaufschlag und Überkapazität}}}}"	
+"{{c1::Ein Preisaufschlag}} ist {{c2::ein Aufschlag auf einen Preis}}, welcher {{c2::deutlich höher ist als die Grenzkosten}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopolistische_Konkurrenz_Aufschlag_und_Ueberkapaziaet.png"" alt=""""><br />
+Preisaufschlag und Überkapazität}}}}"	
+{{c1::Ein Preisfixierer}} ist ein Unternehmen, welches {{c2::den Preis des Gutes vorgeben kann}}.	
+{{c1::Die Budgetgerade}} ist {{c2::die grafische Darstellung des Budget}}.	
+Bei {{c1::einer positiven Einkommensveränderungen}} verschiebt sich {{c2::die Budgetgerade nach außen}}, sodass {{c2::mehr konsumiert werden kann}}.	
+{{c1::Eine ökonomische Effizienz (volkswirtschaftliche Effizienz)}} ist {{c2::ein optimales Marktergebnis}} mit {{c2::Maximierung der Gesamtrente}}.	
+{{c1::Die Allokationseffizienz}} ist {{c2::die Effizienz der Güterverteilung}} für {{c2::Konsumenten und Produzenten}} und ein Maß für {{c2::die Wohlfahrt}}.	
+{{c1::Die Gesamtrente}} ist {{c2::die Kombination von Konsumentenrente und Produzentenrente}} und beschreibt {{c2::ein Maß für die Wohlfahrt}}.	
+{{c1::\(\text{Gesamtrente}\)}} \(=\) {{c2::\(\text{Konsumentenrente} + \text{Produzentenrente} = \text{Zahlungsbereitschaft} - \text{Produktionskosten}\)}}	
+{{c1::Die Verkaufsbereitschaft}} ist {{c2::der Minimumbetrag}}, für den {{c2::ein Produzent bereit ist, ein Gut zu verkaufen}}.	
+"{{c1::Der Einkommenseffekt}} ist {{c2::die Veränderung der Konsummenge}} durch {{c2::die Verschiebung der Ausgaben auf der Indifferenzkurve}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Substitutions-_und_Einkommenseffekt.png"" alt=""""><br />
+Substitutions- und Einkommenseffekt}}}}"	
+"{{c1::Der Substitutionseffekt}} ist {{c2::die Veränderung der Konsummenge}} bei {{c3::einer Preisänderung}} durch die {{c4::Verschiebung des Substitutionsverhältnis auf der Indifferenzkurve}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2021-Bild-Sieg-Substitutions-_und_Einkommenseffekt.png"" alt=""""><br />
+Substitutions- und Einkommenseffekt}}}}}}}}"	
+{{c1::Das Budget}} ist {{c2::der Geldbetrag}}, den {{c2::ein Konsument für den Konsum zur Verfügung steht}}.	
+"wahr oder falsch:<br />
+Weil Indifferenzkurven konkav sind, können sich nie zwei Indifferenzkurven eines Investors schneiden."	"falsch:<br />
+Es stimmt zwar, dass sich Indifferenzkurven eines Investors nicht schneiden können. Dies liegt aber nicht daran, dass sie konkav sind."
+"{{c1::Eine Indifferenzkurve}} ist die grafische Darstellung {{c2::der Kombinationen}}, die {{c2::den gleichen Nutzen für den Konsum von mehreren Gütern}} für {{c2::einen Konsumenten}} angibt.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Indifferenzkurve.png"" alt=""""><br />
+Indifferenzkurve und Grenzrate der Substitution}}}}"	
+{{c1::Die Steigung der Indifferenzkurve}} entsprich der Grenzrate der Substitution.	
+Eine {{c1::höher}} liegende Indifferenzkurve wird bevorzugt, da {{c2::diese ein höheren Nutzen besitzt}}.	
+{{c1::Der Grenzumsatz (Grenzerlös)}} ist {{c2::die Veränderung des Umsatz durch den Verkauf einer zusätzlichen Einheit}}.	
+{{c1::Der Durchschnittsumsatz (Durchschnittserlös)}} ist {{c2::der durchschnittliche Umsatz pro verkaufte Einheit}}.	
+{{c1::Die zyklische Arbeitslosigkeit}} ist {{c2::die kurzfristige Schwankungen der Arbeitslosigkeit durch die Konjunktur}}.	
+{{c1::Die Vollbeschäftigung}} ist ein Zustand, in dem {{c2::die Arbeitslosenquote der natürlichen Arbeitslosenquote entspricht}}.	
+{{c1::Die natürliche Arbeitslosenquote}} ist {{c2::der langfristig nicht abbaubare Teil der Arbeitslosigkeit}}.	
+{{c1::Ein Wertpapierpensionsgeschäft}} ist {{c2::ein geldpolitisches Instrument, bei dem Geschäftsbanken sich Geld von der Zentralbank leihen und dafür Wertpapiere als Sicherheit hinterlegen}}.	
+{{c1::Der reale Zinssatz}} ist {{c2::der von der Inflation bereinigte Zinssatz}}.	
+{{c1::\(\text{realer Zins}\)}} \(=\) {{c2::\(\text{nominaler Zins} - \text{Inflation}\)}}	
+Kosten bei Verbleib im aktuellen System	\(\text{konstanter Netzwerkpreis} + \frac{\text{konstanter Netzwerkpreis} }{\text{Zinssatz} }\)
+Kosten nach Systemwechsel	\(\text{konstanter Netzwerkpreis} - \text{Wechselrabatt} + \text{Wechselkosten} + \frac{\text{konstanter Netzwerkpreis} }{\text{Zinssatz} }\)
+{{c1::Ein Systemwechsel}} ist wirtschaftlich, wenn {{c2::die Kosten nach dem Systemwechsel kleiner sind als die Kosten beim Verbleib im aktuellen System}}.	
+{{c1::Der Gegenwartswert}} ist {{c2::der Wert einer zukünftigen Zahlung}}.	
+{{c1::\(\text{Gegenwartswert (PV)}\)}} \(=\) {{c2::\(\frac{\text{Zukunftswert} }{(1 + \text{Zinssatz})^{\text{Zeit} } }\)}}	
+"{{c1::Ein Netzwerk-Gleichgewicht}} ist {{c2::ein Marktgleichgewicht}}, bei welchem in {{c2::einem Markt}} mit {{c2::Netwerkexternalitäten}} ein {{c2::stabiler Zustand}} erreicht wird.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Kostenverlauf_und_Netzwerkexternalitaeten.png"" alt=""""><br />
+Kostenverlauf und Netzwerkexternalitäten}}}}"	
+"<p>Das Netzwerk-Gleichgewicht entsteht durch:</p>
+<ul>
+<li>{{c1::keine Käufer und kein Angebot}}</li>
+<li>{{c2::kleine Anzahl von Käufern mit instabilem Gleichgewicht}}</li>
+<li>{{c3::große Anzahl von Käufern mit stabilem Gleichgewicht}}</li>
+</ul>"	
+{{c1::Ein Präsenzindikator der Konjunktur}} ist {{c2::ein Hinweis auf die aktuelle konjunkturelle Entwicklung}}.	
+{{c1::Ein Frühindikator der Konjunktur}} ist {{c2::ein Hinweis auf die zukünftige konjunkturelle Entwicklung}}.	
+{{c1::Ein Spätindikator der Konjunktur}} ist {{c2::ein Hinweis auf die vergangene konjunkturelle Entwicklung}}.	
+{{c1::Antizyklisch}} ist {{c2::eine Bewegung entgegengerichtet zum betrachtenden Objekt}}.	
+{{c1::Ein Trend}} ist {{c2::eine Grundrichtung der langfristigen Veränderung}} in {{c2::einer Zeitreihenanalyse}}.	
+{{c1::Prozyklisch}} ist {{c2::eine Bewegung entsprechend zum betrachtenden Objekt}}.	
+"{{c1::Gesamtausgaben}} sind {{c2::alle Beträge, die von Käufern gezahlt werden}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Ausgaben_bei_Nachfrage.png"" alt=""""><br />
+Ausgaben bei Nachfrage}}}}"	
+{{c1::Eine Depression}} ist {{c2::eine starke Rezession}}.	
+{{c1::Eine Depression}} ist vorhanden, wenn {{c2::das reale BIP um -10 % pro Jahr oder über einen Zeitraum von drei Jahren sinkt}}.	
+{{c1::Eine Rezession}} ist {{c2::eine Periode}} mit {{c2::schrumpfendem Volkseinkommen und steigender Arbeitslosigkeit}}.	
+{{c1::Eine Rezession}} ist vorhanden, wenn {{c2::in zwei aufeinander folgenden Quartalen der BIP sinkt}}.	
+"{{c1::Wissen}} ist {{c2::eine nützliche Sammlung an Erfahrungen, Informationen und Werten, die einen Rahmen für die Bewertung und Einbeziehung neuer Erfahrungen und Informationen bietet}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Geschaeftsprozessorientiertes_Wissensmanagement.png"" alt=""""><br />
+Geschäftsprozessorientiertes Wissensmanagement}}}}"	
+Wissen führt zu {{c1::einer Weiterentwicklung der Fähigkeiten}} einer gesamten Gesellschaft und Volkswirtschaft.	
+{{c1::Das Humankapital (Human Capital)}} ist {{c2::ein Produktionsfaktor}} in Form von {{c2::Fähigkeiten und Wissen der Arbeitskräften}}.	
+{{c1::Eine natürliche Ressource}} ist ein {{c2::Gut}}, welches von {{c2::der Natur}} bereitgestellt wird.	
+{{c1::Das Realkapital}} ist {{c2::ein Produktionsfaktor}} in Form von {{c2::Geld}}.	
+{{c1::Die Konzentrationsrate}} ist {{c2::ein Kalkül}} zur {{c2::Messung der Verteilung des Marktanteils auf die einzelnen Unternehmen}}.	
+{{c1::Die Inflationsrate}} ist {{c2::die Rate der Inflation}} und {{c2::die prozentuale Veränderung des Preisniveaus gegenüber einer Vorperiode}}.	
+{{c1::\(\text{Inflationsrate im Jahr 2}\)}} \(=\) {{c2::\(\frac{\text{Verbraucherpreisindex im Jahr 2} - \text{Verbraucherpreisindex im Jahr 1} }{\text{Verbraucherpreisindex im Jahr 1} } \cdot 100\)}}	
+{{c1::Ein Staat}} ist die Menge an {{c2::Bundesländern, Gemeinden und Sozialversicherungen}}.	
+{{c1::Eine private Organisation}} ist eine {{c2::Organisation ohne Erwerbszweck}}, z. B. {{c2::Gewerkschaften oder Parteien}}.	
+{{c1::Ein privater Haushalt}} ist {{c2::eine Einzelperson oder eine Gruppe von Einzelpersonen}}.	
+{{c1::Eine finanzielle Kapitalgesellschaft}} ist {{c2::eine spezifische idealtypische Kapitalgesellschaft}}, z. B. {{c2::Banken oder Versicherungen}}.	
+{{c1::Eine nichtfinanzielle Kapitalgesellschaft}} ist {{c2::eine allgemeine idealtypische Kapitalgesellschaft}}, z. B. {{c2::Aktiengesellschaften}}.	
+{{c1::Der nominale BIP}} ist {{c2::der BIP}} mit {{c2::Bewertung von Gütern zum derzeitigen Marktpreis}}.	
+{{c1::Das reale BIP}} ist {{c2::der BIP}} mit {{c2::Bewertung von Gütern zum Marktpreis der Vorjahre}}.	
+{{c1::Eine Mindestreserveanforderung}} ist {{c2::ein geldpolitisches Instrument}}, bei welchem {{c2::Banken Mindestreserven bei der Zentralbank halten müssen}}.	
+{{c1::Ständigen Fazilitäten}} sind {{c2::ein geldpolitisches Instrument}} für {{c2::kurzfristige Leihmöglichkeiten und Anlagemöglichkeiten}} bei {{c2::der Zentralbank}}.	
+Die Zinsen von {{c2::ständigen Fazilitäten}} sind bei Finanzierung {{c1::deutlich höher}} und bei Anlagen {{c1::deutlich niedriger}} als {{c1::der Marktzins}}, so dass {{c2::die ständigen Fazilitäten}} nur {{c3::im Notfall}} benutzt werden.	
+{{c1::Ein Offenmarktgeschäft}} ist {{c2::ein geldpolitisches Instrument zum An- und Verkauf von Wertpapieren}} durch {{c3::die Zentralbank}}.	
+{{c1::Der Verkauf von Wertpapieren durch die Zentralbank}} {{c2::verkleinert}} die Geldmenge, da {{c2::Geschäftsbanken die Wertpapiere kaufen und somit Geld von den Geschäftsbanken zur Zentralbank fließt}}.	
+{{c1::Der Geldschöpfungsmultiplikator}} ist {{c2::die Geldmenge}}, welche {{c2::das Bankensystem mit einer Geldmenge an Reserven durch Geldschöpfung generiert}}.	
+{{c1::\(\text{Geldschöpfungsmuliplikator}\)}} \(=\) {{c2::\(\frac{1}{\text{Reservesatz} }\)}}	
+{{c1::Die Geldschöpfung}} ist {{c2::die Schöpfung von Geld durch die Einlage von als Kredit vergebene Gelder in einer anderen Bank, wodurch das Geld wieder verliehen werden kann}}.	
+{{c1::\(\text{Geldschöfpfung}\)}} \(=\) {{c2::\(\text{Geldmenge} \cdot \frac{1}{\text{Reservesatz} }\)}}	
+{{c1::Eine Reserve}} ist {{c2::eine Einlage, welche nicht weiterverliehen oder genutzt wird}}.	
+{{c1::Die Reserve}} bezieht sich auf das Verhältnis, zu welchen {{c2::Organisation}} einen bestimmten {{c2::Satz ihrer Einlagen}} als {{c1::Reserven}} halten müssen.	
+{{c1::Das Europäische System der Zentralbanken (ESZB)}} ist {{c2::eine Gruppe aus der Europäischen Zentralbank und den nationalen Zentralbanken}}.	
+Die Aufgabe des Europäische System der Zentralbanken ist {{c1::die Steuerung der Geldpolitik, unabhängig von politischen Weisungen}}.	
+{{c1::Eine Zentralbank}} ist {{c2::eine Organisation}}, die {{c2::das Bankenwesen überwacht}} und {{c2::die Geldmenge in einer Volkswirtschaft reguliert}}.	
+{{c1::Ein Geldmarktpapier (Commercial Paper)}} ist {{c2::eine Schuldverschreibung}}, die zur {{c3::Beschaffung kurzfristiger Gelder emittiert wird}}.	
+{{c1::Ein Commercial Paper}} besitzt {{c2::ein hohes Mindestvolumen}} und {{c2::eine hohe Flexibilität}} durch {{c3::ein beliebiges Volumen über dem Mindestvolumen}} und {{c3::unbefristeter Laufzeit}}.	
+{{c1::Ein Geldmarktfond}} ist {{c2::ein Fond}}, welcher {{c2::überwiegend in Geldmarkttitel und liquide Wertpapiere mit kurzer Laufzeit}} investiert.	
+{{c1::Ein Repogeschäft (Pensionsgeschäft)}} ist {{c2::der Verkauf und spätere Rückkauf von Gütern}}, häufig von {{c2::Wertpapieren}}.	
+{{c1::Das Cryptomining}} ist {{c2::der Prozess zur Erzeugung von Kryptowährung}} durch {{c3::die Verifizierung von Transaktionen}}, bei welchen {{c3::kryptografische Probleme gelöst werden}}.	
+{{c1::Eine Kryptowährung}} ist {{c2::eine Geldeinheiten}}, bei welcher {{c2::einzelne Vermögenszuschreibungen}} in {{c3::einer dezentralen Datenbank}} festgehalten werden.	
+{{c1::Die Schaffung, Transaktion und Vernichtung}} von {{c2::Kryptowährung}} wird durch {{c3::Kryptografie}} verifiziert und gesichert.	
+{{c1::Eine Sichteinlage}} ist {{c2::eine Einlage, welche die Kunden täglich tauschen können}}.	
+"Beispiel:<br />
+Nominalgeld"	"<ul>
+<li>Banknoten</li>
+<li>Münzen</li>
+</ul>"
+{{c1::Das Nominalgeld}} ist {{c2::Geld ohne intrinsischen Wert, das vom Staat zu Geld erklärt wird}}.	
+"Beispiel:<br />
+Warengeld"	"<ul>
+<li>Gold</li>
+<li>Zigaretten</li>
+</ul>"
+{{c1::Das Warengeld}} ist {{c2::Geld, welches die Form einer Ware annimmt}}.	
+{{c1::Der Liquiditätsgrad in der VWL}} ist {{c2::die Leichtigkeit}}, mit der {{c2::ein Aktivum in ein Tauschmittel umgewandelt werden kann}}.	
+{{c1::Der Hysterese-Effekt}} ist ein Effekt über {{c2::den Verlust von Humankapital, des Rückgang von Volkseinkommen und die Verfestigung der Arbeitslosigkeit}}.	
+{{c1::Geld}} sind {{c2::Aktiva}}, die Menschen in einer Volkswirtschaft dazu verwenden, {{c2::Güter von anderen Menschen zu erwerben}}.	
+{{c1::Geld}} fungiert als {{c2::Recheneinheit, Tauschmittel und Wertaufbewahrungsmittel}}.	
+{{c1::Ein Effizienzlohn}} ist {{c2::ein Lohn}}, welcher {{c2::über dem Marktgleichgewicht}} liegt, wodurch {{c3::sich der Arbeitgeber erhofft, die Produktivität der Arbeitnehmer zu erhöhen}}.	
+"{{c1::Ein ausschließbares Gut}} ist {{c2::ein Gut}}, bei welchen<br />
+{{c2::Konsumenten durch den Produzenten vom Konsum ausgeschlossen werden können}}."	
+{{c1::Die Arbeitslosigkeit}} ist {{c2::die Menge an allen als arbeitslos gemeldeten Menschen}}.	
+Als {{c1::Arbeitslos}} gilt eine Person zwischen 15 und 74, wenn {{c2::diese arbeitssuchende ist oder sich nicht oder weniger als 15 Stunden in der Woche in einem Beschäftigungsverhältnis befindet}}.	
+{{c1::\(\text{Arbeitslosenquote}\)}} \(=\) {{c2::\(\frac{\text{Arbeitslose} }{\text{Erwerbspersonen} } \cdot 100\)}}	
+{{c1::Ein rivales Gut}} ist {{c2::ein Gut}}, bei welchen {{c2::ein Konsument von Konsum durch andere Konsumenten verhindert oder beeinträchtigt werden kann}}.	
+{{c1::Der Kapitalimport}} ist {{c2::die Erhöhung des Bestand an Realkapital}} durch {{c2::Förderung von Investitionen}} aus {{c2::dem Ausland}}.	
+"{{c1::Der Catch-Up-Effekt}} ist der Effekt, dass {{c2::bei niedrigem Kapitalbestand pro Arbeitskraft die Produktivität des zusätzlich investierten Kapitals höher steigt als bei einem hohen Kapitalbestand pro Arbeitskraft}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Abnehmender_Grenzertrag_des_Kapitals.png"" alt=""""><br />
+Abnehmender Grenzertrag des Kapitals}}}}"	
+"{{c1::Der abnehmende Grenzertrag des Kapitals}} ist {{c2::die vorübergehende Steigerung des Wirtschaftswachstums und die Produktivität bei Steigerung des Kapital und der Investitionstätigkeiten}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Abnehmender_Grenzertrag_des_Kapitals.png"" alt=""""><br />
+Abnehmender Grenzertrag des Kapitals}}}}"	
+{{c1::Der nominale Zinssatz (Nominalzins)}} ist {{c2:: der üblicherweise ausgewiesene Zinssatz}}.	
+{{c1::Die Indexierung in der Wirtschaft}} ist {{c2::die vertragliche Bindung}} an {{c2::die Entwicklung des Preisniveaus}}.	
+{{c1::Der Verbraucherpreisindex}} ist {{c2::ein Kalkül}} zur {{c2::Messung des Preises der Güter}}, die von {{c2::einem privaten Haushalt}} konsumiert werden.	
+{{c1::Der Verbraucherpreisindex}} wird {{c2::durch einen Warenkorb mit dem Index 100 zum Basisjahr mit Veränderung in Abhängigkeit vom Basisjahr}} berechnet.	
+{{c1::Substitute Güter, die Einführung neuer Güter und fehlende Qualitätserfassungen}} können zu {{c2::Verzerrungen des Verbraucherpreisindex}} führen.	
+{{c1::\(\text{Volkseinkommen}\)}} \(=\) {{c2::\(\text{Nettonationaleinkommen} - \text{Produktionsabgaben und Importabgaben} + \text{Subvention}\)}}	
+{{c1::\(\text{Nettonationaleinkommen}\)}} \(=\) {{c2::\(\text{Bruttonationaleinkommen} - \text{Abschreibungen auf Kapialstock}\)}}	
+{{c1::Das Bruttonationaleinkommen}} ist {{c2::das gesamte Einkommen}}, das {{c2::allen Personen mit Wohnsitz im Inland}} zugeflossen ist.	
+{{c1::Der BIP-Deflator}} ist {{c2::die Zunahme des nominalen BIP in Folge einer Preiserhöhung}}.	
+{{c1::\(\text{BIP-Deflator}\)}} \(=\) {{c2::\(\frac{\text{nominaler BIP} }{\text{realer BIP} } \cdot 100\)}}	
+{{c1::Die Sozialleistungsquote}} ist {{c2::der Anteil aller Sozialleistungen vom BIP}}.	
+{{c1::Die Verteilungsgerechtigkeit}} ist {{c2::die Fähigkeit einer Volkswirtschaft, die wirtschaftliche Wohlfahrt fair aufzuteilen}}.	
+Verteilungsgerechtigkeit führt nicht immer zu {{c2::einem effizienten Marktergebnis}}.	
+{{c1::Die Wohlfahrtsökonomik}} ist {{c2::die Wissenschaft}} über {{c2::die Allokation von Gütern und die Beeinflussung der Wohlfahrt}}.	
+{{c1::Die Wohlfahrt}} ist {{c2::die subjektive Zufriedenheit von Individuen}} und die {{c2::durch Indikatoren gemessene objektive Lebensqualität}}.	
+"<p>{{c1::Die Kontrolle von Monopolen durch den Staat}} entsteht durch:</p>
+<ul>
+<li>{{c2::Auflösung}}</li>
+<li>{{c2::Fusionskontrolle}}</li>
+<li>{{c2::Preiskontrolle, Steuern und Subventionierung}}</li>
+<li>{{c2::Verstaatlichung}}</li>
+</ul>"	
+"<p>{{c1::Von einer Regulierung von einem Monopol}} kann abgesehen werden, wenn:</p>
+<ul>
+<li>{{c2::die Kosten der Regulierung über den Kosten des Marktversagen liegen}}</li>
+<li>{{c3::ein Monopol natürlich gewachsen ist und kein Missbrauch der Marktmacht vorliegt}}</li>
+</ul>"	
+"{{c1::Die vollständige Preisdifferenzierung}} ist {{c2::die Preisdifferenzierung}} bei {{c2::perfekter Informationsverteilung}} zu {{c2::der Zahlungsbereitschaft}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopol_Preisdifferenzierung.png"" alt=""""><br />
+Monopolist mit Einheitspreis und mit vollständiger Preisdifferenzierung }}}}"	
+"Durch {{c1::eine vollständige Preisdifferenzierung}} kann {{c2::der Gewinn eines Unternehmens maximiert}} und {{c2::der Wohlfahrtsverlust minimiert werden}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopol_Preisdifferenzierung.png"" alt=""""><br />
+Monopolist mit Einheitspreis und mit vollständiger Preisdifferenzierung }}}}"	
+"{{c1::Die Produzentenrente}} ist {{c2::der Nutzen, den ein Verkäufer erhält}} und ist {{c2::der Gewinnzuwachs}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Produzentenrente.png"" alt=""""><br />
+Produzentenrente}}}}"	
+"{{c1::\(\text{Produzentenrente}\)}} \(=\) {{c2::\(\text{Preis} - \text{Produktionskosten}\)}}<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Produzentenrente.png"" alt=""""><br />
+Produzentenrente}}}}"	
+{{c1::Ein Pareto-Optimum}} ist {{c2::ein Zustand}}, in welchem es {{c2::keine weitere Möglichkeit für eine Pareto-Verbesserung gibt}}.	
+{{c1::Eine Pareto-Verbesserung}} ist {{c2::eine Maßnahme}} zur {{c2::Umsetzung der Pareto-Effizienz}}.	
+{{c1::Eine Pareto-Effizienz}} ist {{c2::ein Zustand}}, bei welcher es {{c2::keinen weiteren Zustand gibt, welcher dazu führt, dass es einer Partei besser geht und keiner Partei schlechter geht}}.	
+{{c1::Die Inzidenz}} ist {{c2::die Aufteilung der Steuerlast oder Subventionen}} zwischen {{c2::zwei Parteien im Verhältnis}}.	
+"{{c1::Die Inzidenz}} ist abhängig von {{c2::der Preiselastizität}}, da {{c2::Parteien mit geringerer Elastizität schlechter auf Marktveränderungen reagieren können}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Steuern_bei_elastischem_Angebot_und_unelastischer_Nachfrage.png"" alt=""""><br />
+Ist das Angebot elastischer als die Nachfrage, fällt die Steuerlast mehr auf die Käufer als auf die Verkäufer<br />
+<img src=""2021-Bild-Sieg-Steuern_bei_unelastischem_Angebot_und_elastischer_Nachfrage.png"" alt=""""><br />
+Ist die Nachfrage elastischer als das Angebot, fällt die Steuerlast mehr auf die Verkäufer als auf die Käufer}}}}"	
+{{c1::Die dominante Strategie}} ist {{c2::die beste Strategie und Best Response einer Partei}}, unabhängig von {{c2::der Strategie von anderen Parteien}}.	
+{{c1::Der Preiseffekt}} ist der Effekt, dass {{c2::in einem Markt mit zunehmender Verkäuferanzahl der Preis aller verkaufen Güter gesenkt}} und somit auch {{c2::der Gewinn für die Verkäufer gesenkt}} wird.	
+{{c1::Die Internalisierung von Externalitäten}} ist {{c2::die Schaffung von positiven oder negativen Anreizen}} zur {{c2::Optimierung des Marktgleichgewicht bei entstehenden negativen Externalitäten}}.	
+{{c1::Die Pigou-Steuer}} ist {{c2::die Erhebung einer Steuer}} zur {{c2::Internalisierung von Externalitäten}}.	
+"Beispiel:<br />
+Rebound-Effekt"	"<ul>
+<li>Kraftfahrzeuge werden effizienter, weswegen größere Kraftfahrzeuge gekauft werden, die insgesamt mehr Benzin verbrauchen</li>
+</ul>"
+{{c1::Der Rebound-Effekt}} ist {{c2::das unerwartete Eintreten eines gegenteiligen Effekts}}, der durch {{c2::anfängliche Optimierung}} entsteht.	
+{{c1::Kollusion}} ist {{c2::ein Parallelverhalten von einer Menge von Unternehmen}}, insbesondere {{c3::die Absprache über Menge und Preis}}.	
+{{c1::Ein Kartell}} ist {{c2::eine Gruppe von Unternehmen}}, die {{c2::im Rahmen einer Kollusion einvernehmlich agieren}}.	
+{{c1::Kartelle}} sind häufig untersagt, da {{c2::sie durch gemeinsames Handeln ein Monopolergebnis erzielen}} und dadurch der Volkswirtschaft schaden.	
+{{c1::Ein Duopol}} ist {{c2::ein Oligopol mit ausschließlich zwei Anbietern}}.	
+{{c1::Volkswirtschaftliche Kosten}} sind {{c2::die Summe}} aus {{c2::privaten und betriebswirtschaftlichen Kosten der Produktion}}, sowie {{c2::soziale Kosten und externe Kosten}}, welche für {{c2::unbeteiligte Dritte}} durch {{c2::Externalitäten}} in {{c2::einer Volkswirtschaft}} entstehen.	
+"Beispiel:<br />
+Externalität"	"<ul>
+<li>Erfindungen: positive Externalität</li>
+<li>Impfungen: positive Externalität</li>
+<li>Treibhausgas: negative Externalität</li>
+<li>Zigarettenrauch: negative Externalität</li>
+</ul>"
+"{{c1::Eine Externalität (externer Effekt)}} sind {{c2::Kosten oder Nutzen}} der {{c2::Entscheidungen einer Partei}}, welche {{c2::die Wohlfahrt}} von {{c2::unbeteiligten dritten Parteien}} beeinflusst.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Wohlfahrtsverlust}}}}"	
+"{{c1::Externalitäten}} können {{c2::zu einem Marktversagen führen}}, wenn die durch die {{c1::Externalität}} erzeugten Kosten {{c3::nicht durch den Verkäufer getragen werden}}, da ein Wohlfahrtsverlust entsteht.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Wohlfahrtsverlust}}}}}}"	
+"Beispiel:<br />
+Preisuntergrenze"	"<ul>
+<li>Mindestlohn</li>
+</ul>"
+"{{c1::Eine Preisuntergrenze (Price Floor)}} ist {{c2::die Preiskontrolle durch einen gesetzlichen Mindestpreis}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Bindende_Preisuntergrenze.png"" alt=""""><br />
+Bindende Preisuntergrenze}}}}"	
+Eine Preisuntergrenze führt zu {{c1::einem Angebotsüberschuss und Rationierung}}.	
+"Beispiel:<br />
+Preisobergrenze"	"<ul>
+<li>Mietpreisbremse</li>
+</ul>"
+"{{c1::Eine Preisobergrenze (Price Ceiling)}} ist {{c2::die Preiskontrolle durch einen gesetzlichen Höchstpreis}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Bindende_Preisobergrenze.png"" alt=""""><br />
+Bindende Preisobergrenze}}}}"	
+Eine Preisobergrenzen führt zu {{c1::einem Nachfrageüberschuss und Rationalisierung}}.	
+"{{c1::Eine Netzwerkexternalität}} ist {{c2::eine Externalität}} durch {{c2:: einen positiven externen Netzwerkeffekt}}, welcher vorhanden ist, wenn {{c3::der Nutzen eines Gutes mit der Anzahl der Konsumenten steigt}}.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Kostenverlauf_und_Netzwerkexternalitaeten.png"" alt=""""><br />
+Kostenverlauf und Netzwerkexternalitäten}}}}}}"	
+{{c1::Die Steuerhinterziehung}} ist {{c2::die Verkürzung der Steuern}} durch {{c2::unrichtige oder unvollständige Angaben}}.	
+{{c1::Die Steuervermeidung}} ist {{c2::die Verkürzung der Steuern}} durch {{c2::Verhaltensveränderungen}}.	
+{{c1::Eine Abgabe}} ist {{c2::ein Entgelt}}, wenn {{c2::die Gegenleistung die Regel ist}}.	
+{{c1::Eine Gebühr}} ist {{c2::ein Entgelt}} für {{c2::eine Gegenleistung}}.	
+{{c1::Das Nash-Gleichgewicht (Nash Equilibrium)}} ist {{c2::eine Strategie}}, in der {{c2::miteinander verbundene Parteien ihre bestmögliche Strategie in Bezug auf die Strategie der anderen Partei gewählt haben}}.	
+{{c1::Das BIP (Bruttoinlandsprodukt)}} ist {{c2::der Marktwert}} {{c3::aller für den Endverbraucher bestimmten}} {{c4::Güter}}, welche {{c5::in einer Zeitperiode im Inland hergestellt worden sind}}.	
+{{c1::\(\text{BIP (Y)}\)}} \(=\) {{c2::\(\text{Konsum (C)} + \text{Investitionen (I)} + \text{Staatsausgaben (G)} + (\text{Export} - \text{Import})\)}}	
+"<p>Eine Ungenauigkeit des BIP entsteht durch:</p>
+<ul>
+<li>{{c1::Abschätzungen}}, z. B. {{c1::bei Trinkgeld}}</li>
+<li>{{c1::fehlende Erfassung}}, z. B. {{c1::bei Schwarzarbeit und kriminellen Aktivitäten}}</li>
+</ul>"	
+{{c1::Die Produktionseinstellung}} ist {{c2::die kurzfristige Schließung einer Unternehmung}}.	
+"{{c1::Die Produktionseinstellung}} ist sinnvoll, wenn {{c2::der Umsatz kleiner ist als die variablen Kosten}} bzw. {{c2::der Preis kleiner ist als die durchschnittlichen variablen Kosten}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Kurzfristige_Angebotskurve_und_Gewinnerzielung.png"" alt=""""><br />
+Kurzfristige Angebotskurve und Gewinnerzielung}}}}"	
+"{{c1::\(\text{Produktionseinstellung}\)}} \(\Rightarrow\) {{c2::\(\text{Umsatz (E)} &lt; \text{variable Kosten (VK)} \lor \text{Preis (P)} &lt; \text{durchschnittliche variablen Kosten (DVK)}\)}}<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Kurzfristige_Angebotskurve_und_Gewinnerzielung.png"" alt=""""><br />
+Kurzfristige Angebotskurve und Gewinnerzielung}}}}"	
+{{c1::Der Marktaustritt}} ist {{c2::die langfristige Schließung einer Unternehmung}}.	
+"{{c1::Der Marktaustritt}} ist sinnvoll, wenn {{c2::der Umsatz kleiner ist als die Kosten}} bzw. {{c2::der Preis kleiner ist als die Durchschnittskosten}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Langfristige_Angebotskurve_und_Gewinnerzielung.png.png"" alt=""""><br />
+Langfristige Angebotskurve und Gewinnerzielung}}}}"	
+"{{c1::\(\text{Marktaustritt}\)}} \(\Rightarrow\) {{c2::\(\text{Umsatz (E)} &lt; \text{Kosten (K)} \lor \text{Preis (P)} &lt; \text{Durchschnittliche Kosten (DK)}\)}}<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Langfristige_Angebotskurve_und_Gewinnerzielung.png.png"" alt=""""><br />
+Langfristige Angebotskurve und Gewinnerzielung}}}}"	
+"wahr oder falsch:<br />
+Ein Unternehmen, das höhere Gewinne erwirtschaftet als ein anderes Unternehmen, ist nicht zwangsläufig rentabler als ein andere Unternehmen."	"wahr:<br />
+Bei der Rentabilität wird der erwirtschaftete Gewinn ins Verhältnis zum eingesetzten Kapital gesetzt. Ein Unternehmen \(A\) kann zum Beispiel rentabler sein als Unternehmen \(B\) mit gleichem Gewinn, wenn \(A\) weniger Kapital einsetzt, um diesen Gewinn zu erwirtschaften."
+"{{c1::Der Gewinn}} ist die Differenz zwischen {{c2::Umsatz und Gesamtkosten}} und {{c3::oft Ziel}} von Unternehmungen.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Unternehmung_mit_Gewinn.png"" alt=""""><br />
+Unternehmung mit Gewinn}}}}"	
+{{c1::Eine Gewinnerzielung}} ist gewährleistet, wenn {{c2::der Preis}} {{c3::größer}} ist als {{c2::die Durchschnittskosten}}.	
+{{c1::\(\text{Gewinn}\)}} \(\Leftarrow \text{Preis (P)} &gt; \text{Durchschnittliche Kosten (DK)}\)	
+{{c1::Der Umsatz (Erlös, Gesamterlös)}} ist {{c2::der Betrag, den ein Unternehmen für den Verkauf von Güter erhält}}.	
+{{c1::\(\text{Umsatz}\)}} \(=\) {{c2::\(\text{Verkaufspreis} \cdot \text{Menge}\)}}	
+\({{c1::\text{Preiselastizität der Nachfrage} }}\) \(=\) \({{c2::\frac{\text{prozentuale Änderung der Nachfrage} }{\text{prozentuale Preisänderung} } }}\)	
+{{c1::Skalenerträge (Returns To Scale)}} sind {{c2::die prozentualen Veränderung der Produktionsmenge}} bei {{c2::Veränderung aller Produktionsfaktoren}}.	
+{{c1::Zunehmende}} Skalenerträge führen zu einer langfristigen {{c2::Abnahme}} der durchschnittlichen Gesamtkosten.	
+{{c1::Abnehmende}} Skalenerträge führen zu einer langfristigen {{c2::Zunahme}} der durchschnittlichen Gesamtkosten.	
+{{c1::Das Betriebsoptimum (effiziente Betriebsgröße, efficient scale)}} ist {{c2::die effiziente Ausbringungsmenge, welche produziert wird}}, wenn {{c3::die durchschnittlichen Gesamtkosten am geringsten sind}} bzw. wenn {{c4::das Betriebsoptimum den Grenzkosten entspricht}}.	
+"{{c1::Gesamtkosten}} sind {{c2::die Kosten}}, welche {{c2::im Zusammenhang mit der Produktionsmenge stehen}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Gesamtkostenkurve.png"" alt=""""><br />
+Gesamtkostenkurve}}}}"	
+"wahr oder falsch:<br />
+Opportunitätskosten sind keine realen Kosten und sollten daher bei Investitionsentscheidungen auch nicht berücksichtigt werden."	"falsch:<br />
+Auch wenn Opportunitätskosten nicht effektiv anfallen, müssen diese dennoch bei Investitionsentscheidungen berücksichtigt werden, da sonst eventuell eine Investition getätigt werden würde, obwohl die Anlage der eigenen Mittel zum Habenzinssatz vorteilhafter wäre."
+{{c1::Opportunitätskosten}} sind {{c2::der Verlust von entgangenen Gewinnen, welcher bei der Wahl zwischen mehreren Optionen aufgegeben wird, um durch die ausgewählte Option Gewinn einzufahren}}.	
+Das {{c1::Grenzprodukt}} ist {{c2::der Zuwachs der Produktionsmenge}}, den man durch {{c2::den Einsatz einer zusätzlichen Einheit eines Produktionsfaktors}} erzielt.	
+\({{c1::\text{Preiselastzität des Angebots} }}\) \(=\) \({{c2::\frac{\text{prozentuale Änderung der Angebotsmenge} }{\text{prozentuale Preisänderung} } }}\)	
+{{c1::Ein Angebotsüberschuss}} ist ein Überschuss an Nachfrage, welcher entsteht, wenn {{c2::die Angebotsmenge oder der Angebotspreis über den Marktgleichgewicht liegt}}.	
+Bei {{c1::einem Angebotsüberschuss}} ist {{c2::die Angebotsmenge oder der Angebotspreis}} {{c3::größer}} als {{c2::die Nachfragemenge oder der Nachfragepreis}}.	
+"<p>Faktoren des Angebotsüberschuss sind:</p>
+<ul>
+<li>{{c1::Gewinnspannen werden durch Preisnachlässe und vermehrte Werbeaktionen geschmälert}}</li>
+<li>{{c1::potentielle Cashflow-Probleme}}</li>
+<li>{{c1::Risiko des Verderbens und der Überalterung von Produkten}}</li>
+<li>{{c1::Zunahme der Lagerbestände und steigende Lagerkosten}}</li>
+</ul>"	
+{{c1::Ein Nachfrageüberschuss}} ist ein Überschuss an Nachfrage, welcher entsteht, wenn {{c2::die Nachfragemenge oder -preis über den Marktgleichgewicht liegt}}.	
+Bei {{c1::einem Nachfrageüberschuss}} ist {{c2::die Nachfragemenge oder der Nachfragepreis}} {{c3::größer}} als {{c2::die Angebotsmenge oder der Angebotspreis}}.	
+"<p>Faktoren des Nachfrageüberschuss sind:</p>
+<ul>
+<li>{{c1::Produktionsknappheit und hohe Auftragsbestände}}</li>
+<li>{{c1::Reputationsverlust}}</li>
+<li>{{c1::Verkaufseinbußen}}</li>
+<li>{{c1::verlängerte Lieferzeiten und geringere Termintreue}}</li>
+</ul>"	
+{{c1::Die Preiskontrolle}} ist {{c2::die staatliche eingeführte Regulierung des Preises}} durch {{c3::Preisobergrenzen}} und {{c3::Preisuntergrenze}}, {{c3::Besteuerung}} und {{c3::Subventionierung}} von einzelnen Marktbereichen.	
+"wahr oder falsch:<br />
+Die Preisbereitschaft wird durch Preiserwartungen und wahrgenommene Fairness von Transaktionen bestimmt."	wahr
+{{c1::Die Zahlungsbereitschaft}} ist {{c2::der Höchstbetrag, den ein Konsument bereit ist, für ein Gut zu zahlen}}.	
+{{c1::Die Zahlungsbereitschaft}} wird durch {{c2::die Preiserwartung}} und {{c2::die wahrgenommene Preis-Fairness}} bestimmt.	
+"{{c1::Ein Wohlfahrtsverlust}} ist ein Verlust an Wohlfahrt, welcher entsteht, wenn {{c2::die Produktionsmenge unter der ökonomischen Effizienz produziert wird}} und {{c2::der angebotene Preis über den Grenzkosten liegt}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Monopol_Nettowohlfahrtsverlust.png"" alt=""""><br />
+Wohlfahrtsverlust}}}}"	
+{{c1::Der Wohlfahrtverlust}} ist grafisch {{c2::das Dreieck der Schnittpunkte zwischen Nachfrage, Grenzkosten und Grenzumsatz}}.	
+{{c1::Eine monopolistische Konkurrenz}} ist {{c2::eine Marktform}} und {{c2::eine unvollständigen Konkurrenz}} mit {{c2::einem hohen Angebot und einer Produktdifferenzierung}}, wodurch {{c3::Marktteilnehmer Einfluss auf die Preisbildung nehmen können}}.	
+{{c1::Ein Oligopol}} ist {{c2::eine Form der Marktwirtschaft und eine monopolistische Konkurrenz mit nur geringem Angebot und hoher Nachfrage}} für {{c3::ein identisches oder sehr ähnliches Gut}}, wodurch {{c4::ein geringer Wettbewerb unter den Verkäufern}} entsteht.	
+{{c1::Preise}} in {{c2::einem Oligopolmarkt}} sind {{c3::niedriger}} als im {{c4::Monopolmarkt}}, aber {{c3::höher}} als in {{c4::der vollständigen Konkurrenz}}.	
+{{c1::Ein Monopol}} ist {{c2::eine Marktformen}} mit {{c2::einer hohen Nachfrage}} und {{c2::einem einzigen Anbieter}}, wodurch {{c3::der Anbieter eine hohe Marktmacht}} besitzt und {{c4::Preisfixierer ist}}.	
+{{c1::Ein Polypol (Wettbewerbsmarkt, Konkurrenzmarkt)}} ist {{c2::eine Marktform mit hoher Nachfrage und hohem Angebot}}, so dass {{c3::ein Wettbewerbs- oder Konkurrenzdruck}} entsteht, wodurch {{c3::Marktteilnehmer nur einen geringen Einfluss auf die Preisbildung besitzen}}.	
+In {{c1::einem Polypol}} ist {{c2::der Grenzumsatz}} gleich {{c3::dem Preis}}.	
+{{c1::Eine unvollständige Konkurrenz}} ist {{c2::eine Marktformen}}, in welcher {{c2::Marktteilnehmer, spezifisch Anbieter}} {{c3::großen Einfluss auf die Preisbildung besitzen}}.	
+{{c1::Eine vollständige Konkurrenz}} ist {{c2::eine Marktform}} und {{c2::ein spezielles Polypol}}, in dem {{c3::identische homogenen Güter}} angeboten werden und dadurch {{c3::der Preisunterschied minimiert wird}}.	
+{{c1::Eine Marktform}} ist {{c2::eine spezielle Ausprägung einer Marktwirtschaft}}.	
+{{c1::Die Werbung}} ist {{c2::das gezielte Marketing}}.	
+{{c1::Eine Mietpreisbremse}} ist {{c2::die gesetzliche Regulierung des Mietpreises}}.	
+"{{c1::Eine Mietpreisbremse}} führt langfristig {{c2::zu einem Abbau von Wohnraum und zur Destabilisierung der Wohnsituation}}, da {{c3::der Anreiz für Investitionen verringert wird}}.<br />
+{{c1::{{c2::<img src=""2016-Bild-Mankiw-Taylor-Mietpreisbindung.png"" alt=""""><br />
+Kurzfristige und langfristige Entwicklung bei einer Mietpreisbindung }}}}"	
+{{c1::Eine Marke in der Wirtschaft}} ist {{c2::ein Instrument}} mit spezifischen Merkmalen, welches {{c2::sich gegenüber anderen Marken nachhaltig differenziert}}. {{c1::Eine Marke}} rahmt {{c3::ein Produkt}} ein und gibt ihr {{c3::eine Identität}}.	
+{{c1::Eine Marke}} ist {{c2::ein rechtlich geschütztes Zeichen und ein Kennzeichen}} für {{c3::die Urheberschaft und Warenherkunft}}.	
+{{c1::Die Planwirtschaft}} ist {{c2::ein System}}, in der die Planung von {{c2::Politikern, Beamten und Funktionären}} übernommen wird.	
+{{c1::Die Konjunktur}} ist {{c2::die Schwankung im Wirtschaftswachstum und der volkswirtschaftlichen Aktivität, gemessen an der Beschäftigung und Produktion}}.	
+{{c1::Die Inflation}} ist {{c2::den Anstieg des Preisniveaus, sämtlicher Preise und Kosten}} in {{c2::einer Volkswirtschaft}} und führt zu {{c3::der Entwertung von Geld}}.	
+Nach Auffassung des Rat der EZB kann eine Preisstabilität mit einer Inflationsrate von {{c1::2 %}} gesichert werden.	
+"{{c2::Die Subventionierung}} ist in der Volkswirtschaftslehre {{c1::eine Methode zur Steuerung des Marktgleichgewicht}} durch {{c3::den Staat}}.<br />
+{{c1::{{c2::{{c3::<img src=""2016-Bild-Mankiw-Taylor-Subvention.png"" alt=""""><br />
+Subventionierung}}}}}}"	
+"{{c1::Konsum}} ist {{c2::der Verbrauch von Gütern}} durch {{c2::Konsumenten}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Haushaltsoptimum.png"" alt=""""><br />
+Maximierung des Konsums}}}}"	
+"{{c1::Der Konsum}} wird {{c2::beim Schnittpunkt}} {{c3::der Indifferenzkurve und Budgetgerade}} maximiert.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Haushaltsoptimum.png"" alt=""""><br />
+Maximierung des Konsums}}}}}}"	
+"{{c1::Ein Marktgleichgewicht}} ist {{c2::einen Zustand}}, in welchem {{c2::Angebot und Nachfrage gleich sind}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Marktgleichgewicht.png"" alt=""""><br />
+Marktgleichgewicht}}}}"	
+{{c1::Ein inferiores Gut}} ist ein Gut, dessen {{c2::Nachfrage mit steigendem Einkommen sinkt}}.	
+{{c1::Ein normales Gut}} ist ein gut, dessen {{c2::Nachfrage mit steigendem Einkommen steigt}}.	
+{{c1::Ein komplementäres Gut (Komplementär)}} sind {{c2::ein zugehöriges Gut zu anderen Gütern}}.	
+{{c1::Ein Nachfrageanstieg eines verwandten Gutes}} führt zu {{c2::einem Nachfrageanstieg der Komplemente}}.	
+{{c1::Ein substitutes Gut (Substitut)}} ist {{c2::ein Ersatzgut zu anderen Gütern}}.	
+{{c1::Der Preisanstieg eines verwandten Gutes}} führt zu einem Nachfrageanstieg {{c2::der Substitute}}.	
+{{c1::Der Prohibitivpreis}} ist {{c2::der Preis}}, ab dem {{c2::keine Nachfrage}} für {{c2::ein Gut}} mehr vorhanden ist.	
+{{c1::Ein Staatsversagen (Politikversagen)}} ist {{c2::ein Marktversagen}} durch {{c2::staatliche Maßnahmen}}, welche {{c3::nicht wirtschaftlich}} sind und/oder zu einem {{c3::suboptimalen Ergebnis}} führen.	
+{{c1::Ein Marktversagen}} ist {{c2::ein Versagen der Marktwirtschaft}} durch {{c2::eine fehlende Effizienz}}.	
+{{c1::Die Marktnachfrage}} ist {{c2::die Summe aller individuellen Nachfragemengen}}.	
+"{{c1::Das Angebot}} ist {{c2::die von potentiellen Verkäufern angebotene Menge eines Gutes}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Angebotskurve.png"" alt=""""><br />
+Angebotskurve}}}}"	
+{{c1::Die Angebotsmenge}} beschreibt {{c2::die Menge von Gütern, welche Verkäufer zu einem bestimmten Preis verkaufen würden}}.	
+"{{c1::Die Nachfrage}} ist {{c2::die von potentiellen Käufern angeforderte Menge eines Gutes}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Nachfragekurve.png"" alt=""""><br />
+Nachfragekurve}}}}"	
+{{c1::Die Nachfragemenge}} beschreibt {{c2::die Menge eines Gutes, welche Käufer zu einem bestimmten Preis kaufen würden}}.	
+{{c1::Eine Marktwirtschaft (Markt)}} ist {{c2::ein System}} aus {{c2::dezentralisierten Entscheidung}} zur {{c3::Verteilung}} von {{c3::knappen Gütern}} unter {{c4::Unternehmen und Haushalten}}.	
+{{c1::Die Philipps-Kurve}} ist {{c2::die grafische Darstellung des Zusammenhangs}} zwischen {{c3::einer Erhöhung der Geldmenge}} und {{c3::steigenden Preisen, steigender Nachfrage, steigender Produktion und sinkender Arbeitslosigkeit}}.	
+{{c1::Volkswirtschaftlichen Grundannahmen}} sind {{c2::10 Paradigmen der Volkswirtschaftslehre}}.	
+{{c1::Eine Volkswirtschaft}} ist die Gesamtheit von {{c2::Handelsaktivitäten und Produktionsaktivitäten}} {{c3::einer Gesellschaft}}.	
+{{c1::Die Makroökonomie}} ist {{c2::die Analyse}} von {{c2::gesamtwirtschaftlichen Phänomenen}} und betrachtet {{c2::gesamtgesellschaftliche und gesamtwirtschaftlichen Faktoren}}.	
+{{c1::Die Mikroökonomie}} ist {{c2::die Analyse der Wirkung von Wirtschaftseinheiten}}, spezifisch {{c2::Unternehmen, in der Marktwirtschaft}}.	
+{{c1::Die Ökonomie (Haushaltsführung)}} ist {{c2::das Treffen von wirtschaftlichen Entscheidungen}} über {{c2::knappe Güter}}.	
+{{c1::Die Volkswirtschaftslehre (VWL)}} ist {{c2::die Wissenschaft der gesamtwirtschaftlichen Aktivitäten einer Gesellschaft und deren Volkswirtschaft}} sowie {{c3::der Bewirtschaftung dieser mit knappen Gütern}}.	
+"Frage:<br />
+Erläutere in Worten, was ökonomisch unter der Konsumentenrente zu verstehen ist. Mit welcher Maßnahme können Unternehmen versuchen, die Konsumentenrente abzuschöpfen?"	"Konsumentenrente: Umsatz, den der Kaufmann dadurch verschenkt, dass er nicht bei allen Kunden deren individuelle Zahlungsbereitschaft ausnutzt.<br />
+Möglichkeiten der Ausnutzung: Zeitliche Preisdifferenzierung."
+"{{c1::Die Konsumentenrente (Consumer Surplus)}} ist {{c2::die Differenz zwischen der Zahlungsbereitschaft eines Konsumenten für ein Gut und dem Marktpreis, zu dem ein Gut gekauft wird}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Sieg-Konsumentenrente.png"" alt=""""><br />
+Konsumentenrente}}}}"	
+"{{c1::\(\text{Konsumentenrente}\)}} \(=\) {{c2::\(\frac{(\text{Vorbehaltspreis} - \text{Gleichgewichtspreis}) \cdot \text{Gleichgewichtsmenge} }{2}\)}}<br />
+{{c1::{{c2::<img src=""2022-Bild-Sieg-Konsumentenrente.png"" alt=""""><br />
+Konsumentenrente}}}}"	
+"{{c1::Die Konsumentenrente}} ist für den Konsumenten {{c2::der subjektive Nutzen und das Ersparnis}}, den {{c2::der Konsument}} erhält.<br />
+{{c1::{{c2::<img src=""2022-Bild-Sieg-Konsumentenrente.png"" alt=""""><br />
+Konsumentenrente}}}}"	
+{{c1::Die Konsumentenrente}} ist {{c2::am größten}}, wenn {{c3::die Bedingungen der vollständigen Konkurrenz auf allen Märkten}} gegeben sind.	
+{{c1::Eine Technologie}} ist {{c2::die Wissenschaft der Technik}} und {{c2::die Menge aller Aktivitäten}}, über die {{c2::ein Betrieb oder eine Volkswirtschaft verfügt}}.	
+{{c1::Ein Gut}} ist {{c2::eine Ware und Dienstleistung}}, die {{c3::konsumiert}} oder {{c3::bei der Produktion}} in {{c3::andere Güter umgewandelt werden kann}}.	
+"wahr oder falsch:<br />
+Wenn durch Steuern nur geringe staatliche Einnahmen erzielt werden sollen, liegt keine Steuer vor."	"falsch:<br />
+Auch kleine Steuern erzeugen einen Lenkungseffekt."
+"wahr oder falsch:<br />
+Wenn Landwirte jedes zehnte gemästete Schwein beim Finanzamt abgeben müssen, ist das eine Steuer im Sinne der Abgabenordnung."	"falsch:<br />
+Steuern umfassen nur Geldleistungen."
+{{c1::Eine Steuer}} ist {{c2::eine Geldleistung, die nicht eine Gegenleistung für eine besondere Leistung darstellen und von einem öffentlich-rechtlichen Gemeinwesen zur Erzielung von Einnahmen auferlegt werden}}.	
+{{c1::Die volkswirtschaftliche Gesamtrechnung (gesamtwirtschaftliches Rechnungswesen, volkswirtschaftliches Rechnungswesen, VGR)}} ist {{c2::die quantitative Beschreibung des wirtschaftlichen Geschehens}} in einer Volkswirtschaft für {{c3::einen zurückliegenden und daher abgeschlossenen Zeitraum}}.	
+"Die {{c1::Preisdifferenzierung}} ist {{c2::die unterschiedliche Preispolitik für ein identisches Gut}}, welche durch {{c3::räumliche, zeitliche oder individuelle Eigenschaften}} verursacht wird.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Preisdifferenzierung.png"" alt=""""><br />
+Preisdifferenzierung}}}}"	
+"Bei {{c1::einer Preisdifferenzierung}} wird {{c2::die unterschiedliche Zahlungsbereitschaft der Käufer}} genutzt und {{c3::der Preis entsprechend der Nachfrage}}, welche sich durch {{c3::die bedingten Eigenschaften ergeben}}, verändert.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Preisdifferenzierung.png"" alt=""""><br />
+Preisdifferenzierung}}}}"	
+Die Preisdifferenzierung erhöht {{c1::die Gewinne}} und verringert {{c1::den Wohlfahrtsverlust}}.	
+"Frage:<br />
+Was ist der Unterschied zwischen der Bogenelastizität und der Punkelastizität?"	Die Bogenelastizität beschreibt, wie sich die Nachfrage bei einer prozentualen Preisänderung verändert, die Punktelastizität hingegen, wie sich die Nachfrage bei einer bestimmten Menge bei einer marginalen Preisänderung verändert.
+"{{c1::Die Preiselastizität}} ist {{c2::die relative Änderung}} von {{c2::Menge und Preis im Verhältnis}} und beschreibt {{c3::das Maß für die Stärke, mit der die Nachfrage und das Angebot auf eine Veränderung reagiert}}.<br />
+{{c1::{{c2::{{c3::<img src=""2016-Bild-Mankiw-Taylor-Preiselastizitaet_der_Nachfrage.png"" alt=""""><br />
+Preiselastizität der Nachfrage}}}}}}"	
+Eine {{c1::hohe Preiselastizität}} bedeutet, dass {{c2::eine Preisänderung relativ große Mengenänderungen im Angebot oder der Nachfrage bewirkt}}.	
+{{c1::\(\text{Produktivität}\)}} \(=\) {{c2::\(\frac{\text{Output in Mengeneinheiten} }{\text{Input in Mengeneinheiten} }\)}}	
+Durch {{c1::Spartätigkeiten}} und {{c1::Investitionstätigkeiten}} kann {{c2::die Produktivität}} gesteigert werden.	
+{{c1::Ein Rückgang}} {{c2::der Produktivität}} ist mit {{c1::einem Anstieg}} {{c3::der Arbeitslosigkeit}} verbunden.	

@@ -1,0 +1,385 @@
+#separator:tab
+#html:true
+{{c1::Ein Spannbaum in der Informatik}} ist {{c2::ein Baum für einen Graphen \(G\), der alle Knoten des Graphen verbindet}}.	
+{{c1::Ein Pfad (Path) \(p\) in einem Graph}} ist {{c2::eine Folge von Knoten \(p = \langle v_{1},..., v_{k} \rangle\), die miteinander verbunden sind}}.	
+{{c1::Ein zusammenhängender Graph}} ist {{c2::ein Graph, in welchem jeder beliebige Knoten durch einen Pfad von einem anderen Knoten aus erreicht werden kann}}.	
+{{c1::Ein vollständiger Graph}} ist {{c2::ein Graph, in dem jeder Knoten mit jedem anderen Knoten durch eine Kante verbunden ist}}.	
+"{{c1::Ein Halbblatt}} ist {{c2::ein Knoten von einem Binärbaum mit nur einem Kinderknoten}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wikipedia-Binaerbaumbegriffe.svg"" alt=""""><br />
+Binärbaumbegriffe}}}}"	
+"{{c1::Ein Blatt}} ist {{c2::ein äußerer Knoten von einem Binärbaum ohne Kinderknoten}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wikipedia-Binaerbaumbegriffe.svg"" alt=""""><br />
+Binärbaumbegriffe}}}}"	
+"{{c1::Der Greedy-Algorithmus}} ist {{c2::ein Designkonzept und Algorithmus, der zu jedem Zeitpunkt immer die lokal optimale Lösung wählt}}.<br />
+{{c1::Der Greedy-Algorithmus}} führt {{c3::nicht immer}} zur optimalen Lösung."	
+{{c1::Memoisation}} ist {{c2::die Speicherung von Zwischenergebnissen um wiederholende Berechnungen zu vermeiden}}.	
+"{{c1::Eine doppelt verkettete Liste}} ist {{c2::eine Datenstruktur als verkettete Liste zur Speicherung von dynamischen Mengen durch dynamische Speicher}}. In {{c1::einer doppelt verketteten Liste}} wird {{c3::das nachfolgende und vorherige Element}} eines Elementes gespeichert.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Linsen-Doppelt_verkettete_Liste.png"" alt=""""><br />
+Doppelt verkettete Liste}}}}}}"	
+"{{c1::Eine verkettete Liste}} ist {{c2::eine Datenstruktur als Liste zur Speicherung von dynamischen Mengen durch dynamische Speicher}}. In {{c1::einer verketteten Liste}} wird {{c3::das nachfolgende Element}} eines Elementes gespeichert.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Linsen-Verkettete_Liste.png"" alt=""""><br />
+Verkettete Liste}}}}}}"	
+{{c1::Eine dynamische Menge}} ist {{c2::eine Menge von Elementen, deren Größe sich während der Verarbeitung verändern kann}}.	
+"{{c1::Ein höhenbalancierter Baum}} ist ein Binärbaum, in welchen sich {{c2::für jeden Knoten des Baums die Tiefe des linken und rechten Teilbaums um maximal 1 unterscheiden}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Linsen-Beispiel_fuer_einen_hoehenbalancierten_Baum.png"" alt=""""><br />
+Beispiel für einen höhenbalancierten Baum<br />
+<img src=""2023-Bild-Linsen-Beispiel_fuer_einen_hoehenbalancierten_Baum_2.png"" alt=""""><br />
+Beispiel für einen höhenbalancierten Baum}}}}"	
+"{{c1::Der Auslastungsfaktor (Load Factor)}} ist {{c2::die durchschnittliche Anzahl von Zuweisungen pro Tabelleneintrag beim Hashing}}:<br />
+\(\alpha\) \(=\) {{c3::\(\frac{\text{Tatsächliche Einträge in der Hash-Tabelle} }{\text{Mögliche Einträge in der Hash-Tabelle} }\)}}"	
+"{{c1::Hashing mit doppeltem Sondieren}} ist {{c2::das Hashing mit offener Adressierung, in welchem bei einer Hash Kollision eine weitere Hashfunktion verwendet wird}}:<br />
+\(h(k, i) = (h_{1}(k) + i \cdot h_{2}(k)) \bmod m\)<br />
+{{c1::{{c2::<img src=""2023-Bild-Linsen-Hashing_mit_doppeltem_Hashing.png"" alt=""""><br />
+Hashing mit doppeltem Hashing}}}}"	
+"{{c1::Hashing mit linearem Sondieren}} ist {{c2::das Hashing mit offener Adressierung, in welchem bei einer Hash Kollision der nächstfreie Platz gewählt wird}}:<br />
+\(h(k, i) = (h&#039;(k) + i) \bmod m\)"	
+"{{c1::Binäre Suche}} ist {{c2::ein in situ-Suchalgorithmus durch das Divide &amp; Conquer-Verfahren in einem sortierten Feld}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Linsen-Binaere_Suche.png"" alt=""""><br />
+Binäre Suche mit \(x = 9\)}}}}"	
+"Die Laufzeit für binäre Suche beträgt:<br />
+\(T(n) \in\) {{c1::\(\Theta(\log(n))\)}}"	
+{{c1::Lineare Suche}} ist {{c2::ein in situ-Suchalgorithmus von einem bestimmten Wert aus einer Folge von Objekten}}.	
+"Die Laufzeit für lineare Suche beträgt:<br />
+\(T(n) \in\) {{c1::\(\Theta(n)\)}}"	
+"wahr oder falsch:<br />
+Bucket Sort ist stabil."	wahr
+"{{c1::Bucket Sort (Bucketsort)}} ist {{c2::ein Sortieralgorithmus für eine Menge von gleichverteilten Zahlen zwischen 0 und 1, die in Buckets eingefügt, sortiert und danach wieder zusammengefügt werden}}.<br />
+{{c1::Bucket Sort}} sollte nicht verwendet werden, wenn {{c3::die Zahlen nicht gleichverteilt sind, da ansonsten zu viele Buckets oder wenige große Buckets erstellt werden}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Linsen-Bucket_Sort.png"" alt=""""><br />
+Bucket Sort mit der Sortierung der Zahl \(A[i]\) in den Bucket \([n \cdot A[i]\)}}}}}}"	
+Die Laufzeit für Bucket Sort beträgt \(T(n) \in\) {{c1::\(\Theta(n)\)}}.	
+Der Speicherbedarf für Bucket Sort beträgt \(S(n) \in\) {{c1::\(\Theta(n)\)}}.	
+{{c1::Ein vollständiger Binärbaum}} ist {{c2::ein Binärbaum, in welchen alle Blätter die gleiche Tiefe haben}}.	
+"wahr oder falsch:<br />
+Counting Sort ist stabil."	wahr
+"{{c1::Counting Sort (Countingsort)}} ist {{c2::ein Sortieralgorithmus durch ein zusätzliches Feld, in welchem die Häufigkeit der vorkommenden Zahlen gezählt werden}}.<br />
+{{c1::Counting Sort}} sollte nicht angewendet werden, wenn {{c3::sehr große Zahlen vorkommen, da dadurch große Arrays gebildet werden, die mit 0 gefüllt sind}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Linsen-Counting_Sort.png"" alt=""""><br />
+Counting Sort}}}}}}"	
+Die Laufzeit für Counting Sort beträgt \(T(n) \in\) {{c1::\(O(n + k)\) mit \(k\) als Anzahl der unterschiedlichen Werte}}.	
+Der Speicherbedarf für Counting Sort beträgt \(S(n) \in\) {{c1::\(\Theta(n + k)\) mit \(k\) als Anzahl der unterschiedlichen Werte}}.	
+"wahr oder falsch:<br />
+Randomisierter Quicksort ist stabil."	falsch
+{{c1::Ein randomisierter Quicksort}} ist {{c2::ein randomisierter Quicksort-Algorithmus, welcher ein zufälliges Pivotelement besitzt und dadurch unabhängig von der Sortierung der Eingabefolge ist}}.	
+"Die Laufzeit für den randomisierten Quicksort beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(O(n)\)}}<br />
+\(t_{a, b}(n) \in\) {{c2::\(O(n \cdot \log(n))\)}}"	
+Der Speicherbedarf für Quicksort beträgt \(S(n) \in\) {{c1::\(\Theta(1)\)}}.	
+{{c1::Eine nicht-scharfe obere Kante}} ist {{c2::eine Schranke \(o(g)\) für eine Menge an Funktionen \(f\), welche asymptotisch weniger schnell wachsen als \(g\)}}.	
+{{c1::\(f = o(g)\)}} bedeutet, dass {{c2::die Komplexität von \(f\) asymptotisch kleiner als von \(g\) ist}}.	
+{{c1::Eine nicht-scharfe untere Kante}} ist {{c2::eine Schranke \(\omega(g)\) für eine Menge an Funktionen \(f\), welche asymptotisch schnell wachsen als \(g\)}}.	
+{{c1::\(f = \omega(g)\)}} bedeutet, dass {{c2::die Komplexität von \(f\) asymptotisch größer ist als von \(g\)}}.	
+"{{c1::Eine Wurzel}} ist {{c2::der Knoten auf der höchsten Ebene von einem Binärbaum}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wikipedia-Binaerbaumbegriffe.svg"" alt=""""><br />
+Binärbaumbegriffe}}}}"	
+{{c1::Randomisierung}} ist {{c2::eine Eigenschaft, in welcher ein Objekt von einem Zufallszahlengenerator abhängig ist}}.	
+{{c1::Eine Max-Priority Queue}} ist {{c2::ein abstrakter Datentyp zur Speicherung und Verarbeitung von einer Menge von Objekten oder Elementen, die mit einem Schlüssel ausgestattet sind, der einer totalen Ordnung genügt}}.	
+{{c1::Eine Hashfunktion}} ist {{c2::eine Funktion, welcher einen großen Wertebereich in einer Hashtabelle abbildet}}.	
+"{{c1::Ein Rekursionsbaum}} ist {{c2::ein rekursiver Binärbaum, durch welchen eine Rekurrenz gelöst werden kann}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Linsen-Rekursionsbaum.png"" alt=""""><br />
+Rekursionsbaum}}}}"	
+{{c1::Die Substitutionsmethode}} ist {{c2::eine Methode zur Lösung einer Rekurrenz durch die Formulierung einer Vermutung}}. Zur Aufstellung einer Annahme kann {{c3::ein Rekursionsbaum}} genutzt werden.	
+"{{c1::Die Substitutionsmethode}} besteht aus mehreren Schritten:<br />
+{{c2::Vermutung für die Lösung der Rekurrenz aufstellen}} -&gt; {{c3::Beweis der Vermutung durch Induktion}} -&gt; {{c4::Wahl einer geeigneten Konstanten}}"	
+{{c1::Eine Rekurrenz}} ist {{c2::eine Gleichung, die rekursiv eine Folge definiert, wenn man mit einem gegebenen Startwert beginnt}}.	
+{{c1::Ein Sentinel (Wächter)}} ist {{c2::ein Objekt, welches in einen Algorithmus eingefügt wird, um die Bedingung für eine korrekte Terminierung eines Algorithmus zu erstellen}}.	
+{{c1::Sentinels}} werden genutzt, um {{c2::umständliche if-Abfragen und Sonderfallbehandlungen zu vermeiden}}.	
+{{c1::Die Verschmelzung (Merge)}} ist {{c2::die Zusammenführung von zwei Folgen}}.	
+Um Probleme beim Verschmelzen zu verhindern, werden die zu verschmelzenden Folgen in {{c1::eigene Arrays}} kopiert und {{c2::in das Zielarray}} eingefügt. In der Verschmelzung werden {{c3::Sentinels}} in Form von {{c4::Unendlichkeiten am Ende der zwei Folgen}} eingefügt.	
+{{c1::Das Divide &amp; Conquer-Verfahren (Teile &amp; Herrsche-Verfahren)}} ist {{c2::ein Designkonzept zur Lösung von Problemen durch das Teilen des Problems in mehrere kleine Teilprobleme, die als Lösung wieder zusammengeführt werden}}.	
+"{{c1::Das Divide &amp; Conquer-Verfahren}} besteht aus mehreren Schritten:<br />
+{{c2::Teile das Problem in mehrere Teilprobleme auf}} -&gt; {{c3::Bearbeite alle kleinen Teilprobleme}} -&gt; {{c4::Führe die Lösungen der Teilprobleme zusammen}}"	
+{{c1::Ein Designkonzept}} ist {{c2::eine strukturierte Vorgehensweise, die einem gemeinsamen Schema folgt}}.	
+{{c1::Ein in situ-Algorithmus (in situ)}} ist {{c2::ein Algorithmus, welcher direkt mit dem Speicher der Eingabe arbeitet und nur konstant viel zusätzlichen Speicher benötigt}}. Ein {{c1::in situ-Algorithmus}} besitzt immer eine Speicherkomplexität von {{c3::\(\Theta(1)\)}}.	
+{{c1::Die Speicherbedarfsanalyse}} ist {{c2::die Analyse des Speicherbedarfs}}.	
+{{c1::Der Erwartungswert \(E[X]\)}} ist {{c2::der zu erwartende Wert für eine Zufallsvariable \(X\) und eine Ergebnismenge \(M\)}}.	
+{{c1::\(E[X]\)}} \(=\) {{c2::\(\sum_{x} x \cdot p (X = x)\)}} mit {{c1::\(E[X]\) als Erwartungswert, \(X\) als Zufallsvariable}}, {{c2::\(x\) als Zufallsausprägung, \(p\) als Wahrscheinlichkeit}}	
+{{c1::Eine Wahrscheinlichkeitsverteilung}} ist {{c2::die Zuordnung von einer Wahrscheinlichkeit \(p(N) \in [0;1]\) zu jeder Teilmenge \(N \subset M\) einer Menge \(M\)}}.	
+{{c1::Die Laufzeitanalyse}} ist {{c2::die Bestimmung der Komplexität und Laufzeit eines Algorithmus}} durch {{c3::die Anzahl der elementaren Rechenschritte}}.	
+Bei {{c1::der Laufzeitanalyse eines Algorithmus}} ist nur {{c2::der größenordnungsmäßige Aufwand}} von Interesse, weshalb {{c2::konstante Faktoren vernachlässigt werden können}}.	
+"{{c1::Die Laufzeitanalyse}} besteht aus mehreren Schritten:<br />
+{{c2::Bestimmung der Eingabegröße bzw. Bestimmung von \(n\)}} -&gt; {{c3::Bestimmung der Komplexität je durchgeführter Operation bzw. je durchgeführter Zeile des Programmcodes in Abhängigkeit von der Eingabegröße}} -&gt; {{c4::Zusammenführung aller Komplexitäten zu einer Gleichung der Gesamtlaufzeit \(T(n)\) von einem Algorithmus}} -&gt; {{c5::Lösen der Gleichung zur Bestimmung der Schranken von \(T(n)\)}}"	
+{{c1::Eine exponentielle Komplexität}} ist {{c2::eine Komplexitätsklasse mit exponentieller Laufzeit \(\Theta(c^{n})\) mit \(c &gt; 1\)}}.	
+{{c1::Eine logarithmische Komplexität}} ist {{c2::eine Komplexitätsklasse mit logarithmischer Laufzeit \(\Theta(\log_{2} n)\)}}.	
+{{c1::Eine polynomiale Komplexität}} ist {{c2::eine Komplexitätsklasse mit polynomieller Laufzeit \(\Theta(n^{P})\) mit \(p \in \mathbb{N}\)}}.	
+{{c1::Eine kubische Komplexität}} ist {{c2::eine Komplexitätsklasse mit quadratischer Laufzeit \(\Theta(n^{3})\)}}.	
+{{c1::Eine quadratische Komplexität}} ist {{c2::eine Komplexitätsklasse mit quadratischer Laufzeit \(\Theta(n^{2})\)}}.	
+{{c1::Die lineare Komplexität}} ist {{c2::eine Komplexitätsklasse mit linearer Laufzeit \(\Theta(n)\)}}.	
+"wahr oder falsch:<br />
+Jede Operation, die nicht von der Eingabegröße \(n\) abhängt, hat eine konstante Laufzeit \(\theta (1)\)."	wahr
+{{c1::Eine konstante Komplexität}} ist {{c2::eine Komplexitätsklasse mit konstanter Laufzeit \(\theta (1)\)}}.	
+Jede Operation, die nicht von der Eingabegröße abhängt, hat eine {{c2::konstante}} Laufzeit von {{c2::\(\theta (1)\)}}.	
+{{c1::Eine asymptotische Analyse}} ist {{c2::die Klassifizierung von Grenzverhalten von Funktionen, welche durch eine Konstante beschrieben wird}}.	
+"<p>{{c1::Der Beweis der Korrektheit}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Beweis der Initialisierung: Die Schleifeninvariante muss vor der ersten Iteration gültig sein}}</li>
+<li>{{c3::Beweis der Schritte: Es muss bewiesen werden, dass eine Schleifeninvariante auch nach einer Iteration gültig ist}}</li>
+<li>{{c4::Beweis der Terminierung: Es muss gezeigt werden, dass eine Schleife terminiert}}</li>
+</ol>"	
+{{c1::Eine Invariante}} ist {{c2::ein boolescher Ausdruck, welche über die Ausführung von Anweisungen hinweg wahr bleibt}}.	
+{{c1::Eine Datenstruktur}} ist {{c2::ein Konstrukt zur Speicherung und Organisation von Daten, um deren Zugriff, Veränderung und Verwaltung effizient zu ermöglichen}}. {{c1::Eine Datenstruktur}} entsteht durch {{c3::die Implementierung eines abstrakten Datentyps}}.	
+{{c1::Die Spezifikation}} in der Informatik ist {{c2::die Definition der Semantik und Signatur}}.	
+{{c1::Eine Semantik in der Informatik}} ist {{c2::die Definition aller zulässigen Operationen}}.	
+{{c1::Eine Signatur in der Informatik}} ist {{c2::die Definition des zulässigen Wertebereiches}}.	
+{{c1::Ein abstrakter Datentyp (ADT)}} ist {{c2::ein Verbund von Datentypen mit der Definition aller zulässigen Operationen, die auf sie zugreifen}}.	
+{{c1::Die Güte}} ist {{c2::die Beurteilung von einem Objekt, spezifisch von einem Algorithmus, im Bezug zu seinen Gütekriterien}}.	
+{{c1::Die Ressourcenverwendung}} ist {{c2::ein Gütekriterium für ein Objekt, spezifisch für ein Algorithmus, zur Minimierung des Speicherbedarfs}}.	
+{{c1::Skalierbarkeit}} ist {{c2::eine Fähigkeit eines Objektes, den Verlust der Leistungsfähigkeit bei Vergrößerung des Systems oder dessen Elementen zu minimieren}}.	
+{{c1::Die Leistungsfähigkeit (Performanz)}} ist {{c2::ein Gütekriterium für ein Objekt, spezifisch für ein Algorithmus, zur Minimierung der Laufzeit}}.	
+{{c1::Korrektheit}} ist {{c2::eine Eigenschaft eines Objektes über die Funktionalität nach seinem Zweck und die Terminierung des Objektes}}.	
+{{c1::Die Analyse eines Algorithmus}} ist {{c2::die Aufwandsberechnung von Algorithmen und die Analyse der Korrektheit}}.	
+Bei der Analyse von Algorithmen wird {{c1::die Skalierbarkeit des Algorithmus}} in Abhängigkeit zur {{c2::Komplexität des Problems}} betrachtet.	
+{{c1::Vollständigkeit}} ist {{c2::eine Eigenschaft von einem Objekt über dessen Position in einem Definitionsbereich}}.	
+{{c1::Terminierung}} ist {{c2::eine Eigenschaft von einem Objekt über die begrenzte und endliche Anzahl an Schritten des Objektes}}.	
+{{c1::Finitheit}} ist {{c2::eine Eigenschaft von einem Objekt über die endlich lange Beschreibung des Objektes}}.	
+{{c1::Eindeutigkeit}} ist {{c2::eine Eigenschaft von einem Objekt über die Ausführung und Fortsetzung eines Algorithmus auf höchstens eine Art}}.	
+{{c1::Effektivität in der Informatik}} ist {{c2::eine Eigenschaft von einem Objekt über die reale Ausführbarkeit}}.	
+{{c1::Diskretheit}} ist {{c2::eine Eigenschaft von einem Objekt über die Abzählbarkeit des Objektes}}.	
+{{c1::Eine Zufallsvariable}} ist {{c2::eine Vorschrift, die jedem mögliche Ereignis eine Zufallszahl \(x\) zuordnet}}.	
+"wahr oder falsch:<br />
+Insertion Sort ist stabil."	wahr
+"{{c1::Insertionsort (Insertion Sort)}} ist {{c2::ein in situ-Sortierverfahren, bei dem in einer sortierten Folge ein Element eingefügt wird, indem man die bereist sortierten Objekte von hinten nach vorne bis zur richtigen Stelle durchgeht}}. Die Eingabe und Ausgabe ist {{c3::ein Array}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Linsen-Insertionsort.png"" alt=""""><br />
+Insertionsort}}}}}}"	
+"Die Laufzeit für Insertion Sort beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(\Theta(n^{2})\)}}<br />
+\(t_{a}(n) \in\) {{c2::\(\Theta(n^{2})\)}}<br />
+\(t_{b}(n) \in\) {{c3::\(\Theta(n)\)}}"	
+Der Speicherbedarf für Insertion Sort beträgt \(S(n) \in\) {{c1::\(\Theta(1)\)}}.	
+{{c1::Die Laufzeit in der Informatik}} ist {{c2::die Anzahl an Schritten, die ein Algorithmus benötigt}}.	
+{{c1::Brute Force}} ist {{c2::ein Designkonzept und eine Lösungsmethode durch das Ausprobieren aller möglichen Fälle}}.	
+Bei Passwörtern ist {{c1::Brute Force}} {{c2::das Erraten von Passwörtern durch Testen aller möglichen Kombination}}.	
+"{{c1::Elementare Rechenschritte}} sind {{c2::die einfachsten Operationen eines Algorithmus}} und umfassen:<br />
+{{c3::\(=, &lt;, \&amp;\&amp;, !=, ++, [], \text{compareTo()}\)}}"	
+{{c1::Determinismus}} ist {{c2::eine Eigenschaft von einem Objekt über die Bestimmung eines gleichen Ergebnis bei gleichen Eingaben und gleichen Schritten}}.	
+{{c1::Dynamisches Programmieren}} ist {{c2::ein Designkonzept zur Berechnung einer optimalen Lösung durch Substrukturen und die Memoisation}}.	
+"{{c1::Der SAT (Erfüllbarkeitsproblem der Aussagenlogik, Satisfiability)}} ist {{c2::eine Frage in der Informatik, ob eine aussagelogische Formel in konjunktiver Normalform erfüllbar ist}}:<br />
+\(\exists x_{1}, x_{2} \in \{\text{true, false}\} (\lnot x_{1} \lor x_{2}) \land (x_{1} \lor \lnot x_{2}) \land (\lnot x_{1} \lor \lnot x_{2})\)"	
+{{c1::Hashing mit quadratischem Sondieren}} ist {{c2::das Hashing mit offener Adressierung, in welchem bei einer Hash Kollision der quadratisch nächstfreie Platz gewählt wird}}.	
+{{c1::Hashing mit quadratisches Sondierem}} ist besser als {{c2::Hashing mit linearem Sondieren}}, da {{c3::keine primäre Häufung auftritt}}.	
+{{c1::Eine Hashtabelle}} ist {{c2::eine Tabelle, in welcher der Wertebereich für das Hashing gespeichert wird}}.	
+"{{c1::Hashing mit Verkettung}} ist {{c2::die Strukturierung einer Hashtabelle zur Speicherung von Schlüsseln in in einer verketten Liste}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Hashing_mit_direkter_Verkettung.png"" alt=""""><br />
+Beispiel einer Hashtabelle mit Verkettung und \(h(s) = s \mod 7, S = {1, 10, 3, 6, 20, 13}\)}}}}"	
+"Die Laufzeit einer Suche in einer Hashtabelle mit Verkettung beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(O(n)\) mit \(n\) als Universum}}<br />
+\(t_{a}(n) \in\) {{c2::\(O(1 + \alpha)\) mit \(\alpha\) als Auslastungsfaktor}}<br />
+\(t_{b}(n) \in\) {{c3::\(\Theta(1)\)}}"	
+"Der Speicherbedarf für Hashing mit Verkettung beträgt:<br />
+\(s_{w}(n) \in\) {{c1::\(\Theta(n + m)\) mit \(n\) als Universum, \(m\) als Bucket in der Hashtabelle}}<br />
+\(s_{a}(n) \in\) {{c2::\(\Theta(m + \alpha)\) mit \(m\) als Bucket in der Hashtabelle, \(\alpha\) als Auslastungsfaktor}}<br />
+\(s_{b}(n) \in\) {{c3::\(\Theta(m)\) mit \(m\) als Bucket in der Hashtabelle}}"	
+{{c1::Der Little-Murty-Sweney-Karel-Algorithmus}} ist {{c2::ein Algorithmus zur Lösung des Traveling Salesman Problem durch die Bestimmung von einem Rundweg mit minimaler Länge}}.	
+{{c1::Branch &amp; Bound}} ist {{c2::ein Algorithmus zur systematischen Suche in einem Suchraum nach einer optimalen Lösung für ein Optimierungsproblem}}.	
+"wahr oder falsch:<br />
+Das Traveling Salesman Problem ist ein Beispiel für Zielsetzungsprobleme in der Planung."	"falsch:<br />
+Es ist ein Beispiel für Lösungsprobleme."
+{{c1::Das Traveling Salesperson Problem (Traveling Salesman Problem, TSP)}} ist {{c2::ein NP-vollständiges Problem, bei welchem in einem gewichteten Graph der kürzeste Rundweg bestimmt werden soll, bei welchem alle Knoten genau einmal aufgesucht werden und der Rundweg am Startknoten enden muss}}.	
+{{c1::Die Graph-Färbung}} ist {{c2::ein NP-vollständiges Problem von Graphen, bei dem Knoten so eingefärbt werden sollen, dass Nachtbarknoten stets unterschiedlich gefärbt sind}}.	
+{{c1::Das Rucksackproblem}} ist {{c2::ein NP-vollständiges Problem, bei dem in einem Rucksack mit einer Rucksackkapazität \(b \in \mathbb{N}\) \(n\) eine beliebige Anzahl an Gegenstände mit Gewicht \(g_{1}, ..., g_{n}\) eingefügt werden können}}. Für {{c1::das Rucksackproblem}} soll die optimale Lösung gefunden werden.	
+{{c1::Die NP-Komplexität}} ist {{c2::eine Komplexitätsklasse von Problemen, die in polynomieller Laufzeit durch ein nicht-deterministischen Algorithmus gelöst werden können}}.	
+{{c1::Die P-Komplexität}} ist {{c2::eine Komplexitätsklasse von Problemen, die in polynomieller Laufzeit durch ein deterministisches, sequenzielles Algorithmus gelöst werden können}}.	
+"{{c1::Ein bipartiter Graph}} ist {{c2::ein Graph mit zwei Mengen \(V_{1}\) und \(V_{2}\), von denen jeder Knoten einer Menge zugeordnet wird und von jedem Knoten aus einer Menge mindestens eine Kante zu einem Knoten aus der anderen Menge führt.}}<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Affiliation-Netzwerk.png#invert"" alt="""" /> Affiliation-Netzwerk als bipartiter Graph}}}}<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Bestimmung_einer_maximalen_Zuordnung.png"" alt=""""><br />
+Bestimmung einer maximalen Zuordnung in einem biparatiten Graph}}}}"	
+"{{c1::Matching}} ist {{c2::die Bildung von möglichen Kantenkombinationen innerhalb eines Graphen, bei dem ein Knoten maximal nur mit einer Kante verbunden sein darf}}.<br />
+Das Ziel des {{c1::Matching}} ist {{c3::die Maximierung der Kantenanzahl}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Kuchen-Graph_mit_Matching.png"" alt=""""><br />
+Graph mit Matching}}}}}}"	
+{{c1::Der Ford-Fulkerson-Algorithmus}} ist {{c2::ein Algorithmus zur Berechnung des maximalen Flusses von einem Graphen durch die iterative Erhöhung der Kapazität entlang der Kanten}}.	
+"{{c1::Eine Flusserhöhung}} ist {{c2::die Veränderung von einem Fluss zur Erhöhung des maximalen Fluss}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Flusserhoehung.png"" alt=""""><br />
+Flusserhöhung}}}}"	
+"{{c1::Der maximale Fluss}} ist {{c2::die Menge an Gewicht, welche durch die Kanten eines Graphen von einem Anfangsknoten zu einem Endknoten fließen kann}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Fluss.png"" alt=""""><br />
+Fluss<br />
+<img src=""2022-Bild-Kuchen-Maximaler_Fluss.png"" alt=""""><br />
+Maximaler Fluss}}}}"	
+"{{c1::Der Kruskal-Algorithmus}} ist {{c2::ein Algorithmus zur Bildung eines minimalen Spannbaum}}.<br />
+{{c1::Der Kruskal-Algorithmus}} bildet {{c2::einen minimalen Spannbaum}} durch {{c3::die Auswahl der geringst gewichteten Kanten, bis alle Knoten miteinander verbunden sind, wobei kein Kreis gebildet werden darf.}}<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Kuchen-Kruskal-Algorithmus.png"" alt=""""><br />
+Algorithmus von Kruskal}}}}}}"	
+"{{c1::Ein minimaler Spannbaum (minimaler spannender Baum MSB)}} ist {{c2::ein Spannbaum, bei dem die Summe der Gewichte der Kanten des Spannbaumes minimal ist}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Linsen-Beispiel-Spannbaum.png"" alt=""""><br />
+Beispiel-Spannbaum}}}}"	
+"{{c1::Der Jarnik-Prim-Dijsktra-Algorithmus}} ist {{c2::ein Algorithmus zur Bildung eines minimalen Spannbaum}}.<br />
+{{c1::Der Jarnik-Prim-Dijsktra-Algorithmus}} bildet {{c2::einen minimalen Spannbaum}} durch {{c3::den kürzesten Gesamtweg von einem Ausgangsknoten über mögliche vorherige Knoten und Kanten zu einem bestimmten Knoten, bis alle Knoten mindestens einmal erreicht wurden}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Kuchen-Dijkstra-Algorithmus.png"" alt=""""><br />
+Algorithmus von Dijkstra}}}}}}"	
+"{{c1::Breitensuche (Breadth-First Search)}} ist {{c2::ein Suchalgorithmus nach einem Knoten nach dem FIFO-Prinzip, bei dem die Nachbarknoten zuerst betrachtet werden}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Beispielgraph_fuer_die_Tiefen-_und_Breitensuche.png"" alt=""""><br />
+Breitensuche in der Durchlaufreihenfolge \(v[0], v[2], v[1], v_[3], v_[4], v_[5]\)}}}}"	
+"{{c1::Tiefensuche}} ist {{c2::ein Suchalgorithmus nach einem Knoten nach dem LIFO-Prinzip, bei dem zuerst die geringsten Nachfolger rekursiv betrachtet werden und dann die Nachbarknoten}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Beispielgraph_fuer_die_Tiefen-_und_Breitensuche.png"" alt=""""><br />
+Tiefensuche in der Durchlaufreihenfolge \(v_{0}, v_{2}, v_{1}, v_{4}, v_{3}, v_{5}\)}}}}"	
+"{{c1::Die transitive Hülle}} ist {{c2::die Menge aller transitiven Relationen für einen Graphen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Transitive-Huelle.png"" alt=""""><br />
+Transitive Hülle \(G^{*}_{1}\) von \(G_{1}\)}}}}"	
+"{{c1::Die Distanzmatrix}} ist {{c2::eine quadratische Matrix für einen gewichteten Graphen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Distanzmatrix.png"" alt=""""><br />
+Distanzmatrix \(D_{G_{3} }\) zum Graphen \(G_{3}\)}}}}"	
+"{{c1::Eine Adjazenzliste}} ist {{c2::eine Liste für einen Knoten und gibt an, welche andere Knoten von diesem erreichbar sind}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Adjazenzliste.png"" alt=""""><br />
+Adjazenzliste mit dazugehörigen Graphen \(G_{1}\)}}}}"	
+"{{c1::Eine Adjazenzmatrix}} ist {{c2::eine Matrix für einen Graphen und gibt an, welche Knoten durch eine Kante verbunden sind}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Adjazenzmatrix.png"" alt=""""><br />
+Adjazenzmatrix \(A_{G_{1} }\) zum Graphen \(G_{1}\)}}}}"	
+"{{c1::Ein gewichteter Graph}} ist {{c2::ein Graph, bei denen die Kanten eine Gewichtung besitzen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Gewichteter_Graph.png"" alt=""""><br />
+Gewichteter Graph \(G_{2} = ( \{ v_{0}, v_{1}, v_{2}, v_{3} \}, \{(v_{0}, v_{2}), (v_{1}, v_{2}), (v_{2}, v_{1}), (v_{2}, v_{3}) \}, ß)\) mit \(ß(v_{0}, {v2}) = 2, ß (v_{1}, v_{2}) = 5, ß (v_{2}, v_{1}) = 3, ß (v_{2}, v_{3}) = 2\)}}}}"	
+"{{c1::Ein ungerichteter Graph}} ist {{c2::ein Graph, bei denen die Kanten keine Richtung zu Knoten besitzen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Ungerichteter_Graph.png"" alt=""""><br />
+Ungerichteter Graph \(G_{2} = (\{ v_{0}, v_{1}, v_{2}, v_{3} \}, \{ \{v_{0}, v_{2} \}, \{ v_{1}, v_{2} \}, \{ v_{2}, v_{3} \} \})\)}}}}"	
+"{{c1::Ein gerichteter Graph}} ist {{c2::ein Graph, bei denen die Kanten eine Richtung zu Knoten besitzen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Gerichteter_Graph.png"" alt=""""><br />
+Gerichteter Graph \(G_{2} = (\{ v_{0}, v_{1}, v_{2}, v_{3} \}, \{(v_{0}, v_{2}), (v_{1}, v_{2}), (v_{2}, v_{1}), (v_{2}, v_{3}) \})\)}}}}"	
+"{{c1::Ein Graph \(G = (|V|, |E|)\)}} ist {{c2::eine Menge \(V\) von Knoten und eine Menge \(E\) von Kanten zwischen den Knoten}}.<br />
+<img src=""2010-Bild-Easley-Kleinberg-Verschiedene_Arten_von_Graphen.png"" alt=""""><br />
+Verschiedene Arten von Graphen"	
+"{{c1::Der Boyer-Moore-Algorithmus}} ist {{c2::ein Algorithmus zur Mustererkennung durch Vergleich und Verschiebung des Musters zur Ausrichtung an einem betrachteten Inhalt}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Boyer-Moore-Algorithmus.png"" alt=""""><br />
+Beispiel des Boyer-Moore-Algorithmus}}}}"	
+{{c1::Die naive Mustererkennung}} ist {{c2::die Mustererkennung durch den Vergleich eines Musters \(p\) mit jedem Wert eines Text \(t\), bis das Muster gefunden oder das Ende des Text erreicht wurde}}.	
+{{c1::Die Mustererkennung}} ist {{c2::die Suche von Mustern \(p\) in einem Text \(t\), die beide in einem endlichen Alphabet \(\Sigma\) sind}}.	
+{{c1::Dynamisches Hashing}} ist {{c2::die Bildung von Hashtabellen, welche die Fähigkeit besitzen, ihre Größe zu verändern, was insbesondere für Sekundärspeicher relevant ist}}.	
+{{c1::Universelles Hashing}} ist {{c2::das Hashing durch eine randomisierte Hashfunktion}}, bei welchem die Wahrscheinlichkeit einer Kollision bei einer Menge mit \(n\) Elementen {{c3::\(\frac{1}{n}\)}} beträgt.	
+"{{c1::Die multiplikative Methode}} ist {{c2::ein Hashingverfahren, bei welchem der Schlüssel mit einer irrationalen Zahl \(\theta\) multipliziert wird und der ganzzahlige Anteil abgeschnitten wird, so dass sich der Schlüssel im Intervall \([0, 1]\) befindet, worauf er dann an der Stelle \(m\) in der Hashtabelle positioniert wird}}:<br />
+\(h(s) = \lfloor m \cdot (s \cdot \theta \mod 1) \rfloor\)"	
+"{{c1::Die Divisions-Rest-Methode}} ist {{c2::ein Hashingverfahren mit Modulo und einer \(m\)-großen Hashtabelle}}:<br />
+\(h(s) = s \bmod m\)"	
+{{c1::Hashing mit offener Adressierung}} ist {{c2::die Speicherung von Schlüsseln innerhalb der Hashtabelle}}.	
+"Die Laufzeit einer Suche in einer Hashtabelle mit offener Adressierung beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(O(n)\) mit \(n\) als Universum}}<br />
+\(t_{a}(n) \in\) {{c2::\(O(\frac{1}{1 - \alpha})\) mit \(\alpha\) als Auslastungsfaktor}}<br />
+\(t_{b}(n) \in\) {{c3::\(\Theta(1)\)}}"	
+Der Speicherbedarf für Hashing mit offener Adressierung beträgt {{c1::\(S(n) \in \Theta(m)\) mit \(m\) als Buckets in der Hashtabelle}}.	
+"{{c1::Eine Hash Kollision}} ist {{c2::die Zuordnung von denselben Hashwert \(h(s)\) bei mehreren Schlüsseln \(s, s&#039;\)}}:<br />
+\(s \neq s&#039; \land h(s) = h(s&#039;)\)"	
+{{c1::Hashing}} ist {{c2::ein Verfahren, um aus einer Schlüsselmenge \(S = {s_{1},..., s_{n} }\) eine Hashfunktion \(h(s)\) zu bilden}}. {{c1::Hashing}} ist auch {{c3::ein Suchalgorithmus, welcher eine Menge an Zahlen aus einer Hashtabelle sucht}}.	
+"Die Laufzeit für Hashing beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(O(n)\)}}<br />
+\(t_{b}(n) \in\) {{c2::\(O(1)\)}}"	
+Der Speicherbedarf für Hashing beträgt \(S(n) \in\) {{c1::\(\Theta(m)\) mit \(m\) als Buckets in der Hashtabelle}}.	
+{{c1::Ein Array (Feld)}} ist {{c2::eine Datenstruktur, bei der eine Menge von Objekten gleichen Typs gespeichert werden, auf die über einen Schlüssel zugegriffen werden kann}}.	
+"Die {{c1::Theta-Notation (\(\Theta\)-Notation)}} ist {{c2::die Größenordnung der Komplexität einer Funktion oder eines Algorithmus}}:<br />
+{{c1::\(\Theta(f)\)}} = \(O(f) \cap \Omega(f)\)<br />
+{{c1::{{c2::<img src=""2023-Bild-Linsen-Theta-Notation.png"" alt=""""><br />
+Theta-Notation}}}}"	
+"Die {{c1::Omega-Notation (\(\Omega\)-Notation)}} ist {{c2::die minimale Größenordnung der Komplexität einer Funktion oder eines Algorithmus}} und ist dadurch {{c2::die untere Schranke}}:<br />
+\(\Omega(f) = \{g : \mathbb{N} \rightarrow \mathbb{N} \mid \exists c &gt; 0 \ \exists n_{0} &gt; \forall n &gt; n_{0} \ g(n) \geq c \cdot f(n)\}\)<br />
+{{c1::{{c2::<img src=""2023-Bild-Linsen-Omega-Notation.png"" alt=""""><br />
+Omega-Notation}}}}"	
+In {{c1::der Omega-Notation}} enthält {{c1::\(\Omega(f)\)}} alle Funktionen \(g\), für die {{c2::es eine Konstante \(c\) und eine Zahl \(n_{0}\)}} gibt, sodass für {{c2::alle \(n &gt; n_{0}\)}} gilt: {{c3::\(g(n)\) ist größer oder gleich \(c \cdot f(n)\).}}	
+"Die {{c1::O-Notation (\(O\)-Notation)}} ist {{c2::die maximale Größenordnung der Komplexität einer Funktion oder eines Algorithmus}} wieder und ist dadurch {{c2::die obere Schranke}}:<br />
+\(O(f) = \{g : \mathbb{N} \rightarrow \mathbb{N} \mid \exists c &gt; 0 \ \exists n_{0} &gt; \forall n &gt; n_{0} \ g(n) \leq c \cdot f(n)\}\)<br />
+{{c1::{{c2::<img src=""2023-Bild-Linsen-O-Notation.png"" alt=""""><br />
+O-Notation}}}}"	
+In {{c1::der O-Notation}} enthält {{c1::\(O(f)\)}} alle Funktionen \(g\), für die {{c2::es eine Konstante \(c\) und eine Zahl \(n_{0}\)}} gibt, sodass für {{c2::alle \(n &gt; n_{0}\)}} gilt: {{c3::\(g(n)\) ist kleiner oder gleich \(c \cdot f(n)\).}}	
+{{c1::Die Komplexität in der Informatik}} ist {{c2::der Aufwand eines Algorithmus}} und ist durch {{c3::die Anzahl der elementaren Schritte wie auch durch die Größe der Eingabe}} bestimmt. {{c1::Die Komplexität}} wird durch {{c4::eine asymptotische Analyse}} bestimmt.	
+Wichtige Komplexitätsklassen sind {{c1::linear}}, {{c1::logarithmisch}}, {{c1::polynomiell}} und {{c1::exponentiell}}.	
+{{c1::Ein Algorithmus}} ist ein {{c2::Rechenverfahren zur schrittweisen Lösung eines Problems}}.	
+"<p>{{c1::Ein Algorithmus}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::Determinismus}}</li>
+<li>{{c2::Diskretheit}}</li>
+<li>{{c2::Effektivität}}</li>
+<li>{{c2::Eindeutigkeit}}</li>
+<li>{{c2::Finitheit}}</li>
+<li>{{c2::Terminierung}}</li>
+<li>{{c2::Vollständigkeit}}</li>
+</ul>"	
+"{{c1::Ein inhomogener Suchbaum}} ist {{c2::ein Binärbaum, bei denen die Daten nur in den Blättern gespeichert werden}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Inhomogener_Suchbaum.png"" alt=""""> Inhomogener Suchbaum}}}}"	
+"{{c1::Ein Binärbaum}} ist {{c2::eine Datenstruktur zur Speicherung von dynamischen Mengen, bei welcher ein Elternknoten nur zwei direkte Kinderknoten haben kann, welche sich eindeutig in linkes und rechtes Kind einteilen lassen müssen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wikipedia-Binaerbaumbegriffe.svg"" alt=""""><br />
+Binärbaumbegriffe}}}}"	
+"{{c1::Ein B-Baum}} ist {{c2::ein balancierter Suchbaum, welcher nicht unbedingt ein Binärbaum ist und spezifische Eigenschaften besitzt}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-B-Baum.png"" alt=""""><br />
+B-Baum}}}}"	
+"<p>{{c1::Ein B-Baum}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::alle Blätter haben die gleiche Höhe}}</li>
+<li>{{c2::ein Knoten kann mehr als zwei Kind-Knoten haben}}</li>
+<li>{{c2::Knoten können mehre Werte, maximal aber \(m\) Schlüssel enthalten}}</li>
+</ul>"	
+"{{c1::Ein AVL-Baum}} ist {{c2::ein höhenbalancierter binärer Suchbaum}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-AVL-Baum_Rebalancierung.png"" alt=""""><br />
+Rebalancierung in zwei Situationen<br />
+<img src=""2022-Bild-Wikipedia-AVL-Baum.svg"" alt=""""><br />
+AVL-Baum mit Balance-Werten}}}}"	
+Die Laufzeit für eine Suche in einem AVL-Baum beträgt \(T(n) \in\) {{c1::\(O(\log(n))\).}}	
+{{c1::Ein balancierter Suchbaum}} ist {{c2::ein Binärbaum, welcher eine maximale Höhe von \(c \cdot log(n)\) mit \(c\) als unabhängige Konstante besitzt}}, wodurch eine Laufzeit von {{c3::\(t_{w}(n) \in O(log (n))\)}} für alle Operationen garantiert werden kann.	
+"{{c1::Ein binärer Suchbaum (BST)}} ist {{c2::ein Binärbaum und erlaubt die binäre Suche}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Linsen-Binaerer_Suchbaum.png"" alt=""""><br />
+Binärer Suchbaum<br />
+<img src=""2022-Bild-Kuchen-Operationen_im_binaeren_Suchbaum.png"" alt=""""><br />
+Operationen im binären Suchbaum}}}}"	
+"Die Laufzeit in einem binären Suchbaum beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(O(n)\), wenn der binäre Suchbaum nicht balanciert ist}}<br />
+\(t_{a, b}(n) \in\) {{c2::\(O(\log (n))\), wenn der binäre Suchbaum fast vollständig ist}}"	
+{{c1::Ein Stack}} ist {{c2::ein Stapel, der eine dynamische Menge nach dem LIFO-Prinzip speichert}}.	
+{{c1::Eine Queue (Warteschlange) in der Informatik}} ist {{c2::eine Warteschlage, welche eine dynamische Menge nach dem FIFO-Prinzip speichert}}.	
+{{c1::Ein Min-Heap}} ist {{c2::ein Heap, bei dem \(h[0] = min\) entspricht}}. In {{c1::einem Min-Heap}} befindet sich {{c3::das kleinste Objekt in der Wurzel}}.	
+"{{c1::Ein Max-Heap}} ist {{c2::ein Heap, bei dem \(h[0] = max\) entspricht}}. In {{c1::einem Max-Heap}} befindet sich {{c3::das größte Objekt in der Wurzel}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Linsen-Herstellung_der_Max-Heap-Eigenschaft.png"" alt=""""><br />
+Herstellung der Max-Heap-Eigenschaft}}}}}}"	
+"{{c1::Ein Heap}} ist {{c2::ein Array, bei welchem in der Binärbaumdarstellung ein Elternknoten größer oder kleiner sein muss, als seine Kinderknoten}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Heap.png"" alt=""""><br />
+Heap im Baumdarstellung mit dem Array [96, 84, 72, 12, 79, 42, 39, 8, 9, 50]}}}}"	
+"Die Darstellung {{c1::eines Heap}} als Array in Binärbaumdarstellung erfolgt durch {{c2::den sukzessiven Aufbau des Binärbaums von oben nach unten und links nach rechts im Array}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Heap.png"" alt=""""><br />
+Heap im Baumdarstellung mit dem Array [96, 84, 72, 12, 79, 42, 39, 8, 9, 50]}}}}"	
+"Die Bildung eines Heap erfolgt durch {{c1::das sukzessive Nachrücken, bis die Heapbedingung erfüllt ist}}.<br />
+{{c1::<img src=""2022-Bild-Kuchen-Heapaufbau.png"" alt=""""><br />
+Heapaufbau im Baumdarstellung mit dem array [96, 73, 82, 69, 70, 46, 13, 27, 56, 42]}}"	
+"wahr oder falsch:<br />
+Radixsort ist stabil."	wahr
+"{{c1::Radixsort (Radix Sort)}} ist {{c2::ein Sortieralgorithmus, der die einzelnen Datenwerte entsprechend ihres Zahlenwert an einer bestimmten Zahlenstelle sortiert und dies entsprechend der Stellenanzahl wiederholt wird}}.<br />
+{{c1::Radixsort}} sollte nicht angewendet werden, wenn {{c3::nicht-Ganzzahlen genutzt werden oder große Zahlen verwendet werden}}.<br />
+{{c1::{{c2::{{c3::<img src=""2017-Bild-Codingeek-Radixsort.png"" alt=""""><br />
+Radixsort}}}}}}"	
+Die Laufzeit für Radixsort beträgt \(T(n) =\) {{c1::\(\Theta(d \cdot n) \in O(k \cdot n)\) mit \(k\) als Stellenanzahl}}.	
+Der Speicherbedarf für Radixsort beträgt \(S(n) \in\) {{c1::\(\Theta(n + k)\) mit \(k\) als Stellenanzahl}}.	
+"wahr oder falsch:<br />
+Mergesort ist stabil."	wahr
+"{{c1::Mergesort (Merge Sort)}} ist {{c2::ein einfacher Sortieralgorithmus, der durch das Divide &amp; Conquer-Verfahren einen Datensatz in zwei Phasen sortiert}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wikipedia-Mergesort.png"" alt=""""><br />
+Mergesort}}}}"	
+"Die Laufzeit für Mergesort beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(\Theta(n \cdot \log(n))\)}}<br />
+\(t_{a}(n) \in\) {{c2::\(\Theta(n \cdot \log(n))\)}}<br />
+\(t_{b}(n) \in\) {{c3::\(\Theta(n \cdot \log(n))\)}}"	
+Der Speicherbedarf für Mergesort beträgt \(S(n) \in\) {{c1::\(\Theta(n)\)}}.	
+"wahr oder falsch:<br />
+Heapsort ist stabil."	falsch
+"{{c1::Heapsort (Heap Sort)}} ist {{c2::ein in situ-Sortieralgorithmus durch prioritäten-gesteuerte Warteschlagen mit einen Heap}}. {{c1::Im Heapsort}} wird {{c2::ein fast vollständiger Binärbaum}} angenommen.<br />
+{{c1::{{c2::<img src=""2021-Bild-Wikipedia-Heapsort.svg"" alt=""""><br />
+Heapsort mit Zwischenschritten}}}}"	
+"Die Laufzeit für Heapsort beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(O(n \cdot \log(n))\)}}<br />
+\(t_{a}(n) \in\) {{c2::\(O(n \cdot \log(n))\)}}<br />
+\(t_{b}(n) \in\) {{c3::\(O(n \cdot \log(n))\)}}"	
+Der Speicherbedarf für Heapsort beträgt \(S(n) \in\) {{c1::\(\Theta(1)\)}},	
+{{c1::Selection Sort (Selectionsort)}} ist {{c2::ein Sortieralgorithmus, der repetitiv den kleinsten Wert in einem unsortierten solange nach links setzt, bis eine Liste sortiert ist}}.	
+"Die Laufzeit für Selection Sort beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(O(n^{2})\)}}<br />
+\(t_{a}(n) \in\) {{c2::\(O(n^{2})\)}}"	
+"wahr oder falsch:<br />
+Quicksort ist stabil."	falsch
+"{{c1::Quicksort (Quick Sort)}} ist {{c2::ein Sortierverfahren, bei dem durch ein Pivot und Grenzen einzelne Teillisten gebildet werden, welche rekursiv sortiert werden}} und dadurch {{c3::den Divide &amp; Conquer-Verfahren}} angewendet wird.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Linsen-Partition_in_Quicksort.png"" alt=""""><br />
+Partition in Quicksort}}}}}}"	
+"Die Laufzeit für Quicksort beträgt:<br />
+\(t_{w}(n) \in\) {{c1::\(\Theta(n^{2})\)}}<br />
+\(t_{a, b}(n) \in\) {{c2::\(O(n \cdot \log(n))\)}}"	
+"wahr oder falsch:<br />
+Bubblesort ist stabil."	wahr
+{{c1::Bubblesort (Bubble Sort)}} ist ein Sortierverfahren, bei dem {{c2::jedes Element mit dem Nachbarelement auf seine Größe verglichen wird und falls das aktuelle Element größer ist als das Nachbarelement, vertauscht wird, bis keine Änderung mehr möglich ist}}.	
+"Die Komplexität von Bubblesort ist:<br />
+\(t_{w}(n) \in\) {{c1::\(O(n^{2})\)}}<br />
+\(t_{a}(n) \in\) {{c1::\(O(n^{2})\)}}<br />
+\(t_{b}(n) \in\) {{c1::\(O(n^{2})\)}}"	
+Der Speicherbedarf für Bubblesort beträgt \(S(n) \in\) {{c1::\(\Theta(1)\)}}.	
+"{{c1::Ein Sortierverfahren}} ist {{c2::ein Algorithmus}} zur {{c2::Umstellung einer Menge von Elementen}}, welcher zu folgender Permutation führt:<br />
+\(\pi : \{0, ..., n - 1\} \rightarrow \{0, ..., n - 1\}\) mit \(k_{\pi(0)} \leq k_{\pi(1)} \leq ... \leq k_{\pi(n-1)}\)"	
