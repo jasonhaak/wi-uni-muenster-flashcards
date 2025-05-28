@@ -1,9 +1,12 @@
 # Anki Flashcards – Wirtschaftsinformatik Bachelor @ University of Münster
+[![de](https://img.shields.io/badge/language-de-red.svg)](https://github.com/jasonhaak/wi-uni-muenster-flashcards/blob/main/README.md)
+[![en](https://img.shields.io/badge/language-en-green.svg)](https://github.com/jasonhaak/wi-uni-muenster-flashcards/blob/main/README-en.md)
+
 Welcome to this repository containing Anki flashcards for the Bachelor in Wirtschaftsinformatik at the University of Münster.
 
 > Note: All flashcards are written in German. Specific terms may appear in English, but explanations, definitions and context are provided in German.
 
-> Note: Some flashcards may appear in multiple decks, as the organization is based on categories rather than individual courses. As a result, a card might be included in both Course 1 and Course 2. This structure may also lead to the inclusion of supplementary material from other courses within a given deck.
+> Note: Some flashcards may appear in multiple decks, as the organization is based on categories rather than individual courses. As a result, a card might be included in both _Course 1_ and _Course 2_. This structure may also lead to the inclusion of supplementary material from other courses within a given deck.
 
 ## Table of Contents
 1. [Purpose of This Repository](#purpose-of-this-repository)
