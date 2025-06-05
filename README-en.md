@@ -46,7 +46,7 @@ For questions, suggestions, or corrections: Open an [issue](https://github.com/j
 If you find these flashcards helpful and want to buy me a coffee, you can donate me via PayPal:
 
 <a href="https://www.paypal.com/paypalme/jasonhaak01">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="120"/>
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="80"/>
 </a>
 
 ## How to Contribute
