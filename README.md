@@ -46,7 +46,7 @@ Bei Fragen, Anregungen oder Korrekturen: Eröffne ein [Issue](https://github.com
 Wenn dir diese Karteikarten bei deinem Studium helfen und du mich mit einem Kaffee unterstützen möchtest, kannst du über PayPal spenden:
 
 <a href="https://www.paypal.com/paypalme/jasonhaak01">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="120"/>
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="80"/>
 </a>
 
 ## Contribution
