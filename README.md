@@ -1,6 +1,6 @@
 # Anki-Flashcards – Wirtschaftsinformatik Bachelor @ Universität Münster
-[![de](https://img.shields.io/badge/sprache-de-red.svg)](https://github.com/jasonhaak/wi-uni-muenster-flashcards/blob/main/README.md)
-[![en](https://img.shields.io/badge/sprache-en-green.svg)](https://github.com/jasonhaak/wi-uni-muenster-flashcards/blob/main/README-en.md)
+[![de](https://img.shields.io/badge/Sprache-de-red.svg)](https://github.com/jasonhaak/wi-uni-muenster-flashcards/blob/main/README.md)
+[![en](https://img.shields.io/badge/Sprache-en-green.svg)](https://github.com/jasonhaak/wi-uni-muenster-flashcards/blob/main/README-en.md)
 
 Willkommen in diesem Repository mit Anki-Karteikarten für den Bachelorstudiengang Wirtschaftsinformatik an der Universität Münster.
 
@@ -50,7 +50,7 @@ Wenn dir diese Karteikarten bei deinem Studium helfen und du mich mit einem Kaff
 </a>
 
 ## Contribution
-Obwohl Beiträge willkommen sind, wird dieses Repository nicht aktiv gepflegt. Ich überprüfe und merge Korrekturen nach Möglichkeit, kann jedoch keinen dauerhaften Support oder regelmäßige Aktualisierungen gewährleisten.
+Obwohl Contributions willkommen sind, wird dieses Repository nicht aktiv gepflegt. Ich überprüfe und merge Korrekturen nach Möglichkeit, kann jedoch keinen dauerhaften Support oder regelmäßige Aktualisierungen gewährleisten.
 
 ### Schritt-für-Schritt-Anleitung für Contributions
 1. Forke dieses Repository
