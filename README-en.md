@@ -62,8 +62,8 @@ While contributions are welcome, this repository is not actively maintained. I w
      - Export format: Notes with unformatted text (.txt)
      - Settings: Include HTML and media file references
 5. Create a new folder named as `MODULE-SEMESTER` (e.g., `BWL3-WS-23-24`)
-6. Place your exported CrowdAnki files and the APKG file in this folder
-7. Edit this README.md and add your lecture
+6. Add the `.txt` file and `.apkg` file into the folder
+7. Edit this `README.md` and add your lecture
 8. Commit your changes with a clear message
 9. Push to your fork and open a Pull Request against this repository
 
