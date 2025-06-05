@@ -57,7 +57,7 @@ Obwohl Contributions willkommen sind, wird dieses Repository nicht aktiv gepfleg
 2. Klone das Repository lokal auf dein System
 3. Erstelle oder bearbeite Karteikarten in Anki
 4. Exportiere dein Deck auf zwei Arten:
-   - Als `.apkg`-Datei (Anki-Kartensatz ohne Zeitpläne, aber mit Medien)
+   - Als `.apkg` (Anki-Kartensatz ohne Zeitpläne, aber mit Medien)
    - Als `.txt` über „Notizen exportieren“
      - Exportformat: „Notizen mit unformatiertem Text (`.txt`)“
      - Einstellungen: HTML und Medienpfade einschließen
