@@ -1,0 +1,502 @@
+#separator:tab
+#html:true
+"wahr oder falsch:<br />
+\(\int_a^b [f(x) + g(x)] dx = \int_a^b f(x) dx + \int_a^b g(x) dx\) (Mathematik)"	"wahr:<br />
+Die Linearität des Integrals besagt, dass das Integral einer Summe die Summe der einzelnen Integrale ist."
+"wahr oder falsch:<br />
+\(\int_a^b f(x) dx = -\int_b^a f(x) dx\) (Mathematik)"	"wahr:<br />
+Die Vertauschung der Integrationsgrenzen kehrt das Vorzeichen des Integrals um."
+"wahr oder falsch:<br />
+\(\int (x^n) dx = \frac{x^{n+1}}{n+1} + C\), wobei \(n \neq -1\) (Mathematik)"	"wahr:<br />
+Die Aufleitung einer Potenzfunktion erfolgt durch Erhöhung des Exponenten um \(1\) und Division durch den neuen Exponenten."
+"wahr oder falsch:<br />
+\(\int_a^b [cf(x)] dx = c \cdot \int_a^b f(x) dx\), wobei \(c\) eine Konstante ist. (Mathematik)"	"wahr:<br />
+Konstante Faktoren können bei Integralen vor das Integral gezogen werden."
+"wahr oder falsch:<br />
+Der Erwartungswert einer diskreten Zufallsvariable wird durch die Summe der Produkte aller möglichen Werte mit ihren Wahrscheinlichkeiten berechnet. (Mathematik)"	"wahr:<br />
+Der Erwartungswert \(E(X)\) für eine diskrete Zufallsvariable \(X\) ist definiert als \(E(X) = \sum_{i} x_i \cdot P(X = x_i)\), wobei \(x_i\) die möglichen Werte von \(X\) und \(P(X = x_i)\) deren Wahrscheinlichkeiten sind."
+"wahr oder falsch:<br />
+Für eine stetige Zufallsvariable wird der Erwartungswert durch die Summe der Produkte der Funktionswerte mit deren Wahrscheinlichkeiten berechnet. (Mathematik)"	"falsch:<br />
+Der Erwartungswert einer stetigen Zufallsvariable wird durch das Integral \(E(X) = \int_{-\infty}^\infty x \cdot f(x) \, dx\) berechnet, wobei \(f(x)\) die Dichtefunktion ist."
+"wahr oder falsch:<br />
+Der Erwartungswert ist immer ein Wert, der innerhalb des Wertebereichs der Zufallsvariablen liegt. (Mathematik)"	"falsch:<br />
+Der Erwartungswert kann auch außerhalb des Wertebereichs der Zufallsvariablen liegen, insbesondere bei ungleichen Wahrscheinlichkeitsverteilungen."
+"wahr oder falsch:<br />
+Für eine gleichverteilte diskrete Zufallsvariable ist der Erwartungswert gleich dem Mittelwert der möglichen Werte. (Mathematik)"	"wahr:<br />
+Wenn alle Werte einer diskreten Zufallsvariablen die gleiche Wahrscheinlichkeit haben, ist der Erwartungswert gleich dem arithmetischen Mittel der Werte."
+"wahr oder falsch:<br />
+Der Erwartungswert ist ein Maß für die Streuung einer Zufallsvariable. (Mathematik)"	"falsch:<br />
+Der Erwartungswert ist ein Maß für die zentrale Tendenz einer Zufallsvariablen. Die Streuung wird durch die Varianz oder die Standardabweichung beschrieben."
+"wahr oder falsch:<br />
+Bei stetigen Zufallsvariablen kann der Erwartungswert durch Näherung über die diskrete Summe approximiert werden. (Mathematik)"	"wahr:<br />
+Durch Diskretisierung der Dichtefunktion \(f(x)\) können Integrale in eine Summe umgewandelt werden, was eine Approximation des Erwartungswertes ermöglicht."
+"wahr oder falsch:<br />
+Der Erwartungswert einer Zufallsvariablen hängt immer von ihrer Verteilung ab. (Mathematik)"	"wahr:<br />
+Der Erwartungswert wird durch die Wahrscheinlichkeiten (diskret) oder die Wahrscheinlichkeitsdichte (stetig) der Verteilung bestimmt und ist daher von der Verteilung abhängig."
+"wahr oder falsch:<br />
+\(\sum_{i=1}^{n} (x_{n} - 1) = \sum_{i=1}^{n} (x_{n}) - n\) (Mathematik)"	wahr
+"wahr oder falsch:<br />
+\(\log(a + b) = \log(a) + \log(b)\) (Mathematik)"	falsch
+"Frage:<br />
+Wie lässt sich der Logarithmus einer Summe \(\log(a + b)\) umformen? (Mathematik)"	Der Logarithmus einer Summe kann nicht direkt in die Summe der Logarithmen umgeformt werden.
+"wahr oder falsch:<br />
+\(\log(x) \cdot \log(y) = \log(xy)\) (Mathematik)"	falsch
+"Frage:<br />
+Wie lässt sich der Ausdruck \(\log(x) \cdot \log(y)\) umformen? (Mathematik)"	\(\log(x) \cdot \log(y)\) kann nicht direkt als Logarithmus eines Produkts umgeformt werden.
+"wahr oder falsch:<br />
+Die Aufleitung von \(f(x) = 3x^2\) ist \(F(x) = x^3\). (Mathematik)"	"wahr:<br />
+Begründung: Die Regel zur Aufleitung von \(x^n\) lautet \(\int x^n dx = \frac{x^{n+1}}{n+1} + C\), und hier ergibt sich \(\int 3x^2 dx = \frac{3x^{3}}{3} = x^3\)."
+"wahr oder falsch:<br />
+Bei Summenformeln mit addierter Konstante kann diese durch Nutzung der Summenvariable rausgezogen werden:<br />
+\(\sum_{i=1}^{n} (x_{n} + \frac{1}{p}) = \frac{n}{p} + \sum_{i=1}^{n} (x_{n})\) (Mathematik)"	wahr
+"wahr oder falsch:<br />
+Der Fehler 2. Art entspricht der Wahrscheinlichkeit, mit der die Nullhypothese \(H_0\) beibehalten wird, obwohl sie falsch ist. (Mathematik)"	"wahr:<br />
+Der Fehler 2. Art (\(\beta\)-Fehler) tritt auf, wenn \(H_0\) nicht verworfen wird, obwohl sie in Wahrheit falsch ist."
+"wahr oder falsch:<br />
+Die Faltung einer Bernoulli-\((p)\)-Verteilung und einer Binomial-\((n, p)\)-Verteilung ergibt eine Binomialverteilung. (Mathematik)"	"wahr:<br />
+Die Faltung einer Bernoulli-\((p)\)-Verteilung (entspricht einer Binomial-\((1, p)\)-Verteilung) mit einer Binomial-\((n, p)\)-Verteilung ergibt eine Binomial-\((n + 1, p)\)-Verteilung."
+"wahr oder falsch:<br />
+Ist \(X &gt; 0\) eine stetig verteilte Zufallsgröße mit Dichte \(f_X\), so hat \(Y = \ln(X)\) ebenfalls eine Dichte und zwar \(h(y) = f_X(e^y) \cdot e^y\).  (Mathematik)"	"wahr:<br />
+Wenn \(Y = \ln(X)\) definiert ist, lässt sich die Dichte von \(Y\) mithilfe der Transformation \(h(y) = f_X(e^y) \cdot \frac{d}{dy}(e^y) = f_X(e^y) \cdot e^y\) bestimmen."
+"wahr oder falsch:<br />
+Das Stichprobenmittel ist ein erwartungstreuer Schätzer für den Erwartungswert der Verteilung der Grundgesamtheit. (Mathematik)"	"wahr:<br />
+Das Stichprobenmittel ist ein erwartungstreuer Schätzer für den Erwartungswert, da der Erwartungswert des Stichprobenmittels gleich dem Erwartungswert der Grundgesamtheit ist."
+"wahr oder falsch:<br />
+Sind \(X, Y, Z\) stochastisch unabhängig, so auch \(X + Y, X + Z\). (Mathematik)"	"wahr:<br />
+Wenn \(X\), \(Y\) und \(Z\) stochastisch unabhängig sind, dann sind auch \(X + Y\) und \(X + Z\) unabhängig, weil die Unabhängigkeit der Zufallsvariablen die Unabhängigkeit der Linearkombinationen beibehält."
+"wahr oder falsch:<br />
+Die bedingte Verteilung \(L(X|Y)\) eines stetigen Zufallsvektors \((X, Y)\) ist wieder stetig. (Mathematik)"	"wahr:<br />
+Die bedingte Verteilung \(L(X|Y)\) eines stetigen Zufallsvektors bleibt stetig, weil die bedingte Verteilung für stetige Zufallsvariablen auch stetig bleibt, solange die gemeinsame Verteilung von \(X\) und \(Y\) stetig ist."
+"wahr oder falsch:<br />
+Ein Konfidenzintervall für einen Parameter enthält stets den korrekten Parameterwert. (Mathematik)"	"falsch:<br />
+Ein Konfidenzintervall enthält den wahren Parameterwert mit einer bestimmten Wahrscheinlichkeit (z. B. 95 %), aber nicht mit Sicherheit, da es auf Stichproben basiert."
+"wahr oder falsch:<br />
+Ein ML-Schätzer ist stets erwartungstreu. (Mathematik)"	"falsch:<br />
+Ein Maximum-Likelihood-Schätzer (ML-Schätzer) ist nicht immer erwartungstreu. In manchen Fällen kann der ML-Schätzer verzerrt sein, besonders bei kleinen Stichprobengrößen."
+"wahr oder falsch:<br />
+Ein MM-Schätzer ist stets erwartungstreu. (Mathematik)"	"falsch:<br />
+Ein Momentenschätzer (MM-Schätzer) ist nicht immer erwartungstreu. Er ist zwar so konstruiert, dass er die Momente der Verteilung (z. B. Mittelwert, Varianz) korrekt schätzt, aber dies garantiert nicht, dass der Schätzer erwartungstreu ist."
+"wahr oder falsch:<br />
+Beim Wilcoxon-Rangsummentest wird eine unbekannte stetige Verteilung auf Lageverschiebung geprüft. (Mathematik)"	"wahr:<br />
+Der Wilcoxon-Rangsummentest prüft, ob es eine Lageverschiebung zwischen zwei unabhängigen Stichproben gibt, ohne Annahmen über die Form der Verteilung der Daten zu machen."
+"wahr oder falsch:<br />
+Der KQ-Schätzer für \(\beta\) im linearen Modell \(Y = X\beta + \varepsilon\) ist erwartungstreu. (Mathematik)"	"wahr:<br />
+Der Kleinste-Quadrate-Schätzer (KQ-Schätzer) für \(\beta\) im linearen Modell ist erwartungstreu, wenn die Annahmen des Modells erfüllt sind, insbesondere die Annahme, dass die Fehler \(\varepsilon\) einen Mittelwert von Null haben."
+"wahr oder falsch:<br />
+Eine multivariate Verteilung wird durch ihre Randverteilungen eindeutig festgelegt. (Mathematik)"	"falsch:<br />
+Eine multivariate Verteilung ist nicht nur durch ihre Randverteilungen festgelegt, sondern auch durch die Abhängigkeiten zwischen den Variablen. Randverteilungen liefern nur Informationen über jede einzelne Variable, nicht über deren Zusammenhänge."
+"wahr oder falsch:<br />
+Die Breite eines Konfidenzintervalls für den Erwartungswert bei unbekannter Varianz ist datenabhängig. (Mathematik)"	"wahr:<br />
+Die Breite eines Konfidenzintervalls hängt von der Stichprobenvarianz ab, die sich aus den Daten berechnet, und somit ist das Intervall datenabhängig."
+"wahr oder falsch:<br />
+Der MSE eines erwartungstreuen Schätzers ist stets gleich \(0\). (Mathematik)"	"falsch:<br />
+Der Mean Squared Error (MSE) eines Schätzers setzt sich aus der Varianz und dem Quadrat des Bias zusammen. Ein erwartungstreuer Schätzer hat zwar keinen Bias, aber eine nicht-null Varianz, sodass der MSE nicht notwendigerweise \(0\) ist."
+"wahr oder falsch:<br />
+Statistische Tests sind eng verwandt mit Konfidenzinvervallen. (Mathematik)"	"wahr:<br />
+Statistische Tests und Konfidenzintervalle sind eng verwandt, da beide auf der gleichen Entscheidungsregel basieren und dasselbe Konfidenzniveau verwenden. Ein Test kann als das Komplement eines Konfidenzintervalls interpretiert werden."
+"wahr oder falsch:<br />
+Maximum-Likelihood Methode und Momentenmethode führen immer auf die gleichen Schätzer. (Mathematik)"	"falsch:<br />
+Die Maximum-Likelihood-Methode und die Momentenmethode führen nicht immer zu denselben Schätzern. Beide Methoden verwenden unterschiedliche Prinzipien zur Schätzung von Parametern und können unterschiedliche Ergebnisse liefern."
+"wahr oder falsch:<br />
+Die Kovarianz zweier Zufallsvariablen ist unabhängig von deren Skalierung. (Mathematik)"	"falsch:<br />
+Die Kovarianz zwischen zwei Zufallsvariablen \(X\) und \(Y\) wird durch die Skalierung der Variablen beeinflusst. Wenn \(X\) und \(Y\) mit Konstanten \(a\) und \(b\) skaliert werden, dann verändert sich die Kovarianz gemäß der Formel:<br />
+\(\text{Cov}(aX, bY) = ab \cdot \text{Cov}(X, Y)\)."
+"wahr oder falsch:<br />
+Es gibt Zufallsvektoren \(X, Y\), zu denen keine Kovarianz berechnet werden kann. (Mathematik)"	"falsch:<br />
+Für alle Zufallsvektoren \(X\) und \(Y\), die eine gemeinsame Verteilung haben, kann eine Kovarianz berechnet werden, es sei denn, es gibt fehlende oder undefinierte Werte, die die Berechnung unmöglich machen."
+"wahr oder falsch:<br />
+Zu u.i.v.-Zufallsvariablen \(X_1, \dots, X_n\) mit einer stetigen Gleichverteilung \(Re(0, b)\) ist \(\max(X_1, \dots, X_n)\) der ML-Schätzer für \(b\). (Mathematik)"	"wahr:<br />
+Der Maximum-Likelihood-Schätzer (ML-Schätzer) für den Parameter \(b\) bei einer Stichprobe von u.i.v. Zufallsvariablen, die einer stetigen Gleichverteilung \(Re(0, b)\) folgen, ist tatsächlich \(\max(X_1, \dots, X_n)\)."
+"wahr oder falsch:<br />
+Zu u.i.v.-Zufallsvariablen \(X_1, \dots, X_n\) mit einer stetigen Gleichverteilung \(Re(0, b)\) ist \(2\overline{X}\) der MM-Schätzer für \(b\). (Mathematik)"	"wahr:<br />
+Der Momentenschätzer (MM-Schätzer) für den Parameter \(b\) bei einer stetigen Gleichverteilung \(Re(0, b)\) ist \(2\overline{X}\), da der Erwartungswert der Gleichverteilung \(E[X] = \frac{b}{2}\) ist, sodass \(b = 2\overline{X}\)."
+"wahr oder falsch:<br />
+Beim Wilcoxon-Test müssen die Stichprobenvariablen \(X_1, \dots, X_n\), \(Y_1, \dots, Y_m\) normalverteilt sein. (Mathematik)"	"falsch:<br />
+Der Wilcoxon-Rangsummentest ist ein nicht-parametrischer Test und setzt keine Normalverteilung der Stichprobenvariablen voraus. Er prüft stattdessen die Lageverschiebung zwischen zwei Stichproben."
+"wahr oder falsch:<br />
+Die Länge eines Einstichproben-Konfidenzintervalls zum Koeffizienten \(1 - \alpha\) für den Erwartungswert einer Normalverteilung mit unbekannter Varianz ist unabhängig von der Stichprobe beschränkt. (Mathematik)"	"falsch:<br />
+Die Länge eines Einstichproben-Konfidenzintervalls hängt von der Stichprobengröße ab, da die Schätzung des Standardfehlers, der zur Bestimmung des Intervalls verwendet wird, mit der Stichprobengröße zusammenhängt."
+"wahr oder falsch:<br />
+Bei einem statistischen Test wird die Nullhypothese zum Signifikanzniveau \(\alpha\) abgelehnt, wenn der p-Wert der Stichprobe kleiner als \(\alpha\) ist. (Mathematik)"	"wahr:<br />
+Ein statistischer Test lehnt die Nullhypothese ab, wenn der p-Wert kleiner als das gewählte Signifikanzniveau \(\alpha\) ist, was darauf hinweist, dass die beobachteten Daten unter der Nullhypothese sehr unwahrscheinlich sind."
+"wahr oder falsch:<br />
+Im linearen Modell mit Normalverteilungsannahme dürfen die Fehlervariablen als heteroskedastisch angenommen werden. (Mathematik)"	"falsch:<br />
+Im klassischen linearen Modell mit Normalverteilungsannahme wird angenommen, dass die Fehlervariablen homoskedastisch sind, d. h. sie haben eine konstante Varianz. Heteroskedastizität würde gegen diese Annahme verstoßen."
+"wahr oder falsch:<br />
+ML-Schätzer haben stets minimale Schätzervarianz. (Mathematik)"	"falsch:<br />
+Maximum-Likelihood-Schätzer (ML-Schätzer) sind nicht immer diejenigen mit der minimalen Schätzervarianz, insbesondere in Fällen, in denen die Verteilung der Daten nicht der angenommenen Verteilung entspricht."
+"wahr oder falsch:<br />
+Die Breite eines Konfidenzintervalls fällt mit dem Stichprobenumfang. (Mathematik)"	"wahr:<br />
+Die Breite eines Konfidenzintervalls sinkt, wenn der Stichprobenumfang wächst, da mit zunehmender Stichprobengröße die Schätzgenauigkeit steigt und somit die Unsicherheit verringert wird."
+"wahr oder falsch:<br />
+Der Kolmogoroff-Smirnoff-Test hat eine besonders niedrige Fehlerwahrscheinlichkeit 2. Art. (Mathematik)"	"falsch:<br />
+Der Kolmogorov-Smirnov-Test ist empfindlich gegenüber Abweichungen von der Nullhypothese, aber seine Fehlerwahrscheinlichkeit 2. Art (β-Fehler) ist nicht besonders niedrig, besonders bei kleinen Stichprobengrößen."
+"wahr oder falsch:<br />
+Für die Anwendung des Chi-Quadrat-Unabhängigkeitstests ist es erforderlich, dass die Merkmale stetig verteilt sind. (Mathematik)"	"falsch:<br />
+Der Chi-Quadrat-Unabhängigkeitstest setzt nicht voraus, dass die Merkmale stetig verteilt sind. Er kann für kategoriale Variablen angewendet werden, solange die erwarteten Häufigkeiten in den Zellen des Kreuztabellen ausreichend groß sind."
+"wahr oder falsch:<br />
+Die Teststatistiken der Einzelparametertests in der Regression lassen sich auf das Bestimmtheitsmaß zurückführen. (Mathematik)"	"falsch:<br />
+Die Teststatistiken für die Einzelparametertests (wie t-Tests) in der Regression können in Bezug auf das Bestimmtheitsmaß (\(R^2\)) interpretiert werden, da sie beide Informationen über die Passgenauigkeit des Modells liefern."
+"wahr oder falsch:<br />
+Die KQ-Schätzer der linearen Regression sind erwartungstreu. (Mathematik)"	"wahr:<br />
+Die Kleinste-Quadrate-Schätzer (KQ-Schätzer) der linearen Regression sind erwartungstreu, wenn die Fehlerterme unkorreliert und den gleichen Mittelwert sowie eine konstante Varianz haben."
+"wahr oder falsch:<br />
+Bei einem erwartungstreuen Schätzer ist der Bias \(0\). (Mathematik)"	"wahr:<br />
+Ein erwartungstreuer Schätzer hat einen Bias von \(0\), was bedeutet, dass der Schätzer im Durchschnitt den wahren Parameterwert trifft."
+"wahr oder falsch:<br />
+Der Chi-Quadrat-Test hat eine besonders niedrige Fehlerwahrscheinlichkeit 2. Art. (Mathematik)"	"falsch:<br />
+Der Chi-Quadrat-Test hat eine bekannte Fehlerwahrscheinlichkeit 2. Art, die in vielen Fällen relativ hoch sein kann, insbesondere bei kleinen Stichproben oder bei Annahmeverletzungen."
+"wahr oder falsch:<br />
+Für die Anwendung des Kolmogoroff-Smirnoff-Tests ist es erforderlich, dass die Merkmale stetig verteilt sind. (Mathematik)"	"wahr:<br />
+Der Kolmogoroff-Smirnoff-Test setzt voraus, dass die untersuchten Merkmale stetig verteilt sind, da er auf den empirischen Verteilungen der ständigen Merkmale basiert."
+"wahr oder falsch:<br />
+Die Teststatistiken des Gesamtmodell-Tests in der Regression lassen sich auf das Bestimmtheitsmaß zurückführen. (Mathematik)"	"wahr:<br />
+Die Teststatistiken des Gesamtmodell-Tests in der Regression, wie der F-Test, lassen sich auf das Bestimmtheitsmaß (\(R^2\)) zurückführen, da sie die Erklärungskraft des Modells messen."
+"wahr oder falsch:<br />
+Die KQ-Schätzer der linearen Regression sind unter Normalverteilungsannahme auch ML-Schätzer. (Mathematik)"	"wahr:<br />
+Unter der Annahme, dass die Fehler der linearen Regression normalverteilt sind, sind die Kleinste-Quadrate-Schätzer (KQ-Schätzer) auch Maximum-Likelihood-Schätzer (ML-Schätzer), da sie die gleiche Schätzfunktion maximieren."
+"wahr oder falsch:<br />
+Ist \(Y\) eine stetig verteilte Zufallsgröße und \(X_i = 1[i;i+1](X)\), so ist \(Z = X_1 + \dots + X_n\) eine diskret verteilte Zufallsgröße. (Mathematik)"	"wahr:<br />
+\(X_i = 1[i;i+1](X)\) ist eine Indikatorfunktion, die diskrete Werte annehmen kann. Wenn \(Z\) die Summe dieser Indikatorvariablen ist, wird \(Z\) eine diskrete Zufallsgröße."
+"wahr oder falsch:<br />
+Ist \(X &gt; 0\) eine stetig verteilte Zufallsgröße mit Dichte \(f_X\), so hat \(Y = \ln(X)\) ebenfalls eine Dichte, und zwar \(h(y) = f_X(e^y) \cdot e^y\). (Mathematik)"	"wahr:<br />
+Die Transformation \(Y = \ln(X)\) ist eine Monotonie, und die Dichte der transformierten Zufallsgröße \(Y\) ergibt sich aus der Kettenregel der Transformation von Zufallsgrößen."
+"wahr oder falsch:<br />
+Im Einstichprobenmodell mit u.i.v.-Zufallsvariablen \(X_1, \dots, X_n\) ist \(\sqrt{X_1^2 + \dots + X_n^2} / n\) stets ein erwartungstreuer Schätzer für \(E(X_1)\). (Mathematik)"	"falsch:<br />
+Der Ausdruck \(\sqrt{X_1^2 + \dots + X_n^2} / n\) ist kein erwartungstreuer Schätzer für \(E(X_1)\), da es die Summe der Quadrate und nicht die Summe der Werte berücksichtigt."
+"wahr oder falsch:<br />
+Bei einer asymptotisch erwartungstreuen Schätzstatistik ist das zugehörige Schätzerrisiko gleich der Schätzervarianz. (Mathematik)"	"wahr:<br />
+Das Schätzerrisiko setzt sich aus der Varianz des Schätzers und dem Quadrat des Bias zusammen. Bei asymptotisch erwartungstreuen Schätzern verschwindet der Bias mit wachsender Stichprobengröße, sodass das Risiko asymptotisch der Varianz entspricht. Für endliche Stichproben ist das Risiko jedoch nicht notwendigerweise gleich der Varianz."
+"wahr oder falsch:<br />
+Bei zwei für \(\theta\) erwartungstreuen Schätzern \(T_1, T_2\) gilt stets: Entweder \(T_1\) ist MSE-effizienter als \(T_2\) oder \(T_2\) ist MSE-effizienter als \(T_1\). (Mathematik)"	"wahr:<br />
+Der MSE (Mean Squared Error) ist eine Kombination aus Bias und Varianz. Für zwei erwartungstreue Schätzer gibt es immer einen, der den geringeren MSE hat, da die MSE-effizienteste Schätzung diejenige mit der geringsten Varianz ist."
+"wahr oder falsch:<br />
+Ist \(V_n = (T_n - \theta) / A_n\) standardnormalverteilt, so gibt es zu vorgegebenem \(\beta \in [0, 1]\) ein \(t \in \mathbb{R}\), so dass \(\theta\) vom Konfidenzintervall \([T_n - t \cdot A_n; T_n + t \cdot A_n]\) mit Wahrscheinlichkeit \(1 - \beta\) überdeckt wird. (Mathematik)"	"wahr:<br />
+Da \(V_n\) standardnormalverteilt ist, kann das Konfidenzintervall für \(\theta\) durch das Quantil der Standardnormalverteilung bestimmt werden, was die gewünschte Wahrscheinlichkeit garantiert."
+"wahr oder falsch:<br />
+Gehört zu einem Datensatz und einem statistischen Test der p-Wert \(0,04\), so wird die Nullhypothese zum Signifikanzniveau 5 % abgelehnt. (Mathematik)"	"wahr:<br />
+Wenn der p-Wert kleiner als das Signifikanzniveau (hier \(0,05\)) ist, wird die Nullhypothese abgelehnt."
+"wahr oder falsch:<br />
+Beim Einstichproben-Chi-Quadrat-Anpassungstest besitzt die Prüfgröße unter der Nullhypothese eine Chi-Quadrat-Verteilung. (Mathematik)"	"wahr:<br />
+Beim Einstichproben-Chi-Quadrat-Anpassungstest wird die Prüfgröße, die die Differenz zwischen beobachteten und erwarteten Häufigkeiten misst, nach einer Chi-Quadrat-Verteilung unter der Nullhypothese verteilt."
+"wahr oder falsch:<br />
+Sind \(X\), \(Y\) stochastisch unabhängige und identisch verteilte Zufallsvariablen mit \(Y &gt; 0\), so ist \(X/Y\) eine diskret verteilte Zufallsvariable. (Mathematik)"	"falsch:<br />
+Da \(X\) und \(Y\) stetige Zufallsvariablen sind und \(Y &gt; 0\), bleibt auch der Quotient \(X/Y\) stetig verteilt."
+"wahr oder falsch:<br />
+Ist \(X &gt; 0\) eine stetig verteilte Zufallsgröße mit Dichte \(f_X\), so hat \(Y = e^X\) ebenfalls eine Dichte, und zwar \(h(y) = f_X(\ln(y))\). (Mathematik)"	"falsch:<br />
+Die richtige Dichte für \(Y = e^X\) ist \(h(y) = f_X(\ln(y)) \cdot \frac{1}{y}\), da die Transformation die Jacobische Determinante berücksichtigt."
+"wahr oder falsch:<br />
+Im Einstichprobenmodell mit u.i.v.-Zufallsvariablen \(X_1, \dots, X_n\) mit \(E(X_i) = 0\) ist \((X_1^2 + \dots + X_n^2)/n\) ein erwartungstreuer Schätzer für \(\text{var}(X_1)\). (Mathematik)"	"falsch:<br />
+Der Schätzer ist nicht erwartungstreu, da \(\text{var}(X_1)\) nicht die gleiche Erwartung wie der Mittelwert der quadrierten Werte hat. Der Schätzer unterschätzt die Varianz systematisch."
+"wahr oder falsch:<br />
+Ist \(\hat{\theta} = \hat{\theta}(X_1, \dots, X_n)\) ein ML-Schätzer für einen Parameter \(\theta\), so gibt es stets ein \(c \in \mathbb{R}\), so dass \(c \cdot \hat{\theta}\) erwartungstreu für \(\theta\) ist, auch wenn dies für \(\hat{\theta}\) nicht der Fall ist. (Mathematik)"	"falsch:<br />
+Es ist nicht immer möglich, einen konstanten Faktor \(c\) zu finden, der \(\hat{\theta}\) in einen erwartungstreuen Schätzer umwandelt, da Erwartungstreue nicht durch einfache Skalierung garantiert werden kann."
+"wahr oder falsch:<br />
+Für den Bias \(B_n\) eines asymptotisch erwartungstreuen Schätzers \(T_n\) eines Parameters \(\theta\) gilt \(\lim_{n \to \infty} B_n = 0\). (Mathematik)"	"wahr:<br />
+Asymptotische Erwartungstreue bedeutet per Definition, dass der Bias des Schätzers gegen \(0\) konvergiert, wenn die Stichprobengröße \(n\) gegen unendlich geht."
+"wahr oder falsch:<br />
+Die Anteilswerthypothese \(H_0: p = p_0\) wird abgelehnt, wenn der hypothetische Wert \(p_0\) außerhalb der Realisation des zweiseitigen Konfidenzintervalls für \(p\) liegt. (Mathematik)"	"wahr:<br />
+Wenn \(p_0\) nicht im Konfidenzintervall liegt, wird \(H_0\) verworfen, da dies bedeutet, dass der beobachtete Wert statistisch signifikant von \(p_0\) abweicht."
+"wahr oder falsch:<br />
+Gehört zu einem Datensatz und einem statistischen Test der \(p\)-Wert \(0,06\), so wird die Nullhypothese zum Signifikanzniveau 5 % nicht verworfen. (Mathematik)"	"wahr:<br />
+Da der \(p\)-Wert \((0,06)\) größer als das Signifikanzniveau \((0,05)\) ist, reicht die Evidenz nicht aus, um die Nullhypothese abzulehnen."
+"wahr oder falsch:<br />
+Beim Chi-Quadrat-Anpassungstest mit festem Datensatz kann durch eine Erhöhung der Anzahl der Kategorien der Fehler zweiter Art minimiert werden. (Mathematik)"	"falsch:<br />
+Eine Erhöhung der Anzahl der Kategorien kann die Freiheitsgrade verändern und möglicherweise die Teststärke verringern, was den Fehler zweiter Art sogar erhöhen könnte."
+"wahr oder falsch:<br />
+Sind zwei Zufallsvariablen unkorreliert, dann sind sie auch stochastisch unabhängig. (Mathematik)"	"falsch:<br />
+Unkorrelierte Zufallsvariablen sind nicht notwendigerweise stochastisch unabhängig, da Unabhängigkeit eine stärkere Bedingung ist, die auch die Verteilungsabhängigkeit umfasst. Unkorreliertheit betrachtet nur den linearen Zusammenhang."
+"wahr oder falsch:<br />
+Falls der \(p\)-Wert beim rechtsseitigen Gaußtest größer ist als 5 %, wird die Nullhypothese \(H_0\) akzeptiert. (Mathematik)"	"wahr:<br />
+Wenn der \(p\)-Wert größer als das Signifikanzniveau (z. B. 5 %) ist, wird die Nullhypothese nicht verworfen. Dies bedeutet, dass \(H_0\) akzeptiert wird und gültig ist, solange sie nicht widerlegt wurde."
+"wahr oder falsch:<br />
+Die erwartete mittlere quadratische Abweichung \(MSE(T)\) eines zum Parameter \(\theta\) erwartungstreuen Schätzers \(T\) ist gleich seiner Varianz \(Var(T)\). (Mathematik)"	"wahr:<br />
+Für einen erwartungstreuen Schätzer ist der Bias gleich \(0\), daher ist \(MSE(T) = Var(T)\)."
+"wahr oder falsch:<br />
+Sind \(X &gt; 0, Y &gt; 0\) stochastisch unabhängige und identisch stetig verteilte Zufallsvariablen mit Dichte \(f\), so ist \(X / Y\) eine Konstante. (Mathematik)"	"falsch:<br />
+Das Verhältnis \(X / Y\) ist keine Konstante, sondern eine Zufallsvariable, deren Verteilung durch die Dichten von \(X\) und \(Y\) bestimmt wird. Die Unabhängigkeit und Identität der Verteilung allein führen nicht zu einer konstanten Verteilung."
+"wahr oder falsch:<br />
+Ist \(X &gt; 0\) eine stetig verteilte Zufallsgröße mit Dichte \(f_X\), so hat \(Y = e^X\) ebenfalls eine Dichte \(h\) mit \(h(y) = f_X(\ln(y)) / y\) für \(y &gt; 0\). (Mathematik)"	"wahr:<br />
+Durch die Transformation \(Y = e^X\) wird die Dichte von \(Y\) durch die Transformationsregel bestimmt, wobei \(h(y) = f_X(\ln(y)) / y\) korrekt ist."
+"wahr oder falsch:<br />
+Sind \(T_1, \dots, T_n\) erwartungstreue Schätzer für ein \(\theta \in \mathbb{R}\), so auch \(T = \alpha_1 T_1 + \cdots + \alpha_n T_n\) mit vorgegebenen \(\alpha_1, \dots, \alpha_n\) und \(\alpha_1 + \cdots + \alpha_n = 1\). (Mathematik)"	"wahr:<br />
+Linearkombinationen erwartungstreuer Schätzer mit Gewichten, deren Summe \(1\) ergibt, bleiben erwartungstreu, da die Erwartung linear ist."
+"wahr oder falsch:<br />
+Es seien \(X_1, \dots, X_n\) stochastisch unabhängig und identisch verteilt sowie erwartungstreue Schätzer für \(\theta = \mathbb{E}(X_1)\) mit existierender Varianz. Ferner sei \(T_k = \frac{X_1 + \cdots + X_k}{k}\). Dann gilt für alle \(\theta\) und \(k \leq \ell\), dass \(MSE(T_k, \theta) \geq MSE(T_\ell, \theta)\). (Mathematik)"	"wahr:<br />
+Der Mean Squared Error (MSE) sinkt mit zunehmender Stichprobengröße, da die Varianz eines Mittelwerts bei größeren Stichproben kleiner wird."
+"wahr oder falsch:<br />
+Sind \(X, Y\) Zufallsvariablen mit existierenden Erwartungswerten \(E(XY)\) und \(E(Y) &gt; 0\), so gilt \(E(X|Y) = \frac{E(XY)}{E(Y)}\). (Mathematik)"	"falsch:<br />
+\(E(X|Y)\) ist eine bedingte Erwartung, die von der Verteilung von \(Y\) abhängt. Die Gleichung \(E(X|Y) = \frac{E(XY)}{E(Y)}\) ist nur in Spezialfällen gültig."
+"wahr oder falsch:<br />
+Sind \(X, Y\) Poisson-verteilte Zufallsvariablen mit \(P(Y = y|X = x) = P(Y = y)\) für alle \(x, y \in \mathbb{N}_0\), dann gilt auch \(E(X|Y) = E(X)\). (Mathematik)"	"wahr:<br />
+Die Bedingung \(P(Y = y|X = x) = P(Y = y)\) impliziert, dass \(X\) und \(Y\) unabhängig sind. Für unabhängige Variablen gilt \(E(X|Y) = E(X)\)."
+"wahr oder falsch:<br />
+Ist \(\hat{\lambda} = \hat{\lambda}(X_1, \dots, X_n)\) ein ML-Schätzer für einen Parameter \(\lambda\), so gibt es stets ein \(c \in \mathbb{R}\), so dass \(c \cdot \hat{\lambda}\) erwartungstreu für \(\lambda\) ist, auch wenn dies für \(\hat{\lambda}\) nicht der Fall ist. (Mathematik)"	"falsch:<br />
+Es ist nicht garantiert, dass ein konstanter Faktor \(c\) existiert, der einen verzerrten ML-Schätzer in einen erwartungstreuen Schätzer umwandelt. Die Anpassung von Verzerrungen erfordert in der Regel andere Methoden."
+"wahr oder falsch:<br />
+Erwartungstreue Schätzer haben stets minimale Schätzervarianz. (Mathematik)"	"falsch:<br />
+Erwartungstreue Schätzer haben nur minimale Varianz unter bestimmten Bedingungen, wie im Fall von gleichmäßiger Schätzergüte."
+"wahr oder falsch:<br />
+Ist \(V_n = \frac{T_n - \theta}{A_n}\) standardnormalverteilt, so gibt es zu vorgegebenem \(\alpha \in (0; 1]\) ein \(t \in \mathbb{R}\), so dass \(\theta\) vom Konfidenzintervall \([T_n - t \cdot A_n; T_n + t \cdot A_n]\) mit Wahrscheinlichkeit \(1 - \alpha\) überdeckt wird. (Mathematik)"	"wahr:<br />
+Für eine standardnormalverteilte Teststatistik kann zu jedem Signifikanzniveau \(\alpha\) ein Wert \(t\) bestimmt werden, der das entsprechende Konfidenzintervall definiert."
+"wahr oder falsch:<br />
+Gehört zu einem Datensatz und einem statistischen Test der \(p\)-Wert \(0.06\), so wird die Nullhypothese zum Signifikanzniveau 5 % verworfen. (Mathematik)"	"falsch:<br />
+Ein \(p\)-Wert von \(0.06\) liegt über dem Signifikanzniveau von \(0.05\), daher wird die Nullhypothese nicht verworfen."
+"wahr oder falsch:<br />
+Diskrete Randdichtefunktionen sind nur für stetige Zufallsvektoren definiert. (Mathematik)"	"falsch:<br />
+Diskrete Randdichtefunktionen sind nur für diskrete Zufallsvariablen definiert. Für stetige Zufallsvariablen verwendet man Randdichtefunktionen, aber diese sind nicht ""diskret""."
+"wahr oder falsch:<br />
+Den zentralen Grenzwertsatz nennt man auch ""Hauptsatz der Statistik"". (Mathematik)"	"wahr:<br />
+Der zentrale Grenzwertsatz wird manchmal als ""Hauptsatz der Statistik"" bezeichnet, da er eine zentrale Rolle in der Statistik spielt, insbesondere bei der Approximation der Verteilung von Stichprobenmitteln."
+"wahr oder falsch:<br />
+Der \(\alpha\)-Fehler bezeichnet bei statistischen Tests das Signifikanzniveau. (Mathematik)"	"wahr:<br />
+Der \(\alpha\)-Fehler (Fehler 1. Art) bezeichnet die Wahrscheinlichkeit, die Nullhypothese \(H_0\) fälschlicherweise abzulehnen, und entspricht somit dem Signifikanzniveau."
+"wahr oder falsch:<br />
+Der \(\beta\)-Fehler bezeichnet die Wahrscheinlichkeit, die Nullhypothese anzunehmen, obwohl diese falsch ist. (Mathematik)"	"wahr:<br />
+Der \(\beta\)-Fehler (Fehler 2. Art) beschreibt die Wahrscheinlichkeit, \(H_0\) nicht abzulehnen, obwohl \(H_0\) tatsächlich falsch ist."
+"wahr oder falsch:<br />
+Ein 80 %-Konfidenzintervall ist schmaler als das zugehörige 99 %-Konfidenzintervall. (Mathematik)"	"wahr:<br />
+Ein höheres Konfidenzniveau (z. B. 99 %) erfordert eine größere Sicherheit, den Parameter einzuschließen, was ein breiteres Intervall zur Folge hat."
+"wahr oder falsch:<br />
+Die logistische Regression ist ein Klassifikationsverfahren. (Mathematik)"	"wahr:<br />
+Die logistische Regression wird häufig zur Klassifikation verwendet, da sie Wahrscheinlichkeiten für diskrete Klassen (z. B. \(0\) und \(1\)) liefert."
+"wahr oder falsch:<br />
+Empirische Daten können als Realisationen der Verteilung der Grundgesamtheit betrachtet werden. (Mathematik)"	"wahr:<br />
+Empirische Daten sind Stichproben, die als Realisationen der Zufallsvariablen interpretiert werden können, die die Verteilung der Grundgesamtheit beschreiben."
+"wahr oder falsch:<br />
+Die Residuen und die abhängige Variable müssen in der linearen Regression einen linearen Zusammenhang haben. (Mathematik)"	"falsch:<br />
+Die Residuen sollten in der linearen Regression keinen Zusammenhang mit der abhängigen Variablen haben, da sie lediglich den unerklärten Fehler repräsentieren."
+"wahr oder falsch:<br />
+\(\ln(\frac{(2 \cdot x)^{6a}}{b}) = 4.16 \cdot \frac{a}{b} + 6 \cdot \frac{a}{b} \cdot ln(x)\) (Mathematik)"	"falsch:<br />
+Die logarithmischen Regeln wurden hier falsch angewendet. Die korrekte Transformation ergibt nicht die angegebene Gleichung."
+"wahr oder falsch:<br />
+\(S = \sqrt{\frac{1}{n-1} \sum_{i=1}^n (X_i - \bar{X})^2}\) ist der ML-Schätzer für \(\sigma\) bei \(X_i \overset{\text{i.i.d.}}{\sim} \mathcal{N}(\mu, \sigma^2)\). (Mathematik)"	"falsch:<br />
+Der ML-Schätzer für \(\sigma\) basiert auf \(\frac{1}{n}\) statt \(\frac{1}{n-1}\). Der gegebene Ausdruck ist der Schätzer für die Standardabweichung, jedoch nicht der ML-Schätzer."
+"wahr oder falsch:<br />
+Der Momentenschätzer benötigt mindestens die ersten drei Momente. (Mathematik)"	"falsch:<br />
+Der Momentenschätzer kann bereits mit den ersten Momenten (z. B. Mittelwert oder Varianz) definiert werden, je nach dem zu schätzenden Parameter."
+"wahr oder falsch:<br />
+Ein 90 %-Konfidenzintervall ist breiter als das zugehörige 95 %-Konfidenzintervall. (Mathematik)"	"falsch:<br />
+Ein 90 %-Konfidenzintervall ist schmaler als ein 95 %-Konfidenzintervall, da es eine geringere Sicherheit abdeckt."
+"wahr oder falsch:<br />
+Es gibt einen Zusammenhang zwischen Konfidenzintervallen und statistischen Tests. (Mathematik)"	"wahr:<br />
+Konfidenzintervalle und statistische Tests sind eng verwandt, da sie beide auf denselben Wahrscheinlichkeitsmodellen basieren. Ein Parameterwert außerhalb des Konfidenzintervalls würde z. B. in einem Test abgelehnt."
+"wahr oder falsch:<br />
+Der Dichtetransformationssatz erlaubt es, eine Dichte in jede gewünschte Dichte zu transformieren durch Bestimmung einer geeigneten diskreten Funktion \(g\). (Mathematik)"	"falsch:<br />
+Der Dichtetransformationssatz bezieht sich auf Transformationen stetiger Zufallsvariablen, nicht diskreter Funktionen. Es erlaubt die Berechnung der Dichte einer transformierten Zufallsvariablen."
+"wahr oder falsch:<br />
+Der Dichtetransformationssatz ist nur für streng monoton fallende Funktionen \(g(x)\) gültig. (Mathematik)"	"falsch:<br />
+Der Dichtetransformationssatz ist sowohl für streng monoton steigende als auch für streng monoton fallende Funktionen \(g(x)\) gültig, da bei fallenden Funktionen lediglich das Vorzeichen der Ableitung berücksichtigt wird."
+"wahr oder falsch:<br />
+Der Bias eines erwartungstreuen Schätzers ist immer größer als der Wert des Schätzers. (Mathematik)"	"falsch:<br />
+Ein erwartungstreuer Schätzer hat per Definition keinen Bias (der Bias ist \(0\)), sodass die Aussage nicht zutrifft."
+"wahr oder falsch:<br />
+Aus der gemeinsamen Dichtefunktion lassen sich die Randdichten eindeutig bestimmen. (Mathematik)"	"wahr:<br />
+Die Randdichten können durch Integration der gemeinsamen Dichtefunktion über die jeweils andere Zufallsvariable eindeutig bestimmt werden."
+"wahr oder falsch:<br />
+Beim statistischen Testen gilt: \(\beta\text{-Fehler} = 1 - \alpha\text{-Fehler}\). (Mathematik)"	"falsch:<br />
+Der \(\beta\)-Fehler (Fehler 2. Art) und der \(\alpha\)-Fehler (Fehler 1. Art) sind unabhängig voneinander. Sie beschreiben unterschiedliche Wahrscheinlichkeiten und sind nicht durch diese Beziehung verbunden."
+"wahr oder falsch:<br />
+Je kleiner der \(p\)-Wert, desto mehr spricht gegen die Nullhypothese. (Mathematik)"	"wahr:<br />
+Ein kleiner \(p\)-Wert zeigt, dass die beobachteten Daten unter der Annahme der Nullhypothese sehr unwahrscheinlich sind, und liefert somit stärkere Evidenz gegen die Nullhypothese."
+"wahr oder falsch:<br />
+Momentenschätzer und ML-Schätzer stimmen immer überein, wenn die ersten beiden Momente verwendet werden. (Mathematik)"	"falsch:<br />
+Momentenschätzer und ML-Schätzer verwenden unterschiedliche Prinzipien zur Parameterbestimmung und stimmen daher nicht immer überein, auch wenn die ersten beiden Momente verwendet werden."
+"wahr oder falsch:<br />
+Dummy-Variablen erlauben die Integration von kategoriellen Merkmalen in die lineare Regression. (Mathematik)"	"wahr:<br />
+Dummy-Variablen werden verwendet, um kategoriale Merkmale in numerische Werte zu überführen, sodass sie in lineare Regressionsmodelle integriert werden können."
+"wahr oder falsch:<br />
+Mit Hilfe des F-Tests wird geprüft, ob ein linearer Zusammenhang zwischen der abhängigen und allen erklärenden Variablen besteht. (Mathematik)"	"wahr:<br />
+Der F-Test überprüft die Gesamtgüte des Modells, insbesondere, ob die erklärenden Variablen insgesamt einen signifikanten Einfluss auf die abhängige Variable haben."
+"wahr oder falsch:<br />
+Alle Randverteilungen der Multinomialverteilung sind ebenfalls Multinomialverteilungen. (Mathematik)"	"falsch:<br />
+Randverteilungen der Multinomialverteilung sind in der Regel Binomialverteilungen, nicht Multinomialverteilungen."
+"wahr oder falsch:<br />
+Eine bivariate Verteilung ist schon eindeutig durch ihre univariaten Randverteilungen bestimmt. (Mathematik)"	"falsch:<br />
+Die Randverteilungen bestimmen eine bivariate Verteilung nicht eindeutig, da die Abhängigkeit zwischen den Zufallsvariablen durch die Randverteilungen allein nicht festgelegt wird."
+"wahr oder falsch:<br />
+Das arithmetische Mittel \(\bar{X}_n\) konvergiert für u.i.v. Zufallsvariablen \(X_1, X_2, \ldots\), fast sicher gegen eine Konstante. (Mathematik)"	"wahr:<br />
+Nach dem starken Gesetz der großen Zahlen konvergiert das arithmetische Mittel unabhängiger identisch verteilter (u.i.v.) Zufallsvariablen fast sicher gegen den Erwartungswert, welche eine Konstante ist."
+"wahr oder falsch:<br />
+Eine Folge von erwartungstreuen Schätzern \(T_1, T_2, \ldots\) ist asymptotisch erwartungstreu für \(\theta\). (Mathematik)"	"wahr:<br />
+Wenn alle Schätzer \(T_i\) erwartungstreu sind, dann bleibt die Asymptotik ebenfalls erwartungstreu, da der Erwartungswert nicht verzerrt wird."
+"wahr oder falsch:<br />
+Ein erwartungstreuer Schätzer mit minimaler Varianz ist stets ML-Schätzer. (Mathematik)"	"falsch:<br />
+Ein Schätzer mit minimaler Varianz (z. B. der beste erwartungstreue Schätzer) ist nicht zwangsläufig ein Maximum-Likelihood-Schätzer, da ML-Schätzer nicht immer erwartungstreu sind."
+"wahr oder falsch:<br />
+Der beim Chi-Quadrat-Anpassungstest angegebene \(p\)-value ist eine exakte Wahrscheinlichkeit. (Mathematik)"	"falsch:<br />
+Der \(p\)-Wert im Chi-Quadrat-Test ist nur eine Näherung, da der Test auf der asymptotischen Verteilung der Teststatistik basiert."
+"wahr oder falsch:<br />
+Unter einer Faltung versteht man die Verteilung einer Summe stochastisch unabhängiger Zufallsvariablen. (Mathematik)"	"wahr:<br />
+Die Faltung beschreibt die Verteilung der Summe stochastisch unabhängiger Zufallsvariablen, die durch die Konvolution ihrer Einzelverteilungen berechnet wird."
+"wahr oder falsch:<br />
+Die Teststatistik im Parametergruppen-F-Test kann mit Hilfe des Bestimmtheitsmaßes berechnet werden. (Mathematik)"	"wahr:<br />
+Im Parametergruppen-F-Test kann die Teststatistik mithilfe des Bestimmtheitsmaßes berechnet werden, indem der Anteil der erklärten Varianz in den Modellen verglichen wird."
+"wahr oder falsch:<br />
+Zwei Zufallsvariablen \(X\), \(Y\), die eine gemeinsame Dichte \(f_{X,Y}\) haben, sind stochastisch abhängig. (Mathematik)"	"falsch:<br />
+Das Vorhandensein einer gemeinsamen Dichte \(f_{X,Y}\) impliziert nicht notwendigerweise stochastische Abhängigkeit. Zwei Zufallsvariablen können unabhängig sein und trotzdem eine gemeinsame Dichte besitzen."
+"wahr oder falsch:<br />
+Bedingte Verteilungen der bivariaten Normalverteilung sind ebenfalls Normalverteilungen. (Mathematik)"	"wahr:<br />
+Die bedingte Verteilung einer bivariaten Normalverteilung bleibt eine Normalverteilung, da dies eine bekannte Eigenschaft der multivariaten Normalverteilung ist."
+"wahr oder falsch:<br />
+Für eine u.i.v.-Folge von Zufallsvariablen \(X_1, X_2, \dots\), deren Varianzen existieren, konvergiert die Stichprobenvarianz \(\frac{1}{n} \sum_{i=1}^n (X_i - E(X_i))^2\) mit \(n \to \infty\) fast sicher gegen \(\text{var}(X_1)\). (Mathematik)"	"wahr:<br />
+Nach dem starken Gesetz der großen Zahlen konvergiert die Stichprobenvarianz fast sicher gegen die wahre Varianz, sofern die Folge unkorreliert ist und eine endliche Varianz hat."
+"wahr oder falsch:<br />
+Eine Folge von asymptotisch erwartungstreuen Schätzern \(T_1, T_2, \dots\) ist asymptotisch effizient. (Mathematik)"	"falsch:<br />
+Asymptotische Erwartungstreue bedeutet nur, dass der Bias verschwindet, aber asymptotische Effizienz setzt zusätzlich voraus, dass die Varianz des Schätzers die Cramér-Rao-Schranke erreicht."
+"wahr oder falsch:<br />
+Sind \(T_1\), \(T_2\) erwartungstreue Schätzer für \(\theta\), so ist auch \(T_1 + T_2\) erwartungstreu für \(\theta\). (Mathematik)"	"falsch:<br />
+\(T_1 + T_2\) ist nur dann erwartungstreu für \(\theta\), wenn es entsprechend gewichtet wird, z. B. durch \(\frac{1}{2}(T_1 + T_2)\), da die Summe allein den Erwartungswert nicht unbedingt beibehält."
+"wahr oder falsch:<br />
+Lehnt der Chi-Quadrat-Test zum Signifikanzniveau \(\alpha \in (0,1)\) die Hypothese \(H_0\) ab, so ist die Wahrscheinlichkeit der irrtümlichen Ablehnung von \(H_0\) exakt \(\alpha\). (Mathematik)"	"falsch:<br />
+\(\alpha\) ist die maximale Wahrscheinlichkeit für einen Fehler 1. Art, nicht die exakte Wahrscheinlichkeit der Ablehnung."
+"wahr oder falsch:<br />
+In der linearen Regression ist das zu erklärende Merkmal metrisch. (Mathematik)"	"wahr:<br />
+Das zu erklärende Merkmal (die abhängige Variable) in der linearen Regression ist metrisch, da die Methode auf der Minimierung von Abständen basiert."
+"wahr oder falsch:<br />
+Beim Wilcoxon-Rangsummentest werden diskret-verteilte Beobachtungsdaten angenommen. (Mathematik)"	"falsch:<br />
+Der Wilcoxon-Rangsummentest basiert auf Rangstatistiken, die keine spezifische Verteilungsannahme (wie Diskretheit) für die Beobachtungen voraussetzen."
+"wahr oder falsch:<br />
+Bei Summenformeln mit Konstante \(p\) und Variable \(x\) kann die Konstante rausgezogen werden?<br />
+\(\sum_{i = 1}^{N} (x_{n} + \frac{1}{p}) = \frac{N}{p} \sum_{i = 1}^{N} (x_{n})\) (Mathematik)"	wahr
+"Frage:<br />
+Wie kann die Summenformel vereinfacht werden, wenn \(x_{n}\) eine statistische Stichprobe darstellt?<br />
+\(\sum_{i = 1}^{N} (x_{n} + \frac{1}{p})\) (Mathematik)"	\(\sum_{i = 1}^{N} (x_{n} + \frac{1}{p}) = \frac{N}{p} \sum_{i = 1}^{N} (x_{n})\)
+"wahr oder falsch:<br />
+Für die Erfüllung von \(\frac{x}{y} = 0\) muss nur gelten, dass \(y = 0\).  (Mathematik)"	"falsch:<br />
+Eine Division durch \(0\) ist undefiniert. Es muss gelten, dass \(x = 0\) ist."
+"wahr oder falsch:<br />
+Für die Erfüllung von \(\frac{x}{y} = 0\) muss nur gelten, dass \(x = 0\).  (Mathematik)"	"wahr:<br />
+Eine Division durch \(y\) ergibt dann \(0\), wenn der Zähler \(x = 0\) ist."
+"wahr oder falsch:<br />
+Die Ableitung von einer Variable \(x\) ist \(1\).  (Mathematik)"	wahr
+"wahr oder falsch:<br />
+Die Ableitung von einer Konstanten \(n\) ist \(1\).  (Mathematik)"	"falsch:<br />
+Die Ableitung von einer Konstanten \(n\) ist \(0\)."
+"wahr oder falsch:<br />
+Die Ableitung von einer Konstanten \(n\) ist \(0\).  (Mathematik)"	wahr
+"wahr oder falsch:<br />
+Das Konfidenzintervall gibt an, in welchem Bereich ein individueller Messwert mit einer bestimmten Wahrscheinlichkeit liegt. (Mathematik)"	falsch
+"wahr oder falsch:<br />
+Je größer der Stichprobenumfang, desto schmaler wird das Konfidenzintervall bei gleichbleibendem Konfidenzniveau. (Mathematik)"	wahr
+"Frage:<br />
+Was beschreibt ein Konfidenzintervall in der Statistik? (Mathematik)"	Den Bereich, in dem der wahre Parameterwert der Grundgesamtheit mit einer bestimmten Wahrscheinlichkeit liegt.
+"Frage:<br />
+Welche Rolle spielt das Konfidenzniveau bei der Berechnung eines Konfidenzintervalls? (Mathematik)"	Es gibt die Wahrscheinlichkeit an, mit der der wahre Parameterwert im berechneten Intervall liegt.
+"wahr oder falsch:<br />
+Ein Konfidenzintervall wird größer, wenn das Konfidenzniveau erhöht wird. (Mathematik)"	wahr
+"wahr oder falsch:<br />
+Ein 95 %-Konfidenzintervall bedeutet, dass 95 % aller Stichprobenwerte innerhalb des Intervalls liegen. (Mathematik)"	falsch
+"Frage:<br />
+Wie verändert sich das Konfidenzintervall, wenn die Standardabweichung der Stichprobe zunimmt? (Mathematik)"	Das Intervall wird breiter, da größere Schwankungen die Unsicherheit erhöhen.
+"Frage:<br />
+Welche Annahme muss für die Berechnung eines Konfidenzintervalls in einer Normalverteilung erfüllt sein? (Mathematik)"	Die Daten müssen normalverteilt oder die Stichprobe ausreichend groß sein (z. B. \(n &gt; 30\)).
+"wahr oder falsch:<br />
+Das Konfidenzintervall ist unabhängig von der Standardabweichung der Grundgesamtheit. (Mathematik)"	falsch
+"Frage:<br />
+Was passiert mit einem Konfidenzintervall, wenn das Konfidenzniveau von 95% auf 90% reduziert wird? (Mathematik)"	Das Intervall wird schmaler, da weniger Sicherheit erforderlich ist.
+"wahr oder falsch:<br />
+Die Verteilungsfunktion beschreibt die Wahrscheinlichkeit, dass eine Zufallsvariable exakt einen bestimmten Wert annimmt. (Mathematik)"	falsch
+"Frage:<br />
+Was gibt die Verteilungsfunktion \(F(x)\) an? (Mathematik)"	Die Wahrscheinlichkeit, dass eine Zufallsvariable \(X\) einen Wert kleiner oder gleich \(x\) annimmt.
+"wahr oder falsch:<br />
+Die Verteilungsfunktion ist immer monoton wachsend. (Mathematik)"	wahr
+"Frage:<br />
+Wie ist der Zusammenhang zwischen Verteilungsfunktion \(F(x)\) und Dichtefunktion \(f(x)\)? (Mathematik)"	Die Dichtefunktion \(f(x)\) ist die Ableitung der Verteilungsfunktion \(F(x)\).
+"wahr oder falsch:<br />
+Die Fläche unter der Dichtefunktion \(f(x)\) zwischen zwei Punkten entspricht der Wahrscheinlichkeit, dass die Zufallsvariable in diesem Bereich liegt. (Mathematik)"	wahr
+"Frage:<br />
+Was beschreibt die Dichtefunktion \(f(x)\)? (Mathematik)"	Die relative Wahrscheinlichkeit, dass die Zufallsvariable in einem sehr kleinen Intervall um \(x\) liegt.
+"wahr oder falsch:<br />
+Die Verteilungsfunktion nimmt Werte zwischen \(0\) und \(1\) an. (Mathematik)"	wahr
+"Frage:<br />
+Wie berechnet man die Verteilungsfunktion \(F(x)\) aus der Dichtefunktion \(f(x)\)? (Mathematik)"	Durch Integration von \(f(x)\) über den Bereich von \(- \infty\) bis \(x\).
+"wahr oder falsch:  <br />
+Die Verteilungsfunktion \(F_X(x)\) einer Zufallsvariablen \(X\) ist immer stetig. (Mathematik)"	falsch
+"wahr oder falsch:  <br />
+Die Dichtefunktion \(f_X(x)\) ist immer größer oder gleich null und das Integral über alle reellen Zahlen ergibt \(1\). (Mathematik)"	wahr
+"wahr oder falsch:  <br />
+Wenn die Dichtefunktion \(f_X(x)\) an einer Stelle \(x = c\) ein Maximum hat, ist die Verteilungsfunktion \(F_X(x)\) an dieser Stelle am größten. (Mathematik)"	falsch
+"wahr oder falsch:  <br />
+Die Verteilungsfunktion \(F_X(x)\) einer diskreten Zufallsvariablen ist ein Treppenfunktion. (Mathematik)"	wahr
+"Frage:  <br />
+Was beschreibt die Verteilungsfunktion \(F_X(x)\) einer Zufallsvariablen \(X\)? (Mathematik)"	Die Wahrscheinlichkeit, dass \(X\) einen Wert kleiner oder gleich \(x\) annimmt: \(F_X(x) = P(X \leq x)\).
+"Frage:  <br />
+Wie hängen die Dichtefunktion \(f_X(x)\) und die Verteilungsfunktion \(F_X(x)\) zusammen? (Mathematik)"	"Die Dichtefunktion ist die Ableitung der Verteilungsfunktion:  <br />
+\(f_X(x) = \frac{d}{dx}F_X(x)\), wenn \(F_X(x)\) stetig differenzierbar ist."
+"Frage:  <br />
+Was ist die Bedingung dafür, dass eine Funktion \(f_X(x)\) eine gültige Dichtefunktion ist? (Mathematik)"	"\(f_X(x) \geq 0\) für alle \(x \in \mathbb{R}\) und das Integral über alle reellen Zahlen muss 1 ergeben:  <br />
+\(\int_{-\infty}^\infty f_X(x) \, dx = 1\)."
+"Frage:  <br />
+Wie berechnet man die Wahrscheinlichkeit \(P(a \leq X \leq b)\) mit der Dichtefunktion \(f_X(x)\)? (Mathematik)"	"Durch Integration der Dichtefunktion im Intervall \([a, b]\):  <br />
+\(P(a \leq X \leq b) = \int_a^b f_X(x) \, dx\)."
+"Frage:  <br />
+Welche Eigenschaften besitzt die Verteilungsfunktion \(F_X(x)\)? (Mathematik)"	"Die Verteilungsfunktion ist monoton nicht fallend, rechtsseitig stetig und es gilt: <br />
+\(\lim_{x \to -\infty} F_X(x) = 0\), \(\lim_{x \to \infty} F_X(x) = 1\)"
+"wahr oder falsch:<br />
+Die Ableitung der Funktion \(\ln(p)\) nach \(p\) ist \(\frac{1}{p}\). (Mathematik)"	wahr
+"Frage:<br />
+Wie wird der Binomalkoeffizient \(\binom{n}{k}\) für \(n = 6\) und \(k = 2\) berechnet? (Mathematik)"	"Der Binomalkoeffizient \(\binom{6}{2}\) wird berechnet als:  <br />
+\(\binom{6}{2} = \frac{6!}{2!(6-2)!} = \frac{6!}{2!4!} = \frac{6 \cdot 5 \cdot 4!}{2! \cdot 4!} = \frac{6 \cdot 5}{2 \cdot 1} = 15\)"
+"Frage:<br />
+Was bedeutet das Ausrufezeichen in der Mathematik, also die Fakultät? (Mathematik)"	"Das Ausrufezeichen steht für die Fakultät. Die Fakultät von \(n\) (geschrieben als \(n!\)) ist das Produkt aller positiven ganzen Zahlen von 1 bis \(n\). <br />
+Beispiel:  <br />
+\(5! = 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 = 120\)"
+"Frage:<br />
+Was stellt der Binomalkoeffizient \(\binom{n}{k}\) dar? (Mathematik)"	Der Binomalkoeffizient \(\binom{n}{k}\) gibt an, auf wie viele Arten man \(k\) Elemente aus einer Menge von \(n\) verschiedenen Elementen ohne Zurücklegen und ohne Beachtung der Reihenfolge auswählen kann.
+"Frage:<br />
+Was ist die Formel für die Wahrscheinlichkeit eines Ereignisses? (Mathematik)"	\(P(A) = \frac{\text{Anzahl der günstigen Ergebnisse}}{\text{Anzahl der möglichen Ergebnisse}}\)
+"Frage:<br />
+Wie berechnet man das arithmetische Mittel einer Zahlenreihe? (Mathematik)"	\(\mu = \frac{1}{n} \sum_{i = 1}^{n} x_i\)
+"Frage:<br />
+Wie berechnet man den Median einer Zahlenreihe? (Mathematik)"	"Wenn die Daten in aufsteigender Reihenfolge sortiert sind:<br />
+Für eine ungerade Anzahl von Werten: \(M = x_{\frac{n + 1}{2}}\)<br />
+Für eine gerade Anzahl von Werten: \(M = \frac{x_{\frac{n}{2}} + x_{\frac{n}{2} + 1}}{2}\)"
+"Frage:<br />
+Was ist die Formel für die Varianz einer Zufallsvariablen? (Mathematik)"	\(\sigma^2 = \frac{1}{n} \sum_{i = 1}^{n} (x_i - \mu)^2\) mit \(n\) als die Anzahl, \(x_{i}\) als Wert, \(\mu\) als Mittelwert
+"Frage:<br />
+Wie berechnet man die Standardabweichung? (Mathematik)"	\(\sigma = \sqrt{\frac{1}{n} \sum_{i = 1}^{n} (x_i - \mu)^2}\) mit \(n\) als die Anzahl, \(x_{i}\) als Wert, \(\mu\) als Mittelwert
+"Frage:<br />
+Was ist die Formel für die Binomialverteilung? (Mathematik)"	\(P(X = k) = \binom{n}{k} p^k (1 - p)^{n - k}\) mit \(k\) als Anzahl der gewünschten Erfolge, \(n\) als Anzahl, \(p\) als Wahrscheinlichkeit
+Wahrscheinlichkeit (Mathematik)	ein Maß dafür, wie wahrscheinlich ein Ereignis eintritt (Mathematik)
+arithmetisches Mittel (Mathematik)	der Durchschnitt einer Zahlenreihe, berechnet durch die Summe der Werte geteilt durch die Anzahl der Werte (Mathematik)
+Median (Mathematik)	der Mittelwert einer geordneten Zahlenreihe; bei einer ungeraden Anzahl von Werten ist es der mittlere Wert; bei einer geraden Anzahl der Durchschnitt der beiden mittleren Werte (Mathematik)
+Varianz (Mathematik)	ein Maß für die Streuung der Werte einer Zufallsvariable; berechnet als der Durchschnitt der quadrierten Abweichungen vom arithmetischen Mittel (Mathematik)
+Standardabweichung (Mathematik)	die Quadratwurzel der Varianz; gibt an, wie weit die Werte einer Zufallsvariable im Durchschnitt vom arithmetischen Mittel entfernt sind (Mathematik)
+Binomialverteilung (Mathematik)	eine Wahrscheinlichkeitsverteilung, die die Anzahl der Erfolge in einer festen Anzahl von unabhängigen Versuchen beschreibt, wobei jeder Versuch nur zwei mögliche Ergebnisse hat (Erfolg oder Misserfolg) (Mathematik)
+\(\int c^{n + 1} \cdot x^{-n - 1} dx =\) {{c1::\([c^{n + 1} \cdot \frac{1}{-n} \cdot x^{-n}]\)}} (Mathematik)	
+\(\sum_{i=1}^{n} (x_{n} \cdot \frac{1}{p}) =\) {{c1::\(\frac{1}{p} \cdot \sum_{i=1}^{n} (x_{n})\)}} (Mathematik)	
+\(\sum_{i=1}^{n} (a \cdot x_{n}) =\) {{c1::\(a \cdot \sum_{i=1}^{n} (x_{n})\)}} (Mathematik)	
+\(\sum_{i=1}^{n} ((x_{n} + y_{n})) =\) {{c1::\(\sum_{i=1}^{n} (x_{n}) + \sum_{i=1}^{n} (y_{n})\)}} (Mathematik)	
+\(\sum_{i=1}^{n} (a + b + c) =\) {{c1::\(n \cdot (a + b + c)\)}} (Mathematik)	
+\(\sum_{i=1}^{n} (x_{n} \cdot y_{n}) =\) {{c1::\(\sum_{i=1}^{n} (x_{n}) \cdot \sum_{i=1}^{n} (y_{n})\)}} (Mathematik)	
+\(\ln(x \cdot y) =\) {{c1::\(\ln(x) + \ln(y)\)}} (Mathematik)	
+\(\ln(\frac{x}{y}) =\) {{c1::\(\ln(x) - \ln(y)\)}} (Mathematik)	
+\(\ln(x^n) =\) {{c1::\(n \cdot \ln(x)\)}} (Mathematik)	
+\(\ln(x) + \ln(y) =\) {{c1::\(\ln(x \cdot y)\)}} (Mathematik)	
+\(\ln(x) - \ln(y) =\) {{c1::\(\ln(\frac{x}{y})\)}} (Mathematik)	
+\(\sum_{i=1}^{n} (x_{n} - 1) =\) {{c1::\(\sum_{i=1}^{n} (x_{n}) - \sum_{i=1}^{n} (1) = \sum_{i=1}^{n} (x_{n}) -n\)}} (Mathematik)	
+\(\sum_{i=1}^{n} (x_{n} + \frac{1}{p}) =\) {{c1::\(\frac{n}{p} + \sum_{i=1}^{n} (x_{n})\)}} (Mathematik)	
+\(\frac{d}{dp} \ln(1 - p) =\) {{c1::\(- \frac{1}{(1-p)}\)}} (Mathematik)	
+\(\ln(-p) =\) {{c1::\(- \frac{1}{p}\)}} (Mathematik)	
+\(\frac{d}{dp} \frac{1}{p} =\) {{c1::\(- \frac{1}{p^{2} }\)}} (Mathematik)	
+"\(\frac{d}{dp} [v \cdot u] =\) {{c1::\(u&#039; \cdot v + u \cdot v&#039;\)}} (Mathematik)"	
+\(\int_{a}^{b} e^{kx} dx =\) {{c1::\([\frac{e^{kx} }{k}]_{a}^{b}\)}} \(=\) {{c2::\(\frac{e^{kb} }{k} - \frac{e^{ka}  }{k}\)}} (Mathematik)	
+\(\ln(e^{10}) =\) {{c2::\(10\)}} (Mathematik)	
+\(\frac{1}{(\frac{1}{x})} =\) {{c1::\(x\)}} (Mathematik)	
+\(\frac{1}{(\frac{2}{x})} =\) {{c1::\(\frac{x}{2}\) }}(Mathematik)	
+\(\frac{3}{(\frac{1}{x})} =\) {{c1::\(3x\) }}(Mathematik)	
+\(\frac{3}{(\frac{2}{x})} =\) {{c1::\(\frac{3x}{2}\) }}(Mathematik)	
+\(\ln(\prod_{i = 1}^{n} x_{i})=\) {{c1::\(\sum_{i = 1}^{n} \ln(x_{i})\)}} (Mathematik)	
+\(\frac{d}{dp} n \cdot \ln(p) =\) {{c1::\(\frac{n}{p}\)}} (Mathematik)	
+\(\frac{d}{d\sigma} \left( \frac{(x - \mu)^2}{2 \sigma^2} \right) =\) {{c2::\(\frac{(x - \mu)^2}{\sigma^3}\)}} (Tipp: Aufleitung des Nenners) (Mathematik)	
+\(\frac{d}{d\mu} \left( \frac{(x - \mu)^2}{2 \sigma^2} \right) =\) {{c2::\(\frac{-2(x - \mu)}{2 \sigma^2} = - \frac{x - \mu}{\sigma^2}\)}} (Tipp: Ableitung des Zählers) (Mathematik)	
+\(\frac{d}{dp} \ln(p) =\) {{c2::\(\frac{1}{p}\)}} (Mathematik)	
+{{c1::\(\ln(p^{x})\)}} \(=\) {{c2::\(x \ln(p)\)}} (Mathematik)	
+{{c1::\(\ln(p \exp(10))\)}} \(=\) {{c2::\(\ln(p) + ln(\exp(10)) = \ln(p) + 10\)}} (Mathematik)	
+{{c1::\(\ln(\frac{a}{b})\)}} \(=\) {{c2::\(\ln(a) - \ln(b)\)}} (Mathematik)	
+\(\ln(1) =\) {{c2::\(0\)}} (Mathematik)	
+{{c1::\(x^{\frac{1}{2} }\)}} \(=\) {{c2::\(\sqrt{x}\)}}	
+{{c1::\(\frac{1}{x}\)}} \(=\) {{c2::\(x^{-1}\)}}	
+{{c1::\(\frac{1}{x^{10} }\)}} \(=\) {{c2::\(x^{-10}\)}}	
+{{c1::\(\frac{1}{\sqrt{x} }\)}} \(=\) {{c2::\(x^{-\frac{1}{2} }\)}}	

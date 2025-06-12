@@ -31,6 +31,7 @@ This repository provides a comprehensive set of Anki flashcards that include:
 - **BWL4:** Marketing Fundamentals (WS 22/23) – Wiesel
 - **INFO2:** Data Structures & Algorithms (SS 23) – Linsen
 - **QM4:** Data Analysis and Simulation (SS 24) – Terveer, Schönberger
+	- Additional material to help you learn the necessary mathematics is also available as a separate deck
 - **VWL:** Introduction to Economics (WS 22/23) – Sieg
 - **WI6:** Digital Business (WS 22/23) – Stockinger
 

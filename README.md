@@ -31,6 +31,7 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 - **BWL4**: Grundlagen des Marketings (WS 22/23) – Wiesel
 - **INFO2**: Datenstrukturen und Algorithmen (SS 23) – Linsen
 - **QM4**: Datenanalyse und Simulation (SS 24) – Terveer, Schönberger
+	- Zusätzliches Material zum Erlernen der erforderlichen Mathematik ist als separates Deck verfügbar
 - **VWL**: Einführung in die Volkswirtschaftslehre (WS 22/23) – Sieg
 - **WI6**: Digital Business (WS 22/23) – Stockinger
 
