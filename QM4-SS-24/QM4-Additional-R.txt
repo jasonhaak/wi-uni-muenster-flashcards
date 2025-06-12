@@ -1,0 +1,524 @@
+#separator:tab
+#html:true
+"wahr oder falsch:<br />
+Der Befehl <code>rnorm(100, mean = 0, sd = 1)</code> erzeugt eine Stichprobe von 100 zufällig gezogenen Werten aus einer Standardnormalverteilung. (R)"	"wahr:<br />
+Der Befehl <code>rnorm()</code> generiert eine Zufallsstichprobe aus einer Normalverteilung mit den angegebenen Parametern. Wenn <code>mean = 0</code> und <code>sd = 1</code> ist, entspricht dies der Standardnormalverteilung."
+"wahr oder falsch:<br />
+Der R-Befehl <code>cor.test(x, y)</code> liefert den Korrelationskoeffizienten zwischen den beiden Vektoren x und y. (R)"	"falsch:<br />
+Der Befehl <code>cor.test()</code> liefert den p-Wert und ein Konfidenzintervall für den Korrelationskoeffizienten, jedoch nicht direkt den Korrelationskoeffizienten selbst. Für den Korrelationskoeffizienten allein verwendet man <code>cor(x, y)</code>."
+"wahr oder falsch:<br />
+Die Funktion <code>summary(lm(y ~ x))$coefficients</code> gibt einen Überblick über die geschätzten Koeffizienten einer linearen Regression sowie deren Standardfehler, t-Werte und p-Werte. (R)"	"wahr:<br />
+Der Befehl <code>summary()</code> liefert die gewünschten Informationen in der Matrix <code>$coefficients</code>."
+"wahr oder falsch:<br />
+Mit dem Befehl <code>qqnorm(x)</code> wird ein QQ-Plot für den Vektor x erstellt, der die Normalverteilung der Daten überprüft. (R)"	"wahr:<br />
+Der Befehl <code>qqnorm()</code> erstellt einen QQ-Plot, der die Verteilung der Daten gegen eine Normalverteilung vergleicht."
+"wahr oder falsch:<br />
+Der Befehl <code>dbinom(3, size = 10, prob = 0.5)</code> berechnet die Wahrscheinlichkeit, bei einem Binomialexperiment mit 10 Versuchen und einer Erfolgswahrscheinlichkeit von 0.5 genau drei Erfolge zu erzielen. (R)"	"wahr:<br />
+Der Befehl <code>dbinom()</code> berechnet die Wahrscheinlichkeitsmassefunktion (PMF) für eine Binomialverteilung und ist hier korrekt."
+"wahr oder falsch:<br />
+Mit dem R-Befehl <code>boxplot(x)</code> kann man die Verteilung von Daten in x grafisch als Boxplot darstellen. (R)"	"wahr:<br />
+Der Befehl <code>boxplot()</code> erstellt standardmäßig einen Boxplot für die angegebenen Daten."
+"wahr oder falsch:<br />
+Der Befehl <code>chisq.test(x, y)</code> wird verwendet, um einen Chi-Quadrat-Unabhängigkeitstest zwischen den Vektoren x und y durchzuführen. (R)"	"falsch:<br />
+<code>chisq.test()</code> wird für Kontingenztabellen verwendet, nicht direkt für zwei Vektoren. Die Vektoren müssen in eine Tabelle umgewandelt werden, bevor der Test durchgeführt wird."
+"wahr oder falsch:<br />
+Der Befehl <code>predict(lm(y ~ x), newdata = data.frame(x = c(5, 10)), interval = ""prediction"")</code> berechnet Prognoseintervalle für die Werte von x = 5 und x = 10, basierend auf einem zuvor angepassten Regressionsmodell. (R)"	"wahr:<br />
+Der Befehl ist korrekt. Das Argument <code>newdata</code> spezifiziert neue Werte für die erklärende Variable x, und <code>interval = ""prediction""</code> liefert Prognoseintervalle."
+"wahr oder falsch:<br />
+Um in R ein Prognoseintervall für eine lineare Regression zu berechnen, kann der Befehl <code>predict(lm(y ~ x), interval = ""confidence"")</code> verwendet werden. (R)"	"falsch:<br />
+Der Befehl <code>predict()</code> mit <code>interval = ""confidence""</code> berechnet Konfidenzintervalle für die geschätzten Mittelwerte, nicht Prognoseintervalle. Für Prognoseintervalle muss <code>interval = ""prediction""</code> angegeben werden."
+"wahr oder falsch:<br />
+Der Befehl <code>summary(lm(y ~ x))$r.squared</code> gibt die erklärte Varianz (Bestimmtheitsmaß) des linearen Regressionsmodells an. (R)"	"wahr:<br />
+Der Befehl <code>$r.squared</code> gibt das Bestimmtheitsmaß an, welches den Anteil der Variation in y erklärt, der durch die unabhängige Variable x beschrieben wird."
+"wahr oder falsch:<br />
+Die Funktion <code>plot(predict(lm(y ~ x), interval = ""prediction""), y)</code> erstellt eine grafische Darstellung des Prognoseintervalls gegenüber den tatsächlichen Werten. (R)"	"falsch:<br />
+Die Funktion <code>predict()</code> liefert ein Dataframe mit mehreren Spalten (Fitted-Werte, unteres und oberes Intervall). Um dies zu plotten, müssen die tatsächlichen Werte manuell gegen die Prognosewerte (fit) aufgetragen werden."
+"wahr oder falsch:<br />
+Mit dem Befehl <code>predict(lm(y ~ x), newdata = data.frame(x = c(2, 4, 6)), interval = ""confidence"")</code> erhält man für die Werte \(x = 2, 4, 6\) jeweils die Konfidenzintervalle der Vorhersagen. (R)"	"wahr:<br />
+Mit <code>interval = ""confidence""</code> berechnet <code>predict()</code> die Konfidenzintervalle der vorhergesagten Werte für die angegebenen x-Werte."
+"wahr oder falsch:<br />
+Wenn man in einem linearen Regressionsmodell in R die Residuen darstellen möchte, kann der Befehl <code>plot(lm(y ~ x)$residuals)</code> verwendet werden. (R)"	"wahr:<br />
+Der Zugriff auf Residuen über <code>$residuals</code> ist korrekt, und <code>plot()</code> kann verwendet werden, um diese zu visualisieren."
+"wahr oder falsch:<br />
+Die Funktion <code>predict()</code> in R kann auch mit nicht-linearen Regressionsmodellen verwendet werden, sofern sie mit <code>nls()</code> erstellt wurden. (R)"	"wahr:<br />
+<code>predict()</code> unterstützt Modelle, die mit <code>nls()</code> erstellt wurden, solange das Modell korrekt spezifiziert ist."
+"wahr oder falsch:<br />
+Um die Annahmen eines linearen Regressionsmodells zu überprüfen, kann man in R den Befehl <code>plot(lm(y ~ x))</code> ausführen, um diagnostische Plots (z. B. Residuenplot, QQ-Plot) anzuzeigen. (R)"	"wahr:<br />
+Der Befehl <code>plot()</code> für ein lm-Objekt erstellt standardmäßig diagnostische Plots, einschließlich Residuenplots und QQ-Plots."
+"Frage:<br />
+Was ist ein lineares Regressionsmodell in R und wie wird es erstellt? (R)"	"Ein lineares Regressionsmodell in R beschreibt die Beziehung zwischen einer abhängigen Variable und einer oder mehreren unabhängigen Variablen. In R kann es mit der Funktion <code>lm()</code> erstellt werden.<br />
+Beispiel:<br />
+<code>model &lt;- lm(y ~ x + z, data = dataset)</code><br />
+Hier ist \(y\) die abhängige Variable, und \(x\) und \(z\) sind die unabhängigen Variablen. Das Modell wird anhand der Daten im Data-Frame <code>dataset</code> geschätzt."
+"Frage:<br />
+Was ist das Bestimmtheitsmaß \(R^{2}\) und wie wird es in R berechnet? (R)"	"<link href=""https://cdn.jsdelivr.net/npm/highlightjs-themes@1.0.0/arta.css"" rel=""stylesheet"">Das Bestimmtheitsmaß \(R^{2}\) gibt an, wie gut das Modell die Variabilität der abhängigen Variable erklärt. Es wird als Wert zwischen \(0\) und \(1\) angegeben. In R wird es mit der Funktion <code>summary()</code> berechnet, nachdem ein lineares Regressionsmodell mit <code>lm()</code> erstellt wurde.<br />
+Beispiel: </p>
+<pre><code class=""hljs""><span class=""hljs-title"">model</span> &lt;- lm(y ~ x, <span class=""hljs-class""><span class=""hljs-keyword"">data</span> = dataset) </span>
+<span class=""hljs-title"">summary</span>(model)
+</code></pre>
+<p>Der \(R^{2}\)-Wert befindet sich in der Ausgabe unter ""Multiple R-squared"". Ein höherer Wert bedeutet eine bessere Modellanpassung."
+"Frage:<br />
+Was ist ein Prognoseintervall und wie wird es in R berechnet? (R)"	"Ein Prognoseintervall gibt den Bereich an, in dem mit einer bestimmten Wahrscheinlichkeit (z. B. 95%) der wahre Wert einer zukünftigen Beobachtung liegt. Es wird in R mit der Funktion <code>predict()</code> berechnet.<br />
+Beispiel:<br />
+<code>pred &lt;- predict(model, newdata = new_data, interval = ""prediction"", level = 0.95)</code>"
+"Frage:<br />
+Wie wird eine lineare Regression in R auf ein Dataset angewendet und wie werden die Ergebnisse interpretiert? (R)"	"<link href=""https://cdn.jsdelivr.net/npm/highlightjs-themes@1.0.0/arta.css"" rel=""stylesheet""><p>Um eine lineare Regression auf ein Dataset anzuwenden, verwenden wir die Funktion <code>lm()</code>. Die Ergebnisse werden mit <code>summary()</code> angezeigt.<br />
+Beispiel: </p>
+<pre><code class=""hljs""><span class=""hljs-title"">model</span> &lt;- lm(y ~ x, <span class=""hljs-class""><span class=""hljs-keyword"">data</span> = dataset)`</span>
+<span class=""hljs-title"">summary</span>(model)
+</code></pre>"
+"Frage:<br />
+Was ist der Unterschied zwischen einem ""confidence interval"" und einem ""prediction interval"" in R? (R)"	"<link href=""https://cdn.jsdelivr.net/npm/highlightjs-themes@1.0.0/arta.css"" rel=""stylesheet""><p>Ein confidence interval gibt den Bereich an, in dem mit einer bestimmten Wahrscheinlichkeit der wahre Wert des Parameters (z. B. der Regressionskoeffizient) liegt.<br />
+Ein prediction interval gibt den Bereich an, in dem mit einer bestimmten Wahrscheinlichkeit der tatsächliche Wert einer neuen Beobachtung liegen wird.<br />
+In R wird das Intervall mit der Funktion <code>predict()</code> erzeugt.<br />
+Beispiel:</p>
+<pre><code class=""hljs""><span class=""hljs-meta""># Confidence Interval</span>
+pred_conf &lt;- predict(model, <span class=""hljs-keyword"">new</span><span class=""hljs-type"">data</span> = <span class=""hljs-keyword"">new</span><span class=""hljs-type"">_data</span>, interval = <span class=""hljs-string"">&quot;confidence&quot;</span>, level = <span class=""hljs-number"">0.95</span>)
+<span class=""hljs-meta""># Prediction Interval</span>
+pred_pred &lt;- predict(model, <span class=""hljs-keyword"">new</span><span class=""hljs-type"">data</span> = <span class=""hljs-keyword"">new</span><span class=""hljs-type"">_data</span>, interval = <span class=""hljs-string"">&quot;prediction&quot;</span>, level = <span class=""hljs-number"">0.95</span>)
+</code></pre>"
+"Frage:<br />
+Wie berechnet man in R den p-Wert für die lineare Regression? (R)"	"<link href=""https://cdn.jsdelivr.net/npm/highlightjs-themes@1.0.0/arta.css"" rel=""stylesheet""><p>Der p-Wert für die lineare Regression gibt an, ob die unabhängige Variable signifikant zur Erklärung der abhängigen Variable beiträgt. Er wird im Ergebnis des <code>summary()</code>-Befehls angezeigt.<br />
+Beispiel:</p>
+<pre><code class=""hljs""><span class=""hljs-title"">model</span> &lt;- lm(y ~ x, <span class=""hljs-class""><span class=""hljs-keyword"">data</span> = dataset)</span>
+<span class=""hljs-title"">summary</span>(model)
+</code></pre>"
+"Frage:<br />
+Wie erstellt man in R ein QQ-Plot für die Residuen eines Modells? (R)"	"<link href=""https://cdn.jsdelivr.net/npm/highlightjs-themes@1.0.0/arta.css"" rel=""stylesheet""><p>Um ein QQ-Plot für die Residuen eines linearen Regressionsmodells zu erstellen, kann man die Funktion <code>qqnorm()</code> zusammen mit <code>qqline()</code> verwenden:<br />
+Beispiel:</p>
+<pre><code class=""hljs"">model &lt;- <span class=""hljs-built_in"">lm</span>(y ~ x, data = dataset)
+<span class=""hljs-function""><span class=""hljs-title"">qqnorm</span><span class=""hljs-params"">(residuals(model)</span></span>)
+<span class=""hljs-function""><span class=""hljs-title"">qqline</span><span class=""hljs-params"">(residuals(model)</span></span>)
+</code></pre>"
+"Frage:<br />
+Was ist die Funktion <code>cor.test()</code> in R und wie wird sie verwendet? (R)"	"Die Funktion <code>cor.test()</code> in R wird verwendet, um den Korrelationskoeffizienten zwischen zwei Variablen zu berechnen und einen Hypothesentest zur Signifikanz der Korrelation durchzuführen.<br />
+Beispiel:<br />
+<code>cor.test(x, y)</code><br />
+Es liefert den Korrelationskoeffizienten sowie den p-Wert und ein Konfidenzintervall für die Korrelation."
+"wahr oder falsch:<br />
+Das 5%-Quantil der Standardnormalverteilung kann in R mit dem Befehl <code>qnorm(0.95)</code> berechnet werden."	"wahr:<br />
+Der Befehl <code>qnorm(0.95)</code> berechnet das 95 %-Quantil der Standardnormalverteilung, was dem 5 %-Quantil der unteren Verteilung entspricht, da \(1 - 0.05 = 0.95\)."
+"wahr oder falsch:<br />
+Das 5%-Quantil der \(R(0, 1)\) Verteilung kann in R mit der Funktion <code>punif(0.05)</code> bestimmt werden."	"falsch:<br />
+Die Funktion <code>punif()</code> berechnet den kumulierten Wahrscheinlichkeitswert (die Verteilungsfunktion) einer Uniformverteilung. Um das Quantil zu berechnen, muss die Funktion <code>qnorm()</code> oder <code>qunif()</code> verwendet werden."
+"wahr oder falsch:<br />
+Das 5%-Quantil der Standardnormalverteilung kann in R mit dem Befehl <code>pnorm(0.05)</code> berechnet werden."	"falsch:<br />
+Der Befehl <code>pnorm(0.05)</code> berechnet den kumulierten Wahrscheinlichkeitswert der Standardnormalverteilung an der Stelle 0.05, nicht das 5%-Quantil. Das richtige Kommando lautet <code>qnorm(0.05)</code>."
+"wahr oder falsch:<br />
+Es sei \(x\) ein Datenvektor in \(\mathbb{R}\) zu einem Datensatz, auf den der \(t\)-Test mit der Hypothese \(\mu = 0\) angewendet werden muss. Den \(p\)-value des \(t\)-Tests erhält man dann mit dem R-Befehl <code>summary(t.test(x))$p.value</code>."	"falsch:<br />
+Der korrekte Befehl zur Ermittlung des \(p\)-Werts ist <code>t.test(x)$p.value</code>. Der <code>summary</code>-Befehl ist hier nicht notwendig."
+"wahr oder falsch:<br />
+Gegeben seien zwei R-Datensätze \(x\) und \(y\) jeweils ohne Bindungen. Der R-Aufruf <code>wilcox.test(x, y)$statistic</code> ergibt als Teststatistik die Summe der Ränge in der ersten Stichprobe."	"wahr:<br />
+Der Befehl <code>wilcox.test</code> gibt die Teststatistik als Summe der Ränge in der ersten Stichprobe aus, da dies der Definition des Wilcoxon-Rangsummentests entspricht."
+"wahr oder falsch:<br />
+Der Ausdruck:<br />
+`lm(y~x, data=data.frame(x=c(0,1), y=c(0,2)))\(coefficients`
+ergibt als Ausgabe den Vektor $c(0,2)\)."	"wahr:<br />
+Bei einer linearen Regression mit den gegebenen Datenpunkten ist der Schnittpunkt 0 und die Steigung 2, sodass die Koeffizienten korrekt als \(c(0, 2)\) ausgegeben werden."
+"wahr oder falsch:<br />
+Die Durchführung einer Regression mit Indikatorvariablen ist mit R nicht möglich."	"falsch:<br />
+R unterstützt Regressionen mit Indikatorvariablen vollständig. Diese können über <code>factor()</code> oder manuelles Erstellen von Dummy-Variablen eingebunden werden."
+"wahr oder falsch:<br />
+Mit dem R-Befehl <code>t.test</code> können Zweistichprobenprobleme nur dann behandelt werden, wenn die Modellvarianzen der beiden Stichproben übereinstimmen."	"wahr:<br />
+Der R-Befehl <code>t.test</code> kann sowohl den Fall gleicher Varianzen (Varianzannahme) als auch ungleicher Varianzen (Welch-Test) behandeln, je nach Einstellung des Arguments <code>var.equal</code>."
+"wahr oder falsch:<br />
+Mit der Funktion <code>qgeom(p, prob)</code> kann man Quantile der geometrischen Verteilung berechnen. (R)"	wahr
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus einer geometrischen Verteilung zu generieren? (R)"	<code>rgeom(n, prob)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Exponentialverteilung zu berechnen? (R)"	<code>dexp(x, rate)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Exponentialverteilung zu berechnen? (R)"	<code>pexp(q, rate)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um das Quantil der Exponentialverteilung zu berechnen? (R)"	<code>qexp(p, rate)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Exponentialverteilung zu generieren? (R)"	<code>rexp(n, rate)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Poissonverteilung zu berechnen? (R)"	<code>dpois(x, lambda)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Poissonverteilung zu berechnen? (R)"	<code>ppois(q, lambda)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um das Quantil der Poissonverteilung zu berechnen? (R)"	<code>qpois(p, lambda)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Poissonverteilung zu generieren? (R)"	<code>rpois(n, lambda)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Paretoverteilung zu berechnen? (R)"	<code>dpareto(x, shape, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Paretoverteilung zu berechnen? (R)"	<code>ppareto(q, shape, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um das Quantil der Paretoverteilung zu berechnen? (R)"	<code>qpareto(p, shape, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Paretoverteilung zu generieren? (R)"	<code>rpareto(n, shape, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Negativbinomialverteilung zu berechnen? (R)"	<code>dnbinom(x, size, prob)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Negativbinomialverteilung zu berechnen? (R)"	<code>pnbinom(q, size, prob)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Quantile der Negativbinomialverteilung zu berechnen? (R)"	<code>qnbinom(p, size, prob)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Negativbinomialverteilung zu generieren? (R)"	<code>rnbinom(n, size, prob)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Gammaverteilung zu berechnen? (R)"	<code>dgamma(x, shape, rate)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Gammaverteilung zu berechnen? (R)"	<code>pgamma(q, shape, rate)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Quantile der Gammaverteilung zu berechnen? (R)"	<code>qgamma(p, shape, rate)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Gammaverteilung zu generieren? (R)"	<code>rgamma(n, shape, rate)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der hypergeometrischen Verteilung zu berechnen? (R)"	<code>dhyper(x, m, n, k)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Quantile der hypergeometrischen Verteilung zu berechnen? (R)"	<code>qhyper(p, m, n, k)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der hypergeometrischen Verteilung zu generieren? (R)"	<code>rhyper(n, m, n, k)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Weibullverteilung zu berechnen? (R)"	<code>dweibull(x, shape, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Weibullverteilung zu berechnen? (R)"	<code>pweibull(q, shape, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Quantile der Weibullverteilung zu berechnen? (R)"	<code>qweibull(p, shape, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Weibullverteilung zu generieren? (R)"	<code>rweibull(n, shape, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Normalverteilung zu berechnen? (R)"	<code>dnorm(x, mean, sd)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Normalverteilung zu berechnen? (R)"	<code>pnorm(q, mean, sd)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Quantile der Normalverteilung zu berechnen? (R)"	<code>qnorm(p, mean, sd)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Normalverteilung zu generieren? (R)"	<code>rnorm(n, mean, sd)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Lognormalverteilung zu berechnen? (R)"	<code>dlnorm(x, meanlog, sdlog)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Lognormalverteilung zu berechnen? (R)"	<code>plnorm(q, meanlog, sdlog)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Quantile der Lognormalverteilung zu berechnen? (R)"	<code>qlnorm(p, meanlog, sdlog)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Lognormalverteilung zu generieren? (R)"	<code>rlnorm(n, meanlog, sdlog)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Chi-Quadrat-Verteilung zu berechnen? (R)"	<code>dchisq(x, df)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Chi-Quadrat-Verteilung zu berechnen? (R)"	<code>pchisq(q, df)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um das Quantil der Chi-Quadrat-Verteilung zu berechnen? (R)"	<code>qchisq(p, df)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus einer Chi-Quadrat-Verteilung zu generieren? (R)"	<code>rchisq(n, df)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Betaverteilung zu berechnen? (R)"	<code>dbeta(x, shape1, shape2)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Betaverteilung zu berechnen? (R)"	<code>pbeta(q, shape1, shape2)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um das Quantil der Betaverteilung zu berechnen? (R)"	<code>qbeta(p, shape1, shape2)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus einer Betaverteilung zu generieren? (R)"	<code>rbeta(n, shape1, shape2)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der t-Verteilung zu berechnen? (R)"	<code>dt(x, df)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der t-Verteilung zu berechnen? (R)"	<code>pt(q, df)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um das Quantil der t-Verteilung zu berechnen? (R)"	<code>qt(p, df)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus einer t-Verteilung zu generieren? (R)"	<code>rt(n, df)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Doppelexponential verteilung zu berechnen? (R)"	<code>ddexp(x, location, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Doppelexponentialverteilung zu berechnen? (R)"	<code>pdexp(q, location, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Quantile der Doppelexponentialverteilung zu berechnen? (R)"	<code>qdexp(p, location, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Doppelexponentialverteilung zu generieren? (R)"	<code>rdexp(n, location, scale)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Dichte der Binomialverteilung zu berechnen? (R)"	<code>dbinom(x, size, prob)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der Binomialverteilung zu berechnen? (R)"	<code>pbinom(q, size, prob)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Quantile der Binomialverteilung zu berechnen? (R)"	<code>qbinom(p, size, prob)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um Zufallszahlen aus der Binomialverteilung zu generieren? (R)"	<code>rbinom(n, size, prob)</code>
+"wahr oder falsch:<br />
+Der Zugriff auf Elemente einer Liste in R mit <code>bspliste[[1]]</code> gibt das gesamte Element als Liste zurück. (R)"	"falsch:<br />
+Es gibt nur den Wert des Elements zurück."
+"wahr oder falsch:<br />
+Die Funktion <code>factorial(1:5)</code> in R gibt die Fakultät für jedes Element des Vektors 1 bis 5 zurück. (R)"	wahr
+"wahr oder falsch:<br />
+Die Funktion <code>Vectorize()</code> in R ermöglicht es, eine Funktion so zu ändern, dass sie auf Vektoren anwendbar wird. (R)"	wahr
+"Frage:<br />
+Was macht die Funktion <code>Vectorize()</code> in R? (R)"	Sie ermöglicht es einer Funktion, auf Vektoren angewendet zu werden, indem sie die Funktion vektorisiert.
+"Frage:<br />
+Welchen Unterschied gibt es zwischen <code>read.csv()</code> und <code>read.csv2()</code> in R? (R)"	<code>read.csv()</code> erwartet Dezimalpunkte und Kommas als Trennzeichen, während <code>read.csv2()</code> Dezimalkommas und Semikolons als Trennzeichen verwendet.
+"wahr oder falsch:<br />
+Die Funktion <code>setwd()</code> wird in R verwendet, um das Arbeitsverzeichnis zu ändern. (R)"	wahr
+"Frage:<br />
+Wie überprüft man in R das aktuelle Arbeitsverzeichnis? (R)"	mit der Funktion <code>getwd()</code>
+"wahr oder falsch:<br />
+Die Funktion <code>prod(1:n)</code> in R berechnet das Produkt der Zahlen von 1 bis n. (R)"	wahr
+"wahr oder falsch:<br />
+In R kann mit der Funktion <code>plot()</code> eine einfache Streudiagramm-Grafik erstellt werden. (R)"	wahr
+"Frage:<br />
+Welche Funktion wird in R verwendet, um eine einfache Histogramm-Grafik zu erstellen? (R)"	<code>hist()</code>
+"wahr oder falsch:<br />
+Die Funktion <code>pie()</code> wird verwendet, um ein Kreisdiagramm (Tortendiagramm) zu erstellen. (R)"	wahr
+"Frage:<br />
+Wie erstellt man in R ein Balkendiagramm, das die Häufigkeit von Werten in einer kategorischen Variablen anzeigt? (R)"	mit <code>barplot()</code> und der <code>table()</code>-Funktion
+"wahr oder falsch:<br />
+Die Funktion <code>boxplot()</code> in R zeigt die Verteilung von Daten durch eine Box-And-Whisker-Darstellung. (R)"	wahr
+"Frage:<br />
+Was wird mit der Funktion <code>qqnorm()</code> in R visualisiert? (R)"	ein Q-Q-Plot zur Überprüfung der Normalverteilung von Daten
+"wahr oder falsch:<br />
+Mit der Funktion <code>qqline()</code> wird eine Linie auf einem Q-Q-Plot in R gezeichnet, die die theoretische Normalverteilung darstellt. (R)"	wahr
+"Frage:<br />
+Wie zeigt man in R eine empirische Verteilungsfunktion (ECDF) grafisch an? (R)"	mit der Funktion <code>plot.ecdf()</code>
+"wahr oder falsch:<br />
+Die Funktion <code>plot()</code> in R kann auf verschiedenen Datentypen, wie zum Beispiel numerischen Vektoren oder Datenrahmen, angewendet werden. (R)"	wahr
+"Frage:<br />
+Welche Funktion in R ermöglicht es, eine Boxplot-Grafik horizontal darzustellen? (R)"	<code>boxplot()</code> mit dem Argument <code>horizontal = TRUE</code>
+"wahr oder falsch:<br />
+Die Funktion <code>summary()</code> in R gibt eine statistische Übersicht über einen Datensatz, ähnlich wie bei einem Boxplot. (R)"	wahr
+"Frage:<br />
+Welche Funktion in R gibt die Kovarianz einer Teilmenge eines Datensatzes aus? (R)"	<code>cov()</code>
+"wahr oder falsch:<br />
+Die Funktion <code>cor()</code> in R berechnet immer die Pearson-Korrelation. (R)"	"falsch:<br />
+Man kann auch die Spearman-Korrelation berechnen, indem man <code>method=""spear""</code> hinzufügt."
+"Frage:<br />
+Wie wird die Spearman-Korrelation in R berechnet? (R)"	"durch Hinzufügen des Parameters <code>method=""spear""</code> in der <code>cor()</code>-Funktion"
+"wahr oder falsch:<br />
+Die Funktion <code>dist()</code> in R berechnet die Cluster-Distanz und benötigt nur numerische Daten. (R)"	wahr
+"Frage:<br />
+Was ist das Ziel der Funktion <code>plot()</code> in R, wenn sie auf einem Datensatz angewendet wird? (R)"	erstellt eine Streumatrix, die die Beziehungen zwischen mehreren Variablen visualisiert
+"wahr oder falsch:<br />
+Die Funktion <code>hclust()</code> in R verwendet die hierarchische Clusteranalyse. (R)"	wahr
+"Frage:<br />
+Welche Methode wird häufig verwendet, um Cluster-Distanzen in R zu berechnen, bevor die hierarchische Clusteranalyse durchgeführt wird? (R)"	"<code>dist()</code> mit einem Distanzmaß wie ""manhattan"""
+"wahr oder falsch:<br />
+Die Funktion <code>hclust()</code> in R benötigt keine Eingabedaten in Form einer Distanzmatrix. (R)"	"falsch:<br />
+die Funktion benötigt eine Distanzmatrix, die mit <code>dist()</code> berechnet wird"
+"Frage:<br />
+Welches Distanzmaß wird bei der Funktion <code>dist()</code> standardmäßig verwendet? (R)"	euklidische Distanz
+"wahr oder falsch:<br />
+Die Funktion <code>dbinom(x, size, prob)</code> gibt die Wahrscheinlichkeit für eine Binomialverteilung zurück. (R)"	wahr
+"Frage:<br />
+Welche Funktion in R gibt die Dichte der Binomialverteilung zurück? (R)"	<code>dbinom(x, size, prob)</code>
+"wahr oder falsch:<br />
+Die Funktion <code>pbinom(q, size, prob)</code> gibt die Verteilungsfunktion der Binomialverteilung zurück. (R)"	wahr
+"Frage:<br />
+Welche R-Funktion berechnet die Quantile der Binomialverteilung? (R)"	<code>qbinom(p, size, prob)</code>
+"wahr oder falsch:<br />
+Die Funktion <code>rbinom(n, size, prob)</code> wird verwendet, um Zufallszahlen aus einer Binomialverteilung zu erzeugen. (R)"	wahr
+"wahr oder falsch:<br />
+Die Funktion <code>dunif(x, min, max)</code> gibt die Dichte der Rechteckverteilung zurück. (R)"	wahr
+"Frage:<br />
+Welche R-Funktion gibt die Verteilungsfunktion der Rechteckverteilung zurück? (R)"	<code>punif(q, min, max)</code>
+"wahr oder falsch:<br />
+Die Funktion <code>qunif(p, min, max)</code> berechnet die Quantile der Rechteckverteilung. (R)"	wahr
+"Frage:<br />
+Welche Funktion wird in R verwendet, um Zufallszahlen aus einer Rechteckverteilung zu erzeugen? (R)"	<code>runif(n, min, max)</code>
+"wahr oder falsch:<br />
+Die Funktion <code>dgeom(x, prob)</code> gibt die Dichte der geometrischen Verteilung zurück. (R)"	wahr
+"Frage:<br />
+Welche R-Funktion berechnet die Verteilungsfunktion der geometrischen Verteilung? (R)"	<code>pgeom(q, prob)</code>
+"Frage:<br />
+Welche Funktion in R wird verwendet, um die Verteilungsfunktion der hypergeometrischen Verteilung zu berechnen? (R)"	<code>phyper(q, m, n, k)</code>
+"Frage:<br />
+Welche Funktion in R gibt die Indizes der sortierten Reihenfolge eines Vektors zurück? (R)"	<code>order()</code>
+"Frage:<br />
+Welche Funktion in R ist am besten geeignet, um die Reihenfolge der Elemente zu ermitteln, ohne den Vektor direkt zu sortieren? (R)"	<code>order()</code>
+"Frage:<br />
+Welche Funktion in R sortiert einen Vektor und gibt die Werte in aufsteigender Reihenfolge zurück? (R)"	<code>sort()</code>
+"Frage:<br />
+Wie wird eine Variable ein Wert in R zugeordnet? (R)"	<code>x = 4</code>
+"Frage:<br />
+Wie wird eine Zuordnung zu einer Variable in R entfernt? (R)"	<code>rm(x)</code>
+"Frage:<br />
+Wie wird Fakultät (\(!5\)) in R programmiert? (R)"	<code>factorial(5)</code>
+"Frage:<br />
+Wie wird Kombinatorik (\(\binom{n}{k}\)) in R programmiert? (R)"	<code>choose(n,k)</code>
+"Frage:<br />
+Was passiert, wenn man <code>rep(5, 10)</code> in R ausführt? (R)"	Es wird der Wert 5 zehnmal wiederholt, sodass ein Vektor mit zehn 5er-Werten entsteht: <code>c(5, 5, 5, 5, 5, 5, 5, 5, 5, 5)</code>
+"Frage:<br />
+Was erzeugt <code>rep(4:6, 1:3)</code> in R? (R)"	"Es wird eine Wiederholung der Werte 4, 5 und 6 erzeugt, wobei 4 einmal, 5 zweimal und 6 dreimal wiederholt wird:<br />
+<code>c(4, 5, 5, 6, 6, 6)</code>"
+"Frage:<br />
+Was passiert bei der Ausführung von <code>rep(4:6, each = 3)</code> in R? (R)"	Es wird jeder Wert von 4, 5 und 6 dreimal wiederholt, sodass der Vektor <code>c(4, 4, 4, 5, 5, 5, 6, 6, 6)</code> entsteht.
+"Frage:<br />
+Was gibt <code>seq(1, 4, by = 0.25)</code> in R zurück? (R)"	"Es erzeugt eine Sequenz von Zahlen von 1 bis 4 mit einer Schrittgröße von 0.25:<br />
+<code>c(1, 1.25, 1.5, 1.75, 2, 2.25, 2.5, 2.75, 3, 3.25, 3.5, 3.75, 4)</code>"
+"Frage:<br />
+Was erzeugt <code>seq(1, -2, by = -0.25)</code> in R? (R)"	"Es erstellt eine absteigende Sequenz von 1 bis -2 mit einer Schrittgröße von -0.25:<br />
+<code>c(1, 0.75, 0.5, 0.25, 0, -0.25, -0.5, -0.75, -1, -1.25, -1.5, -1.75, -2)</code>"
+"Frage:<br />
+Was gibt <code>seq(1, 3, by = 0.66)</code> in R zurück? (R)"	"Es erzeugt eine Sequenz von Zahlen von 1 bis 3 mit einer Schrittgröße von 0.66:<br />
+<code>c(1, 1.66, 2.32)</code>"
+"Frage:<br />
+Was macht <code>seq(10, 20, length = 100)</code> in R? (R)"	Es erzeugt eine Sequenz von 100 gleichmäßig verteilten Werten zwischen 10 und 20.
+"Frage:<br />
+Was gibt <code>c(1, c(2, 3))</code> in R zurück? (R)"	"Es erstellt einen Vektor, der die Werte 1, 2 und 3 enthält:<br />
+<code>c(1, 2, 3)</code>"
+"Frage:<br />
+Was gibt <code>7:12</code> in R zurück? (R)"	"Es erzeugt eine Sequenz von Ganzzahlen von 7 bis 12:<br />
+<code>c(7, 8, 9, 10, 11, 12)</code>"
+"Frage:<br />
+Was passiert, wenn man <code>c(TRUE, 4L, 5.3, ""MS"")</code> in R verwendet? (R)"	"Es erstellt einen Vektor mit gemischten Datentypen:<br />
+<code>c(""TRUE"", ""4"", ""5.3"", ""MS"")</code>, da R alle Elemente in einen gemeinsamen Typ konvertiert (hier in Zeichenketten)"
+"Frage:<br />
+Was passiert bei der Ausführung von <code>c(TRUE, 4L, 5.3)</code> in R? (R)"	"Es erstellt einen Vektor mit gemischten Datentypen:<br />
+<code>c(""TRUE"", ""4"", ""5.3"")</code>, da R alle Elemente in Zeichenketten konvertiert"
+"wahr oder falsch:<br />
+Die Funktion <code>*</code> in R multipliziert zwei Vektoren komponentenweise. (R)"	wahr
+"Frage:<br />
+Was passiert, wenn man zwei Vektoren in R mit <code>*</code> multipliziert? (R)"	sie werden komponentenweise multipliziert
+"wahr oder falsch:<br />
+Der Operator <code>%*%</code> in R wird verwendet, um zwei Vektoren komponentenweise zu multiplizieren. (R)"	falsch
+"Frage:<br />
+Wofür wird der Operator <code>%*%</code> in R verwendet? (R)"	Er wird verwendet, um das Skalarprodukt von zwei Vektoren zu berechnen.
+"wahr oder falsch:<br />
+Die Funktion <code>sort()</code> in R sortiert die Elemente eines Vektors in aufsteigender Reihenfolge. (R)"	wahr
+"Frage:<br />
+Was macht die Funktion <code>sort()</code> in R? (R)"	Sie sortiert die Elemente eines Vektors in aufsteigender Reihenfolge.
+"wahr oder falsch:<br />
+Die Funktion <code>order()</code> gibt in R die sortierten Werte eines Vektors zurück. (R)"	falsch
+"Frage:<br />
+Was gibt die Funktion <code>order()</code> in R zurück? (R)"	Sie gibt die Positionen der Werte im ursprünglichen Vektor zurück, die eine Sortierung benötigen.
+"wahr oder falsch:<br />
+Die Funktion <code>rank()</code> in R gibt die sortierten Positionen eines Vektors zurück. (R)"	wahr
+"Frage:<br />
+Was macht die Funktion <code>rank()</code> in R? (R)"	Sie gibt die Positionen der Werte im sortierten Vektor zurück.
+"wahr oder falsch:<br />
+Mit der Funktion <code>rev()</code> in R kann man einen Vektor umkehren. (R)"	wahr
+"Frage:<br />
+Was bewirkt die Funktion <code>rev()</code> in R? (R)"	Sie kehrt die Reihenfolge der Elemente eines Vektors um.
+"wahr oder falsch:<br />
+Die Funktion <code>duplicated()</code> in R zeigt die doppelten Elemente eines Vektors an. (R)"	wahr
+"Frage:<br />
+Was zeigt die Funktion <code>duplicated()</code> in R an? (R)"	sie zeigt an, welche Elemente im Vektor doppelt vorkommen
+"wahr oder falsch:<br />
+Die Funktion <code>unique()</code> in R entfernt doppelte Elemente aus einem Vektor. (R)"	wahr
+"Frage:<br />
+Was macht die Funktion <code>unique()</code> in R? (R)"	sie entfernt alle doppelten Elemente aus einem Vektor
+"wahr oder falsch:<br />
+Mit <code>prod()</code> in R wird die Summe der Werte eines Vektors berechnet. (R)"	falsch
+"Frage:<br />
+Was berechnet die Funktion <code>prod()</code> in R? (R)"	sie berechnet das Gesamtprodukt der Werte eines Vektors
+"wahr oder falsch:<br />
+Die Funktion <code>diff()</code> in R berechnet die Differenzen zwischen den aufeinanderfolgenden Werten eines Vektors. (R)"	wahr
+"Frage:<br />
+Was macht die Funktion <code>diff()</code> in R? (R)"	sie berechnet die Differenzen zwischen den aufeinanderfolgenden Werten eines Vektors
+"wahr oder falsch:<br />
+Mit der Funktion <code>sum()</code> in R wird das kumulierte Produkt eines Vektors berechnet. (R)"	falsch
+"Frage:<br />
+Was berechnet die Funktion <code>sum()</code> in R? (R)"	sie berechnet die Summe aller Werte eines Vektors
+"wahr oder falsch:<br />
+Die Funktion <code>cumsum()</code> in R berechnet die kumulierte Summe eines Vektors. (R)"	wahr
+"Frage:<br />
+Was macht die Funktion <code>cumsum()</code> in R? (R)"	sie berechnet die kumulierte Summe eines Vektors
+"wahr oder falsch:<br />
+Mit der Funktion <code>which()</code> in R kann man die Positionen der TRUE-Werte in einem logischen Vektor finden. (R)"	wahr
+"Frage:<br />
+Was macht die Funktion <code>which()</code> in R? (R)"	sie gibt die Indizes der TRUE-Werte in einem logischen Vektor zurück
+"wahr oder falsch:<br />
+Die Funktion <code>is.na()</code> in R prüft, ob ein Vektor NA-Werte enthält. (R)"	wahr
+"Frage:<br />
+Was prüft die Funktion <code>is.na()</code> in R? (R)"	sie prüft, ob ein Vektor NA-Werte enthält
+"wahr oder falsch:<br />
+Mit der Funktion <code>anyNA()</code> in R kann geprüft werden, ob ein Vektor überhaupt NA-Werte enthält. (R)"	wahr
+"Frage:<br />
+Was prüft die Funktion <code>anyNA()</code> in R? (R)"	sie prüft, ob ein Vektor irgendeinen NA-Wert enthält
+"wahr oder falsch:<br />
+<code>sum(datarandom, na.rm = TRUE)</code> entfernt alle NA-Werte aus dem Datensatz. (R)"	wahr
+"Frage:<br />
+Wie entfernt man in R NA-Werte aus einer Berechnung wie <code>sum(datarandom)</code>? (R)"	durch die Option <code>na.rm = TRUE</code> in einer Funktion
+"wahr oder falsch:<br />
+<code>sd(datarandom)</code> berechnet die Standardabweichung des Datensatzes datarandom. (R)"	wahr
+"Frage:<br />
+Was gibt die Funktion <code>sd(datarandom)</code> in R zurück? (R)"	die Standardabweichung des Datensatzes
+"wahr oder falsch:<br />
+<code>var(datarandom)</code> ist die Methode zur Berechnung der Varianz eines Datensatzes in R. (R)"	wahr
+"Frage:<br />
+Wie berechnet man die Varianz eines Datensatzes datarandom in R? (R)"	mit der Funktion <code>var(datarandom)</code>
+"wahr oder falsch:<br />
+<code>data14 &lt;- table(datarandom)</code> erstellt eine Häufigkeitstabelle für den Datensatz datarandom. (R)"	wahr
+"Frage:<br />
+Wie erstellt man in R eine Häufigkeitstabelle für einen Datensatz datarandom? (R)"	mit der Funktion <code>table(datarandom)</code>
+"wahr oder falsch:<br />
+<code>min(datarandom)</code> gibt das kleinste Element des Datensatzes zurück. (R)"	wahr
+"Frage:<br />
+Was gibt die Funktion <code>min(datarandom)</code> in R an? (R)"	das kleinste Element des Datensatzes
+"wahr oder falsch:<br />
+<code>max(datarandom)</code> gibt den größten Wert im Datensatz datarandom zurück. (R)"	wahr
+"Frage:<br />
+Was stellt die Funktion <code>max(datarandom)</code> in R dar? (R)"	den größten Wert im Datensatz
+"wahr oder falsch:<br />
+<code>range(datarandom)</code> liefert sowohl das kleinste als auch das größte Element des Datensatzes zurück. (R)"	wahr
+"Frage:<br />
+Was zeigt die Funktion <code>range(datarandom)</code> in R an? (R)"	die Spanne, das kleinste und größte Element des Datensatzes
+"wahr oder falsch:<br />
+<code>median(datarandom)</code> berechnet das arithmetische Mittel des Datensatzes datarandom. (R)"	falsch
+"Frage:<br />
+Was berechnet die Funktion <code>median(datarandom)</code> in R? (R)"	die Median-Wert des Datensatzes
+"wahr oder falsch:<br />
+<code>mean(datarandom)</code> berechnet das arithmetische Mittel des Datensatzes datarandom. (R)"	wahr
+"Frage:<br />
+Was gibt die Funktion <code>mean(datarandom)</code> in R zurück? (R)"	das arithmetische Mittel des Datensatzes
+"wahr oder falsch:<br />
+Die Funktion <code>union(a, b)</code> gibt die Schnittmenge der Vektoren a und b zurück. (R)"	falsch
+"wahr oder falsch:<br />
+<code>intersect(a, b)</code> gibt die Elemente zurück, die sowohl in a als auch in b enthalten sind. (R)"	wahr
+"wahr oder falsch:<br />
+Die Funktion <code>setdiff(a, b)</code> liefert die Elemente, die in a, aber nicht in b enthalten sind. (R)"	wahr
+"wahr oder falsch:<br />
+<code>setequal(a, b)</code> prüft, ob die Vektoren a und b genau gleich sind. (R)"	wahr
+"wahr oder falsch:<br />
+<code>is.element(a, b)</code> prüft, ob jedes Element von a in b vorhanden ist und gibt TRUE oder FALSE zurück. (R)"	wahr
+"Frage:<br />
+Was wird durch <code>b[2]</code> in R ausgegeben? (R)"	das zweite Element von Vektor <code>b</code>
+"Frage:<br />
+Wie können mehrere spezifische Elemente eines Vektors in R ausgewählt werden, z. B. die 2. und 4. Stelle von einem Vektor <code>b</code>? (R)"	durch <code>b[c(2, 4)]</code>, um die 2. und 4. Stelle von <code>b</code> zu wählen
+"Frage:<br />
+Was bewirkt <code>b[-2]</code> in R? (R)"	es gibt den Vektor <code>b</code> ohne das zweite Element zurück
+"Frage:<br />
+Was passiert, wenn <code>b[-c(2, 4)]</code> in R ausgeführt wird? (R)"	es gibt den Vektor <code>b</code> ohne die Elemente an den Stellen 2 und 4 zurück
+"Frage:<br />
+Wie kann man in R nur die Elemente auswählen, die den Wert TRUE haben? (R)"	durch <code>b[c(TRUE, FALSE, FALSE, FALSE, TRUE)]</code>, um nur die TRUE-Elemente zu behalten
+"wahr oder falsch:<br />
+In R kehrt <code>!c(TRUE)</code> die Werte TRUE und FALSE um, sodass es FALSE zurückgibt. (R)"	falsch
+"wahr oder falsch:<br />
+Das Matrixprodukt kann mit dem <code>%*%</code> Operator in R durchgeführt werden. (R)"	wahr
+"wahr oder falsch:<br />
+Der Befehl <code>rowMeans(matrix1)</code> berechnet das arithmetische Mittel der Spalten einer Matrix in R. (R)"	falsch
+"Frage:<br />
+Was gibt der Befehl <code>ncol(matrix1)</code> in R zurück? (R)"	Die Anzahl der Spalten der Matrix <code>matrix1</code>.
+"wahr oder falsch:<br />
+Die Funktion <code>t(matrix1)</code> berechnet die transponierte Matrix von <code>matrix1</code>. (R)"	wahr
+"Frage:<br />
+Wie wird in R eine Matrix über die Reihen gebildet? (R)"	Mit dem Befehl <code>rbind()</code> werden Reihen zu einer Matrix hinzugefügt.
+"wahr oder falsch:<br />
+Die Funktion <code>eigen(matrixquadrat)</code> berechnet die Eigenwerte einer Matrix. (R)"	wahr
+"Frage:<br />
+Welche Funktion gibt die Dimensionen einer Matrix in R zurück? (R)"	<code>dim(matrix1)</code>
+"wahr oder falsch:<br />
+Der Befehl <code>diag(matrixquadrat)</code> gibt die Diagonale der Matrix matrixquadrat zurück. (R)"	wahr
+"Frage:<br />
+Was macht der Befehl <code>svd(matrixquadrat)</code> in R? (R)"	Er führt eine singuläre Wertzerlegung (SVD) der Matrix durch.
+"wahr oder falsch:<br />
+Mit <code>rowSums(matrix1)</code> berechnet man die Summe der Zeilen einer Matrix. (R)"	wahr
+"Frage:<br />
+Welche Funktion in R berechnet das arithmetische Mittel der Spalten einer Matrix? (R)"	<code>colMeans(matrix1)</code>
+"wahr oder falsch:<br />
+Die Funktion <code>det(matrixquadrat)</code> berechnet die Determinante einer Matrix. (R)"	wahr
+"Frage:<br />
+Wie erstellt man in R eine Einheitsmatrix mit 30 Zeilen und Spalten? (R)"	mit dem Befehl <code>diag(30)</code>
+"wahr oder falsch:<br />
+In R kann auf ein Element einer Liste durch die Indizierung mit <code>bspliste[1]</code> zugegriffen werden. (R)"	wahr
+"Frage:<br />
+Wie greift man in R auf das erste Element einer Liste zu? (R)"	mit <code>bspliste[[1]]</code>
+"wahr oder falsch:<br />
+In R kann auf das Element <code>elmt3</code> einer Liste durch den Ausdruck <code>bspliste[[""elmt3""]]</code> zugegriffen werden. (R)"	wahr
+"Frage:<br />
+Wie greift man in R auf das Element <code>elmt2</code> einer Liste mit dem Namen <code>bspliste</code> zu? (R)"	mit <code>bspliste$elmt2</code>
+"wahr oder falsch:<br />
+In R ist der Zugriff auf ein Listenelement mit <code>bspliste[[""elmt3""]]</code> der gleiche wie mit <code>bspliste$elmt3</code>. (R)"	wahr
+"Frage:<br />
+Welcher Zugriff musst verwendet werden, um auf das Element <code>elmt2</code> einer Liste mit dem Namen <code>bspliste</code> in R zuzugreifen? (R)"	"<code>bspliste$elmt2</code> oder <code>bspliste[[""elmt2""]]</code>"
+"Frage:<br />
+Wie fügt man eine neue Spalte zu einem bestehenden DataFrame hinzu? (R)"	data$new_column &lt;- c(1, 2, 3, 4)
+"Frage:<br />
+Welche Funktion verwendet man, um einen Vektor in R zu erstellen, der die Werte ""Apfel"", ""Banane"" und ""Kirsche"" enthält? (R)"	"fruits &lt;- c(""Apfel"", ""Banane"", ""Kirsche"")"
