@@ -37,7 +37,7 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 - **WI6**: Digital Business (WS 22/23) – Stockinger
 
 ## Nutzung
-1. Installiere [Anki](https://apps.ankiweb.net/) auf deinem Gerät
+1. Installiere [Anki](https://apps.ankiweb.net/#downloads) auf deinem Gerät oder nutze es im [Browser](https://ankiweb.net/about)
 2. Lade die benötigten `.apkg`-Datei(en) aus diesem Repository herunter
 3. Importiere die Decks über *Datei → Importieren* oder per Drag-and-Drop in Anki
 
